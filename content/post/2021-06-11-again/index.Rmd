@@ -1,8 +1,0 @@
----
-title: again
-author: ''
-date: '2021-06-11'
-slug: again
-categories: []
-tags: []
----

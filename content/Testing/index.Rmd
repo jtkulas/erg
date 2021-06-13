@@ -9,6 +9,26 @@ tags: []
 
 whaddup
 
-```{r echo=FALSE}
+```{r twitter, echo=FALSE}
 blogdown::shortcode('tweet', '1401123989339181057')
 ```
+
+:::: {style="display: flex;"}
+
+::: {}
+Here is the **first** Div.
+
+```{r}
+str(iris)
+```
+:::
+
+::: {}
+And this block will be put on the right:
+
+```{r}
+plot(iris[, -5])
+```
+:::
+
+::::

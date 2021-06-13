@@ -1,0 +1,15 @@
+---
+title: our team
+author: ''
+date: '2021-06-12'
+slug: our-team
+categories: []
+tags: [who, people]
+---
+
+```{r authors, echo=FALSE}
+
+authors <- read.csv("authors.csv")
+kableExtra::kable(authors, col.names=c("",""))
+
+```

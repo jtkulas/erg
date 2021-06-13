@@ -1,8 +1,0 @@
----
-title: yadda
-author: ''
-date: '2021-06-10'
-slug: yadda
-categories: []
-tags: []
----
