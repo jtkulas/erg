@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on erg home</title>
-    <link>https://infallible-booth-93f3f5.netlify.app/tags/</link>
+    <link>https://ergweb.netlify.app/tags/</link>
     <description>Recent content in Tags on erg home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infallible-booth-93f3f5.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergweb.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>people</title>
-      <link>https://infallible-booth-93f3f5.netlify.app/tags/people/</link>
+      <link>https://ergweb.netlify.app/tags/people/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://infallible-booth-93f3f5.netlify.app/tags/people/</guid>
+      <guid>https://ergweb.netlify.app/tags/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>who</title>
-      <link>https://infallible-booth-93f3f5.netlify.app/tags/who/</link>
+      <link>https://ergweb.netlify.app/tags/who/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://infallible-booth-93f3f5.netlify.app/tags/who/</guid>
+      <guid>https://ergweb.netlify.app/tags/who/</guid>
       <description></description>
     </item>
     
     <item>
       <title>location</title>
-      <link>https://infallible-booth-93f3f5.netlify.app/tags/location/</link>
+      <link>https://ergweb.netlify.app/tags/location/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://infallible-booth-93f3f5.netlify.app/tags/location/</guid>
+      <guid>https://ergweb.netlify.app/tags/location/</guid>
       <description></description>
     </item>
     

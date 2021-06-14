@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>who on erg home</title>
-    <link>https://infallible-booth-93f3f5.netlify.app/tags/who/</link>
+    <link>https://ergweb.netlify.app/tags/who/</link>
     <description>Recent content in who on erg home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infallible-booth-93f3f5.netlify.app/tags/who/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergweb.netlify.app/tags/who/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>our team</title>
-      <link>https://infallible-booth-93f3f5.netlify.app/our-team/</link>
+      <link>https://ergweb.netlify.app/our-team/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://infallible-booth-93f3f5.netlify.app/our-team/</guid>
+      <guid>https://ergweb.netlify.app/our-team/</guid>
       <description>da KulasbubbaSvenOle</description>
     </item>
     

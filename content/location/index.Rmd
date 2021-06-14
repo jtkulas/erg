@@ -37,7 +37,9 @@ hc_gdpr <- leaflet() %>%
 
 
 htmlwidgets::saveWidget(hc_gdpr, "hc_gdpr.html", selfcontained = TRUE, knitrOptions = list())
-hc_gdpr
+widgetframe::frameWidget(hc_gdpr) ## trying for online
+
+## hc_gdpr
 ## helpful(?) for interactive plots in GitPages sites:
 
 ## http://ryankuhn.net/blog/How-To-Use-Plotly-With-Jekyll
