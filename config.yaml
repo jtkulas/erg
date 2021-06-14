@@ -27,7 +27,7 @@ menu:
       url: /our-team/
       weight: 5
     - name: GitHub
-      url: https://github.com/jtkulas
+      url: https://github.com/jtkulas/erg
       weight: 6
     - name: product
       url: /product/

@@ -9,7 +9,7 @@ tags: [who, people]
 
 ```{r authors, echo=FALSE}
 
-authors <- read.csv("authors.csv")
+authors <- read.csv("authors2.csv")
 kableExtra::kable(authors, col.names=c("",""))
 
 ```
