@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on erg home</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on erg home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>people</title>
+      <link>/tags/people/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>who</title>
+      <link>/tags/who/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/who/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>location</title>
+      <link>/tags/location/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/location/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
