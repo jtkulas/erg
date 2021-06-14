@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>erg home</title>
-    <link>/</link>
+    <link>https://infallible-booth-93f3f5.netlify.app/</link>
     <description>Recent content on erg home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://infallible-booth-93f3f5.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Product</title>
-      <link>/product/</link>
+      <link>https://infallible-booth-93f3f5.netlify.app/product/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/product/</guid>
+      <guid>https://infallible-booth-93f3f5.netlify.app/product/</guid>
       <description>The primary erg product is an engagement survey. We are also working on an R package to capture online survey responses.
 …long term we will help organizations transition to full R-enabled workflows</description>
     </item>
     
     <item>
       <title>our team</title>
-      <link>/our-team/</link>
+      <link>https://infallible-booth-93f3f5.netlify.app/our-team/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/our-team/</guid>
+      <guid>https://infallible-booth-93f3f5.netlify.app/our-team/</guid>
       <description>da KulasbubbaSvenOle</description>
     </item>
     
     <item>
       <title>location</title>
-      <link>/location/</link>
+      <link>https://infallible-booth-93f3f5.netlify.app/location/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/location/</guid>
+      <guid>https://infallible-booth-93f3f5.netlify.app/location/</guid>
       <description>We’d ❤️ to hear from you!{&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;setView&#34;:[[44.9994895947124,-93.2464968137634],16,[]],&#34;calls&#34;:[{&#34;method&#34;:&#34;addTiles&#34;,&#34;args&#34;:[&#34;//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,null,null,{&#34;minZoom&#34;:0,&#34;maxZoom&#34;:18,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:1,&#34;detectRetina&#34;:false,&#34;attribution&#34;:&#34;&amp;copy; OpenStreetMap contributors, CC-BY-SA&#34;}]},{&#34;method&#34;:&#34;addPopups&#34;,&#34;args&#34;:[44.9994895947124,-93.2464968137634,&#34;erg HQ945 Broadway St NEMinneapolis, MN 55413&#34;,null,null,{&#34;maxWidth&#34;:300,&#34;minWidth&#34;:50,&#34;autoPan&#34;:true,&#34;keepInView&#34;:false,&#34;closeButton&#34;:false,&#34;className&#34;:&#34;&#34;}]}],&#34;limits&#34;:{&#34;lat&#34;:[44.9994895947124,44.9994895947124],&#34;lng&#34;:[-93.2464968137634,-93.2464968137634]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}erg:945 Broadway St NE
 Minneapolis, MN 55413
 kulasj@montclair.edu
@@ -40,10 +40,10 @@ kulasj@montclair.edu
     
     <item>
       <title>Testing</title>
-      <link>/testing/</link>
+      <link>https://infallible-booth-93f3f5.netlify.app/testing/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/testing/</guid>
+      <guid>https://infallible-booth-93f3f5.netlify.app/testing/</guid>
       <description>whaddup
 &amp;quot;A legend can conquer entire galaxies...and live on forever and ever.&amp;quot; #DarthVader #StarWars pic.twitter.com/hzkahmZDMN
 &amp;mdash; Darth Vader (@_LordOfTheSith) June 5, 2021  Here is the first Div.
@@ -52,10 +52,10 @@ str(iris)## &amp;#39;data.frame&amp;#39;: 150 obs. of 5 variables:## $ Sepal.L
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://infallible-booth-93f3f5.netlify.app/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://infallible-booth-93f3f5.netlify.app/about/</guid>
       <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
