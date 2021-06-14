@@ -5,7 +5,7 @@ date: '2021-06-11'
 slug: location
 categories: []
 htmlwidgets: TRUE
-tags: []
+tags: [location]
 ---
 
 # We'd `r emo::ji("heart")` to hear from you!
@@ -45,7 +45,7 @@ hc_gdpr
 ```
 
 ## erg:
-
-945 Broadway St NE  
+<span style="color: blue;">
+945 Broadway St NE</span>  
 Minneapolis, MN 55413  
 [kulasj@montclair.edu](mailto: kulasj@montclair.edu)

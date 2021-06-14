@@ -19,16 +19,19 @@ menu:
       weight: 1
     - name: testing
       url: /testing/
-      weight: 2
+      weight: 3
     - name: location
       url: /location/
-      weight: 3
+      weight: 4
     - name: our team
       url: /our-team/
-      weight: 4
+      weight: 5
     - name: GitHub
       url: https://github.com/jtkulas
-      weight: 5
+      weight: 6
+    - name: product
+      url: /product/
+      weight: 2
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5

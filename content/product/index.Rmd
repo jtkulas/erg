@@ -1,0 +1,14 @@
+---
+title: Product
+author: ''
+date: '2021-06-13'
+slug: product
+categories: []
+tags: []
+---
+
+The primary erg product is an [engagement survey](https://bookdown.org/kulasj/engagetech/). We are also working on an `R` package to capture online survey responses. 
+
+![](engage.PNG)
+
+...long term we will help organizations transition to full `R`-enabled workflows
