@@ -4,11 +4,41 @@ author: ''
 date: '2021-06-13'
 slug: product
 categories: []
-tags: []
+tags: [R]
 ---
 
-The primary erg product is an [engagement survey](https://bookdown.org/kulasj/engagetech/). We are also working on an `R` package to capture online survey responses. 
+The primary erg product is an [engagement survey](https://bookdown.org/kulasj/engagetech/). We are also working on an `icon::fa("r-project")` package to capture online survey responses. 
 
 ![](engage.PNG)
 
-...long term we will help organizations transition to full `R`-enabled workflows
+The engagement survey has norms representing most major U.S. metropolitan areas as well as four industrial groups 
+
+```{r norms, echo=FALSE, fig.cap="Engagement survey normative information"}
+
+## data duplicating norms frequencies (number of people in database)
+
+library(leaflet)
+library(maps)  ## us.cities data
+
+data(us.cities)
+
+us.cities$industry <- as.factor(sample(c("public", "private", "retail", "manufacturing"), size=1005, replace=TRUE))
+  
+pal <- colorFactor(
+  palette = 'PuBu',
+  domain = us.cities$industry
+)
+
+## create leaflet map
+leaflet() %>% 
+  addProviderTiles("CartoDB.Positron") %>% 
+  setView(-98.35, 39.7,
+          zoom = 4) %>%
+  addTiles() %>%
+  addCircles(data=us.cities, lng = ~long, lat = ~lat, weight = 1,
+             radius = ~sqrt(pop) * 100, popup = ~name, fillColor=~pal(industry)) %>%
+  addLegend("bottomright", data=us.cities, pal = pal, values = ~industry, opacity = 1)
+
+```
+
+...long term we will help organizations transition to full `icon::fa("r-project")`-enabled workflows
