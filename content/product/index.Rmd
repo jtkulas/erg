@@ -7,7 +7,7 @@ categories: []
 tags: [R]
 ---
 
-The primary erg product is an [engagement survey](https://bookdown.org/kulasj/engagetech/). We are also working on an `icon::fa("r-project")` package to capture online survey responses. 
+The primary erg product is an [engagement survey](https://bookdown.org/kulasj/engagetech/). We are also working on an `r icons::fontawesome("r-project")` package to capture online survey responses. 
 
 ![](engage.PNG)
 
@@ -25,7 +25,7 @@ data(us.cities)
 us.cities$industry <- as.factor(sample(c("public", "private", "retail", "manufacturing"), size=1005, replace=TRUE))
   
 pal <- colorFactor(
-  palette = 'PuBu',
+  palette = 'Spectral',
   domain = us.cities$industry
 )
 
@@ -41,4 +41,4 @@ leaflet() %>%
 
 ```
 
-...long term we will help organizations transition to full `icon::fa("r-project")`-enabled workflows
+...long term we will help organizations transition to full `r icons::fontawesome("r-project")`-enabled workflows
