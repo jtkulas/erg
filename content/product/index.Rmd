@@ -30,7 +30,7 @@ pal <- colorFactor(
 )
 
 ## create leaflet map
-leaflet() %>% 
+norms <- leaflet() %>% 
   addProviderTiles("CartoDB.Positron") %>% 
   setView(-98.35, 39.7,
           zoom = 4) %>%
@@ -38,6 +38,8 @@ leaflet() %>%
   addCircles(data=us.cities, lng = ~long, lat = ~lat, weight = 1,
              radius = ~sqrt(pop) * 200, popup = ~name, fillColor=~pal(industry)) %>%
   addLegend("bottomright", data=us.cities, pal = pal, values = ~industry, opacity = 1)
+
+widgetframe::frameWidget(norms)
 
 ```
 
