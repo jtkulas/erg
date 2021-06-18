@@ -8,12 +8,13 @@ tags: [R]
 ---
 
 The primary erg product is an [engagement survey](https://bookdown.org/kulasj/engagetech/). We are also working on an `r icons::fontawesome("r-project")` package to capture online survey responses. 
+## Engagement survey
 
 ![](engage.PNG)
 
 The engagement survey has norms representing most major U.S. metropolitan areas as well as four industrial groups 
 
-```{r Norms, echo=FALSE, fig.cap="Engagement survey normative information"}
+```{r Norms, echo=FALSE, warning=FALSE, fig.cap="Engagement survey normative information"}
 
 ## data duplicating norms frequencies (number of people in database)
 
@@ -43,6 +44,10 @@ widgetframe::frameWidget(norms)
 
 ```
 
+## `r icons::fontawesome("r-project")`-driven processes
+
 ...long term we will help organizations transition to full `r icons::fontawesome("r-project")`-enabled workflows 
+
+# {-}
 
 Testing cross-referencing here (see Figure \@ref(fig:Norms))

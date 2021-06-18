@@ -1,4 +1,4 @@
-baseurl: https://ergweb.netlify.app/
+baseurl: "https://ergweb.netlify.app/"
 languageCode: en-us
 title: erg home
 theme: hugo-lithium
@@ -11,7 +11,7 @@ ignoreFiles:
   - \.knit\.md$
   - \.utf8\.md$
 permalinks:
-  post: /:slug/
+  content: /:slug/
 menu:
   main:
     - name: about

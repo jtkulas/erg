@@ -5,7 +5,7 @@ date: '2021-06-13'
 slug: home
 ---
 
-```{r logo, echo=FALSE, out.width= "45%", out.extra='style="float:right; padding:10px"'}
+```{r logo1, echo=FALSE, out.width= "45%", out.extra='style="float:right; padding:10px"'}
 knitr::include_graphics("erg5.png")
 ```
 
@@ -15,4 +15,9 @@ We are a student-led consulting group within the Industrial/Organizational Psych
 
 ## What We Do  
 
+```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("erg5.png")
+```
+
 We are responsible for executing various projects. Our main project is developing an Engagement survey, which we wish to distribute to external organizations. We also run a [mentorship program](https://bookdown.org/kulasj/mentorship/) within the MSU I/O program, where we train most of the 2nd year graduate students to guide the new students into becoming successful students themselves. Additionally, we host a variety of events, such as new student orientation, networking opportunities, and casual hangouts. 
+

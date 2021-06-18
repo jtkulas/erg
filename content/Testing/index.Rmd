@@ -14,3 +14,6 @@ blogdown::shortcode('tweet', '1401123989339181057')
 ```
 
 (see Figure \@ref(fig:/product/Norms))
+
+\@ref(fig:Norms)
+
