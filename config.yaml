@@ -29,7 +29,7 @@ menu:
     - name: GitHub
       url: https://github.com/jtkulas/erg
       weight: 6
-    - name: product
+    - name: products
       url: /product/
       weight: 2
 params:
