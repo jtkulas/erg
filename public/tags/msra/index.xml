@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MSRA on erg home</title>
+    <link>https://ergweb.netlify.app/tags/msra/</link>
+    <description>Recent content in MSRA on erg home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergweb.netlify.app/tags/msra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>https://ergweb.netlify.app/testing/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ergweb.netlify.app/testing/</guid>
+      <description>whaddup
+&amp;quot;A legend can conquer entire galaxies...and live on forever and ever.&amp;quot; #DarthVader #StarWars pic.twitter.com/hzkahmZDMN
+&amp;mdash; Darth Vader (@_LordOfTheSith) June 5, 2021  MSRA Octane maps…couple of options last updated Sun Jun 20 14:14:39 2021:
+{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_unnamed-chunk-1.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}Second option:
+{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_unnamed-chunk-2.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+    </item>
+    
+  </channel>
+</rss>

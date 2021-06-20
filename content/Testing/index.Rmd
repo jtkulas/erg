@@ -4,7 +4,7 @@ author: ''
 date: '2021-06-11'
 slug: Testing
 categories: []
-tags: []
+tags: [MSRA]
 ---
 
 whaddup
@@ -13,7 +13,55 @@ whaddup
 blogdown::shortcode('tweet', '1401123989339181057')
 ```
 
-(see Figure \@ref(fig:/product/Norms))
+## MSRA Octane maps 
 
-\@ref(fig:Norms)
+...couple of options last updated `r date()`:
 
+```{r, echo=FALSE, warning=FALSE}
+library(leaflet)
+oct <- read.csv("octane.csv")
+
+# oct$octane <- as.factor(as.character(oct$octane))
+
+pal2 <- colorNumeric(
+  palette = "Spectral",
+  reverse = TRUE,
+  domain = oct$octane
+)
+
+## create leaflet map
+octmap <- leaflet() %>% 
+  addProviderTiles("CartoDB.Positron") %>% 
+  setView(-93.11389168, 45.08506268	,
+          zoom = 8) %>%
+  addTiles() %>%
+  addCircles(data=oct, lng = ~long, lat = ~lat, popup = ~address, weight=10, color=~pal2(octane), opacity=1) %>%
+  addLegend("bottomright", data=oct, pal = pal2, values = ~octane)
+
+widgetframe::frameWidget(octmap) ## trying for online
+
+```
+
+Second option:
+
+```{r echo=FALSE, warning=FALSE}
+
+oct$color[oct$octane == 91] <- "orange"
+oct$color[oct$octane == 93] <- "red"
+oct$color[oct$octane == 95] <- "darkred"
+
+icons <- awesomeIcons(icon = "car",
+                      iconColor = "black",
+                      library = "fa",
+                      markerColor = oct$color)
+
+octmap2 <- leaflet() %>%
+  addProviderTiles("CartoDB.Positron") %>% 
+  setView(-93.11389168, 45.08506268	,
+          zoom = 8) %>%
+  addTiles() %>%
+  addAwesomeMarkers(data = oct, lng = ~long, lat = ~lat, popup = ~address, icon = icons)
+
+widgetframe::frameWidget(octmap2) ## trying for online
+
+```
