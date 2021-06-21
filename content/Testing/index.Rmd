@@ -13,7 +13,7 @@ whaddup
 blogdown::shortcode('tweet', '1401123989339181057')
 ```
 
-## MSRA Octane maps 
+## MSRA non-oxigented petrol maps 
 
 ...couple of options last updated `r date()`:
 
@@ -46,13 +46,12 @@ Second option:
 
 ```{r echo=FALSE, warning=FALSE}
 
-oct$color[oct$octane == 91] <- "orange"
-oct$color[oct$octane == 93] <- "red"
+oct$color[oct$octane == 91] <- "yellow"
+oct$color[oct$octane == 93] <- "orange"
 oct$color[oct$octane == 95] <- "darkred"
 
-icons <- awesomeIcons(icon = "car",
+icons <- awesomeIcons(icon = "fire",
                       iconColor = "black",
-                      library = "fa",
                       markerColor = oct$color)
 
 octmap2 <- leaflet() %>%
