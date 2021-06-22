@@ -7,13 +7,7 @@ categories: []
 tags: [MSRA]
 ---
 
-whaddup
-
-```{r twitter, echo=FALSE}
-blogdown::shortcode('tweet', '1401123989339181057')
-```
-
-## MSRA non-oxigented petrol maps 
+# MSRA non-oxigented petrol maps 
 
 ...couple of options last updated `r date()`:
 
@@ -35,23 +29,23 @@ octmap <- leaflet() %>%
   setView(-93.11389168, 45.08506268	,
           zoom = 8) %>%
   addTiles() %>%
-  addCircles(data=oct, lng = ~long, lat = ~lat, popup = ~address, weight=10, color=~pal2(octane), opacity=1) %>%
+  addCircles(data=oct, lng = ~long, lat = ~lat, popup = ~address, weight=10, color=~pal2(octane), opacity=1, radius=10) %>%
   addLegend("bottomright", data=oct, pal = pal2, values = ~octane)
 
 widgetframe::frameWidget(octmap) ## trying for online
 
 ```
 
-Second option:
+Logos, images, icons and mapping (for example here, maximum octane rating) could change to whatever fairly easily:
 
 ```{r echo=FALSE, warning=FALSE}
 
-oct$color[oct$octane == 91] <- "yellow"
-oct$color[oct$octane == 93] <- "orange"
+oct$color[oct$octane == 91] <- "orange"
+oct$color[oct$octane == 93] <- "lightred"
 oct$color[oct$octane == 95] <- "darkred"
 
 icons <- awesomeIcons(icon = "fire",
-                      iconColor = "black",
+                      iconColor = "#000000",
                       markerColor = oct$color)
 
 octmap2 <- leaflet() %>%
@@ -59,7 +53,7 @@ octmap2 <- leaflet() %>%
   setView(-93.11389168, 45.08506268	,
           zoom = 8) %>%
   addTiles() %>%
-  addAwesomeMarkers(data = oct, lng = ~long, lat = ~lat, popup = ~address, icon = icons)
+  addAwesomeMarkers(data = oct, lng = ~long, lat = ~lat, popup = ~address, icon = icons) 
 
 widgetframe::frameWidget(octmap2) ## trying for online
 

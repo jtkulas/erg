@@ -7,6 +7,12 @@ categories: []
 tags: [who, people]
 ---
 
+whaddup
+
+```{r twitter, echo=FALSE}
+blogdown::shortcode('tweet', '1401123989339181057')
+```
+
 ```{r authors, echo=FALSE}
 
 authors <- read.csv("authors2.csv")
