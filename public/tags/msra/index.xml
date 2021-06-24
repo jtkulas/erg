@@ -8,14 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergweb.netlify.app/tags/msra/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing</title>
+      <title></title>
       <link>https://ergweb.netlify.app/testing/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ergweb.netlify.app/testing/</guid>
-      <description>MSRA non-oxigented petrol maps…couple of options last updated Tue Jun 22 10:08:38 2021:
+      <description>💀 NEVER use this map while driving 💀MSRA non-oxigented petrol maps…couple of options last updated Thu Jun 24 10:34:24 2021:
 {&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_unnamed-chunk-1.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}Logos, images, icons and mapping (for example here, maximum octane rating) could change to whatever fairly easily:
-{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_unnamed-chunk-2.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_unnamed-chunk-2.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}icon rendering issue here
+</description>
     </item>
     
   </channel>

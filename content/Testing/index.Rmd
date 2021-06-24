@@ -1,11 +1,18 @@
 ---
-title: Testing
+title: 
 author: ''
 date: '2021-06-11'
 slug: Testing
 categories: []
 tags: [MSRA]
 ---
+
+<p align="center">
+![](msra.png)
+</p>
+<p align="center">
+`r emo::ji("skull")` **NEVER** use this map *while driving* `r emo::ji("skull")`
+</p>
 
 # MSRA non-oxigented petrol maps 
 
@@ -58,3 +65,5 @@ octmap2 <- leaflet() %>%
 widgetframe::frameWidget(octmap2) ## trying for online
 
 ```
+
+[icon rendering issue here](https://github.com/rstudio/leaflet/issues/691)
