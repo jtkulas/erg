@@ -8,7 +8,7 @@ tags: [MSRA]
 ---
 
 <p align="center">
-![](msra.png)
+[![](msra.png)](http://msra.com/)
 </p>
 <p align="center">
 `r emo::ji("skull")` **NEVER** use this map *while driving* `r emo::ji("skull")`
