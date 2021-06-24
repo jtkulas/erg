@@ -11,7 +11,7 @@ tags: [MSRA]
 [![](msra.png)](http://msra.com/)
 </p>
 <p align="center">
-`r emo::ji("skull_and_crossbones")` **NEVER** use this map *while driving* `r emo::ji("face_with_symbols_on_mouth")`
+`r emo::ji("warning")` `r emo::ji("warning")` `r emo::ji("skull_and_crossbones")` **NEVER** use this map *while driving* `r emo::ji("face_with_symbols_on_mouth")` `r emo::ji("warning")` `r emo::ji("warning")` 
 </p>
 
 # MSRA non-oxigented petrol maps 
