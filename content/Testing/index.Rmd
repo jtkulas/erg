@@ -101,11 +101,13 @@ missing <- missing[,2:9]
 
 ```
 
-The above map contains information from `r nrow(states)` stations in MN, WI, SD, and IA. `tidygeocoder` was unable to generation longitude and latitude estimates from `r nrow(missing)` stations. These `r nrow(missing)` stations are located in the following table:
+The above map contains information from `r nrow(states)` stations in MN, WI, SD, and IA. `tidygeocoder` was unable to generation longitude and latitude estimates from an additional `r nrow(missing)` stations within the [pure-gas.org](https://www.pure-gas.org/) databases. These `r nrow(missing)` "missing" stations are located in the following table:
 
 ```{r missingstations, warning=FALSE, echo=FALSE}
+
 library(DT)
-datatable(missing, options = list(pageLength = 5))
+widgetframe::frameWidget(datatable(missing[c(4,6,1,8,3,5)], rownames=FALSE, options = list(pageLength = 5)))  
+
 ```
 
 
