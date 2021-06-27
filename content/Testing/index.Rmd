@@ -89,9 +89,9 @@ pal <- colorNumeric(
 puregas <- leaflet() %>% 
   addProviderTiles("CartoDB.Positron") %>% 
   setView(-93.11389168, 45.08506268	,
-          zoom = 8) %>%
+          zoom = 6) %>%
   addTiles() %>%
-  addCircles(data=states, lng = ~long, lat = ~lat, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone, "<br>", "Max Octane:", max), color=~pal(max), opacity=10) %>%
+  addCircles(data=states, lng = ~long, lat = ~lat, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone, "<br>", "Max Octane:", max), color=~pal(max), opacity=.8) %>%
   addLegend("bottomright", data=states, pal = pal, values = ~max)
 
 widgetframe::frameWidget(puregas) ## trying for online
