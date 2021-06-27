@@ -8,17 +8,17 @@ tags: [MSRA]
 ---
 
 <p align="center">
-[![](msra.png)](http://msra.com/)
+[![](scvc.PNG)](http://www.stcroixvalleycorvettes.com/)
 </p>
 <p align="center">
 `r emo::ji("warning")` `r emo::ji("warning")` `r emo::ji("skull_and_crossbones")` **NEVER** use this map *while driving* `r emo::ji("face_with_symbols_on_mouth")` `r emo::ji("warning")` `r emo::ji("warning")` 
 </p>
 
-# MSRA non-oxigented petrol maps 
+# Non-oxigenated petrol map 
 
-...couple of options last updated `r date()`:
+Data taken from [pure-gas.org](https://www.pure-gas.org/) last updated `r date()`:
 
-```{r, echo=FALSE, warning=FALSE}
+```{r, echo=FALSE, warning=FALSE, include=FALSE}
 library(leaflet)
 oct <- read.csv("octane.csv")
 
@@ -43,9 +43,8 @@ widgetframe::frameWidget(octmap) ## trying for online
 
 ```
 
-Logos, images, icons and mapping (for example here, maximum octane rating) could change to whatever fairly easily:
 
-```{r echo=FALSE, warning=FALSE}
+```{r echo=FALSE, warning=FALSE, include=FALSE}
 
 oct$color[oct$octane == 91] <- "orange"
 oct$color[oct$octane == 93] <- "lightred"
@@ -60,9 +59,25 @@ octmap2 <- leaflet() %>%
   setView(-93.11389168, 45.08506268	,
           zoom = 8) %>%
   addTiles() %>%
-  addAwesomeMarkers(data = oct, lng = ~long, lat = ~lat, popup = ~address, icon = icons) 
+  addAwesomeMarkers(data = oct, lng = ~long, lat = ~lat, icon = icons) 
 
 widgetframe::frameWidget(octmap2) ## trying for online
+
+```
+
+
+```{r echo=FALSE, warning=FALSE}
+
+minny <- read.csv("minny.csv")
+
+puregas <- leaflet() %>% 
+  addProviderTiles("CartoDB.Positron") %>% 
+  setView(-93.11389168, 45.08506268	,
+          zoom = 8) %>%
+  addTiles() %>%
+  addCircles(data=minny, lng = ~long, lat = ~lat, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone), weight = 10)
+
+widgetframe::frameWidget(puregas) ## trying for online
 
 ```
 

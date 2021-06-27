@@ -1,0 +1,707 @@
+"","City","Brand","Octane","Name","Phone","Street.Address","Last.Updated","State","lat","long"
+"1","Ada","CENEX","91","Ada Co-Op C-Store","218-784-7859","202 W Main St","2/2/2014","MN",47.2976627839601,-96.5160884206148
+"2","Adolph","UNBRANDED","91","Adolph Store","218-624-9680","3710 Midway Rd","1/30/2016","MN",46.77942665,-92.2796981375
+"3","Adrian","UNBRANDED","91","Adrian Co-Op","507-483-2734","221 N Maine Ave","2/2/2014","MN",43.6391866938776,-95.9332397959184
+"4","Afton","UNBRANDED","91","Afton Marina","651-436-4884","16071 31st Street S","9/11/2019","MN",44.9039662974195,-92.7798728927825
+"5","Aitkin","TESORO","91","Farm Island Store","218-927-3791","29037 Us Hwy 169","10/7/2014","MN",46.4327460698387,-93.7437604120471
+"6","Aitkin","BP","91","Junction","218-678-9964","22856 Us Hwy 169","7/18/2013","MN",46.3427404412022,-93.7532983651632
+"7","Aitkin","UNBRANDED","91","Paulbeck's County Mkt","218-927-2987","171 Red Oak Dr","2/2/2014","MN",46.5158242574477,-93.7085209886899
+"8","Aitkin","SPUR","91","Rasley Oil Co","218-927-2966","308 2nd St Ne","11/18/2015","MN",46.5334563158903,-93.6990407383893
+"9","Albany","TESORO","91","Albany Tesoro","320-845-6577","140 Railroad Ave","2/2/2014","MN",45.6294766132468,-94.5647416185724
+"10","Albany","SHELL","91","Dons I-94 Travel","320-845-4646","310 8th St S","8/8/2018","MN",45.6256593424903,-94.5768715701599
+"11","Albert Lea","UNBRANDED","91 100","Albert Lea Airport","507-373-0608","400 Airport Rd","10/7/2014","MN",43.680687,-93.363788
+"12","Albert Lea","CASEY'S","91","Casey's General Store","507-373-5000","2222 E Frontage Rd","4/25/2016","MN",43.654174,-93.338845
+"13","Albert Lea","UNBRANDED","91","Trail's Travel Center","507-373-4200","820 Happy Trails Ln","6/21/2021","MN",NA,NA
+"14","Albertville","BP","91","Don's Auto","763-497-2773","11438 County Rd 37","2/2/2014","MN",45.2387687148982,-93.6541437742069
+"15","Albertville","SHELL","91","Emma's Express","763-497-3005","11966 59th Pl Ne","6/22/2017","MN",45.2369741,-93.653156
+"16","Alexandria","TESORO","91","All Stop Gas & Deli","320-762-8121","610 Mckay Ave S","10/7/2014","MN",45.8913552318739,-95.3516419365231
+"17","Alexandria","CASEY'S","91","Casey's General Store","320-759-1580","3373 S Broadway St","8/7/2019","MN",45.862378870719,-95.3778686619798
+"18","Alexandria","CASEY'S","91","Casey's General Store","320-763-8860","700 Voyager Dr","8/1/2018","MN",45.9101528,-95.3700871
+"19","Alexandria","CENEX","91","Farmers Union Oil","320-763-6557","1705 Broadway","4/24/2016","MN",45.8727568367347,-95.3779568979592
+"20","Alexandria","HOLIDAY","91","Holiday Stationstore","320-759-1720","785 N Nokomis St Ne","3/30/2013","MN",45.8987547934959,-95.3664974543739
+"21","Alexandria","HOLIDAY","91","Holiday Stationstore","320-762-0447","320 3rd Ave E","1/31/2014","MN",45.8893377471382,-95.3734514481204
+"22","Alexandria","BP","91","Jill's Gas & Grocery","320-763-5317","1109 3rd Ave E","11/18/2015","MN",45.889422,-95.3609973947141
+"23","Alexandria","UNBRANDED","91","Mike's Car Wash","320-763-5473","1219 S Broadway St","2/2/2014","MN",45.878057344358,-95.3776086618555
+"24","Altura","UNBRANDED","91","Neumann Oil","507-796-6700","25 S Main","9/3/2014","MN",NA,NA
+"25","Andover","UNBRANDED","91","Bill's Superette","763-427-0504","14041 Round Lake","7/31/2017","MN",45.2258416,-93.3564681
+"26","Andover","KWIK TRIP","91","Kwik Trip #812","763-757-4905","1756 Bunker Lake Blvd","5/29/2017","MN",45.2226525,-93.3671052
+"27","Annandale","CENEX","91","Centra Sota Cenex","320-274-2556","50 Elm St E","10/7/2014","MN",45.2565956,-94.11131
+"28","Annandale","HOLIDAY","91","Holiday Stationstore","320-274-5657","115 Elm St W","1/31/2014","MN",45.2619194,-94.1251706
+"29","Annandale","SHELL","91","Schmidty's","320-274-1906","215 Elm St W","8/13/2016","MN",45.2619194,-94.1251706
+"30","Anoka","UNBRANDED","91","Bill's Superette","763-422-8383","15299 St Francis Blvd","11/18/2015","MN",45.226898,-93.3982
+"31","Anoka","KWIK TRIP","91","Kwik Trip","763-421-9170","2900 Cutters Grove Ave","8/30/2014","MN",45.210020544017,-93.4134364668977
+"32","Anoka","SUPER AMERICA","91","Superamerica #4801","763-421-6590","750 W Main","6/4/2021","MN",NA,NA
+"33","Apple Valley","HOLIDAY","91","Holiday Station","952-891-5090","5980 149th St","8/7/2016","MN",44.7324306,-93.1860446618579
+"34","Apple Valley","KWIK TRIP","91","Kwik Trip","952-432-5886","14941 Florence Trail","10/20/2017","MN",44.7323759,-93.201679149216
+"35","Apple Valley","KWIK TRIP","91","Kwik Trip #695","952-431-4103","13357 Palomino Dr","6/16/2021","MN",44.7567231,-93.2472513500406
+"36","Apple Valley","KWIK TRIP","91","Kwip Trip","952-431-7222","7575 145th St W","8/7/2016","MN",44.739273244898,-93.2182181632653
+"37","Apple Valley","SUPER AMERICA","91","Super America #4812","952-891-2945","15050 Galaxie Ave","8/7/2016","MN",44.7312493877551,-93.2073540816327
+"38","Arden Hills","HOLIDAY","91","Holiday Stationstores","651-633-6052","1920 Hwy 96 W","7/25/2020","MN",45.07853155,-93.1830099518833
+"39","Argyle","UNBRANDED","91","Valley Oil Co","218-437-6674","809 Washington Ave","2/2/2014","MN",48.343888,-96.8188586
+"40","Arlington","UNBRANDED","91","Maverick Automotive","507-964-2406","104 5th Ave Nw","7/6/2016","MN",44.6073322244163,-94.0830481267441
+"41","Askov","UNBRANDED","91","Askov Deep Rock","320-838-3343","6335 Brogade","2/2/2014","MN",46.1868264080133,-92.7851591596997
+"42","Atwater","UNBRANDED","91","Casey's","320-974-3130","309 Pleasant Ave W","12/25/2017","MN",45.1389125013254,-94.7812599151709
+"43","Aurora","HOLIDAY","91","Holiday Stationstore","218-229-3883","5495 Hwy 100","6/20/2014","MN",47.5310445,-92.2597404
+"44","Austin","KWIK TRIP","91","Austin","507-437-6702","1509 10th Place Ne","11/6/2016","MN",43.6757755,-92.9535111
+"45","Austin","CASEY'S","91","Casey's General Store","507-437-6002","1702 12th St Sw","2/19/2014","MN",43.6517473,-92.9901128
+"46","Avon","CASEY'S","91","Casey's General Store","320-356-7283","303 Avon Ave S","8/7/2019","MN",45.6063348,-94.453890507846
+"47","Babbitt","BP","91","Blomberg Oil","218-827-3618","26 North Dr","11/18/2015","MN",47.7140900915966,-91.9501120092393
+"48","Bagley","UNBRANDED","91","Harwood Oil","218-694-6250","121 Central St E","2/2/2014","MN",NA,NA
+"49","Barnesville","TESORO","91","Barnesville C Store","218-354-2601","624 Front St N","6/4/2013","MN",46.6589858731669,-96.4199341909433
+"50","Barnesville","CENEX","91","Cenex General Store","218-354-2139","619 Front St N","6/4/2013","MN",46.658945217515,-96.4201741162087
+"51","Barnum","LITTLE STORE","91","The Little Store","218-389-6574","3694 County Rd 6","2/3/2014","MN",NA,NA
+"52","Battle Lake","UNBRANDED","91","Battle Lake Standard","218-864-5221","420 Lake Ave S","2/3/2014","MN",46.2786831,-95.713983
+"53","Baudette","CENEX","91","Co-Op Service Inc","218-634-1313","903 Main St W","2/3/2014","MN",48.71271,-94.610414
+"54","Baudette","HOLIDAY","91","Holiday Stationstore","218-634-2210","109 Main St","2/1/2014","MN",48.7125629081633,-94.6013449183673
+"55","Baudette","CO-OP","91","Log Cabin Bait & Tackle","218-634-1339","3263 Fishery Rd Nw","7/16/2015","MN",NA,NA
+"56","Baxter","CENEX","91","College Square","218-454-1642","8218 Highland Scenic Dr","9/4/2017","MN",46.3314201,-94.2760841
+"57","Baxter","HOLIDAY","91","Holiday Stationstore","218-829-7808","7472 Excelsior Blvd","2/1/2014","MN",46.3544700077089,-94.2462837721791
+"58","Baxter","FLEET FARM","91","Mills Fleet Farm","218-829-1565","14114 Dellwood Dr N","11/18/2015","MN",46.3558956246805,-94.2437594749616
+"59","Baxter","SUPER AMERICA","91","Super America","218-828-1341","14398 Dellwood Dr","8/5/2017","MN",46.3584092079896,-94.2438726083196
+"60","Bayport","HOLIDAY","91","Holiday #375","651-439-7088","174 3rd St N","10/21/2015","MN",45.023792,-92.781337
+"61","Beaver Bay","MOBIL","91","Beaver Bay Mobil Mart","218-226-3550","1022 Main St","2/3/2014","MN",NA,NA
+"62","Becker","SPEEDWAY","91","Becker Speedway","763-262-4003","12950 Rolling Ridge Rd","7/17/2019","MN",45.3884079652347,-93.8606452634646
+"63","Belle Plaine","KWIK TRIP","91","Kwick Trip","952-873-2644","104 Aspen Ln","7/6/2018","MN",44.6234745,-93.7574856
+"64","Bemidji","HOLIDAY","91","Holiday Stationstore","218-751-6070","1106 P Bunyan Dr Se","5/25/2018","MN",47.4915879355273,-94.8948624643971
+"65","Bemidji","CLARK","91","Kenny's Station","218-751-3426","423 Bemidji Ave","2/3/2014","MN",47.4728560690857,-94.8794460783406
+"66","Bemidji","TESORO","91","Orton's Tesoro","218-751-6913","555 P Bunyan Dr Nw","5/25/2018","MN",47.4640147138448,-94.8692853890672
+"67","Bemidji","SHELL","91","Pete's Place West","218-751-1218","7189 Pete Lane N W","11/17/2013","MN",NA,NA
+"68","Bemidji","PETRO SERVE","91","Petro Serve U S A","218-751-9003","2470 P Bunyan Dr Nw","5/25/2018","MN",47.4357336673414,-94.8381777343905
+"69","Benson","CENEX","91","Glacial Plains","320-842-5311","1020 Atlantic Ave","2/3/2014","MN",45.3138303877551,-95.5964665714286
+"70","Bigfork","CENEX","91","Two Rivers Cenex","218-743-3777","406 N Main St","10/7/2014","MN",47.7466521171252,-93.6532739995776
+"71","Big Lake","MOBIL","91","Enl","763-207-8506","16777 Marketplace Dr","9/14/2014","MN",45.3334953,-93.6956772
+"72","Big Lake","KWIK TRIP","91","Kwik Trip","763-263-0391","130 Eagle Lake Rd N","9/23/2016","MN",45.3337795918367,-93.7418400816327
+"73","Bird Island","SHELL","91","Handi Stop Shell","320-365-4536","551 Us Hwy 212","1/16/2020","MN",44.7674620769231,-94.8931624615385
+"74","Blackduck","UNBRANDED","91","Bogart's Service","218-835-4548","317 Main St","9/17/2014","MN",47.7322481863311,-94.5485566149493
+"75","Blaine","FLEET FARM","91","Fleet Farm","763-785-4647","10250 Lexington Ave Ne","8/24/2013","MN",45.1539045,-93.1653077
+"76","Blaine","HOLIDAY","91","Holiday","763-780-4323","589 Northtown Dr","6/10/2016","MN",45.1262329075572,-93.2585624038132
+"77","Blaine","HOLIDAY","91","Holiday #306","763-785-4237","4167 Ball Rd Ne","10/14/2015","MN",45.1570758,-93.1588697
+"78","Blaine","KWIK TRIP","91","Kwik Trip","763-717-2807","8502 Hw 65 (Central Ave Ne)","12/8/2018","MN",NA,NA
+"79","Blaine","KWIK TRIP","91","Kwik Trip","763-780-1983","3405 Lake Dr N E","9/25/2014","MN",NA,NA
+"80","Bloomington","BP","91","Bp Normandale","952-835-4095","5150 West 98th St.","7/28/2020","MN",44.8254950328377,-93.34688427271
+"81","Bloomington","BP","91","Cedar Market","952-886-0604","9200 Old Cedar Ave S","6/21/2018","MN",44.837413,-93.24798
+"82","Bloomington","HOLIDAY","91","Holiday Stationstore","952-881-8551","8920 Penn Ave S","1/23/2018","MN",44.853001,-93.308792
+"83","Bloomington","HOLIDAY","110","Holiday Stationstore","952-881-5077","7901 Nicollet Ave S","2/18/2021","MN",44.8600764,-93.2782996
+"84","Bloomington","UNBRANDED","91","Leroy's Auto Center","952-884-6152","9000 Lyndale Ave S","10/9/2019","MN",44.8402913,-93.2892942
+"85","Bloomington","BP","91","Normandale Village Bp","952-835-4095","5150 W 98th St","8/1/2020","MN",44.8254950328377,-93.34688427271
+"86","Blue Earth","SHELL","91","Shell Food Mart","507-526-5066","1510 Giant Dr","10/7/2014","MN",43.6556469981384,-94.0971443500087
+"87","Bock","UNBRANDED","91","Newgard's Bock Garage","320-556-3315","6717 Hwy 23","2/3/2014","MN",NA,NA
+"88","Bovey","UNBRANDED","91","Balsam Store","218-245-2285","41050 Scenic Hwy","12/15/2017","MN",NA,NA
+"89","Brainerd","HOLIDAY","91","Holiday Stationstore","218-828-0076","1500 Mill Ave","7/15/2016","MN",NA,NA
+"90","Brainerd","VP RACING","91","Nitro Square","218-454-1642","18198 Hwy 371","8/22/2017","MN",46.3158763,-94.2245635
+"91","Brainerd","UNBRANDED","91","Petro Plus","218-454-0223","850 Lumpark Dr","11/18/2015","MN",NA,NA
+"92","Brainerd","CENEX","91","Pine Square","218-825-0715","3325 Oak St","8/21/2017","MN",46.3523519,-94.163808
+"93","Brainerd","CENEX","91","Raceway Square","218-454-1642","17977 Hwy 371","8/22/2017","MN",46.3158763,-94.2245635
+"94","Brainerd","UNBRANDED","91","Wild Rice Depot","218-829-5847","9360 Wild Rice Rd","11/18/2015","MN",NA,NA
+"95","Brandon","UNBRANDED","91","Berinie's Gas & Oil","320-876-2153","16751 C. R. 7","4/11/2021","MN",NA,NA
+"96","Brandon","UNBRANDED","91","Bob's Adium","320-834-4081","201 Central Ave","2/3/2014","MN",45.9626953,-95.6005215
+"97","Brandon","UNBRANDED","87 89","Knotty Pine Bait & Gas","320-524-2646","103 Central Ave N","10/7/2014","MN",45.9644219251781,-95.5992590230052
+"98","Breckenridge","CONOCO","91","Blazer Express","218-643-2521","1020 Us Hwy 75","7/22/2013","MN",46.2575136431385,-96.582431651324
+"99","Brimson","UNBRANDED","91","Hugo's Bar","218-848-2220","1898 Hwy 44","7/16/2015","MN",NA,NA
+"100","Brooklyn Center","CASEY'S","91","Casey's General Store","763-566-4845","2101 Freeway Blvd","1/5/2020","MN",45.0732503738162,-93.3079813004953
+"101","Brooklyn Park","UNBRANDED","91","Bill's Superette","763-566-5102","3100 Brookdale Dr N","11/18/2015","MN",45.097296,-93.321113
+"102","Brooklyn Park","UNBRANDED","91","Bill's Superette","763-535-8394","6290 Boone Ave N","11/18/2015","MN",45.0688424444444,-93.3906571111111
+"103","Brooklyn Park","HOLIDAY","91","Holiday","763-425-4269","9399 W. Broadway","8/30/2018","MN",45.0839944,-93.3751339
+"104","Brooklyn Park","KWIK TRIP","91","Kwik Trip","763-425-3041","5801 96th Ave N","8/9/2013","MN",45.1312962,-93.3560555
+"105","Brooklyn Park","KWIK TRIP","91","Kwik Trip #448","763-315-1720","9495 Noble Pkwy","2/3/2020","MN",45.1229056131225,-93.3357050796362
+"106","Brooklyn Park","FLEET FARM","91","Mills Fleet Farm","763-424-9668","8400 Lakeland Ave N","12/18/2020","MN",45.107429,-93.387981454271
+"107","Browns Valley","UNBRANDED","93","Ben's Super Service","320-695-2175","524 W Broadway","4/3/2017","MN",45.5952594,-96.8280482
+"108","Bruno","UNBRANDED","91","Bruno Deep Rock","320-838-3434","75711 Hwy 23","2/3/2014","MN",NA,NA
+"109","Buffalo","CENEX","91","Cenex","763-682-6512","512 7th St Ne","7/24/2014","MN",45.1784385549144,-93.8711189964745
+"110","Buffalo","KWIK TRIP","91","Kwik Trip #458","763-682-3059","1600 Cessna St","1/23/2016","MN",45.155519,-93.847528
+"111","Buffalo","UNBRANDED","91","Pike's","763-682-4226","500 17th St S","11/18/2015","MN",45.1514091373543,-93.8697871147362
+"112","Burnsville","BP","91","Burnsville Auto Repair","952-890-7406","12001 Cnty Rd 11","8/17/2019","MN",NA,NA
+"113","Burnsville","BP","91","Burnsville Pkwy Bp","952-894-1666","501 W Burnsville Pkwy","8/9/2018","MN",44.769734,-93.286751
+"114","Burnsville","KWIK TRIP","91","Kwik Trip #309","952-898-4774","501 Crystal Lake Rd W","3/2/2018","MN",44.731121,-93.284933
+"115","Byron","KWIK TRIP","91","Kwik Trip","507-775-6700","16 2nd Ave Nw","2/7/2017","MN",44.02949555,-92.6472256016112
+"116","Caledonia","UNBRANDED","91","Caledonia Oil","507-725-3836","205 S Marshall St","11/30/2013","MN",43.6333022863776,-91.4957463107392
+"117","Cambridge","CONOCO","91","Ec's Corner Express","763-689-4762","34160 Hwy 47","9/17/2017","MN",NA,NA
+"118","Cambridge","UNBRANDED","","Fleet Farm","763-691-1409","2324 3rd Ave N E","11/21/2013","MN",45.5747358,-93.2339021
+"119","Cambridge","MURPHY","91","Murphy Usa 6811","763-691-1714","2046 2nd Ave Se.","2/25/2020","MN",45.5715092,-93.2369586
+"120","Cambridge","SUPER AMERICA","91","Super America","763-689-3132","101 S Garfield St","11/29/2015","MN",45.571448,-93.214033
+"121","Canby","CENEX","91","Fca Cenex","507-223-5634","1204 St Olaf Ave N","8/25/2018","MN",44.7183417477355,-96.2632919411689
+"122","Cannon Falls","CASEY'S","91","Casey's General Store","507-263-2781","1125 Main St W","11/18/2018","MN",44.506875244898,-92.9167231632653
+"123","Cannon Falls","SPEEDWAY","91","Super America","612-567-1696","14610 240th St E","12/28/2015","MN",NA,NA
+"124","Carlton","BP","91","Carlton Truck & Travel","218-384-4589","1704 Hwy 210","4/11/2013","MN",46.6635097068943,-92.4727615343995
+"125","Carver","UNBRANDED","91","Mills Fleet Farm","952-361-0986","1935 Levi Griffin Rd","5/11/2014","MN",NA,NA
+"126","Center City","UNBRANDED","91","Rod's Country Corner","651-583-2295","37455 Park Trail","11/18/2015","MN",45.4908175,-92.7852669593105
+"127","Champlin","UNBRANDED","91","Bills Superette","763-421-6850","10917 W River Rd","6/3/2017","MN",45.15207415,-93.3391236799731
+"128","Champlin","SUPER AMERICA","91","Champlin S/A","763-323-7200","100 Miller Rd","11/29/2015","MN",45.1878252,-93.3950388
+"129","Champlin","SINCLAIR","91","Champlin Sinclair","763-421-6494","120 Curtis Rd","2/3/2014","MN",45.1897449,-93.3969687
+"130","Champlin","MARATHON","91","Fastrip Market","763-427-6419","11660 Winnetka Ave N","10/10/2017","MN",45.166211,-93.380692
+"131","Champlin","HOLIDAY","91","Holiday","763-323-9117","12024 Champlin Dr","4/11/2019","MN",45.17409335,-93.3929634975696
+"132","Champlin","UNBRANDED","91","Holiday Stationstore","763-493-5066","6210 109th Ave N","6/11/2019","MN",45.1519580716332,-93.359283217765
+"133","Chanhassen","KWIK TRIP","92","Kwik Trip","952-470-4584","2201 W 78th St","2/7/2015","MN",44.864649,-93.57854
+"134","Chanhassen","KWIK TRIP","91","Kwik Trip","952-937-6915","8921 Crossroads Blvd","10/26/2019","MN",44.8429061057517,-93.5397583318046
+"135","Chaska","KWIK TRIP","91","Kwik Trip","952-368-1942","2900 N Chestnut St","7/22/2019","MN",44.828398,-93.602368
+"136","Chatfield","KWIK TRIP","91","Kwik Trip #608","507-867-3415","150 Main St N","5/13/2014","MN",43.8482337996545,-92.1919831507731
+"137","Chisago City","KWIK TRIP","91","Kwik Trip","651-257-6004","11085 Lake Blvd","4/15/2017","MN",45.3897750206193,-92.8657336072479
+"138","Chisholm","UNBRANDED","91","Lucky Seven","218-254-7168","1002 3rd Ave Nw","12/19/2013","MN",47.4987472439911,-92.8824263044328
+"139","Circle Pines","CASEY'S","91","Casey's General Store","763-786-5956","1s Pine Drive","8/6/2019","MN",45.148243,-93.150619
+"140","Circle Pines","FLEET FARM","91","Fleet Farm","763-785-4647","10250 Lexington Ave","6/28/2016","MN",45.1377748,-93.1634844
+"141","Circle Pines","UNBRANDED","91","Olson's Market","763-784-2242","10102 Sunset Ave","5/19/2020","MN",NA,NA
+"142","Clara City","CENEX","91","Cenex","320-847-2318","200 Hwy 7","11/15/2014","MN",NA,NA
+"143","Clara City","BP","91","Donners Crossroads Truckstop","320-847-3200","450 Hwy 7 Se","7/5/2013","MN",NA,NA
+"144","Clearbrook","UNBRANDED","91","Community Oil","218-776-3133","2 Main St N","7/25/2013","MN",47.6960679,-95.4279856
+"145","Clear Lake","UNBRANDED","90","Briggs Lake Gen Store","320-743-2791","4258 105th Ave","8/13/2016","MN",45.417162,-94.030365
+"146","Clear Lake","BP","91","Clear Lake Bp","320-743-4638","7988 Front St","2/3/2014","MN",NA,NA
+"147","Clearwater","HOLIDAY","91","Holiday #3510","320-558-2261","950 Hwy 24","10/29/2015","MN",NA,NA
+"148","Clitherall","UNBRANDED","87","Crossroads Convenience Center","218-864-2700","21136 County Road 5","9/9/2019","MN",46.2707249,-95.626029
+"149","Cloquet","UNBRANDED","91","Best Service","218-879-2279","202 Cloquet Ave","10/7/2014","MN",46.72145435,-92.4609938627587
+"150","Cloquet","KWIK TRIP","91","Kwik Trip #234","218-879-0907","1320 Hwy 45","5/22/2015","MN",46.7216455525759,-92.4492208105994
+"151","Cloquet","MURPHY","91","Murphy Usa 6961","218-879-7513","1310 Hwy. 33 South","2/26/2020","MN",46.70354285,-92.4556773490322
+"152","Cloquet","LITTLE STORE","91","The Little Store","218-879-2444","203 Doddridge Ave","2/3/2014","MN",46.7131337442151,-92.4611608751751
+"153","Cloquet","LITTLE STORE","91","The Little Store","218-879-2924","308 Sunnyside Dr","11/30/2015","MN",46.7322395,-92.4660444222857
+"154","Cohasset","SUPER AMERICA","91","Super America","218-328-5189","15 W Us Hwy 2","10/2/2017","MN",NA,NA
+"155","Cokato","UNBRANDED","91","Cenex","320-286-6432","240 Cokato St E","2/3/2014","MN",45.079561,-94.1876234
+"156","Cokato","SINCLAIR","91","Sinclair Oil","320-543-0108","1025 6th St","9/11/2015","MN",45.0736868,-94.1884473
+"157","Cold Spring","HOLIDAY","91","Holiday Stationstore","320-685-3583","216 Red River Ave S","2/25/2016","MN",45.4585829799458,-94.4288800621007
+"158","Cold Spring","SHELL","91","Kiess Bros Shell","320-685-4300","204 Sauk River Rd","1/1/2018","MN",NA,NA
+"159","Cologne","UNBRANDED","91 110","Mid-County Auto & Truck Repair","952-466-3710","710 West Lake Street","12/5/2019","MN",NA,NA
+"160","Columbia Hgts","MOBIL","91","B & S Auto World","763-788-1113","3701 Central Ave","4/26/2015","MN",NA,NA
+"161","Cook","CENEX","91","The Country Store","218-666-2272","320 Us Hwy 53 S","10/3/2016","MN",47.8481982057732,-92.6844009034771
+"162","Coon Rapids","HOLIDAY","91","Holiday Stationstore","763-780-0370","601 Coon Rapids Blvd","4/3/2017","MN",45.146375,-93.283642
+"163","Coon Rapids","SUPER AMERICA","91","Store 5010","763-657-7791","1523 Coon Rapids Blvd","7/31/2017","MN",45.14031,-93.275986
+"164","Corcoran","UNBRANDED","91","Storman's Food","763-498-8331","9350 Cnty Rd 19","10/2/2014","MN",NA,NA
+"165","Cottage Grove","HOLIDAY","91","Holiday","651-769-6884","8101 Hadley Ave S","6/29/2018","MN",44.832324,-92.967662
+"166","Cottage Grove","HOLIDAY","91","Holiday Stationstore","651-769-6899","6921 Pine Arbor Drive S","1/7/2021","MN",44.8490320714286,-92.9519801428571
+"167","Cotton","SUPER AMERICA","91","Super America","218-482-5599","7561 Comstock Lk Rd","6/30/2016","MN",NA,NA
+"168","Cromwell","CLARK","91","Cromwell Self Serve","218-644-1114","1302 Hwy 73 S","8/16/2013","MN",46.6754071450598,-92.8841940963928
+"169","Crosby","UNBRANDED","97","C-I Self Serve","218-546-7300","1029 Oak St","11/28/2017","MN",46.4771393,-93.967218
+"170","Crosslake","HOLIDAY","91","Cross Lake Holiday","218-692-2708","35610 County Rd 66","11/27/2016","MN",46.6706914,-94.1088592
+"171","Crosslake","UNBRANDED","91","Moonlite Square Conv.","218-692-2998","37735 C.R. 66","6/30/2016","MN",46.7002153075769,-94.1186994572487
+"172","Dalton","UNBRANDED","91","Ray's Oil & Gas","218-589-8778","110 W Main St","5/20/2016","MN",46.173921,-95.916896
+"173","Darwin","SHELL","91","Schmidty's","320-693-0019","801 Hwy 12","6/12/2016","MN",NA,NA
+"174","Dassell","BP","91","Ron's B P","320-275-3149","150 Parker Ave W","2/3/2014","MN",NA,NA
+"175","Dawson","CENEX","91","Dawson Cenex","320-769-4308","536 Oak St","2/3/2014","MN",44.9357717,-96.0532362
+"176","Deer River","HOLIDAY","91","Holiday #194","218-246-2700","208 Main Ave E","10/27/2015","MN",47.332666692077,-93.7912144296414
+"177","Deer River","CENEX","91","Northern Star Co-Op","218-246-8660","105 Main Ave W","2/3/2014","MN",46.3908502040816,-95.321956877551
+"178","Delano","BP","91","Flippin Bills","763-972-2868","8045 County Line Rd Se","1/1/2018","MN",45.0347363877551,-93.7669632040816
+"179","Detroit Lakes","CENEX","91","Community Co-Op","218-847-3190","911 Hwy 34 E","11/3/2015","MN",46.8256242101202,-95.8342668272033
+"180","Detroit Lakes","HOLIDAY","91","Holiday Stationstore","218-847-4883","233 Frazee St E","12/1/2015","MN",46.8157611368971,-95.8422210709339
+"181","Detroit Lakes","UNBRANDED","91","Petro Plus #105","218-847-6633","1306 Us Hwy 10 E","7/18/2013","MN",NA,NA
+"182","Detroit Lakes","TESORO","91","Tesoro","218-846-2390","24997 County Hwy 6","12/1/2015","MN",NA,NA
+"183","Dilworth","TESORO","91","Petro Serve Usa","218-287-2208","1707 Us Hwy 10 W","5/3/2016","MN",NA,NA
+"184","Dodge Center","BP","93","Sunshine Foods","507-374-6440","160 N Airport Rd","5/9/2017","MN",44.0290015,-92.839092
+"185","Duluth","UNBRANDED","91","Fredenberg Minno-Ette","218-721-4800","5109 Fish Lake Rd","2/3/2014","MN",NA,NA
+"186","Duluth","UNBRANDED","91","Gnesen General Store","218-721-4433","6049 Rice Lake Rd","2/3/2021","MN",46.948347786427,-92.1555451936381
+"187","Duluth","HOLIDAY","91","Holiday Stationstore","218-724-7789","2605 London Rd","2/1/2014","MN",46.8091330285085,-92.0613497082699
+"188","Duluth","HOLIDAY","91","Holiday Stationstore","218-786-0715","3301 W Arrowhead Rd","6/23/2021","MN",46.82263115,-92.1330049365
+"189","Duluth","HOLIDAY","91","Holiday Stationstore","218-724-8245","1520 Kenwood Ave","6/23/2021","MN",46.82190025,-92.1000604557221
+"190","Duluth","HOLIDAY","91","Holiday Stationstore","218-729-5689","5699 Miller Trunk Hwy","12/1/2015","MN",46.8052128,-92.1561022
+"191","Duluth","KWIK TRIP","91","Kwik Trip","218-722-1268","6 W Central Ent.","6/22/2016","MN",46.8003641333333,-92.1325312
+"192","Duluth","UNBRANDED","91","Kwik Trip #218","218-624-6079","4215 Grand Ave","11/5/2015","MN",46.7495604909606,-92.1543156013225
+"193","Duluth","UNBRANDED","91","Kwik Trip #273","218-624-2616","6516 Grand Ave","11/5/2015","MN",46.7572648,-92.1433621
+"194","Duluth","UNBRANDED","91","London Rd Carwash","218-728-4201","1530 London Rd","2/3/2014","MN",46.8001399619606,-92.0773137870398
+"195","Duluth","CENEX","91","Medved Properties Llc","218-481-7767","1331 Commonwealth Ave","3/7/2021","MN",46.6708121428997,-92.2266112329952
+"196","Duluth","UNBRANDED","91","Porkys Truck Stop","218-721-4959","7031 Rice Lake Rd","2/3/2021","MN",47.0212450892914,-92.1457928479569
+"197","Duluth","UNBRANDED","91","Rice Lake Fuel","218-721-4194","5292 Rice Lake Rd","2/3/2021","MN",46.8940632055166,-92.1536014443821
+"198","Duluth","CENEX","91","Woodland Short Stop","218-728-6962","4001 Woodland Ave","1/15/2021","MN",46.850117,-92.081965
+"199","Duquette","UNBRANDED","91","Duquette General Store","218-496-5855","88235 Hwy 23","10/6/2015","MN",NA,NA
+"200","Eagan","CASEY'S","","Casey's General Store","","So.Robert Trail And Diffley","9/10/2019","MN",NA,NA
+"201","Eagan","HOLIDAY","91","Holiday #318","651-365-0275","3044 Holiday Ln","3/8/2020","MN",44.8464638238388,-93.1233265345491
+"202","Eagan","HOLIDAY","91","Holiday Store #400","651-454-8146","2660 Eagan Woods Drive","2/14/2020","MN",44.857509,-93.167537
+"203","Eagan","KWIK TRIP","91","Kwik Trip","651-882-6292","4600 Slater Rd","8/23/2020","MN",44.7896211,-93.2239323
+"204","Eagan","KWIK TRIP","91","Kwik Trip #662","651-405-8543","3145 Dodd Rd","7/18/2017","MN",44.8437234179458,-93.1228480498309
+"205","East Bethel","UNBRANDED","91","Go For It Gas","651-395-2174","3255 Viking Blvd Ne","1/18/2019","MN",45.318242,-93.188054
+"206","Eden Prairie","HOLIDAY","91","Holiday #402","952-944-2648","8051 Flying Cloud Dr","12/23/2020","MN",44.856718,-93.426633
+"207","Eden Prairie","HOLIDAY","91","Holiday Stationstore","952-224-9303","12619 Valley View Rd","7/8/2015","MN",44.8668972744637,-93.4417216491612
+"208","Eden Prairie","BP","91","Valley View Bp","952-934-0188","7400 Mitchell Rd","11/14/2019","MN",44.86894,-93.455866
+"209","Edina","BP","91","Bp Edina","952-920-0043","5209 Vernon Ave","5/28/2018","MN",44.908875,-93.356343
+"210","Edina","HOLIDAY","91","Holiday Station Store #217","952-920-6516","5200 Interlachen Blvd","2/4/2019","MN",44.912348,-93.354183
+"211","Elbow Lake","UNBRANDED","91","Haley Oil Company","218-685-4466","20 2nd St Se","5/5/2021","MN",45.9898963,-95.967554
+"212","Elizabeth","ARCO","91","Elizabeth General Store","218-739-2132","102 W Broadway","4/22/2021","MN",46.3798711786493,-96.1294996964431
+"213","Elk River","MARATHON","","Beaudry Express","763-241-1550","610 Proctor Ave Nw","4/28/2021","MN",45.3081914053502,-93.577279584763
+"214","Elk River","SHELL","91 100","Charlie Brown's","763-274-1575","335 Lowell Ave","5/27/2018","MN",45.3057971,-93.5692707
+"215","Elk River","HOLIDAY","91","Holiday #313","763-241-6946","18823 Freeport Ave","10/19/2015","MN",45.319902,-93.564261
+"216","Elk River","HOLIDAY","91","Holiday #90","763-241-8848","13445 Business Center Dr","10/27/2015","MN",NA,NA
+"217","Elk River","UNBRANDED","91","Ralphie's Victory Lane","763-441-7077","13374 Us Hwy 10","5/30/2014","MN",45.2874737,-93.5514304
+"218","Ely","CLARK","91","A J's Fast Lube","218-365-7800","1815 E Sheridan St","12/1/2015","MN",47.9031691,-91.8458365
+"219","Ely","CENEX","91","Blomberg's Cenex","218-365-6765","46 W Sheridan St","2/3/2014","MN",47.9032764,-91.8685197
+"220","Ely","HOLIDAY","91","Holiday Stationstore","218-365-6003","1036 E Sheridan St","4/5/2015","MN",47.9031691,-91.8458365
+"221","Ely","BP","91","Lucky 7","218-365-5030","620 E Sheridan St","4/4/2015","MN",47.9031691,-91.8458365
+"222","Erskine","CENEX","91","Fuel & Things","218-687-5137","203 Hwy 2","12/10/2020","MN",NA,NA
+"223","Esko","LITTLE STORE","91","Little Stores #5","218-879-1601","90 Thomson Rd","2/3/2014","MN",46.7011756,-92.3646689
+"224","Evansville","SPUR","91","Lon's Spur & Service","218-948-2249","107 C.R. 82 Nw","5/7/2016","MN",45.9830136,-95.6497283
+"225","Eveleth","UNBRANDED","91","Ely Lake Short Stop","218-744-3588","7782 Ely Lake Dr","2/3/2014","MN",NA,NA
+"226","Eveleth","UNBRANDED","91","Old Time Oil","218-744-2377","435 Fayal Rd","2/3/2014","MN",47.4605623423027,-92.5385661818888
+"227","Eyota","KWIK TRIP","91","Kwik Trip","507-545-2120","380 Sandstone Dr Nw","9/16/2016","MN",43.9975582,-92.2481197479757
+"228","Fairfax","SHELL","91","Shell","507-426-8396","600 Lincoln Ave E","5/7/2016","MN",44.5289817,-94.7155921
+"229","Fairmont","KWIK TRIP","91","Kwik Trip","507-238-2350","217 South State Street","7/12/2019","MN",43.6512643365787,-94.4472627799891
+"230","Fairmont","UNBRANDED","91 110 114","Poppe's Car Wash","507-238-2936","1317 N State St","2/3/2014","MN",43.6683010009223,-94.4473872247339
+"231","Fairmont","UNBRANDED","91","Superamerica","507-235-8424","2197 N State St","6/18/2015","MN",43.6618379,-94.4474959
+"232","Faribault","MOBIL","91 110","Community Co-Op Oil","507-334-5151","1419 Division St W","6/30/2016","MN",44.2904944242424,-93.2894299191919
+"233","Faribault","HY-VEE","91","Faribault","507-334-1702","1930 Grant St","5/20/2020","MN",44.2941441281151,-93.297172645978
+"234","Faribault","HOLIDAY","91","Holiday Stationstore","507-334-7789","707 4th St Nw","12/1/2015","MN",44.294295,-93.280213
+"235","Faribault","KWIK TRIP","91","Kwik Trip","507-332-2138","1405 Hwy 60","9/4/2014","MN",44.293801,-93.2888228
+"236","Faribault","UNBRANDED","91","Lake Country Conv. & Bait","507-334-9711","15090 Shieldsville","10/29/2016","MN",44.321278,-93.300842
+"237","Farmington","ARCO","91","Amcon","651-463-7333","957 8th St","5/7/2016","MN",44.6312074,-93.13622
+"238","Farmington","KWIK TRIP","91","Kwik Trip 443","651-463-8902","18290 Pilot Knob Rd","10/29/2016","MN",44.6841004,-93.1761242235927
+"239","Fergus Falls","UNBRANDED","91","Fleet Farm","218-736-0171","2002 Lincoln Ave W.","2/17/2017","MN",46.2881726489141,-96.1095618999837
+"240","Fergus Falls","HOLIDAY","91","Holiday Stationstore","218-739-3803","305 S Union Ave","12/1/2015","MN",46.2805442653061,-96.0777224285714
+"241","Fergus Falls","TESORO","91","Lakeway Market","218-736-7977","1810 E Fir Ave","5/13/2016","MN",46.2966702772699,-96.0433829197203
+"242","Finland","MOBIL","91","Finland Mobil","218-353-7791","6636 Hwy 1","6/20/2014","MN",NA,NA
+"243","Finlayson","UNBRANDED","91","Finlayson Deep Rock","320-233-6233","2217 Hwy 18","6/20/2014","MN",NA,NA
+"244","Finlayson","CLARK","91","Petry's","320-233-7466","2220 Hwy 18","7/18/2017","MN",NA,NA
+"245","Fisher","CENEX","91","Fisher Cenex","218-901-4071","305 N 4th St","10/5/2018","MN",47.8032835662101,-96.7991082193356
+"246","Flom","UNBRANDED","91","Community Co-Op","218-567-8538","1100 C.R. 38","11/3/2015","MN",47.167097,-96.130661
+"247","Floodwood","UNBRANDED","91","Floodwood Little Store","218-476-2051","200 W 9th Ave","8/4/2014","MN",46.92508,-92.91687
+"248","Floodwood","CENEX","91","Larrys Service & Bait","218-476-2225","314 Hwy 2 W","9/3/2015","MN",NA,NA
+"249","Forest Lake","HOLIDAY","91","Holiday #294","651-464-6573","6571 N Lake Blvd","4/30/2018","MN",NA,NA
+"250","Forest Lake","BP","91","Karl's Korner Bp","651-464-8800","1107 Hwy 97 E","12/1/2015","MN",45.2609019534421,-92.9711082403006
+"251","Forest Lake","KWIK TRIP","91","Kwik Trip","651-982-1123","4868 208th St N","7/10/2017","MN",45.2514646122449,-93.008892877551
+"252","Fridley","MINNOCO","91","Bona Bros Food & Fuel","763-572-9500","5311 University Ave Ne","4/7/2021","MN",45.0646596527576,-93.2627956078256
+"253","Frontenac","SHELL","91","Frontenac Station","651-448-0800","33971 Us Hwy 61","2/25/2016","MN",44.5272839,-92.411138
+"254","Garfield","CENEX","91","Cenex","320-834-2224","4451 Cnty Hwy 82","4/25/2016","MN",NA,NA
+"255","Garrison","HOLIDAY","91","Holiday Stationstore","320-692-4124","27390 Hwy 18","7/24/2017","MN",NA,NA
+"256","Gaylord","CLARK","91","Jon's Fuel & Repair","507-237-2747","211 6th St","8/16/2019","MN",44.5566479,-94.2234809
+"257","Gibbon","MOBIL","91","Jerry's Mobil","507-834-9720","621 Hwy 19","10/12/2015","MN",NA,NA
+"258","Gilbert","HOLIDAY","91","Holiday Stationstore","218-741-7190","303 Arizona Ave W","7/15/2016","MN",47.4939987755102,-92.4643359183673
+"259","Glencoe","CASEY'S","91","Casey's","320-864-4018","801 13th St E","9/2/2019","MN",44.772137,-94.151265
+"260","Glenwood","UNBRANDED","91","Koep's Glenwood Corner","320-634-4660","15800 Hwy 29 N","6/20/2014","MN",45.6765383,-95.3865162
+"261","Goodland","UNBRANDED","91","Fred's Store","218-492-4477","19517 Cnty Rd 560","4/25/2016","MN",NA,NA
+"262","Goodland","UNBRANDED","91","Fred's Store","218-492-4477","19517 County Road 560","8/1/2020","MN",47.1606664,-93.1366063
+"263","Grand Marais","HOLIDAY","91","Holiday Stationstore","218-387-1043","3 Hwy 61 W","2/25/2016","MN",47.7494064038796,-90.3403338349743
+"264","Grand Marais","SUPER AMERICA","91","Super America","218-387-2766","104 1st Ave E","12/1/2015","MN",47.7509717,-90.3310515582564
+"265","Grand Portage","UNBRANDED","91","Ryden's Border Store","218-475-2330","9301 Ryden Rd","7/2/2013","MN",NA,NA
+"266","Grand Rapids","CLARK","91","Clark","218-326-9230","35 C R 63","10/30/2017","MN",47.2404752,-93.5671622
+"267","Grand Rapids","PHILLIPS 66","91","Davis Petroleum","218-326-6666","1301 Nw 4th St","2/4/2014","MN",47.236063,-93.54943
+"268","Grand Rapids","HOLIDAY","91","Holiday","218-326-1092","920 S Pokegama Ave","9/18/2019","MN",47.2319108,-93.528407
+"269","Grand Rapids","HOLIDAY","91","Holiday Stationstore","218-326-4204","202 4th St N E","2/1/2014","MN",47.227987701489,-93.5350035570782
+"270","Grand Rapids","M&H","91","M & H Gas Station","218-326-0888","204 Nw 4th St","10/30/2017","MN",47.2358566096765,-93.5327435515011
+"271","Grand Rapids","UNBRANDED","91","Nuch's In The Corner","218-326-4204","620 4th St N E","2/4/2014","MN",47.2382801447975,-93.5220139981436
+"272","Grand Rapids","UNBRANDED","91","River Road Market","218-326-9104","302 S E 7th Ave","10/2/2017","MN",47.2281075128098,-93.5392147603126
+"273","Greenwood","ARCO","91","Greenwood Market","952-401-3431","21380 Hwy 7","1/1/2021","MN",NA,NA
+"274","Grey Eagle","SHELL","91","The Junction","320-285-2484","102 State St W","2/4/2014","MN",45.8249607,-94.7497211
+"275","Grove City","SHELL","91","Schmidtys","320-857-2741","100 Atlantic Ave W","2/4/2014","MN",45.080024,-94.308005
+"276","Hackensack","UNBRANDED","91","Southside Fuel Plus","218-675-6834","329 Hwy 371 S","2/4/2014","MN",46.9270953362743,-94.5218041327809
+"277","Hackensack","BP","","Swanson's Bait & Gas","218-675-6176","333 First St N","1/6/2015","MN",NA,NA
+"278","Hallock","CLARK","91","Johnson Oil","218-843-2681","502 Atlantic Ave S","2/4/2014","MN",48.777906,-96.9488961
+"279","Hamel","CASEY'S","91","Casey's","763-478-6041","762 Hwy 55","10/30/2018","MN",45.0458757968817,-93.5411552176498
+"280","Ham Lake","CASEY'S","91","Casey's","763-754-0754","13717 Johnson St Ne","7/18/2020","MN",45.219289,-93.2367088
+"281","Ham Lake","BP","91","Ham Lake Bp","763-434-4351","16315 Mn-65","6/29/2019","MN",45.266822137931,-93.2349895689655
+"282","Hampton","MARATHON","91","Hampton Pump & Groc","651-437-7107","23450 Emery Ave","10/7/2014","MN",44.60945745,-92.9939266527316
+"283","Hanley Falls","UNBRANDED","91","Wayne's Standard","507-768-3435","308 County Highway 43","4/19/2019","MN",44.6902130431258,-95.6243720934411
+"284","Harris","UNBRANDED","91","Harris 61-Stop","651-674-2891","43628 Ginger Ave","2/1/2014","MN",45.5837460707071,-92.9756806969697
+"285","Hastings","KWIK TRIP","91","Kwik Trip","760-567-6196","1630 Vermillion St","10/16/2019","MN",44.7295755714286,-92.8522941020408
+"286","Hastings","UNBRANDED","91","M&H Gas Station","651-438-1126","1402 Vermillion St","10/23/2018","MN",44.7321464591837,-92.8522914387755
+"287","Hastings","HOLIDAY","91","Point Douglas","651-437-3411","12370 Pt Douglas Dr S","5/7/2018","MN",44.7129445,-92.840762
+"288","Hawley","MOBIL","91","Kirk's Superstop","218-483-4770","1014 Hobart St","5/3/2016","MN",46.8774235296424,-96.3245708219117
+"289","Hawley","SHELL","91","Tony's Super Valu","218-483-3339","1515 Hartford St","9/19/2015","MN",46.8787418553666,-96.3376149164473
+"290","Henderson","SHELL","91","Wagar's Red Owl","507-248-3343","422 Main St","12/2/2015","MN",44.5283822020795,-93.9067848688973
+"291","Hendricks","SINCLAIR","91","Kirkvold Oil Co","507-275-3358","306 S Division St","10/7/2014","MN",44.5048023,-96.424595546846
+"292","Hermantown","FLEET FARM","91","Fleet Farm Hermantown","218-722-4501","4165 Loberg Ave","12/10/2019","MN",46.8185866,-92.1820903
+"293","Hermantown","SPEEDWAY","91","Pike Lake Speedway","218-729-5084","5601 Us Hwy 53","12/10/2019","MN",46.849022,-92.269937
+"294","Hibbing","CENEX","91","Hibbing Short Stop","218-263-1430","3701 1st Ave","9/14/2018","MN",47.406378,-92.941612
+"295","Hibbing","HOLIDAY","91","Holiday Stationstore","218-262-2855","2517 13th Ave E","10/13/2015","MN",47.4333955,-92.9263032
+"296","Hibbing","MURPHY","91","Murphy Usa 6641","218-263-1376","12070 Hwy 169","2/25/2020","MN",47.4413272,-92.8928405
+"297","Hibbing","SINCLAIR","","Southside Sinclair","218-262-2855","2612 Hwy 73","8/18/2015","MN",47.3115587926726,-93.0228061539117
+"298","Hillman","UNBRANDED","91","Bear Trax Store","320-277-3232","26485 370th Ave","3/8/2017","MN",46.1452696467944,-93.8934706695087
+"299","Hillman","CENEX","91","Huschle's Service","320-277-3953","36897 Hwy 27","9/6/2015","MN",NA,NA
+"300","Hinckley","CENEX","91","Kurt's Station","320-384-6151","202 County Hwy 61","2/4/2014","MN",46.0194178,-92.940557
+"301","Hinckley","UNBRANDED","91","Tobie's Restaurant","320-384-7968","404 Fire Monument Rd","2/4/2014","MN",46.0100667,-92.930546
+"302","Hoffman","CASEY'S","91","Casey's General Store","320-986-5000","129 N Memorial Dr","4/22/2021","MN",45.8288479,-95.7931476
+"303","Hopkins","SHELL","91","Midnite Market","952-933-8452","5 6th Ave S","4/11/2020","MN",44.9242427098864,-93.4073854686112
+"304","Howard Lake","UNBRANDED","91","Joe's Sport Shop","320-543-2715","835 6th St","8/26/2018","MN",45.0608436962365,-94.0715122031183
+"305","Hugo","KWIK TRIP","91","Kwik Trip","651-407-5126","14730 Victor Hugo Blvd","9/10/2019","MN",45.1649008611034,-93.0172734385101
+"306","Hutchinson","CO-OP","91","Cenex","320-234-0407","1110 Hwy 7 W","3/22/2016","MN",NA,NA
+"307","Hutchinson","KWIK TRIP","91","Kwik Trip","320-587-6010","10 Denver Ave Se","6/16/2015","MN",44.8704724618498,-94.3690724841544
+"308","Hutchinson","SHELL","91","The Outpost","320-587-8177","1201 Main St N","10/11/2014","MN",44.9069827,-94.3680643
+"309","International Falls","HOLIDAY","91","Holiday Stationstore","218-283-9324","1100 3rd Ave","11/19/2014","MN",48.594512,-93.403863
+"310","International Falls","UNBRANDED","91","Koerters Amoco","218-283-9300","1601 2nd Ave","11/19/2014","MN",48.589496,-93.402418
+"311","International Falls","ORTON","91","Loon's Nest","218-216-5850","3552 Hwy 11","10/12/2015","MN",NA,NA
+"312","International Falls","CENEX","91","Rainy Lake 1 Stop","218-286-5700","3202 Hwy 11 E","10/13/2015","MN",NA,NA
+"313","International Falls","BP","91","Randy's Discount Auto","218-285-9585","520 3rd St","9/1/2015","MN",48.602812,-93.4077835918367
+"314","Inver Grove Heights","HOLIDAY","91","Holiday Stationstore","651-200-3686","7020 S Robert Trail","5/10/2020","MN",44.8474026,-93.0845980496671
+"315","Inver Grove Heights","ARCO","91","Trestle Stop","651-452-2426","9717 S Robert Trail","12/9/2018","MN",44.8092437,-93.1019408
+"316","Inver Grove Hgts","SINCLAIR","91","Sinclair","651-450-2037","6466 Cahill Ave","11/18/2017","MN",44.8557033,-93.0443472353471
+"317","Inver Grove Hgts","UNBRANDED","91","The Corner Store","641-450-9729","3015 80th St","8/7/2016","MN",44.8338209891695,-93.044856061373
+"318","Inver Grove Hgts","UNBRANDED","","Wipline Airport","612-451-1205","9100 River Rd","12/2/2015","MN",44.8178616,-93.0144077323762
+"319","Isanti","MOBIL","91","Isanti Mobil","763-444-9192","722 Co Rd 5 West","8/14/2015","MN",NA,NA
+"320","Isle","CENEX","91","Isle Cenex","320-676-3865","925 Hwy 47 S","7/25/2014","MN",46.127349,-93.449108
+"321","Isle","TESORO","91","Johnson's Portside","320-676-3811","42099 Hwy 47","5/22/2019","MN",46.155692,-93.462814
+"322","Ivanhoe","BP","91","Veire's Station & Mini Mart","507-694-1333","103 W Division St","8/20/2017","MN",NA,NA
+"323","Jackson","BP","91","Bp","","1021 Us Hwy 71","8/19/2018","MN",43.491213345968,-94.9944897906567
+"324","Kasson","KWIK TRIP","91","Kwik Trip","507-634-4652","9200 250th Ave","9/19/2018","MN",44.0212803,-92.7381573
+"325","Keewatin","SINCLAIR","91","Keewatin Sinclair","218-778-6140","210 N 1st St","2/4/2014","MN",47.3922918,-93.0752521
+"326","Kimball","BP","91","Am Maus & Sons","320-398-3210","21 Maus Dr","5/17/2014","MN",45.3159682585086,-94.3014621311309
+"327","La Crescent","KWIK TRIP","91","Kwik Trip #437","507-895-8710","319 S 3rd St","12/30/2014","MN",43.8255729,-91.3051829098123
+"328","La Crescent","UNBRANDED","91","Southside Corner","507-895-6550","301 Kistler Dr","5/25/2014","MN",43.813382,-91.306371
+"329","Lake City","KWIK TRIP","91","Kwik Trip","651-345-2449","119 N Lakeshore Dr","10/30/2016","MN",44.4495747496792,-92.2671276502282
+"330","Lake Elmo","MOBIL","91","Hagberg's Market","651-777-2888","11325 Stillwater Blvd","7/1/2014","MN",45.0033867,-92.8762409582382
+"331","Lake Elmo","KWIK TRIP","91","Kwik Trip #248","651-264-9514","9955 Hudson Blvd N","4/11/2019","MN",44.9512710426571,-92.9044732382581
+"332","Lake Elmo","HOLIDAY","91","River Country Co-Op","651-777-6029","4201 Manning Ave N","7/1/2014","MN",44.982675,-92.861682
+"333","Lakefield","UNBRANDED","91","Hage Oil Co.","507-662-6666","501 Hwy 86 S","4/11/2013","MN",43.679722,-95.174695
+"334","Lake Park","UNBRANDED","91","Community Co-Op","218-238-5911","14583 Us Hwy 10","7/22/2013","MN",45.2874737,-93.5514304
+"335","Lakeville","HOLIDAY","110","Holiday Stationstore","952-469-1998","21100 Kenrick Ave","9/13/2017","MN",44.64347805,-93.2926077
+"336","Lakeville","KWIK TRIP","91","Kwik Trip","952-432-3888","17388 Glacier Way Ave","2/17/2017","MN",44.6977583,-93.2184394129851
+"337","Lakeville","FLEET FARM","91","Mills Fleet Farm","952-435-3832","17070 Kenrick Ave","10/19/2019","MN",44.7012751,-93.2840958
+"338","Lakeville","SPEEDWAY","91","Speedway","952-378-4676","18450 Orchard Trail","3/28/2021","MN",44.67476,-93.283703
+"339","Lakeville","SUPER AMERICA","91","Super America","507-263-4631","9290 202nd St W","9/3/2019","MN",44.6554417,-93.2542736913343
+"340","Laporte","SINCLAIR","91","Howg's Gas & Service","218-224-2774","10 Central Ave S","5/9/2021","MN",NA,NA
+"341","Lent Township","TESORO","91","Stacy-Lent Tesoro","651-462-2766","5563 Athens Trail","12/4/2015","MN",45.4510368095202,-92.996158339137
+"342","Lester Prairie","TESORO","91","Big Don's Carthedral","320-395-2214","601 Central Ave","12/4/2015","MN",44.884438,-94.039616
+"343","Le Sueur","HOLIDAY","91","Holiday #233","507-665-6061","420 N Main St","3/2/2016","MN",44.464574668542,-93.9129828808306
+"344","Lewiston","KWIK TRIP","91","Kwik Trip #737","507-523-3300","195 Co Rd 25","12/4/2015","MN",44.0348305,-91.8350633
+"345","Lindstrom","BP","91","Wally Carlson & Sons","651-257-2476","13261 St Croix Ave","12/4/2015","MN",45.390276969697,-92.8371395454545
+"346","Lino Lakes","UNBRANDED","91","Bills Superette","651-200-4449","8020 Lake Dr","10/6/2013","MN",45.198582137276,-93.0989265036584
+"347","Lino Lakes","CENEX","91","Lino Lakes One Stop","651-765-0512","6501 Ware Rd","7/10/2017","MN",45.1436909387755,-93.1234694795918
+"348","Litchfield","CENEX","91","Consumers Coop","320-693-2821","1025 E Frontage Rd","12/2/2015","MN",45.12126625,-94.5048955
+"349","Litchfield","HOLIDAY","91","Holiday #3534","320-693-7498","639 E Hwy 12","10/28/2015","MN",NA,NA
+"350","Little Canada","SUPER AMERICA","91","Store 4753","651-484-7810","3090 N Rice St","10/21/2019","MN",45.034887,-93.1060878181818
+"351","Little Falls","HOLIDAY","91","Holiday #398","320-632-2406","1704 1st Ave Ne","10/21/2015","MN",45.9757167612201,-94.336110206255
+"352","Little Falls","HOLIDAY","91","Holiday Stationstore","320-632-2637","1301 1st Ave N E","10/7/2014","MN",45.975794,-94.342489
+"353","Little Falls","TESORO","91","Zarn's Oil","320-632-9666","1018 Haven","4/9/2021","MN",45.9868997821269,-94.3542310699325
+"354","Little Falls","TESORO","91","Zarn's Oil Co","320-632-9666","1018 Haven Rd","12/14/2015","MN",45.9868997821269,-94.3542310699325
+"355","Long Prairie","HOLIDAY","91","Holiday Stationstore","320-732-6721","14 S Lake St","2/5/2014","MN",NA,NA
+"356","Long Prairie","UNBRANDED","91","Midway","320-732-2018","17908 Us Hwy 71","3/2/2016","MN",46.031949,-94.8695533
+"357","Longville","BP","91","One Stop C Store","218-363-2252","5006 Hwy 84","7/10/2019","MN",46.9859916961059,-94.2108593961586
+"358","Lonsdale","UNBRANDED","91","Jessy Food Mart","507-744-2379","212 Central St E","1/22/2014","MN",44.4806467775582,-93.4245122623456
+"359","Mahnomen","CENEX","91","Community Co-Op","218-935-2258","1452 Hwy 200","11/3/2015","MN",47.3244686,-95.7501556
+"360","Mankato","UNBRANDED","91","Hank's Service & Repair","507-387-2940","1102 N Riverfront Dr","2/5/2014","MN",44.1769854489796,-93.9936689795918
+"361","Mankato","HOLIDAY","91","Holiday Stationstore","507-388-6087","1302 N Riverfront Dr","11/1/2016","MN",44.1780894081633,-93.9925971428571
+"362","Mankato","KWIK TRIP","91","Kwik Trip","507-345-1202","1549 Madison Ave.","1/6/2017","MN",44.166796,-93.9678819416
+"363","Mankato","KWIK TRIP","91","Kwik Trip","507-388-5053","1701 Premier Dr","11/1/2016","MN",44.181548,-93.951824
+"364","Mankato","KWIK TRIP","91","Kwik Trip #449","507-345-8466","1291 Raintree Rd","12/4/2016","MN",44.1706163,-93.9575525
+"365","Mankato","FLEET FARM","91","Mills Fleet Farm","507-345-6401","1850 Premier Dr","8/13/2015","MN",44.18087135,-93.9502981589605
+"366","Mankato","SHELL","91","Shell","507-387-5093","2424 3rd Ave","11/1/2016","MN",44.1923478226292,-93.996604305736
+"367","Maple Grove","HOLIDAY","91","Holiday Stationstore","763-425-4408","11201 93rd Ave N","12/18/2020","MN",45.123399,-93.42279
+"368","Maple Grove","HOLIDAY","91","Holiday Station Stores","763-559-3059","13303 Bass Lake Rd,","3/1/2019","MN",45.06737405,-93.4498171121993
+"369","Maple Grove","UNBRANDED","102 110","Kisch Oil Co","763-428-2887","17470 113th Ave N","9/18/2019","MN",NA,NA
+"370","Maple Grove","BP","91","Maple Grove Bp","763-559-9898","13379 Bass Lake Rd","1/28/2020","MN",45.06779005,-93.450141682727
+"371","Maple Grove","UNBRANDED","91","Steve's Auto World Of Maple Grove","763-852-9999","9871 Maple Grove Pkwy","2/23/2019","MN",45.1327739,-93.477686451023
+"372","Maple Lake","CENEX","91","Cenex","320-963-6074","4825 Hwy 55","7/5/2013","MN",45.2321071,-94.0004741
+"373","Maple Plain","HOLIDAY","91","Holiday Station Store","763-479-6875","1300 C.R. 29","9/12/2020","MN",45.003477,-93.645529
+"374","Maplewood","AMSTAR","91","Fleming's Bear 36 Auto","651-770-6452","2271 White Bear Ave","2/18/2016","MN",45.0099897142857,-93.0235065714286
+"375","Maplewood","HOLIDAY","91","Holiday Store #480","651-748-4900","1535 Beam Avenue","7/31/2019","MN",45.0281422297297,-93.0360175135135
+"376","Marcell","UNBRANDED","91","Frontier Sports","218-832-3901","48919 Hwy 38","12/15/2015","MN",NA,NA
+"377","Marine On St Croix","UNBRANDED","91","Big Marine Lake Store","651-433-5043","19261 Manning Trl N","7/17/2020","MN",NA,NA
+"378","Marine On St Croix","UNBRANDED","91","Ostlunds Marine Garage","651-433-2038","180 Judd St","12/6/2015","MN",45.1975399137022,-92.7691384779768
+"379","Mayer","CASEY'S","92","Casey's General Store","952-657-2253","313 Shimmcor St","5/21/2019","MN",NA,NA
+"380","Mayer","MOBIL","91","Mayer Mobil","952-657-2273","308 Ash Ave N","9/4/2013","MN",44.8871099387755,-93.8879043469388
+"381","Mcgregor","UNBRANDED","88 100","Isedor Iverson Airport","218-768-2717","Meadow Dr","10/7/2014","MN",46.6119495,-93.3176724
+"382","Mcgregor","UNBRANDED","91","Sather's Gateway Store","218-426-3255","47952 Hwy 65","6/20/2014","MN",46.6084381,-93.2929976
+"383","Mcgregor","UNBRANDED","91","Willeys Sport Shop","218-426-4350","46054 Hwy 65","10/22/2013","MN",46.6084381,-93.2929976
+"384","Medford","UNBRANDED","91","Anhorn's Gas & Tire","507-451-1651","216 S Main St","12/6/2015","MN",44.171687755102,-93.2466553265306
+"385","Medina","CASEY'S","91","Casey's General Store","763-478-6041","762 Hwy 55","9/15/2016","MN",45.0458757968817,-93.5411552176498
+"386","Melrose","CLARK","91","Clark","320-256-3519","423 2nd Ave E","12/6/2015","MN",45.6792840512095,-94.8114628425982
+"387","Melrose","SINCLAIR","91","Sinclair","320-256-4478","406 S 2nd Ave E","7/14/2016","MN",45.6704122244898,-94.811603
+"388","Menahga","SHELL","91","Shell Sport & Bait","218-564-5203","17 Aspen Ave N W","2/5/2014","MN",46.754259015306,-95.0979893441042
+"389","Merrifield","UNBRANDED","91","Sportsman's Store","218-765-3707","29054 Cr 3","5/16/2017","MN",46.4664585,-94.1724637
+"390","Merrifield","SUPER AMERICA","91","Superamerica","218-829-8672","11027 Crystal Lake Rd","12/6/2015","MN",46.4636205,-94.1599226
+"391","Milaca","UNBRANDED","91","Billings Service","320-983-3360","305 Central Ave N","3/7/2015","MN",45.757501375,-93.652087375
+"392","Milaca","MARATHON","91","Broberg's Country Store","320-983-6200","19162 Us Hwy 169","10/7/2014","MN",45.764354,-93.641194
+"393","Milaca","UNBRANDED","91","Corner Mart","320-983-3778","205 Central Ave N","2/5/2014","MN",45.756185,-93.6517502244898
+"394","Milaca","HOLIDAY","91","Holiday #3764","320-983-6771","410 10th Ave Se","10/28/2015","MN",45.753126,-93.637566
+"395","Milaca","KWIK TRIP","91","Kwik Trip #1026","320-983-2010","920 1st St E","1/28/2020","MN",45.7565226467628,-93.640375850218
+"396","Miltona","TESORO","91","Gas Mart","218-943-3333","4350 Co Rd 14 Ne","2/18/2016","MN",46.0483886912382,-95.3137718163487
+"397","Minneapolis","HOLIDAY","91","Holiday","612-331-2331","1301 Industrial Blvd Ne","1/9/2019","MN",45.001932,-93.211456
+"398","Minneapolis","HOLIDAY","91","Holiday","612-331-9031","620 Central Ave Ne","12/6/2018","MN",45.0089094,-93.2473656
+"399","Minneapolis","HOLIDAY","91","Holiday Stationstore","612-332-3161","2124 E. Franklin Ave","6/20/2019","MN",44.9628657469494,-93.3072374083017
+"400","Minneapolis","HOLIDAY","91","Holiday Stationstore","612-922-8713","3700 W 50th St","4/9/2021","MN",44.912594,-93.326672
+"401","Minneapolis","HOLIDAY","91","Holiday Stationstores","612-529-9774","1624 N Washington Ave","1/4/2021","MN",44.995585,-93.2810492027529
+"402","Minneapolis","UNBRANDED","91","Jim's Chicago Service","612-823-9913","5400 Chicago Ave S","1/23/2018","MN",44.9322995,-93.2625014
+"403","Minneapolis","UNBRANDED","91","Richfield 66","612-861-4007","1217 E 66th St","7/31/2016","MN",44.8836422,-93.245473
+"404","Minneapolis","SHELL","91","Riverside Shell","612-333-3441","2817 Riverside Ave","8/1/2020","MN",44.9632916363636,-93.2312046969697
+"405","Minneapolis","SPEEDWAY","91","Speedway","763-591-5960","9400 36th Ave N","4/30/2019","MN",45.0353554,-93.2779692
+"406","Minnetonka","MINNOCO","91","Bauer's Minnetonka Minnoco","952-979-9129","13118 Excelsior Blvd","8/26/2019","MN",44.9170073061224,-93.4462356734694
+"407","Minnetonka","MOBIL","91","Glen Lake Mobil","952-988-0140","14525 Excelsior Blvd","12/1/2015","MN",44.9050778161494,-93.4642475414853
+"408","Minnetonka","SPEEDWAY","91","Speedway","952-938-5507","13305 Excelsior Blvd","2/2/2019","MN",44.9150955714286,-93.4484378571428
+"409","Montevideo","CENEX","91","Cenex Conv Store","320-269-5570","2402 E Hwy 7","12/8/2015","MN",NA,NA
+"410","Montevideo","CENEX","91","Farmers Union Oil Co","320-269-8861","124 W Nichols Ave","12/8/2015","MN",44.9443099591837,-95.7244082857143
+"411","Montevideo","CENEX","91","Jims Cenex","320-269-8645","605 Us Hwy 212","4/3/2016","MN",44.9350305,-95.7300713
+"412","Montgomery","UNBRANDED","91","Oam Food & Fuel","507-364-5778","301 4th St Sw","9/17/2016","MN",44.436308,-93.585028
+"413","Monticello","HOLIDAY","91","Holiday Stationstore","763-295-3660","123 7th St W","4/4/2021","MN",45.3008415710324,-93.798122690094
+"414","Monticello","KWIK TRIP","91","Kwik Trip","763-295-0689","9855 Hart Blvd","12/8/2015","MN",45.2936085,-93.7674444993646
+"415","Monticello","UNBRANDED","91","Kwik-Trip","763-295-8857","9440 Hwy 25","6/1/2017","MN",NA,NA
+"416","Monticello","FLEET FARM","91","Mills Fleet Farm","763-272-1610","320 Chelsea Rd","6/21/2018","MN",45.2901461,-93.7823862812938
+"417","Monticello","UNBRANDED","91","Red's Service","763-295-4130","200 E Broadway St","12/8/2015","MN",45.304694,-93.79154
+"418","Montrose","CASEY'S","91","Casey’S General Store","763-675-3737","175 Nelson Blvd","10/27/2019","MN",45.0649539655172,-93.9090234482759
+"419","Moorhead","CENEX","94 102 111","Brady's Service","218-233-5740","2408 8th St S","6/20/2020","MN",46.85129955,-96.76831935
+"420","Moorhead","HOLIDAY","91","Holiday #415","218-233-0850","3475 28th Ave S","5/16/2017","MN",46.8477844,-96.7464858
+"421","Moorhead","CENEX","94 97 111","Northside Service","218-233-9100","1036 1st Ave N","7/15/2017","MN",46.8761096,-96.7559121
+"422","Moose Lake","BP","91","Gateway B P","218-485-8391","1145 Arrowhead Ln","2/5/2014","MN",46.4461257,-92.7687652
+"423","Moose Lake","HOLIDAY","91","Holiday Stationstore","218-485-8827","80 Arrowhead Ln","10/7/2014","MN",46.4504724,-92.7665206
+"424","Moose Lake","KWIK TRIP","91","Kwik Trip #166","218-485-5782","4694 Opportunity Dr","9/30/2018","MN",46.4332081,-92.7554478
+"425","Mora","BP","91","C-Store","320-679-1977","2743 Hwy 65","8/16/2013","MN",45.849201,-93.296568
+"426","Mora","CENEX","91","Federated Co-Op's","320-679-2682","206 S Union St","12/8/2015","MN",45.8763939,-93.29705
+"427","Mora","HOLIDAY","91","Holiday Stationstore","320-679-3856","700 S Hwy 65","12/8/2015","MN",45.884171,-93.286439
+"428","Morris","CENEX","91","Cenex South","320-589-4774","103 Atlantic Ave","5/15/2013","MN",45.5835591818182,-95.9117532929293
+"429","Motley","SHELL","91","Bricks Travel Center","218-352-6677","265 Us Hwy 10 W","6/26/2018","MN",NA,NA
+"430","Mound","SPEEDWAY","91","Speedway","952-472-5559","5337 Shoreline Dr","6/17/2020","MN",44.9363507346939,-93.6583840204082
+"431","Mounds View","BP","91","Bp","763-786-3433","2155 Co Rd 10","12/8/2015","MN",NA,NA
+"432","Mounds View","SPEEDWAY","87 88 91","Speedway","651-633-3848","2380 County Rd D West","9/2/2020","MN",NA,NA
+"433","Mountain Iron","CLARK","91","Short Stop","218-749-1424","5539 3rd St","5/6/2019","MN",47.4171163,-92.6063922
+"434","Nashwauk","SINCLAIR","91","Lavala Sinclair","218-885-1650","101 Central Ave","2/5/2014","MN",47.3806778,-93.168332
+"435","Nashwauk","SINCLAIR","91","Sinclair Express","218-885-2021","830 1st St","2/5/2014","MN",47.3699197,-93.17108
+"436","Navarre","HOLIDAY","91","Holiday #3547","952-471-8378","3340 Shoreline Dr","6/16/2017","MN",NA,NA
+"437","Navarre","MINNOCO","91","Minnoco","952-471-9082","3360 Shoreline Rd","6/16/2017","MN",NA,NA
+"438","Nevis","SHELL","91","T&M Express","218-652-3115","116 Bunyan Trail","2/5/2014","MN",46.963878,-94.842107
+"439","New Brighton","UNBRANDED","98 110","Beach's Long Lake Srv","651-784-6924","2251 Long Lake Rd","7/28/2019","MN",45.0656442,-93.2026013
+"440","New Brighton","UNBRANDED","91","Winner Auto Service/Winner Gas/ Pump 'n Munch","651-633-9950","500 Old Hwy 8 Nw","5/17/2021","MN",NA,NA
+"441","New London","BP","91","Skindeliens Mini-Mart","320-354-2423","37 Main St N","10/27/2015","MN",45.3021137773343,-94.9437985194904
+"442","New Market","CLARK","91","Fish Rock Country","952-461-2251","341 Main St","10/7/2014","MN",44.5731541198896,-93.354107525963
+"443","New Prague","UNBRANDED","91","Crawford Standard","952-758-4533","126 Main St E","10/7/2014","MN",44.54337345,-93.5758370437844
+"444","New Prague","HOLIDAY","91","Holiday Stationstore","952-758-5252","102 Cnty Rd 37","12/23/2018","MN",NA,NA
+"445","New Prague","KWIK TRIP","91","Kwik Trip","952-758-3390","100 4th Ave Nw","12/23/2018","MN",44.545294,-93.584615
+"446","New Prague","SUPER AMERICA","91","Super America","952-758-7435","100 10th Ave Se","12/23/2018","MN",44.5329686,-93.5559724
+"447","New Richland","VP RACING","91 95 110","R F 3 Industries","507-317-8105","213 Broadway Ave N","4/21/2018","MN",43.8951808571429,-93.493744877551
+"448","New Ulm","UNBRANDED","91","Harmening Oil","507-354-6414","1400 S Valley St","12/8/2015","MN",44.3029907185702,-94.4433196445955
+"449","New Ulm","KWIK TRIP","91","Kwik Trip #432","507-233-8940","1521 S Broadway","2/3/2017","MN",44.2974344,-94.445458285
+"450","New Ulm","UNBRANDED","91","S S L Auto Service","507-354-2619","626 N Minnesota St","2/18/2016","MN",44.3200906,-94.4649095
+"451","Nicollet","UNBRANDED","91","Crystal Valley","507-225-3741","320 N. 3rd St.","7/19/2019","MN",44.32850931224,-93.9554903219743
+"452","Nicollet","UNBRANDED","87 91","Nicollet Mart","507-232-3232","220 Main St.","7/19/2019","MN",44.2756415670386,-94.1905715620818
+"453","Nisswa","HOLIDAY","91","Holiday Stationstore","218-963-2946","4917 County Rd 77","2/5/2014","MN",46.4974333,-94.3136967
+"454","North Branch","HOLIDAY","91","Holiday Stationstore","651-674-8094","5554 St Croix Trail","11/20/2014","MN",45.5110647953208,-93.0128658251729
+"455","Northfield","KWIK TRIP","91","Kwik Trip","507-645-6053","500 Laurel Ct","5/21/2020","MN",44.454999,-93.16612
+"456","Northfield","KWIK TRIP","91","Kwik Trip 489","507-645-2662","1910 Honeylocust Dr.","11/5/2016","MN",44.4357425,-93.1885899
+"457","Northfield","UNBRANDED","","Northfield Auto Care","507-645-4148","918 Division St","4/9/2015","MN",44.4497412244898,-93.1602690816326
+"458","Northfield","UNBRANDED","91","Ziggy's","507-663-0228","109 Water St N","7/4/2016","MN",44.4599347,-93.1615523
+"459","North Mankato","SHELL","91","Lor Ray Deli Mart","507-387-3718","1711 Lor Ray Dr","11/1/2016","MN",44.17735485,-94.03396835
+"460","Norwood Y. America","KWIK TRIP","91","Kwik Trip","952-467-1957","520 Reform St N","5/25/2018","MN",44.773688,-93.929503
+"461","Nowthen","UNBRANDED","91","Bill's Superette","763-241-5576","8077 Viking Blvd","2/5/2014","MN",45.3280727937199,-93.4726600756331
+"462","Oakdale","FLEET FARM","91","Fleet Farm","651-748-7989","5635 Hadley Ave N","10/29/2015","MN",45.0312382,-92.9682852
+"463","Oakdale","KWIK TRIP","91","Kwik Trip","651-777-7103","3355 Hadley Ave","3/26/2014","MN",44.9970153,-92.9639036
+"464","Oak Grove","UNBRANDED","91","Bill's Superette","763-213-1425","3271 Viking Blvd Nw","6/14/2014","MN",45.3200980583775,-93.3482675735465
+"465","Ogilvie","BP","91","Schmidttys","320-272-4469","400 W Hwy 23","5/16/2013","MN",NA,NA
+"466","Olivia","CENEX","91","Honzay's Gas Station","320-523-1241","1208 W Lincoln Ave","1/16/2020","MN",44.7765478918919,-94.9941831621622
+"467","Onamia","UNBRANDED","91","Anderson Bros Garage","320-532-3381","38721 Us Hwy 169","7/22/2013","MN",46.059322,-93.662155
+"468","Oronoco","CENEX","91","Cenex","507-367-2294","1455 Cedar Pt Rd Se","8/28/2014","MN",44.1495433,-92.5281298
+"469","Orr","UNBRANDED","91","Jim's Ash Trail Store","218-374-3071","12193 Ash River Trail","8/13/2019","MN",NA,NA
+"470","Orrock","MARATHON","91","Sand Dunes Food And Fuel","763-263-8200","26215 184th St Nw","11/14/2020","MN",45.4461640342709,-93.7358849666076
+"471","Ortonville","HOLIDAY","91","Holiday Stationstore","320-839-2120","624 2nd St S E","8/22/2017","MN",45.3134638290077,-96.4520009614791
+"472","Osakis","UNBRANDED","91","Deluxe Oil Co","320-859-2290","216 W Nokomis St","1/11/2016","MN",45.8676529,-95.1573858
+"473","Osakis","UNBRANDED","91","Head Of Lakes Resort","320-859-4252","15080 Gardenia Dr","1/11/2016","MN",NA,NA
+"474","Osseo","MARATHON","91","Sipe Bros","763-425-2524","408 3rd St Se","9/19/2014","MN",45.11222355,-93.396460617032
+"475","Otsego","HOLIDAY","91","Holiday Stationstore","763-241-1007","9025 Quaday Ave","9/1/2015","MN",45.282361001589,-93.5643427693488
+"476","Ottertail","TESORO","91","Carr's Lk Country Super Mkt","218-367-2550","320 Hwy 78","2/18/2016","MN",46.4155230443539,-95.5886165071851
+"477","Outing","UNBRANDED","91","Outing Station","218-792-5332","410 Hwy 6 N E","6/28/2014","MN",NA,NA
+"478","Owatonna","HOLIDAY","91","Holiday","507-446-1061","695 West Bridge Street","10/13/2019","MN",44.0842531,-93.2654374
+"479","Owatonna","KWIK TRIP","91","Kwik Trip","507-451-3905","135 Landmark Dr Ne","7/22/2016","MN",44.112754,-93.225349
+"480","Owatonna","KWIK TRIP","91","Kwik Trip Hwy 14","507-446-9576","1075 W Frontage Rd","7/7/2019","MN",44.153307,-93.256837
+"481","Palisade","UNBRANDED","91","Palisade Co-Op","218-845-2333","212 Main St","2/5/2014","MN",46.713141,-93.4903400612245
+"482","Palisade","UNBRANDED","91","Palisade One Stop","218-845-2156","307 Main St","6/4/2015","MN",46.7133104028083,-93.4888090798582
+"483","Park Rapids","CENEX","91","C-Store","218-237-2667","810 Main Ave N","10/7/2014","MN",46.930746960056,-95.060031724542
+"484","Park Rapids","UNBRANDED","91","Emmaville Store","218-732-8544","28021 C. R. 4","6/3/2015","MN",NA,NA
+"485","Park Rapids","HOLIDAY","91","Holiday Stationstore","218-732-7136","719 E 1st St","9/1/2015","MN",46.9222586,-95.0712191
+"486","Park Rapids","UNBRANDED","91","Nick's Service","218-732-5119","101 N Park Ave","2/5/2014","MN",45.1529615,-93.2666943
+"487","Park Rapids","BP","91","Park's Bp - 6157","218-732-7232","100 Main Ave N","1/12/2016","MN",46.922264,-95.059921
+"488","Park Rapids","SHELL","91","T&M Express","218-732-8853","1104 1st St E","1/12/2016","MN",46.921862,-95.0368002941177
+"489","Paynesville","TESORO","","Hilltop Conv. Store","320-243-3133","28518 Hwy 55","9/11/2015","MN",45.3777583,-94.7285371
+"490","Paynesville","SHELL","91","H & L Express","320-243-5020","907 W Minnesota St","1/12/2016","MN",45.377832211631,-94.7280109679537
+"491","Paynesville","KWIK TRIP","91","Kwik Trip","320-243-2118","645 Opportunity Park Dr","8/15/2019","MN",NA,NA
+"492","Pelican Rapids","CENEX","91","Co-Op Park Region","218-863-5740","120 S Broadway","9/10/2017","MN",46.5680154489796,-96.083684244898
+"493","Pelican Rapids","UNBRANDED","91","Lakeland True Value","218-863-5703","22438 Old 59 Rd","2/5/2014","MN",46.569912,-96.0835925
+"494","Pelican Rapids","UNBRANDED","91","Southtown C Store","218-863-4060","901 S Broadway","2/5/2014","MN",46.55957,-96.083355
+"495","Pengilly","SINCLAIR","91","Swan Sinclair","218-885-3806","31277 Hwy 65","6/28/2014","MN",47.3298042991728,-93.1972921942084
+"496","Pennock","BP","91","Pit Stop","320-599-5117","102 Us Hwy 12 W","1/11/2016","MN",NA,NA
+"497","Perham","CENEX","91","Lakes Area Coop","218-346-7810","43937 Ft Thunder Rd","9/11/2015","MN",NA,NA
+"498","Perham","TESORO","91","Tesoro","218-346-7878","940 Palbubicki Ave","8/27/2014","MN",NA,NA
+"499","Pierz","SUPER AMERICA","91","Super America","320-468-0158","14298 Hwy 25","7/9/2018","MN",NA,NA
+"500","Pine City","CASEY'S","91","Casey's General Store","320-629-8991","920 Main St","9/17/2017","MN",43.9115941632653,-91.3591685102041
+"501","Pine City","PIT STOP","","Rock Creek Pit Stop","320-629-1422","5987 Hwy 70","6/20/2014","MN",45.7666864,-92.9908863
+"502","Pine River","UNBRANDED","91","Pine River Family Mkt","218-587-2488","500 Front St","6/29/2013","MN",46.71528,-94.399803
+"503","Pipestone","BP","91","Luann's Gas & More","507-825-5747","102 8th Ave Se","6/26/2017","MN",43.9996015716948,-96.3075981597272
+"504","Plainview","CENEX","91","High Plains Cenex","507-534-2144","445 N Wabasha St","9/1/2015","MN",44.1694450322581,-92.165525483871
+"505","Plymouth","BP","91","Bp","763-557-7152","3855 Plymouth Blvd","3/1/2019","MN",45.0259780398277,-93.4779471281282
+"506","Plymouth","KWIK TRIP","91","Kwik Trip #411","763-577-1983","1605 Annapolis Ln N","8/15/2017","MN",44.99721485,-93.4549780020985
+"507","Plymouth","UNBRANDED","91","Vip Auto Service","763-553-9113","9950 County Rd 9","6/2/2016","MN",NA,NA
+"508","Preston","CASEY'S","91","Caseys","","Hwy 52","9/26/2019","MN",43.6811577,-92.0913191
+"509","Princeton","BP","91","Hoffman Oil Co","763-389-3300","509 19th Ave N","2/5/2014","MN",45.5752069865663,-93.6022512361389
+"510","Princeton","KWIK TRIP","91","Kwik Trip","763-389-3755","707 Northland Dr","1/22/2019","MN",45.5577392831198,-93.5835692507652
+"511","Princeton","MARATHON","91","Marathon","763-389-1992","106 9th Ave Cir S","1/11/2016","MN",45.5686048571429,-93.5861191428571
+"512","Prinsburg","CENEX","91","Cenex","320-978-8900","101 3rd Street","1/7/2020","MN",44.935034,-95.191947
+"513","Prior Lake","HOLIDAY","91","Holiday #198","952-447-5051","16800 Duluth Ave S E","10/27/2015","MN",44.7062588445145,-93.4301395950128
+"514","Prior Lake","KWIK TRIP","91","Kwik Trip","952-440-1100","16751 Fish Point Rd","1/31/2016","MN",44.707975,-93.4112388
+"515","Prior Lake","SHELL","93","Prior Lake Shell","952-447-5286","4805 Dakota St Se","4/6/2021","MN",44.714549,-93.423075
+"516","Prior Lake","UNBRANDED","91","Shakopee Dakota","952-233-2992","14160 Wilds Path Dr N W","7/12/2015","MN",44.7445971,-93.4690258038972
+"517","Proctor","HOLIDAY","91","Holiday Stationstore #85","218-628-8000","9314 W Skyline Pkwy","6/26/2017","MN",46.7252056,-92.2218948
+"518","Proctor","LITTLE STORE","91","Little Store","218-624-9654","9308 Westgate Blvd","8/31/2015","MN",46.7267940560335,-92.2177128737128
+"519","Proctor","BP","91","Troy's Amoco","218-624-3322","302 2nd St","2/5/2014","MN",46.7438467283061,-92.2244442860992
+"520","Ramsey","UNBRANDED","91","Bill's Superette","763-422-8383","15299 St Francis Blvd","2/5/2014","MN",45.2510681,-93.4069274
+"521","Ramsey","CASEY'S","91","Casey's General Store","763-576-9384","14131 Sunfish Lake Blvd Nw","1/5/2020","MN",45.2271935,-93.4285574271617
+"522","Ramsey","HOLIDAY","91","Holiday #323","763-422-8397","14350 Xkimo St","10/27/2015","MN",45.2308036,-93.3992814
+"523","Randall","CASEY'S","91","Victory","320-749-2247","832 Superior Ave","9/30/2019","MN",46.0806277109944,-94.4927041099448
+"524","Randolph","CENEX","91","Woody's Pump N Munch","507-263-9114","29195 Randolph Blvd","5/16/2017","MN",44.521685,-93.012787
+"525","Red Lake Falls","SHELL","87 91","Eagle Square","218-253-2995","405 Bridge St Ne","1/11/2016","MN",47.8875517,-96.2712492
+"526","Red Wing","MOBIL","91","Joe's Mobil","651-388-5224","609 Plum St","10/7/2014","MN",44.5624945,-92.527914
+"527","Red Wing","MARATHON","91","Wilson Oil Co","651-388-5783","2355 Old W Main St","10/7/2014","MN",44.5650853673469,-92.5649388979592
+"528","Redwood Falls","HOLIDAY","91","Holiday Stationstore","507-637-8332","1111 E Bridge St","4/3/2017","MN",44.5413762,-95.1062769
+"529","Remer","CO-OP","91","Remer Junction Oil","218-566-2390","6790 Hwy 6","6/20/2014","MN",NA,NA
+"530","Rice","HOLIDAY","91","Holiday #348","320-393-4450","435 E Main St","10/19/2015","MN",45.7541161718046,-94.2155244759238
+"531","Richfield","BP","91","Penn Bp","612-861-7194","6601 Penn Ave S","12/1/2019","MN",44.88327745,-93.3081603994534
+"532","Richfield","UNBRANDED","91","Repair Rite","612-787-7280","1217 E 66th St","1/2/2021","MN",44.883413,-93.257656122449
+"533","Richmond","CASEY'S","91","Casey's General Store","320-597-2888","224 4th St","1/11/2016","MN",45.4489024,-94.5251048
+"534","Robbinsdale","SHELL","91","Sipe's Car Care Center","612-315-0569","4200 W Broadway Ave","1/11/2016","MN",45.031588,-93.339578
+"535","Rochester","KWIK TRIP","91","Bandel","608-577-3800","6413 Bandel Rd Nw","8/8/2018","MN",44.0920807665488,-92.5045311218316
+"536","Rochester","FILL-UPS","91","Fleet Farm","507-281-1130","4891 Maine Ave Se","3/8/2015","MN",43.9515983,-92.4626592
+"537","Rochester","HOLIDAY","91","Holiday Station Store","507-282-3699","1851 Assisi Dr Nw","5/15/2016","MN",44.043985,-92.4858582
+"538","Rochester","HOLIDAY","91","Holiday Station Store","507-282-1528","3225 40th Ave Nw","11/22/2016","MN",44.0402481,-92.5242183
+"539","Rochester","MINNOCO","91","Jeff's Little Store","507-285-0014","3335 Marion Rd Se","5/13/2017","MN",43.973532015683,-92.392140973549
+"540","Rochester","KWIK TRIP","91","Kwik Trip","507-282-0192","2109 2nd St Sw","2/5/2017","MN",44.021682,-92.4946226363636
+"541","Rochester","KWIK TRIP","91","Kwik Trip","507-292-0431","3111 Wellner Dr Ne","10/26/2018","MN",44.05636650697,-92.4531444383913
+"542","Rochester","KWIK TRIP","91","Kwik Trip","507-280-7624","1933 S Broadway","3/10/2016","MN",43.9937497090695,-92.4629905203386
+"543","Rochester","KWIK TRIP","91","Kwik Trip","507-289-2185","1990 Scott Rd N W","5/19/2016","MN",44.0443839,-92.5152772
+"544","Rochester","KWIK TRIP","91","Kwik Trip #357","507-287-8644","1221 Marion Rd Se","4/8/2017","MN",44.0085802857143,-92.441415
+"545","Rochester","AMOCO","91 93","Throndson Oil & Lp","507-289-2519","2525 Schuster Ln Nw","1/20/2021","MN",44.0388049,-92.4992084231281
+"546","Rogers","HOLIDAY","91","Holiday #307","763-428-5024","21451 S Diamond Lk Rd","6/20/2019","MN",NA,NA
+"547","Roseau","HOLIDAY","91","Holiday #193","218-463-1496","503 3rd St N W","10/27/2015","MN",48.8414947093941,-95.7661668692547
+"548","Roseau","CENEX","91","Roseau Cenex","218-463-3722","209 5th Ave Nw","7/5/2016","MN",48.8547888183201,-95.7685119194589
+"549","Rosemount","KWIK TRIP","91","Kwik Trip","651-322-1550","14810 S Robert Trail","11/12/2016","MN",44.7350149,-93.1257695960947
+"550","Rosemount","SHELL","91","Shell","952-432-4944","7468 167th St W","10/23/2013","MN",NA,NA
+"551","Roseville","TEXACO","91","Dave's Roseville Auto","651-636-7718","2171 Hamline Ave N","11/4/2016","MN",45.0066367058824,-93.1567201176471
+"552","Roseville","UNBRANDED","91","Gas 'n Go","651-484-4649","2640 Rice St","6/3/2017","MN",45.0203638333333,-93.1059721666667
+"553","Rothsay","TESORO","91","Rothsay Truck Stop & Cafe","218-867-2197","544 Center St.","4/14/2017","MN",NA,NA
+"554","Royalton","UNBRANDED","91","Bills Superette","320-302-0121","17333 55th Ave Nw","9/29/2016","MN",45.8204614372245,-94.2831019762685
+"555","Royalton","UNBRANDED","91","E-Z Stop Store","320-584-5944","208 Us Hwy 10 N","3/2/2016","MN",NA,NA
+"556","Royalton","TESORO","91","Royal Tesoro","320-584-8245","5 Hwy 10 S","7/20/2017","MN",NA,NA
+"557","Rush City","KWIK TRIP","91","Kwik Trip #592","320-358-3306","1225 W 4th St","1/28/2020","MN",45.6843933939394,-92.9825998181818
+"558","Rushford","KWIK TRIP","91","Kwik Trip","507-864-4800","110 Hwy 16","1/5/2015","MN",NA,NA
+"559","Saint Paul","HOLIDAY","91","Holiday Store #341","651-641-1045","1345 Marshall Avenue","5/31/2019","MN",44.948438,-93.1564957205882
+"560","Sanborn","BP","91","Expressway","507-648-3300","33000 Us Hwy 14","7/22/2013","MN",NA,NA
+"561","Sandstone","UNBRANDED","91","Chris's Conv Center","320-245-5309","813 Hwy 23","6/20/2014","MN",NA,NA
+"562","Sandstone","UNBRANDED","91","Chris's Food Center","320-245-2229","320 Hwy 123","6/20/2014","MN",46.1300933270909,-92.8645844504364
+"563","Sartell","KWIK TRIP","91","Kwik Trip #153","320-253-5662","105 2nd St S","4/4/2018","MN",45.6153277210865,-94.2054905275038
+"564","Sauk Centre","UNBRANDED","91","Fleet Supply","320-352-5261","1050 Centre St","4/19/2017","MN",45.7251126700196,-94.9590532894152
+"565","Sauk Centre","UNBRANDED","91","Isaac's Northstar","320-352-6732","925 Sinclair Lewis Ave","4/19/2017","MN",45.7369607763113,-94.9592996125825
+"566","Sauk Rapids","HOLIDAY","91","Holiday #3777","320-252-0678","1423 3rd St N","4/15/2017","MN",45.5951143,-94.1642408
+"567","Sauk Rapids","KWIK TRIP","91","Kwik Trip","320-251-0250","245 18th St N","8/23/2017","MN",45.6060265502618,-94.187579880192
+"568","Sauk Rapids","SUPER AMERICA","91","Short Stop Quick Mart","320-251-4144","4725 Quail Rd Ne","1/12/2016","MN",NA,NA
+"569","Savage","KWIK TRIP","91","Kwik Trip","952-440-5030","14175 Vernon Ave S","12/4/2016","MN",44.7500882093995,-93.3507962900783
+"570","Scandia","UNBRANDED","","Big Marine Lake Store","651-433-5043","19261 Manning Trail","2/6/2014","MN",45.2293167096163,-92.8855934311559
+"571","Shakopee","HOLIDAY","91","Holiday #246","952-445-2926","12681 Chestnut Blvd","9/6/2013","MN",NA,NA
+"572","Shakopee","KWIK TRIP","91","Kwik Trip","952-496-1081","1522 Vierling Dr","7/7/2014","MN",44.7810112472862,-93.5041075310283
+"573","Shakopee","KWIK TRIP","91","Kwik Trip #447","952-233-1209","8225 Crossings Blvd","5/15/2017","MN",44.7706638,-93.4132724
+"574","Shakopee","MINNOCO","91","Minnoco - Hennen's Auto","952-445-2478","807 1st Ave E","1/12/2016","MN",44.7999756578292,-93.516539447994
+"575","Shorewood","HOLIDAY","91","Holiday","952-470-8655","19955 Hwy 7","11/16/2015","MN",NA,NA
+"576","Side Lake","UNBRANDED","91","Side Lake Store","218-254-5252","7505 Hwy 5","12/10/2013","MN",47.6650157213442,-93.015847088949
+"577","Silver Bay","SPIRIT","91","Bri-Esa's Convenience","218-226-4694","94 Outer Dr","1/12/2016","MN",47.294430737684,-91.2680978164791
+"578","Silver Bay","MOBIL","91","Mariner Mobile","218-226-3241","93 Outer Dr","1/12/2016","MN",47.2944250852208,-91.2681035797749
+"579","Silver Lake","CENEX","91","Corner Market","320-327-2500","916 Highway 7","2/18/2021","MN",NA,NA
+"580","Slayton","BP","91","Amoco Express","507-836-8976","2439 20th St","9/1/2015","MN",43.993152,-95.757360147651
+"581","Sleepy Eye","UNBRANDED","91","Braun Oil","507-794-7550","27777 C.R. 27","11/15/2014","MN",NA,NA
+"582","Sleepy Eye","UNBRANDED","91","Braun Oil Co","507-794-7550","23791 285th Ave","10/7/2014","MN",NA,NA
+"583","Soudan","UNBRANDED","91","Soudan's Only Store","218-753-2205","24 Main Street","5/29/2019","MN",47.8162686,-92.2460262
+"584","South St Paul","UNBRANDED","91","Kaposia Conv Sta #2","651-450-2263","1301 Southview Blvd","8/15/2016","MN",44.888878,-93.050202
+"585","South St Paul","KWIK TRIP","91","Kwik Trip #178","651-457-5622","455 Concord St S","12/15/2019","MN",44.88435845,-93.031051857725
+"586","South St Paul","UNBRANDED","91 100","South St Paul Airport","651-554-3350","1725 Henry Ave","1/12/2019","MN",44.8624522987978,-93.0299506781603
+"587","Spicer","SHELL","","Mel's Sport Shop","320-796-2000","102 Hwy-23 S","3/14/2021","MN",NA,NA
+"588","Springfield","BP","91","Amoco","507-723-5212","221 W Rock St","1/12/2016","MN",44.2434206189068,-94.9796159764146
+"589","Spring Grove","BP","91","Solie Services","507-498-5579","118 W Main St","8/1/2015","MN",43.56119405,-91.6367595
+"590","Stacy","KWIK TRIP","91","Kwik Trip","651-408-0012","5335 Stacy Trail","10/15/2017","MN",45.3936864897653,-92.9964401864664
+"591","Stacy","TESORO","91","Tesoro","651-462-2766","5563 Athens Trail","6/21/2014","MN",NA,NA
+"592","Stanton","UNBRANDED","100","Stanton Airfield","507-645-4030","1235 Hwy 19","10/7/2014","MN",NA,NA
+"593","Staples","UNBRANDED","91","Ernie's Food Market","218-894-1072","1230 Hwy 10 E","10/26/2015","MN",NA,NA
+"594","Staples","UNBRANDED","91","Southside Mini Mart","218-894-2757","223 6th St S E","3/31/2013","MN",46.3527661434954,-94.7922352667991
+"595","Starbuck","UNBRANDED","87 91","Petro Plus","320-239-4587","610 Main St","3/6/2017","MN",45.6136326700368,-95.5312480598872
+"596","St Bonifacius","HOLIDAY","91","Holiday #260","952-446-9125","8720 Hwy 7","7/15/2016","MN",NA,NA
+"597","St Cloud","UNBRANDED","91 110","First Fuel Bank","320-252-2265","625 Lincoln Ave S E","2/6/2014","MN",45.5638694414026,-94.1432309112675
+"598","St Cloud","HOLIDAY","","Holiday","320-253-8963","905 Co Rd 4","10/29/2018","MN",45.571810893123,-94.2301229788423
+"599","St Cloud","HOLIDAY","91","Holiday Stationstore","320-529-8307","730 Hwy 10 S","6/8/2017","MN",45.5584315,-94.1311441
+"600","St Cloud","KWIK TRIP","91","Kwik Trip","320-253-5089","750 15th Ave Se","2/26/2018","MN",45.5579674419949,-94.1311656073931
+"601","St Cloud","KWIK TRIP","91","Kwik Trip #120","320-251-4192","725 44th Ave N","7/21/2017","MN",45.5729009,-94.2066644
+"602","St Cloud","SHELL","91","Shell","320-774-0985","4325 Clearwater Rd","1/30/2017","MN",45.49378505,-94.1493505640344
+"603","St Cloud","SUPER AMERICA","91","Speedstop","320-252-1282","727 E St Germain St","3/3/2015","MN",45.5688641535089,-94.1432323567249
+"604","St Cloud","TESORO","91","Vuke's Profuel","320-253-6546","3267 Roosevelt Rd","11/14/2015","MN",45.515714530936,-94.1597292254616
+"605","Stewartville","KWIK TRIP","91","Kwik Trip #414","507-533-8835","101 Schumann Dr Nw","1/14/2017","MN",43.8773096,-92.4898360185091
+"606","Stewartville","KWIK TRIP","91","Kwik Trip #803","507-533-9307","410 N Main St","11/1/2016","MN",43.85831665,-92.4879628367667
+"607","Stillwater","HOLIDAY","93","Holiday","651-439-7438","2500 Orleans St W","6/11/2021","MN",45.043067,-92.839096
+"608","Stillwater","HOLIDAY","","Holiday Stationstore","651-439-7438","14773 60th St N","11/8/2017","MN",45.0354748235294,-92.8055897176471
+"609","St James","UNBRANDED","91","Lakeside Service","507-375-3842","220 Tiell Dr","2/6/2014","MN",43.9724077,-94.64243
+"610","St James","BP","91","Steve's Corner","507-375-5621","1070 7th Ave S","6/8/2017","MN",43.9785081428571,-94.6199075714286
+"611","St Joseph","HOLIDAY","91","Holiday #3774","320-363-4270","304 College Ave","6/8/2017","MN",NA,NA
+"612","St Joseph","KWIK TRIP","91","Kwik Trip","320-363-4951","200 2nd Ave Nw","9/23/2016","MN",45.566681,-94.322533
+"613","St Joseph","BP","91","St. Joseph Bp","320-363-7272","27 W Birch St","4/13/2014","MN",45.5663029387755,-94.3199833877551
+"614","St Louis Park","MINNOCO","91","Youngstedts Tire & Auto","952-929-5257","5925 Excelsior Blvd","7/25/2018","MN",44.9285233877551,-93.3550132857143
+"615","St. Louis Park","HOLIDAY","91","Holiday Station Stores","952-925-9693","7000 W Lake St.","5/2/2019","MN",44.938055,-93.365185
+"616","St Michael","HOLIDAY","91","Holiday Stationstore #394","763-497-4088","4200 Larabee Ave Ne","1/14/2020","MN",45.210654,-93.647056
+"617","St Michael","KWIK TRIP","91","Kwik Trip","763-497-2447","4400 O'Day Ave Ne","11/14/2015","MN",45.2176944,-93.5982873248039
+"618","St Paul","UNBRANDED","91","All American Auto","651-298-0766","1036 Grand Ave","7/31/2016","MN",44.9399055172414,-93.1438023793103
+"619","St Paul","MINNOCO","91","Highland Service","651-698-2201","485 Snelling Ave S","1/29/2019","MN",44.9264592777778,-93.167141
+"620","St Paul","HOLIDAY","91","Holiday #31","651-771-8688","1400 Arcade St","3/23/2017","MN",44.983714,-93.065899
+"621","St Paul","MINNOCO","88 91","Marshall Cretin","651-644-3436","2178 Marshall Ave","3/23/2019","MN",44.948285,-93.192253
+"622","St Paul","UNBRANDED","93","M & H","","Arcade St.","5/9/2021","MN",44.9856444,-93.0660204
+"623","St Paul","M&H","","M & H","651-776-6349","721 Arcade St","8/17/2020","MN",44.9633122857143,-93.066117
+"624","St Paul","M&H","91","M&H","651-776-6349","721 Arcade","7/31/2016","MN",44.9633122857143,-93.066117
+"625","St Paul","BP","91","Parkway Bp","651-774-0495","304 Wheelock Pkwy E","1/12/2016","MN",44.9898211271116,-93.1142164811134
+"626","St Paul","UNBRANDED","92","Pro Stop","651-645-1152","543 Cleveland Ave N","9/25/2020","MN",44.9575337,-93.1875960929207
+"627","St Paul Park","UNBRANDED","91 110","Duffy's Union 76","651-459-9052","701 Broadway Ave","3/30/2017","MN",44.847938,-92.991273
+"628","St Peter","KWIK TRIP","91","Kwik Trip","507-934-3030","1305 Us Hwy 169","9/17/2017","MN",44.315468755102,-93.9643957755102
+"629","Sturgeon Lake","UNBRANDED","91","Sturgeon Lk Minute Mart","218-372-3432","88834 Warbler Ln","6/30/2016","MN",NA,NA
+"630","Swanville","PHILLIPS 66","91","Loven's Auto Center","320-547-2465","22 W 3rd St","7/18/2013","MN",45.9146515337316,-94.6395446878123
+"631","Taylors Falls","UNBRANDED","91","Taylor Falls Adium","651-465-4002","341 Bench St","2/6/2014","MN",45.4020844705882,-92.6527223529412
+"632","Thief River Falls","UNBRANDED","91","Pennington Main","218-681-8888","220 Main Ave S","2/6/2014","MN",48.1148015382097,-96.1818664815114
+"633","Thief River Falls","UNBRANDED","91","Pennington Square","218-681-4552","100 Pennington Ave","2/6/2014","MN",48.113798,-96.176038
+"634","Thief River Falls","TESORO","91","Tesoro","218-681-5640","1580 Us Hwy 59","7/18/2013","MN",48.1174115839954,-96.1618437299943
+"635","Tofte","HOLIDAY","91","Holiday","218-663-7882","7235 Hwy 61","7/13/2014","MN",47.57204525,-90.84088225
+"636","Tofte","SPIRIT","91","Tofte General Store","218-663-7288","7125 Hwy 61","9/1/2015","MN",47.5670157541993,-90.851269590747
+"637","Tower","UNBRANDED","91","Bob's Calumet","218-753-2125","306 Main St","7/13/2017","MN",47.8068884,-92.2621646
+"638","Tower","CENEX","91","Vermillion Fuel & Food","218-750-6566","516 Main St","7/5/2013","MN",47.8068884,-92.2621646
+"639","Trimont","CASEY'S","91","Casey's","507-639-6646","10 Broadway Ave S","6/8/2017","MN",43.7616209795918,-94.7148641734694
+"640","Twin Valley","CENEX","91","Community Co-Op","218-584-5171","200 First St Sw","11/3/2015","MN",NA,NA
+"641","Two Harbors","HOLIDAY","91","Holiday #362","218-834-2291","1086 Hwy 61","7/3/2018","MN",47.0255152632109,-91.679413675222
+"642","Two Harbors","KWIK TRIP","91","Kwik Trip","218-834-3749","1100 7th Ave","2/18/2019","MN",47.025692,-91.678287
+"643","Two Harbors","MOBIL","91","Little Store","218-834-7023","831 7th Ave","4/9/2021","MN",47.025714773878,-91.6751772964619
+"644","Two Harbors","UNBRANDED","100","R B Helgeson Airport","218-834-2162","Airport Rd","10/7/2014","MN",47.032647,-91.82615
+"645","Tyler","BP","91","Knudsen's","507-247-3406","108 Us Hwy 14","6/29/2016","MN",NA,NA
+"646","Ulen","CENEX","91","Petro Serve Usa","218-596-8828","205 1st St Sw","4/9/2021","MN",47.0765497389377,-96.2578396662885
+"647","Underwood","SHELL","91","Underwood Quik-Stop","218-826-6311","29346 Hwy 210","6/30/2016","MN",NA,NA
+"648","Vadnais Hgts","KWIK TRIP","91","Kwik Trip","651-482-6176","3278 Us Hwy 61 N","7/24/2018","MN",45.0400480368582,-93.0405920054034
+"649","Vergas","TESORO","91","Vergas 66","218-342-3663","121 Linden St","2/6/2014","MN",46.6551766,-95.8055553
+"650","Vermillion","UNBRANDED","91","Vermillion Pump & Mkt","651-437-4437","108 Park Ave","10/29/2016","MN",47.8447286,-92.1884683
+"651","Villard","CENEX","89","Pope Co. Coop Oil","320-554-2211","600 Washington Ave","4/28/2018","MN",45.7119099,-95.2690957
+"652","Virginia","HOLIDAY","91","Holiday Stationstore","218-749-5985","1502 S 12th Ave W","10/7/2014","MN",47.5104606,-92.5514479
+"653","Virginia","CLARK","91","Shortstop Express","218-741-7879","1501 S 12th Ave W","1/12/2016","MN",47.5105322,-92.5525439
+"654","Wabasha","UNBRANDED","91","Wabasha Towing & Service","651-565-4666","900 Shields Ave","2/18/2016","MN",44.3785282,-92.0472578
+"655","Wabasso","CENEX","91","Meadowland Farm Co-Op","507-342-5163","1440 Front St","2/6/2014","MN",44.401996,-95.257473
+"656","Waconia","CENEX","91","Colony Plaza","952-442-2817","140 Hwy 5","2/11/2019","MN",NA,NA
+"657","Waconia","QUIKTRIP","91","Quiktrip","952-442-4373","809 Vista Blvd","5/12/2017","MN",44.8479641127456,-93.7709314645458
+"658","Wadena","HOLIDAY","91","Holiday Stationstore","218-631-4393","101 N Jefferson","6/17/2015","MN",46.442397,-95.136054
+"659","Waite Park","UNBRANDED","91","Mills Fleet Farm","320-253-8889","2630 Division St","1/12/2016","MN",45.5535767,-94.2306625
+"660","Walker","HOLIDAY","91","Holiday Stationstore 191","218-547-3009","712 Minnesota Ave","10/7/2014","MN",47.1017584,-94.5820936
+"661","Walker","CENEX","91","Orton's Walker Cenex","218-547-2150","312 Minnesota Ave","5/3/2019","MN",47.1019366345694,-94.5795350175372
+"662","Wanamingo","CENEX","91 110","Ag Partners","507-824-2281","700 3rd Ave S","9/12/2017","MN",44.297709,-92.788011
+"663","Warroad","CENEX","91","Cenex","218-386-1318","418 State Ave","7/19/2013","MN",48.8985693,-95.3198231
+"664","Warroad","HOLIDAY","91","Holiday Stationstore","218-386-3201","203 State Ave","4/3/2017","MN",48.902203,-95.320206
+"665","Warroad","HOLIDAY","91","Holiday Stationstore","218-386-1700","901 State Ave","4/3/2017","MN",48.8985693,-95.3198231
+"666","Waseca","KWIK TRIP","91","Kwik Trip","507-835-3748","501 Elm Ave W","11/1/2016","MN",44.0774825670103,-93.5130811546392
+"667","Waseca","UNBRANDED","91","Sportsman Stop","507-835-4647","1818 State St N","2/6/2014","MN",NA,NA
+"668","Waseca","UNBRANDED","91 100","Waseca Airport","507-835-5920","35493 110th St","10/7/2014","MN",44.0801511836735,-93.5471169795918
+"669","Waterville","CASEY'S","91","Casey's General Store","507-362-8532","100 Mn Hwy 13","3/21/2020","MN",44.2234704,-93.5640957
+"670","Waterville","UNBRANDED","91","Phil Mart","507-362-8800","437 E Main St","3/21/2020","MN",44.2203689,-93.5635507
+"671","Waubun","UNBRANDED","91","Elbow Lake Store & Bar","218-734-2504","40419 Elbow Lk Store Rd","12/4/2015","MN",NA,NA
+"672","Waverly","HOLIDAY","91","Holiday Of Waverly","763-658-4662","801 Pacific Ave","12/5/2019","MN",45.064567,-93.975419
+"673","Welcome","CASEY'S","91","Caseys General Store","507-728-8605","112 2nd St","3/2/2019","MN",43.6682118767369,-94.6157073990729
+"674","West St. Paul","MARATHON","91","Marathon","651-455-2511","247 Wentworth Ave W","5/3/2020","MN",44.8985291,-93.0955152855049
+"675","White Bear Lake","AMSTAR","91","Classic Collision Center","651-426-8082","4061 Us Hwy 61","9/3/2018","MN",NA,NA
+"676","White Bear Lake","FREEDOM","91","Freedom Valu Center","651-653-4312","4852 Us Hwy 61 N","9/3/2018","MN",45.0880545874003,-93.0079109614598
+"677","White Bear Lake","HOLIDAY","91","Holiday","651-426-3733","1150 Country Road J","7/22/2019","MN",NA,NA
+"678","White Bear Lake","HOLIDAY","91","Holiday Stationstore","651-426-1825","5970 Us Hwy 61","9/3/2018","MN",NA,NA
+"679","White Bear Lake","HOLIDAY","91","Holiday Stationstore","651-429-1875","1060 Cnty Rd 96","6/3/2018","MN",NA,NA
+"680","White Bear Lake","CLARK","91","White Bear Bait","651-340-4588","4648 Us Hwy 61","9/3/2018","MN",NA,NA
+"681","White Bear Twp","MARATHON","91","Marathon","651-407-8868","5960 Us Hwy 61","9/9/2018","MN",45.1222152,-93.0027805
+"682","Willmar","KWIK TRIP","91","#937","320-235-2132","2550 Us-12","8/22/2018","MN",45.124878,-95.008501
+"683","Willmar","KWIK TRIP","91","#945","320-235-2149","2000 1st St South","1/2/2019","MN",45.102118,-95.042763
+"684","Willmar","SHELL","","She'Ll Super Stop","320-235-8613","1405 Us Hwy 12 E","2/8/2018","MN",NA,NA
+"685","Willmar","PHILLIPS 66","91","Walt's Carwash","320-235-8435","1200 1st St S","2/6/2014","MN",45.1112934,-95.0432509803504
+"686","Wilmont","UNBRANDED","91","Wilmont Oil Co.","507-926-5965","405 4th Ave.","6/2/2013","MN",43.7635753877551,-95.8277001632653
+"687","Windom","SUPER AMERICA","91","Vet's Whoa N' Go","507-831-1576","1550 1st Ave N","2/6/2014","MN",43.8725047717396,-95.1132985109556
+"688","Winona","FLEET FARM","91","Fleet Farm","507-454-5124","920 Us Hwy 61","3/28/2014","MN",43.8435830949962,-91.2977722855775
+"689","Winona","KWIK TRIP","91","Kwik Trip","507-454-7888","770 E Broadway","9/29/2015","MN",44.0531242528847,-91.6575516328429
+"690","Winona","KWIK TRIP","91","Kwik Trip","507-454-7793","872 W Broadway St","12/14/2015","MN",44.0530861907998,-91.6603804499008
+"691","Winona","SINCLAIR","91","Prolube","507-452-7844","1656 W Service Dr","9/16/2015","MN",44.0531287684639,-91.687348277356
+"692","Winona","VP RACING","110","Severson Oil Co","507-452-4743","508 Louisa St","9/16/2015","MN",44.0366947947798,-91.6113636812974
+"693","Winona","UNBRANDED","100","Win Air Winona Airport","507-452-2220","106 Galewski Dr","9/27/2015","MN",44.069823766135,-91.7063077598888
+"694","Woodbury","KWIK TRIP","91","Kwik Trip","651-735-6600","8477 City Centre Dr","5/29/2018","MN",44.9214544,-92.9358443
+"695","Woodbury","KWIK TRIP","91","Kwik Trip","651-264-9514","9955 Hudson Blvd N","6/4/2017","MN",44.945192677927,-92.9046139497697
+"696","Woodbury","UNBRANDED","91","Shell","651-739-9204","1511 Weir Dr","1/10/2017","MN",44.92681045,-92.9720894
+"697","Wood Lake","CENEX","91","Cenex Coop","507-485-3137","50 3rd Ave","9/3/2018","MN",44.6529285,-95.5395585
+"698","Worthington","BP","91","Blue Line Travel","507-372-4038","24425 Us Hwy 59","4/3/2017","MN",43.589773,-95.640053
+"699","Worthington","CENEX","91","Cenex","507-376-4480","1710 N Humiston Ave","5/18/2015","MN",43.6350329183674,-95.5934433673469
+"700","Worthington","UNBRANDED","91","Cooperative Energy","507-376-3104","1200 2nd Ave","6/22/2017","MN",43.620362,-95.59297
+"701","Worthington","HOLIDAY","91","Holiday","507-376-4700","1408 Oxford St.","5/16/2015","MN",43.631106,-95.5929935
+"702","Wyoming","HOLIDAY","91","Holiday","651-462-5058","26720 Kettle River Blvd","7/24/2019","MN",45.3360659105849,-93.007337144818
+"703","Wyoming","UNBRANDED","91","Linwood Country Store","651-462-5512","21831 Viking Blvd Ne","10/24/2013","MN",45.3527691,-93.0442488
+"704","Zimmerman","HOLIDAY","91","Holiday #239","763-856-4433","26125 Hwy 169","10/14/2015","MN",45.4436838448276,-93.5844894827586
+"705","Zumbrota","KWIK TRIP","91","Kwik Trip","507-732-5099","100 Jefferson Dr","6/28/2018","MN",44.295018,-92.678647
+"706","Zumbrota","SHELL","91","Matthees' Midtown","507-732-5616","448 S Main St","3/28/2017","MN",44.2882243,-92.6691274
