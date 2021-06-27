@@ -13,9 +13,8 @@
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ergweb.netlify.app/testing/</guid>
-      <description>⚠️ ⚠️ ☠️ NEVER use this map while driving 🤬 ⚠️ ⚠️Ethanol-free petrol mapData taken from pure-gas.org last updated Sun Jun 27 16:42:42 2021. Latitude and longitude estimated from tidygeocoder:
-{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_unnamed-chunk-3.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}icon rendering issue here
-</description>
+      <description>⚠️ ⚠️ ☠️ NEVER use this map while driving 🤬 ⚠️ ⚠️Ethanol-free petrol mapData taken from pure-gas.org last updated Sun Jun 27 17:24:21 2021. Latitude and longitude estimated from tidygeocoder:
+{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_unnamed-chunk-3.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}The above map contains information from 2281 stations in MN, WI, SD, and IA. tidygeocoder was unable to generation longitude and latitude estimates from 373 stations. These 373 stations are located in the following table:</description>
     </item>
     
   </channel>

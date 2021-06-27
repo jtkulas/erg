@@ -91,11 +91,22 @@ puregas <- leaflet() %>%
   setView(-93.11389168, 45.08506268	,
           zoom = 8) %>%
   addTiles() %>%
-  addCircles(data=states, lng = ~long, lat = ~lat, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone, "<br>", "Max Octane:", max), color=~pal(max), weight = 10) %>%
+  addCircles(data=states, lng = ~long, lat = ~lat, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone, "<br>", "Max Octane:", max), color=~pal(max), opacity=10) %>%
   addLegend("bottomright", data=states, pal = pal, values = ~max)
 
 widgetframe::frameWidget(puregas) ## trying for online
 
+missing <- states[ which(is.na(states$lat) & is.na(states$long)), ]
+missing <- missing[,2:9]
+
 ```
+
+The above map contains information from `r nrow(states)` stations in MN, WI, SD, and IA. `tidygeocoder` was unable to generation longitude and latitude estimates from `r nrow(missing)` stations. These `r nrow(missing)` stations are located in the following table:
+
+```{r missingstations, warning=FALSE, echo=FALSE}
+library(DT)
+datatable(missing, options = list(pageLength = 5))
+```
+
 
 [icon rendering issue here](https://github.com/rstudio/leaflet/issues/691)
