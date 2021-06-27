@@ -1,0 +1,985 @@
+"","City","Brand","Octane","Name","Phone","Street.Address","Last.Updated","State","lat","long"
+"1","Abbotsford","SHELL","91","Abbotsford Bp","715-223-1802","600 S 4th St","11/2/2018","WI",44.943846,-90.316625
+"2","Abells Corners","BP","91","Lockhart's Service","262-742-2451","N6424 Us Hwy 12","11/19/2016","WI",NA,NA
+"3","Abrams","BP","91","Abrams Bp","920-826-6066","2531 E Frontage Rd","11/5/2015","WI",44.7453977,-88.0480754
+"4","Abrams","SHELL","91","Abrams Shell","920-826-6400","2516 W Frontier Rd","6/9/2014","WI",44.76556955,-88.053227
+"5","Abrams","SHELL","91","Brookside Shell","920-826-4353","4353 Brookside Rd","10/25/2016","WI",44.80367915,-87.9809067013304
+"6","Adams","CENEX","91","Cenex Pump 24","608-339-3626","451 S Main St","5/6/2013","WI",43.9524477,-89.8180604
+"7","Adams","KWIK TRIP","91","Kwik Trip","","237 N Main St","5/2/2013","WI",43.96106945,-89.8185630746429
+"8","Adell","MOBIL","91","Adell Mini Mart","","127 Edgewood","5/11/2014","WI",43.6156559075283,-87.9464024364993
+"9","Algoma","MOBIL","91","Graf's Mobile Mart","920-487-2527","1025 Lake St","4/16/2014","WI",44.603507877551,-87.4390847346939
+"10","Algoma","BP","91","Jp Express","","1101 Lake St","4/4/2020","WI",44.60152,-87.439962
+"11","Alma","KWIK TRIP","91","Kwik Trip","608-685-3879","603 S Main St","1/7/2014","WI",44.3079127,-91.9092424
+"12","Almena","HOLIDAY","91","Holiday #3558","715-357-3957","241 Us Hwy 8 S","12/4/2015","WI",NA,NA
+"13","Altoona","BP","91","Bp-Altoona","715-723-2822","1427 Spooner Ave","10/13/2013","WI",44.8072280941836,-91.4342175781108
+"14","Altoona","HOLIDAY","91","Holiday #3705","715-836-8695","1027 N Hillcrest Pkwy","10/28/2015","WI",44.7938197680052,-91.4263853616399
+"15","Altoona","KWIK TRIP","91","Kwik Trip #828","715-832-9432","2367 Spooner Ave","9/29/2014","WI",44.8071253939008,-91.4470919336383
+"16","Altoona","UNBRANDED","91","Woodman's Mkt Gas & Lube","715-598-7255","2855 Woodman Dr","7/20/2018","WI",44.8173803,-91.4596132
+"17","Amberg","CENEX","91","Driftwood Sport & Fuel","715-759-5421","N15085 Us-141","1/25/2019","WI",45.50432285,-87.9873502202623
+"18","Amberg","CENEX","91","Driftwood Sport & Fuel","715-759-5421","N15085 Us Hwy 141","4/27/2015","WI",45.50432285,-87.9873502202623
+"19","Amery","CENEX","91","Countryside Co-Op","","319 Keller Ave","11/14/2012","WI",45.307639,-92.362006
+"20","Amherst","UNBRANDED","91","Falcon One Stop","715-824-5546","168 N Main","3/3/2014","WI",NA,NA
+"21","Angelica","MOBIL","91","Food Mart","","W1989 Hwy 29","5/2/2015","WI",44.6739696,-88.3087667
+"22","Antigo","BP","91","Arby's","","2106 Neva Rd","10/6/2012","WI",45.1606063147728,-89.1483170227751
+"23","Antigo","BP","91","Bp South","","343 Superior St","10/6/2012","WI",45.137576,-89.152233
+"24","Antigo","BP","91","Draeger Oil Co","","4075 Neva Rd","10/6/2012","WI",45.1538253,-89.1481036
+"25","Antigo","CENEX","87 91","Express Mart","715-623-3882","702 Superior St","6/24/2015","WI",45.1420815714286,-89.1523431836735
+"26","Antigo","FLEET FARM","89 91","Fleet Farm Gas Mart","","2511 Neva Rd","5/31/2014","WI",45.1664166451613,-89.1475590645161
+"27","Antigo","PHILLIPS 66","93","Food Mart","","101 Superior St","7/11/2012","WI",45.132972,-89.152385
+"28","Antigo","KWIK TRIP","91","Kwik Trip","715-623-6655","455 Us Hwy 45","7/20/2013","WI",45.1282004127129,-89.1528817641022
+"29","Antigo","SHELL","91","Marty's Shell","","738 Superior St","10/6/2012","WI",45.1425058571429,-89.1523284897959
+"30","Antigo","PHILLIPS 66","91","Phillips 66","","1502 Neva Rd","10/6/2012","WI",45.1518546428571,-89.1495630714286
+"31","Antigo","UNBRANDED","91","Rem's Place","","502 Superior St","10/6/2012","WI",45.1392392653061,-89.1524043877551
+"32","Antigo","SHELL","91","Wagner Shell","","769 Superior St","10/6/2012","WI",45.1428554285714,-89.152083244898
+"33","Appleton","CITGO","91","Appleton Citgo","","1717 W College Ave","7/12/2014","WI",44.2619453577528,-88.4324401609099
+"34","Appleton","SHELL","91","Appleton Shell","920-410-5702","2141 W Wisconsin Ave","6/16/2015","WI",44.2736515104642,-88.3725011345568
+"35","Appleton","MOBIL","91","Badger Mobil","920-903-9165","1201 N Badger Ave","7/20/2018","WI",44.272289,-88.434939
+"36","Appleton","BP","91","Bp","","911 W College Ave","2/26/2013","WI",44.2616944931698,-88.4202179277637
+"37","Appleton","BP","91","Darboy Corner Store","","N9690 Cnty Rd N","3/6/2014","WI",NA,NA
+"38","Appleton","EXPRESS","91","Express Conv Store","920-738-7270","2838 N Ballard Rd","7/5/2014","WI",44.2879717115026,-88.3747939684065
+"39","Appleton","MOBIL","91","Fox Convenience - Bb Mobil","920-738-5667","4320 W. Prospect Ave.","1/25/2019","WI",44.2546691,-88.4155686
+"40","Appleton","MOBIL","91","Fox Convenience - Northgate Mobil","920-738-3536","105 W. Northland Ave.","1/25/2019","WI",44.2871814995685,-88.406122124117
+"41","Appleton","MOBIL","91","Fox Convenience - Richmond Mobil","920-738-3529","3401 N. Richmond St.","1/25/2019","WI",44.29539,-88.415744
+"42","Appleton","MOBIL","91","Fox Convenience - Valley Mobil","920-968-1074","2661 S. Oneida St.","1/25/2019","WI",44.2373575,-88.4048232
+"43","Appleton","KWIK TRIP","91","Fox River Kwik Trip","","120 Fox River Dr","7/5/2014","WI",44.270293,-88.391042
+"44","Appleton","BP","91","J S Food Mart","920-739-2311","2619 N Richmond St","7/5/2014","WI",44.2851526244155,-88.4159014888444
+"45","Appleton","KWIK TRIP","91","Kwik Trip","","3721 W College Ave","7/19/2012","WI",44.2618619,-88.4356117
+"46","Appleton","UNBRANDED","91","Kwik Trip","920-749-9551","4085 E. Calumet St","8/17/2016","WI",44.24308125,-88.343774104453
+"47","Appleton","KWIK TRIP","91","Kwik Trip","920-731-6355","650 W Northland Ave","6/8/2016","WI",44.2872055833333,-88.4151013333333
+"48","Appleton","KWIK TRIP","91","Kwik Trip","","4735 W Converters Dr","2/18/2013","WI",NA,NA
+"49","Appleton","KWIK TRIP","91","Kwik Trip","","3825 W Wisconsin Ave","7/11/2012","WI",44.2729666,-88.4156908
+"50","Appleton","KWIK TRIP","91","Kwik Trip","920-734-6556","730 E Wisconsin Ave","6/16/2015","WI",44.2729791632653,-88.3965602244898
+"51","Appleton","KWIK TRIP","91","Kwik Trip","","2175 S Memorial Dr","7/19/2012","WI",44.2414058379022,-88.4178225370185
+"52","Appleton","KWIK TRIP","91","Kwik Trip #200","920-830-1609","2120 E Edgewood Dr","7/5/2014","WI",44.3165276,-88.373719
+"53","Appleton","MARATHON","91","Marathon","920-739-0738","415 S Memorial Dr","7/5/2014","WI",44.2586605714286,-88.415485
+"54","Appleton","FLEET FARM","89 91","Mills Gas Mart","920-734-8231","3035 W Wisconsin Ave","9/16/2014","WI",44.2784827510076,-88.3581912417131
+"55","Appleton","FLEET FARM","89 91","Mills Gas Mart","920-734-8231","1350 N Bluemound Dr","7/5/2014","WI",NA,NA
+"56","Appleton","EXPRESS","91","Motomart","920-830-4160","320 S Kensington St","6/3/2015","WI",44.2593027419322,-88.3612674453038
+"57","Appleton","CITGO","91","Northland Citgo","","800 E Northland Ave","7/19/2012","WI",44.28711,-88.394325
+"58","Appleton","MOBIL","91","North Mall Mart","920-735-6550","1575 N Casaloma Dr","1/27/2016","WI",NA,NA
+"59","Appleton","VP RACING","91","Northsider C-Store","920-380-9712","5208 N Richmond St","4/14/2017","WI",44.2622316,-88.4157945
+"60","Arbor Vitae","KWIK TRIP","91","Kwik Trip #588","715-358-3428","11085 Hwy 70 E","5/22/2018","WI",45.9206418137034,-89.6946597169917
+"61","Arena","CITGO","91","Arena Food Mart","608-753-2611","214 Us Hwy 14","7/24/2013","WI",43.1616894798301,-89.9115067154919
+"62","Argyle","CENEX","91","Co-Op Petro Mart","608-543-3071","108 W Milwaukee St","5/24/2017","WI",42.70139435,-89.8710791
+"63","Arkdale","UNBRANDED","87 91","Petenwell Sport Shop","","1903 Big Horn Dr","5/31/2016","WI",NA,NA
+"64","Ashippun","BP","91","Ashippun Bp","920-474-4773","649 Hwy 67 N","3/8/2018","WI",43.2215713,-88.5193711
+"65","Ashippun","BP","91","Station 67","920-474-4773","649 Wi Hwy 67","8/3/2019","WI",43.2215713,-88.5193711
+"66","Ashland","HOLIDAY","91","Holiday #3545","715-682-9755","915 Lake Shore Dr","10/28/2015","WI",46.5877086449039,-90.89488300429
+"67","Ashland","HOLIDAY","91","Holiday #459","715-682-5581","110 Ellis Ave","5/11/2016","WI",46.5917081953054,-90.8832578957267
+"68","Ashland","UNBRANDED","91","Krist","","521 Lake Shore Dr","11/24/2016","WI",46.5898766165096,-90.8899599726945
+"69","Ashland","KWIK TRIP","91","Kwik Trip 110","715-682-2195","1814 Lake Shore Dr","5/23/2018","WI",46.6018497992906,-90.8633543133888
+"70","Ashland","CENEX","87 91","Midland Services","715-682-2745","411 Sanborn Ave","5/22/2018","WI",46.5790117755102,-90.906429
+"71","Ashwaubenon","KWIK TRIP","91","Kwik Trip","920-429-1150","871 Hansen","5/23/2015","WI",44.4754047142857,-88.0732365714286
+"72","Athens","UNBRANDED","87 91","A & L Oil","715-257-7588","425 Mueller Street,","3/20/2020","WI",45.0330347142857,-90.0776993333333
+"73","Athens","UNBRANDED","87 91","A & L Oil Inc.","715-257-7588","425 Mueller St","3/20/2020","WI",45.0330347142857,-90.0776993333333
+"74","Augusta","PHILLIPS 66","91","Woodland Country Store","","S5340 Hwy 27","4/22/2014","WI",NA,NA
+"75","Aurora","BP","91","Aurora Liquors","715-589-3233","W582 County Rd N","3/24/2017","WI",45.7843519,-88.0825887
+"76","Avoca","MOBIL","91","Avoca Easy Stop","608-532-6395","401 W Main St","3/1/2019","WI",43.1819847,-90.3316476
+"77","Baileys Harbor","CITGO","91","57 Depot","","7998 Hwy 57","6/7/2013","WI",45.0597097054258,-87.1247806762687
+"78","Baldwin","BP","91","Bob & Steve's Bp #13","715-684-3316","830 10th Ave","4/20/2016","WI",44.9698835,-92.375093
+"79","Baldwin","CENEX","91","Countryside Co-Op","715-684-3371","930 10th Ave","7/1/2014","WI",44.9671503249399,-92.3750564698337
+"80","Baldwin","KWIK TRIP","91","Kwik Trip #696","","940 Baldwin Plaza Dr","10/29/2011","WI",44.9401638,-92.3726331
+"81","Balsam Lake","HOLIDAY","91","Holiday #3541","715-485-3558","101 Main St","10/28/2015","WI",NA,NA
+"82","Baraboo","BP","91","Bp","","890 Us Hwy 12","8/26/2018","WI",43.4219924,-89.7735726
+"83","Baraboo","KWIK TRIP","91","Kwik Trip","","602 W. Pine","9/14/2015","WI",NA,NA
+"84","Baraboo","BP","91","Viking Express","","935 8th St","6/16/2011","WI",43.4748532723874,-89.7554382615226
+"85","Baraboo","PHILLIPS 66","91","Whitetail Crossing","608-355-7777","S3214 Us Hwy 12","8/26/2018","WI",43.4219924,-89.7735726
+"86","Barron","CENEX","87","Barron Farm Union Coop","","1710 E Division Ave","6/25/2015","WI",45.401275,-91.8357279
+"87","Barron","UNBRANDED","91","Korner Stop","","7 S Mill St","10/8/2012","WI",45.4001426326531,-91.8580234081633
+"88","Barron","KWIK TRIP","91","Kwik Trip #748","715-537-3103","211 E Division Ave","6/30/2015","WI",45.4015291992667,-91.8542968194923
+"89","Bayfield","CENEX","91","Superieur Petrol","715-779-5412","407 Rittenhouse","5/22/2018","WI",46.8110595427314,-90.8191016767628
+"90","Bear Creek","CITGO","91","Bear Creek Travel Plaza","","N8086 Us Hwy 45","8/20/2013","WI",NA,NA
+"91","Beaver Dam","BP","91","Beaver Dam Travel Mart","","821 Park Ave","5/16/2018","WI",43.4562433714071,-88.8226896835956
+"92","Beaver Dam","SHELL","91","Crossroads Shell","920-356-1035","817 Park Ave","5/17/2018","WI",43.4562433904537,-88.8226661801903
+"93","Beaver Dam","FLEET FARM","89 91","Fleet Farm","","1815 N Spring St","5/29/2013","WI",43.481621,-88.816679
+"94","Beaver Dam","KWIK TRIP","91","Kwik Trip","920-885-4029","2006 N Spring St","5/29/2013","WI",43.467634,-88.829968
+"95","Beaver Dam","KWIK TRIP","91","Kwik Trip","920-887-3250","W9153 Cnty Rd G","9/7/2013","WI",NA,NA
+"96","Beaver Dam","CENEX","91","United Co-Op","920-887-1756","7160 N Raceway Rd","3/3/2014","WI",43.4504052,-88.8099861
+"97","Belleville","CITGO","91","Francois Sales & Service","","128 W Main St","9/8/2015","WI",42.8595691578947,-89.535749631579
+"98","Belleville","CITGO","91","Townmart","608-424-6322","428 River St","9/8/2015","WI",42.8676174,-89.5325147641438
+"99","Belmont","CLARK","87","First Capitol Mini Mart","608-762-5187","423 N Mound Ave","5/24/2013","WI",42.739698,-90.333859
+"100","Beloit","CASEY'S","91","Casey's General Store","608-362-1268","2350 Cranston Rd","7/24/2016","WI",42.5334902985075,-89.0017540119404
+"101","Beloit","AMOCO","87 91","Gene's","","958 Brooks St","1/21/2017","WI",42.5032158,-89.0512282970386
+"102","Beloit","UNBRANDED","91","Woodman's","608-362-0420","1877 S. Madison Rd","5/23/2021","WI",42.524728,-89.0706004
+"103","Berlin","SHELL","91","Berlin Oil Shell","","713 Broadway St","2/1/2011","WI",43.9683717137219,-88.9716941141195
+"104","Berlin","KWIK TRIP","91","Kwik Trip","","247 Broadway","3/9/2011","WI",43.9684326,-88.9535494
+"105","Berlin","UNBRANDED","87","Midway Gas & Oil","920-361-3644","W2025 Hwy 21","5/14/2013","WI",NA,NA
+"106","Birchwood","UNBRANDED","87 91","Bairs Edgewater Store","715-354-7311","3040 N Cnty Rd F","7/13/2013","WI",NA,NA
+"107","Birchwood","UNBRANDED","91","Ed’S Pit Stop","715-354-7991","701 East Hwy 48","10/1/2019","WI",45.6520623901921,-91.5482935045204
+"108","Birnamwood","PHILLIPS 66","91","Remington Oil","715-449-2372","444 Us Hwy 45","7/31/2015","WI",44.9328110878217,-89.2045444728896
+"109","Black Earth","BP","91","Bp","608-767-2390","1525 State St","5/29/2013","WI",NA,NA
+"110","Black Earth","CENEX","91","Premier Townmart","608-767-2581","917 Mill St","5/22/2013","WI",NA,NA
+"111","Black River Falls","CENEX","91","Black River Oasis","715-284-4344","400 Oasis Rd","10/10/2017","WI",NA,NA
+"112","Black River Falls","HOLIDAY","91","Holiday Stationstore","715-284-7480","448 N Water St","5/14/2013","WI",44.3015969389031,-90.8443351764956
+"113","Black River Falls","KWIK TRIP","91","Kwik Trip","715-284-9247","751 Hwy 54","5/14/2013","WI",44.2947575789474,-90.8563108421053
+"114","Blanchardville","CENEX","91","Blanchardville Co-Op","608-523-4293","401 S. Main St.","5/13/2015","WI",42.809472,-89.86302855
+"115","Bloomer","BP","91","Bridge Stop","","1300 Main St","12/11/2012","WI",45.102513,-91.488707
+"116","Bloomer","HOLIDAY","91","Holiday #3438","715-568-4421","2016 17th Ave","10/23/2015","WI",45.0996305141322,-91.4995581494813
+"117","Bloomer","KWIK TRIP","91","Kwik Trip","715-568-1550","1625 Woodard Rd","2/28/2014","WI",45.1002956693025,-91.5082790155336
+"118","Blue Mounds","CITGO","91","Blue Mounds Grocery","","11024 Division St","7/13/2013","WI",43.01749605,-89.8340489605277
+"119","Blue River","BP","91","The Port","","14750 Hwy 60","12/8/2012","WI",NA,NA
+"120","Bonduel","KWIK TRIP","91","Kwik Trip","","102 Express Way","10/3/2013","WI",44.7308731898366,-88.4460322128658
+"121","Boscobel","KWIK TRIP","91","Kwik Trip","608-375-0119","305 W. Prairie St.","6/20/2015","WI",NA,NA
+"122","Boscobel","CENEX","87","New Horizons","608-375-4801","401 Elm St","4/13/2016","WI",43.139389,-90.710524
+"123","Boulder Junction","SHELL","91","Coontail Corner","","5454 Park St","2/7/2016","WI",46.109787406453,-89.6412677300486
+"124","Branch","CENEX","87 92","Branch Townmart","","8133 Us Hwy 10","8/20/2013","WI",NA,NA
+"125","Briggsville","BP","91","Joyces Mason Station","608-981-2119","N405 Hwy A","5/14/2013","WI",NA,NA
+"126","Brillion","SHELL","91","Ultimart","","452 W Ryan St","3/31/2013","WI",44.1824400894416,-88.0699006557741
+"127","Brodhead","CENEX","91","Cenex","608-897-2646","1105 W 4th Ave","4/11/2018","WI",42.6186236,-89.3808843392247
+"128","Brodhead","MOBIL","91","Trackside Mobil","608-897-2202","1109 1st Center Ave","5/11/2014","WI",42.6185083,-89.3775820259188
+"129","Brooklyn","MOBIL","91","Mobil","608-455-1721","355 N Rutland Ave","2/4/2018","WI",42.8585205,-89.3697715
+"130","Brownsville","BP","91","Coles Gas","920-583-3700","868 W Main St","1/14/2020","WI",NA,NA
+"131","Brussels","MARATHON","91","Bulk Marathon #4257","920-825-1400","9769 Hwy 57","8/7/2016","WI",44.7580924,-87.5521377
+"132","Buffalo City","UNBRANDED","91","B&S Express","608-248-2575","126 S Belvidere St","1/7/2014","WI",44.2292995999111,-91.8635309397973
+"133","Cable","UNBRANDED","91","Rocky's Service","715-798-3782","43475 Us Hwy 63","6/12/2015","WI",46.2072057774756,-91.2956578904698
+"134","Cadott","BP","91","Bp Station","","106 S Hwy 27","7/30/2011","WI",NA,NA
+"135","Cambridge","BP","91","Bp Of Cambridge","608-423-3246","281 W Main St","4/4/2019","WI",43.0043901,-89.0208417
+"136","Cameron","BP","91","Bob & Steve's Bp #7","715-458-4690","104 S 1st St","4/20/2016","WI",45.4077918580923,-91.735519
+"137","Campbellsport","BP","91","Campbellsport Bp","920-533-5544","259 N Fond Du Lac","7/12/2015","WI",43.5957011064851,-88.2840414887534
+"138","Campbellsport","BP","91","Din's Mini Mart","","N3006 Hwy 67","8/26/2010","WI",NA,NA
+"139","Camp Douglas","BP","91","Bp","608-427-3365","215 Us 12","1/1/2015","WI",NA,NA
+"140","Cascade","CITGO","91","Marshall's Gas & Goods","920-528-7222","209 Madison Ave","6/28/2016","WI",43.6563597346939,-88.0111915510204
+"141","Cedar Grove","CITGO","91","Hy Way Transit","","N905 Sauk Trail Rd","6/1/2015","WI",NA,NA
+"142","Chetek","CENEX","87","Cenex","","302 Knapp St","1/26/2011","WI",45.3145102345664,-91.6528109998787
+"143","Chetek","BP","91","Chetek Bp","715-925-1049","612 Dallas St","4/20/2016","WI",NA,NA
+"144","Chetek","KWIK TRIP","","Kwik Trip","","324 2nd St","8/30/2015","WI",45.3119462912265,-91.65129503933
+"145","Chilton","MOBIL","91","Utilimart","","613 N Madison St","7/8/2015","WI",44.0362869,-88.1629072
+"146","Chippewa Falls","CITGO","87 91","Express Mart","715-723-7879","19756 Cnty Hwy X","5/17/2021","WI",NA,NA
+"147","Chippewa Falls","BP","","Express Mart","","805 N. Bridge St","2/8/2018","WI",44.9406543673469,-91.3974024489796
+"148","Chippewa Falls","HOLIDAY","91","Holiday #3716","715-861-5400","501 N Bridge St","10/28/2015","WI",44.938572,-91.39488
+"149","Chippewa Falls","HOLIDAY","91","Holiday #3721","715-720-0538","2750 120th St","10/28/2015","WI",NA,NA
+"150","Chippewa Falls","KWIK TRIP","91","Kwik Trip","","1010 Woodward Ave.","11/10/2010","WI",44.9146279155037,-91.3890066560344
+"151","Chippewa Falls","KWIK TRIP","91","Kwik Trip #352","","2997 Commercial Blvd","7/19/2012","WI",NA,NA
+"152","Chippewa Falls","UNBRANDED","91","Quality Fuel","","14983 Cnty Hwy S","4/20/2016","WI",NA,NA
+"153","Chippewa Falls","UNBRANDED","87 91","Quality Fuels","715-723-5550","10764 County Hwy N","5/23/2021","WI",44.9406780129869,-91.4580697449866
+"154","Chippewa Falls","KWIK TRIP","91","Tobacco Outlet Plus","","2209 S Prairie View Rd","9/18/2013","WI",44.91225,-91.3985025
+"155","Clam Lake","UNBRANDED","91","Clam Lake Junction","715-794-2781","60967 Hwy 77","11/16/2013","WI",46.1644102954545,-90.9039111363636
+"156","Clam Lake","UNBRANDED","91","Clam Lake Junction","715-794-2781","60967 Highway 77","7/3/2019","WI",46.1644102954545,-90.9039111363636
+"157","Clayton","BP","91","Clayton Bp","715-948-4252","110 Us Hwy 63","4/19/2016","WI",45.327047,-92.188254
+"158","Clayton","UNBRANDED","89","Lake Magnor Store","","764 Us Hwy 63","8/20/2013","WI",45.3211561125813,-92.1976870317896
+"159","Clear Lake","BP","91","Clear Lake Bp","715-263-3444","960 South Ave W","4/20/2016","WI",45.2450059387755,-92.2837268163265
+"160","Cleveland","CITGO","91","Bondes Quik Mart","","1517 North Ave","10/20/2012","WI",43.9211502040816,-87.7620033061225
+"161","Clinton","BP","","Bp","608-676-5372","505 Peck Ave","3/24/2020","WI",42.56391315,-88.86444155
+"162","Clintonville","MARATHON","87","Clintonville Mini Mart","715-823-3668","206 S Main St","10/31/2015","WI",44.6159765,-88.762418
+"163","Clintonville","FLEET FARM","89 91","Fleet Farm Gas Mart","","500 S Main St","10/12/2013","WI",44.6053742765957,-88.7646186170213
+"164","Clintonville","CITGO","91","Northside Plaza","","285 N Main St","6/7/2013","WI",44.629458,-88.754952
+"165","Colby","SHELL","91","Super 29 Shell","","1210 N Division St.","5/27/2016","WI",44.913814588327,-90.3153939099658
+"166","Colfax","BP","91","Express Mart","","616 Main St.","7/5/2011","WI",45.0009718,-91.7266414
+"167","Coloma","MOBIL","91","Coloma Ultimart - A&W","715-228-3291","215 W Follett","5/27/2013","WI",44.0355221428571,-89.5241292857143
+"168","Coloma","BP","91","Hoops Travel Center","715-228-3500","829 4th Ave","7/26/2015","WI",44.0355679,-89.5334029497221
+"169","Columbus","KWIK TRIP","91","Kwik Trip","920-623-2844","204 Dix St.","5/5/2013","WI",43.3424194017017,-89.0291904618908
+"170","Columbus","CENEX","91","Landmark Services","920-623-3260","501 Park Ave","5/30/2018","WI",43.33366,-89.020253
+"171","Columbus","BP","91","W Columbus Travel","920-623-9740","2200 W James St","11/19/2016","WI",43.350165,-89.037676
+"172","Concord","BP","91","Concord General Store","262-593-5400","N6485 County Rd F","7/16/2020","WI",43.075788,-88.590426
+"173","Cornell","BP","91","Cornell Bp","715-239-1087","425 S Third St","4/19/2016","WI",NA,NA
+"174","Cornell","HOLIDAY","91","Holiday #3412","715-239-6071","713 Bridge St","10/10/2017","WI",45.1651403469388,-91.1427097755102
+"175","Cottage Grove","SHELL","91","Gateway Shell","","420 W Main St","4/4/2019","WI",NA,NA
+"176","Cottage Grove","KWIK TRIP","91","Kwik Trip #650","608-839-4167","1601 Landmark Dr","3/3/2014","WI",43.105234438829,-89.1968982374114
+"177","Cottage Grove","BP","91","Pleasant Springs Travel Plaza","608-877-0525","2763 County Hwy N","4/4/2019","WI",43.1209551,-89.1986418
+"178","Crandon","CITGO","91","Citgo Quick Mart","","100 W Pioneer St","7/19/2012","WI",45.564589,-88.901784
+"179","Crandon","MOBIL","91","Lotter Mobil","","300 W Glen St","7/19/2012","WI",45.572007,-88.900629
+"180","Crandon","MARATHON","91","Marathon","","600 E Pioneer St","10/11/2010","WI",45.5635301,-88.8948619
+"181","Crivitz","SHELL","91","Crivitz 141 Shell","715-854-2210","13 S Hwy 141","5/15/2021","WI",45.2271756,-87.9968469
+"182","Crivitz","UNBRANDED","87","Tall Oaks","715-757-3238","N10008 Parkway Rd.","6/23/2016","WI",NA,NA
+"183","Cross Plains","KWIK TRIP","91","Kwik Trip","","2508 Main St","5/5/2013","WI",43.1118046,-89.6459816
+"184","Cuba City","KWIK TRIP","91","Kwik Trip","608-744-3699","212 S Main St","5/7/2013","WI",42.6020503,-90.4308401
+"185","Cuba City","KWIK TRIP","91","Kwik Trip #339","608-744-3699","212 S Main Street","10/16/2018","WI",42.6020503,-90.4308401
+"186","Cuba City","BP","91","Munyon's Auto","","302 S Main St","5/5/2013","WI",42.6036073766868,-90.4309437892375
+"187","Cumberland","BP","91","Bob & Steve's Bp #8","715-822-4202","1633 Superior St","4/20/2016","WI",45.5405562644609,-92.0210842512188
+"188","Cumberland","UNBRANDED","87","Cumberland Muni A/P","","865 21st Ave","12/14/2012","WI",45.5100357753173,-91.9909251818995
+"189","Cumberland","HOLIDAY","91","Holiday #3560","715-822-3770","1610 Elm","10/28/2015","WI",45.5315946,-92.0128413
+"190","Cumberland","KWIK TRIP","91","Kwik Trip","715-822-3853","1530 Elm St","8/3/2020","WI",45.5325371321023,-92.0290146974429
+"191","Dale","UNBRANDED","87 91 100","Dale Gas & Oil","920-779-6666","W9933 Hwy 96","6/18/2020","WI",44.2722026,-88.6901015
+"192","Dallas","BP","91","Bob & Steve's Bp #12","715-837-1595","113 Dallas St E","4/20/2016","WI",45.259269,-91.812417
+"193","Danbury","BP","91","Log Cabin Store & Eatery","715-656-3116","3021 Hwy 35","8/3/2014","WI",46.0038175,-92.3629919
+"194","Dane","BP","91","Petro Oil Co","","101 W Main St","1/7/2014","WI",43.250352,-89.501753
+"195","Darien","BP","91","Country Station","262-882-5119","W9003 Us Hwy 14","8/27/2015","WI",NA,NA
+"196","Deerfield","BP","91","Loeder Oil","","109 N Main St","10/3/2012","WI",43.0544464545455,-89.0748619090909
+"197","Deforest","FLEET FARM","89 91","Fleet Farm","608-842-9125","4630 Dalmore Rd","8/1/2020","WI",43.19758305,-89.350887810732
+"198","Deforest","KWIK TRIP","91","Kwik Trip #557","608-842-3446","4848 C. R. V","5/22/2018","WI",NA,NA
+"199","Deforest","PHILLIPS 66","91","Phillips 66","608-846-0280","4884 C.R. V","9/6/2015","WI",NA,NA
+"200","Deforest","MOBIL","91","Redline Mobil","608-846-4034","937 E Holum St","5/7/2017","WI",43.2476052630749,-89.3250865625547
+"201","Deforest","SHELL","91","Truckers Inn","608-246-3040","6162 Us Hwy 51","1/24/2017","WI",43.1920635,-89.3247475
+"202","Delavan","UNBRANDED","89","American Marine","262-728-3453","4138 Carol St","9/6/2015","WI",42.5831481428571,-88.6385814081633
+"203","Delavan","CITGO","91","Delavan Food Mart","","505 Sugar Creek Rd","9/26/2012","WI",NA,NA
+"204","Delavan","FLEET FARM","89 91","Fleet Farm","262-725-6280","1516 E. Geneva Street","5/1/2019","WI",42.6277028652153,-88.6263830377005
+"205","Delavan","MOBIL","91","Lakefront Mobil","262-728-3400","3508 Hwy 50","3/8/2018","WI",NA,NA
+"206","Delavan","SHELL","91","Maxi-One Mini-Mart","","514 Hwy 50","5/28/2018","WI",NA,NA
+"207","Delavan","MOBIL","91","Mobil","","502 Borg Rd","7/16/2012","WI",42.608533,-88.624522
+"208","Denmark","CENEX","91","United Cooperative","920-863-2171","110 E Pine St","3/15/2021","WI",44.349454375,-87.828422125
+"209","De Pere","CITGO","91","Country Express","920-336-6402","2601 Monroe Rd","7/13/2015","WI",NA,NA
+"210","De Pere","CITGO","91","De Pere Y Mart","","1017 4th St","4/11/2013","WI",44.4386135918367,-88.0720847959184
+"211","De Pere","KWIK TRIP","91","Kwik Trip","920-339-4652","2618 Monroe Rd","7/13/2015","WI",NA,NA
+"212","De Pere","KWIK TRIP","91","Kwik Trip #105","920-983-0324","2746 Freedom Rd","12/5/2018","WI",NA,NA
+"213","De Pere","MOBIL","91","Midway Ultimart","920-336-1161","3907 Webster Ave","11/7/2016","WI",44.4488825,-88.0465083
+"214","De Pere","BP","91","Reid St Station","","401 Reid St","10/13/2012","WI",44.446475,-88.070981
+"215","De Pere","BP","91","Voyager","920-336-4275","302 N. Broadway Ave.","8/7/2015","WI",44.4464745714286,-88.0604203367347
+"216","Desoto","MOBIL","91","Pronto","608-648-3711","10110 Great River Rd","5/22/2014","WI",NA,NA
+"217","Dodgeville","CITGO","91","Dodgeville Citgo","608-935-1661","420 N Iowa St","5/5/2013","WI",42.9628818166118,-90.1304482852789
+"218","Dodgeville","KWIK TRIP","91","Kwik Trip","608-935-9484","115 S Iowa St","6/5/2018","WI",42.9592267142857,-90.1302984285714
+"219","Dodgeville","KWIK TRIP","91","Kwik Trip","608-930-2200","1122 N Bequette St","5/25/2021","WI",42.9719607727273,-90.132932
+"220","Dodgeville","CENEX","91","Mr. T's Quick Stop","608-935-3190","101 Co Hwy Yz","11/12/2013","WI",42.9752869,-90.1322919746298
+"221","Downsville","MOBIL","87","Wik's Repair","715-664-8349","E4486 County Rd C","3/29/2013","WI",NA,NA
+"222","Dresser","BP","91","The Little Store","715-755-3851","115 Hwy 35 S","8/20/2013","WI",45.3542456333333,-92.6374838833333
+"223","Dundee","EXXON","91","Dundee Exxon","","N3006 Hwy 67","7/23/2019","WI",NA,NA
+"224","Durand","CENEX","91","Countryside Co-Op","","402 2nd Ave","11/14/2012","WI",44.6269990269738,-91.9652127566952
+"225","Durand","UNBRANDED","91","Handy Mart","","300 W. Prospect St","3/24/2011","WI",44.625859,-91.967013
+"226","Durand","SHELL","91","Shell","715-672-5125","610 Us Hwy 10 E","8/24/2016","WI",NA,NA
+"227","Eagle River","U.S. OIL","87 89 91","D & S","","223 S Railroad St","6/2/2014","WI",45.9144249002844,-89.251651966662
+"228","Eagle River","HOLIDAY","91","Holiday Stationstore","715-479-3473","928 N Railroad St","11/19/2014","WI",45.92829365,-89.2572271335149
+"229","Eagle River","BP","91","Nobbe's North","","Hwy 70","9/16/2010","WI",45.914253,-89.276449
+"230","Eagle River","SHELL","91","Shell Food Mart","","901 E Pine St","10/3/2012","WI",45.9122201,-89.234386
+"231","Eagle River","BP","91","Wild Eagle Corner Store","","1970 Us Hwy 45 N","7/20/2013","WI",45.9256243,-89.2558384
+"232","East Troy","SHELL","91","East Troy Shell","262-642-4624","2526 E Main St","6/21/2021","WI",NA,NA
+"233","East Troy","KWIK TRIP","91","Kwik Trip","262-642-1409","1880 County Rd E S","8/31/2019","WI",NA,NA
+"234","East Troy","KWIK TRIP","91","Kwik Trip","262-642-1409","1880 County Rd Es","4/15/2020","WI",42.7772294,-88.4477952
+"235","East Troy","PILOT","87","Road Ranger","815-315-4979","1946 Energy Dr","2/23/2020","WI",42.7851489040264,-88.3934053613221
+"236","Eau Claire","BP","91","Direct Stores","","317 N Barstow St","1/20/2016","WI",44.8157278056597,-91.5015782928839
+"237","Eau Claire","FLEET FARM","89 91","Fleet Farm","715-895-8401","3165 Old Town Hall Rd","11/28/2019","WI",44.7636064,-91.4193067
+"238","Eau Claire","UNBRANDED","91","Gordy's","","3400 E Hamilton Ave","2/17/2012","WI",44.7862615785953,-91.4602529899665
+"239","Eau Claire","UNBRANDED","91","Gordy's County Mkt","","2717 Birch S","8/27/2014","WI",44.820433,-91.4713207
+"240","Eau Claire","HOLIDAY","91","Holiday #3440","715-833-9533","2205 Eddy Ln","10/23/2015","WI",44.8506272218108,-91.4779779594538
+"241","Eau Claire","HOLIDAY","91","Holiday Stationstore","715-836-8692","2109 Highland Ave","5/29/2015","WI",44.80692705,-91.4705441785178
+"242","Eau Claire","EXXON","91","J & N Foodmart","715-834-5080","3019 N Hastings Way","11/9/2014","WI",44.8513065476997,-91.4709871257638
+"243","Eau Claire","KWIK TRIP","91","Kwik Trip","","1130 W Macarthur Ave","7/11/2012","WI",44.7882048304573,-91.518041643901
+"244","Eau Claire","KWIK TRIP","91","Kwik Trip #201","715-835-4220","3530 Mall Dr","8/28/2016","WI",44.7815343933437,-91.4611790506122
+"245","Eau Claire","KWIK TRIP","91","Kwik Trip # 389","715-832-6065","108 W Madison","9/29/2014","WI",44.8158647382274,-91.5054468794986
+"246","Eau Claire","KWIK TRIP","91","Kwik Trip #390","715-838-8929","2327 N Clairemont Ave","9/29/2014","WI",44.8239999567638,-91.5439503265541
+"247","Eau Claire","KWIK TRIP","91","Kwik Trip #398","715-835-5613","2135 Brackett Ave","9/29/2014","WI",44.8000013169662,-91.4711495190769
+"248","Eau Claire","KWIK TRIP","91","Kwik Trip # 459","715-835-3432","2232 Otter Rd","10/2/2014","WI",44.796429,-91.4581328
+"249","Eau Claire","KWIK TRIP","91","Kwik Trip #633","","2715 Golf Rd","1/28/2013","WI",44.771077,-91.4627893534915
+"250","Eau Claire","HOLIDAY","91","Mega-Holiday","","2940 N Clairemont St","3/20/2013","WI",44.8365725,-91.5445526
+"251","Eau Claire","MOBIL","91","The Corner Store","","6391 Hwy 93","2/5/2013","WI",44.7654781,-91.4589053
+"252","Eden","CITGO","91","Eden Corner Express","920-477-4203","301 W Main St","6/7/2013","WI",43.6912204,-88.3687177
+"253","Eden","UNBRANDED","87 91","Flood Oil Co","920-477-2403","105 Main St","6/13/2014","WI",42.9672383,-90.3384106
+"254","Edgar","CENEX","91","Cenex Mart","","Hwy 29 & C.Rd. H","3/6/2014","WI",NA,NA
+"255","Edgar","BP","91","R-Store","","403 S 3rd Ave","6/17/2019","WI",44.9181405255505,-89.9638609573493
+"256","Edgerton","UNBRANDED","91","Burns Full Service","608-884-6111","318 S Main St","11/19/2014","WI",42.8308419734565,-89.0719586981063
+"257","Edgerton","SHELL","91","Carl's Shell","608-884-4988","11180 Goede Rd.","6/21/2017","WI",NA,NA
+"258","Edgerton","KWIK TRIP","91","Edgerton","","505 N Main St","3/27/2013","WI",42.83785378125,-89.0651940625
+"259","Edgerton","MOBIL","91","Mobil","608-884-9310","581 E Richardson Spgs","4/20/2016","WI",NA,NA
+"260","Egg Harbor","BP","91","Egg Harbor Bp","","7784 Hwy 42","3/20/2013","WI",45.0493153367886,-87.279874084948
+"261","Elcho","SHELL","91","Elcho Shell","","Us Hwy 45","8/9/2015","WI",45.430211,-89.18419
+"262","Eleva","PHILLIPS 66","91","D&D Gas Plus","715-287-3546","26145 W Mondovi St","7/3/2015","WI",44.5759245,-91.471723
+"263","Elkhorn","MOBIL","91","Elkhorn Travel Center","","195 E. Commerce Dr.","9/3/2017","WI",42.652078,-88.542412753964
+"264","Elkhorn","KWIK TRIP","91","Kwik Trip","","6 W. Hidden Trail","5/31/2019","WI",42.6937161,-88.546629
+"265","Elkhorn","BP","91","Lafayette Fuel Plaza","","W4052 Wi Hwy 11","3/2/2019","WI",NA,NA
+"266","Elkhorn","BP","91","Lockhart's","262-742-2451","N6424 Us Hwy 12","6/24/2015","WI",NA,NA
+"267","Elkhorn","CITGO","91","Market St Citgo","262-723-8893","109 W Market St","7/5/2014","WI",42.691631,-88.5446356666667
+"268","Elkhorn","UNBRANDED","91","Shaver's General Store","262-723-6333","N5495 Hwy 120","10/26/2019","WI",NA,NA
+"269","Elk Mound","UNBRANDED","91","I94 Mart","","N5698 850th St.","11/9/2015","WI",44.879382,-91.732408
+"270","Ellison Bay","INDEPENDENT","87 89 91","Ellison Bay Service","","12018 Hwy 42","3/23/2018","WI",45.2534980831131,-87.0737913852845
+"271","Ellsworth","CENEX","89","Cenex","715-273-4363","610 E Main St","5/30/2014","WI",44.7341104,-92.4631488
+"272","Ellsworth","FREEDOM","91","Freedom Value Center","715-273-3408","101 N Maple St","5/30/2014","WI",44.731297,-92.486956
+"273","Endeavor","BP","","Gohl Post","608-587-2351","N1777 County Rd Cx","8/14/2020","WI",NA,NA
+"274","Ettrick","UNBRANDED","91","Ettrick Express","608-525-2820","22732 Us Hwy 53","7/8/2016","WI",44.167952,-91.273355
+"275","Evansville","BP","91","All N One","","104 S Madison St.","5/5/2013","WI",42.7787758,-89.298595876847
+"276","Evansville","MOBIL","91","Goodspeed Gas N Go","608-882-9943","350 N Union Rd","6/25/2018","WI",42.7845520865438,-89.2976730114799
+"277","Evansville","CENEX","87 91","Landmark Cennex","","9 J Lindemann Dr","4/4/2014","WI",42.7786722244898,-89.2710643673469
+"278","Evansville","CITGO","91 110","The Grove Quick Mart","","230 E Main St","3/4/2014","WI",42.7807178,-89.2936481
+"279","Fairchild","CENEX","87","Fairchild Cenex","715-334-5901","W13007 Us Hwy 10","7/20/2013","WI",NA,NA
+"280","Fall Creek","PHILLIPS 66","91","Fall Mart","715-877-1351","208 E Lincoln Ave","1/14/2020","WI",44.7634572040816,-91.2749012857143
+"281","Fall Creek","BP","91","Korner Store","715-877-3316","309 E Lincoln Ave","1/14/2020","WI",44.7636712857143,-91.2715369387755
+"282","Fall River","MOBIL","91","Fall River Mobil Mart","","722 S. Main St.","5/28/2012","WI",43.3871021,-89.0465639
+"283","Fence","UNBRANDED","87","Huth's Fence Post","715-336-2516","603 Memory Ln","5/27/2019","WI",45.7443732858497,-88.4255473360801
+"284","Fennimore","KWIK TRIP","91","Kwik Trip","608-822-3125","745 Lincoln Ave","5/5/2013","WI",42.984548,-90.655489
+"285","Fennimore","MOBIL","91","Speedy Mart","608-822-6016","435 Lincoln Ave","10/4/2015","WI",42.9877241568889,-90.6554919634265
+"286","Fish Creek","BP","91","Fish Creek Bp","","3871 Hwy 42","3/20/2013","WI",45.1289534419747,-87.2237021263609
+"287","Fitchburg","BP","91","Depot Stores Inc.","","2770 S Syene Rd","1/8/2014","WI",43.0032996715362,-89.3963064836025
+"288","Florence","CITGO","91","Citgo","","440 Central Ave","3/21/2013","WI",45.9224941174414,-88.2497664063026
+"289","Florence","CENEX","87 89 91","Riverside Liquor","","515 Central Ave","9/10/2017","WI",45.9223881,-88.2491418
+"290","Florence","MARATHON","93","Spread Eagle Liquors","715-696-6300","549 Us Hwy 2","7/13/2018","WI",NA,NA
+"291","Fond Du Lac","FLEET FARM","89 91","Fleet Farm","920-922-7540","800 S. Military Rd.","9/7/2019","WI",43.75939,-88.473988
+"292","Fond Du Lac","FLEET FARM","89 91","Fleet Farm","","629 Rogersville Rd","10/8/2012","WI",43.762519,-88.4689837142857
+"293","Fond Du Lac","MOBIL","91","Four Brothers Service","920-273-0491","N5789 Co Rd D","9/9/2015","WI",NA,NA
+"294","Fond Du Lac","KWIK TRIP","91","Kwik Trip","","1123 W Johnson St","9/12/2012","WI",43.7845858767707,-88.4807441182762
+"295","Fond Du Lac","KWIK TRIP","91","Kwik Trip","920-921-2925","980 S Hickory St","1/25/2016","WI",43.7526412,-88.4634009
+"296","Fond Du Lac","KWIK TRIP","91","Kwik Trip","","456 S Main St.","4/10/2012","WI",43.766385,-88.447638
+"297","Fond Du Lac","KWIK TRIP","91","Kwik Trip","","471 N Park Ave","10/8/2012","WI",43.7911961052632,-88.4392192631579
+"298","Fond Du Lac","BP","91","Ma & Pa's","","506 S Main St","9/15/2012","WI",43.764958,-88.447773
+"299","Fond Du Lac","BP","91","Pioneer Pit Stop","","20 E Pioneer Rd","4/10/2012","WI",43.7528355912976,-88.448237775066
+"300","Fond Du Lac","SHELL","91","Pump N Pantry","920-926-0021","329 W Pioneer Rd","8/1/2013","WI",43.7552217,-88.461372934375
+"301","Fond Du Lac","SHELL","91","Ulitimart Shell","920-921-4633","1177 W Johnson Street","7/29/2019","WI",43.7845993237733,-88.4811660914209
+"302","Fontana","SHELL","91","Fontana Mart","262-492-8888","286 Valley View Dr","7/14/2017","WI",NA,NA
+"303","Footville","MOBIL","91","Footville Mini Mart","","509 S Gilbert St","5/4/2017","WI",42.66769,-89.2093835
+"304","Forest Junction","BP","91","Railway Jct Fast Stop","","N8914 Hwy 57","3/2/2013","WI",44.222703,-88.13622
+"305","Forestville","UNBRANDED","93","Uni-Mart","","102 N Forestville Ave","6/23/2010","WI",44.6901447593738,-87.4794313934971
+"306","Fort Atkinson","KWIK TRIP","91","Kwik Trip","","1565 Madison Ave","8/18/2015","WI",42.9403618864647,-88.8592701472846
+"307","Fort Atkinson","CITGO","91","Sai Mart Citgo","","1285 Madison Ave","7/10/2011","WI",42.9382447909175,-88.8550609125972
+"308","Fort Atkinson","SHELL","","Shell","920-563-9390","1012 Whitewater Ave","9/19/2018","WI",42.9158064,-88.8324736
+"309","Fountain City","CONOCO","91","Elmer's Sales & Service","","720 S Main St","10/4/2014","WI",44.0943745,-91.6713815
+"310","Fountain City","KWIK TRIP","91","Kwik Trip","","43 S Shore Dr","10/11/2010","WI",43.39856,-89.041347
+"311","Fox Lake","KWIK TRIP","91","Kwik Trip","920-928-2070","701 Hwy 33 W","10/10/2017","WI",43.5666000834284,-88.9200346952355
+"312","Frederic","HOLIDAY","91","Holiday #3478","715-327-8187","410 Wisconsin Ave S","10/23/2015","WI",45.6631711836735,-92.4660586734694
+"313","Freedom","MOBIL","91","Dairyland Depot","","N4135 Hwy 55","9/2/2014","WI",44.3904849,-88.2914396
+"314","Freedom","SHELL","91","Freedom Mini Mart","","N4012 Cnty Rd E","4/28/2013","WI",NA,NA
+"315","Fremont","CITGO","90","Fremont Travel Plaza","920-446-3344","E7487 Hwy 110","11/15/2013","WI",NA,NA
+"316","Friendship","BP","91","Bp","608-339-2218","1610 Hwy 13","7/26/2015","WI",NA,NA
+"317","Galesville","BP","92","Express Mart","608-582-2848","16894 S Main St","5/19/2019","WI",44.0823323142857,-91.3489085428571
+"318","Galesville","HOLIDAY","91","Holiday Stationstore","608-582-3300","17544 N Main St","5/19/2019","WI",44.0923131340691,-91.3421726091164
+"319","Gays Mills","CENEX","91","The Marketplace","","Hwy 131","6/26/2012","WI",43.3045408,-90.8420976
+"320","Genoa","CENEX","87 91","Pedretti's Kwik Stop","608-689-2411","4050 Hwy 35","10/31/2018","WI",43.5806068,-91.2263866319953
+"321","Genoa City","MOBIL","91","Genoa City Travel Center (Open 24 Hours)","262-295-1115","229 South Rd","3/27/2021","WI",42.4983225,-88.3095655
+"322","Gillett","SHELL","91","Gillett Shell Llc","920-855-2400","6255 Hwy 32","7/13/2013","WI",44.9024636714981,-88.3072834949369
+"323","Gillett","UNBRANDED","87 91","R-Store","","200 Mckenzie St","3/26/2012","WI",44.893282,-88.307281
+"324","Grand Marsh","UNBRANDED","87","Myrt's Handi Mart","608-339-9151","626 County Rd E","11/19/2014","WI",43.8872518367347,-89.7157333061225
+"325","Grantsburg","MOBIL","91","Mobil","715-463-5000","639 Hwy 70","6/17/2016","WI",45.7730687,-92.7080751
+"326","Gratiot","FS","93","Fs Fast Stop","608-922-3381","10360 State Hwy. 11","3/14/2020","WI",NA,NA
+"327","Green Bay","SHELL","91","Bay Port Shell","","2401 Velp Ave","4/6/2017","WI",44.5329077,-88.0278715
+"328","Green Bay","BP","91","Bp","","1465 University Ave","10/8/2012","WI",44.5119951578947,-87.9874359649123
+"329","Green Bay","BP","91","Bp","","2203 S Webster","10/8/2012","WI",44.4997587,-88.0122581
+"330","Green Bay","EXPRESS","91","Express Convenience","","1356 Bellevue St","6/30/2013","WI",44.4803941875,-87.9969164375
+"331","Green Bay","EXPRESS","91","Express Convenience","","606 Dousman","11/8/2012","WI",44.5205729,-88.022507192055
+"332","Green Bay","FLEET FARM","89 91","Fleet Farm East","","2460 Main St","2/26/2013","WI",44.4716490487805,-87.9656092195122
+"333","Green Bay","FLEET FARM","89 91","Fleet Farm West","","213 N Taylor","4/6/2017","WI",44.5323664693878,-88.0741121632653
+"334","Green Bay","CENEX","91","Fox Convenience - Military Cenex","920-497-7704","601 N. Military Ave.","1/25/2019","WI",44.536884,-88.055216
+"335","Green Bay","BP","91","Hot Box","","2056 E Main St","10/8/2012","WI",43.8508565,-89.1210606
+"336","Green Bay","UNBRANDED","91","Krist","920-370-7514","2531 Babcock Rd","8/16/2015","WI",44.4914417521929,-88.0984095861238
+"337","Green Bay","KWIK TRIP","91","Kwik Trip","920-468-1938","840 S Huron Rd","7/13/2015","WI",44.4884655226131,-87.9179676080402
+"338","Green Bay","KWIK TRIP","91","Kwik Trip","","1712 E Mason","10/8/2012","WI",44.525060658936,-88.068692011075
+"339","Green Bay","SHELL","91 110","Maplewood Shell","","4720 Milltown Rd","3/4/2014","WI",44.574435903507,-88.1629570583941
+"340","Green Bay","MOBIL","91","Midway Mobil","","3907 S Webster Ave","11/26/2012","WI",44.50409,-88.0091578
+"341","Green Bay","EXPRESS","91","Military Ave Express","","612 S Military Ave","11/14/2012","WI",44.5245042166615,-88.0635873577497
+"342","Green Bay","BP","91","Pick 'n Roll","","2115 E Main St","8/6/2012","WI",43.8508565,-89.1210606
+"343","Green Bay","SHELL","91","Road Trip Food Mart","","1593 E Mason St","8/6/2012","WI",44.497741,-87.9910543333333
+"344","Green Bay","SHELL","91","Road Trip I-43 Shell","","3285 Cedar Hedge Ln","11/14/2012","WI",44.4369400767089,-87.9182157774379
+"345","Green Bay","SHELL","91","Shell","920-434-7764","1773 Cardinal Ln","8/3/2017","WI",43.133878,-89.354328
+"346","Green Bay","BP","91","Taco Bell Bp","","2409 Monroe Rd","10/8/2012","WI",44.4532450057832,-87.9946778786104
+"347","Green Bay","BP","91","Terry's E-Z","","401 Mather St","10/8/2012","WI",44.524079,-88.016804
+"348","Green Bay","SHELL","91","Triangle Shell","","2595 University Ave","10/8/2012","WI",44.5140678070175,-87.9532703157895
+"349","Green Bay","BP","91","University Bp","","2260 Nicolet Dr","10/8/2012","WI",44.529396,-87.937386
+"350","Green Bay","SHELL","91","Walnut One Stop","","515 W Walnut St","4/19/2013","WI",44.5166673,-88.0239762995648
+"351","Green Bay","BP","91","Willow Creek","920-465-6877","1480 Lime Kiln Rd","8/1/2015","WI",44.4745283461395,-87.9826444918321
+"352","Greenleaf","BP","91","Greenleaf Bp","","6793 Hwy 57","10/4/2010","WI",44.3156097391304,-88.0958449565217
+"353","Greenville","CENEX","91","Greenville Ace Hardware","920-659-4950","N1878 Municipal Dr","5/21/2020","WI",NA,NA
+"354","Greenville","BP","91","Greenville Bp","920-757-5034","W6308 Levi Dr","1/27/2016","WI",44.286115,-88.516991
+"355","Greenville","CENEX","87","Greenville Cenex","920-757-5792","W1675 Greenville Dr","8/21/2016","WI",NA,NA
+"356","Greenville","SHELL","91","Shell","920-757-7790","W6318 Wisconsin Ave","9/3/2016","WI",NA,NA
+"357","Greenwood","UNBRANDED","93","Cenex","","414 Main St","3/21/2013","WI",NA,NA
+"358","Greenwood","KWIK TRIP","91","Kwik-Trip","715-267-7149","206 N Main St.","7/20/2014","WI",44.7688796734694,-90.5980473673469
+"359","Hammond","BP","91","Bob & Steve's Bp #5","715-796-2234","1060 3rd St","4/20/2016","WI",44.975108,-92.4367801836735
+"360","Hammond","HOLIDAY","91","Holiday #3453","715-796-2323","577 Davis St","10/23/2015","WI",44.9807594328085,-92.4361561405791
+"361","Hartford","UNBRANDED","91","Hartford Municipal Airport","","4200 Co Hwy U","7/23/2018","WI",43.3631206,-88.3980392
+"362","Hartford","CITGO","91","K-Stop","262-629-1990","W346 Luedtke Ln","7/23/2018","WI",NA,NA
+"363","Hatley","CENEX","91","Hatley R-Store","715-446-3860","401 State Rd","8/6/2014","WI",44.8819105859125,-89.3366017776655
+"364","Hawkins","UNBRANDED","91","Northwoods Conv Store","","718 Ellingson St","12/1/2012","WI",45.5154683,-90.7190128788208
+"365","Hayward","GENERIC","91","Blackiron Resort","715-462-9515","12131 Hwy 77 W","8/5/2018","WI",46.0126908,-91.4662455
+"366","Hayward","UNBRANDED","87 91","D&D Log Cabin","715-634-4213","14293 W Co Rd K","12/4/2015","WI",NA,NA
+"367","Hayward","UNBRANDED","89 91","Happy Hooker Bait & Tackle","715-462-3984","12272 N Upper A Rd","7/26/2015","WI",NA,NA
+"368","Hayward","UNBRANDED","91","Holiday","","15771 Us Hwy 63","5/21/2013","WI",46.015931154167,-91.4801343375195
+"369","Hayward","HOLIDAY","91","Holiday #28","715-634-4221","15752 Us Hwy 63","5/11/2016","WI",46.01567395,-91.48103885
+"370","Hayward","HOLIDAY","91","Holiday #36","715-634-4388","10478 Hwy 27","5/11/2016","WI",NA,NA
+"371","Hayward","KWIK TRIP","91","Kwik Trip","715-634-9000","15831 Us Hwy 63","10/29/2015","WI",46.0118768671975,-91.4862596992038
+"372","Hayward","CENEX","87 91","Northern Lakes Co-Op","715-634-2337","15877 Us Hwy 63","7/20/2013","WI",46.012607338916,-91.4854408740836
+"373","Hazelhurst","BP","87","Bp Gas","715-358-0283","7488 Us Hwy 51","5/30/2016","WI",45.8014103,-89.7224701
+"374","Hazelhurst","MARATHON","87 91","Inter City Oil","715-356-4857","6995 Us Hwy 51","5/23/2014","WI",45.804039,-89.723265
+"375","Highland","BP","91","Jt's Gas & Go","608-929-4900","714 Spring St","10/5/2015","WI",43.04456755,-90.3800267257439
+"376","Hillsboro","BP","91","Bp","608-489-2423","E18590 Hwy 33","7/4/2015","WI",43.6612799,-90.327991
+"377","Hillsboro","KWIK TRIP","91","Kwik Trip","","229 Mill St","10/11/2010","WI",43.6516737,-90.3415740738285
+"378","Hixton","CENEX","87 91","Cheesehut - Cenex","","141 Interstate Rd N","11/8/2017","WI",NA,NA
+"379","Hixton","CENEX","87","Federation Coop","715-984-2419","N15681 Hwy 121","3/18/2017","WI",NA,NA
+"380","Hixton","CLARK","91","Hixton Travel Plaza","715-386-3281","150 Interstate Rd","3/4/2014","WI",NA,NA
+"381","Holcombe","UNBRANDED","87","Lk Holcombe Cnv Store","","26473 Hwy 27","1/10/2013","WI",NA,NA
+"382","Hollandale","SUNOCO","91","Corner Mart","608-967-2371","200 Waldwick St","7/26/2019","WI",42.87454495,-89.9311955892042
+"383","Holmen","BP","91","Auto Care Mall","","3917 Circle Dr","7/3/2015","WI",43.9253628918708,-91.2455331333618
+"384","Holmen","KWIK TRIP","91","Kwik Trip #311","608-526-3010","1550 S Holmen Dr","6/29/2014","WI",43.9515005,-91.2597335
+"385","Hortonville","BP","91","B P","920-779-4834","102 E Main St","3/30/2013","WI",44.3346825667439,-88.6382329291124
+"386","Howards Grove","MOBIL","91","Petro Center","920-565-3368","220 N Wisconsin Dr","10/4/2016","WI",43.835799,-87.820427
+"387","Hudson","BP","91","Bob & Steve's Bp #17","715-381-0426","1103 Cnty Rd A","4/20/2016","WI",NA,NA
+"388","Hudson","CENEX","87 91","Burkhart Conv Store","715-386-8815","1088 Cnty Rd A","1/23/2015","WI",NA,NA
+"389","Hudson","FLEET FARM","89 91","Fleet Farm","715-386-3281","1001 Industrial St","3/4/2014","WI",44.9606458518692,-92.7340598053718
+"390","Hudson","FREEDOM","91","Freedom Value Center","715-386-6911","1917 Coulee Rd","3/18/2017","WI",44.9634820895822,-92.7331103367549
+"391","Hudson","KWIK TRIP","91","Kwik Trip","715-386-8650","2401 Crestview Dr","7/1/2014","WI",NA,NA
+"392","Hudson","BP","91","Mike's Standard","715-386-2494","1313 Coulee Rd","7/1/2014","WI",44.9635796824927,-92.7388824555046
+"393","Hurley","BP","91","Cary Mine Convenience","715-561-2995","603 Cary Rd","7/29/2014","WI",46.4368203,-90.2151707
+"394","Hurley","UNBRANDED","87 91","Cork Screw","715-561-5645","5619 Us Hwy 2 W","12/2/2014","WI",NA,NA
+"395","Hurley","UNBRANDED","91","Krist Oil #60","715-561-2901","201 Silver St","4/15/2015","WI",46.44976,-90.183069
+"396","Hurley","CENEX","87 91","Midland Services","715-561-3444","501 Us Hwy 51","3/29/2015","WI",46.454704,-90.181853
+"397","Hurley","MOBIL","91","Ray's Kwik Mart Mobil","715-561-5111","510 2nd Ave N","4/14/2015","WI",46.4547310011835,-90.1818534977177
+"398","Hustisford","BP","91","Tri-Par Oil #21","920-349-8410","499 E Rubicon","7/23/2018","WI",43.342205,-88.59691
+"399","Hustisford","CENEX","91","United Co-Op","920-349-3989","326 W Juneau","7/23/2018","WI",43.3458472,-88.6037573295238
+"400","Independence","BP","91","Troy's Gas & Grub","715-985-3058","23150 Whitehall Rd","7/13/2015","WI",44.363396,-91.4118369230769
+"401","Iron Ridge","CENEX","91","United Co-Op","","210 W Pleasant St","9/19/2012","WI",43.3992738,-88.5355619
+"402","Iron River","SPUR","91","O'Brien's C-Store","","706 Mill St.","6/20/2018","WI",46.4944808,-90.4127521
+"403","Iron River","SPUR","91","Parts City","715-372-5848","220 N Main St","10/15/2014","WI",46.5684569,-91.4163507
+"404","Ixonia","BP","91","Station Ixonia","920-261-9473","W1168 American St","11/15/2018","WI",43.144196,-88.591939
+"405","Janesville","BP","91","Bp","","951 N Washington St","8/22/2012","WI",42.6932689677419,-89.0370407741935
+"406","Janesville","BP","91","Bp","608-373-0326","1951 Center Ave","3/13/2014","WI",42.6505725757576,-89.0310533030303
+"407","Janesville","EXXON","91","Exxon","608-531-0581","3420 Milton Ave","5/12/2018","WI",42.7227044946809,-88.9952497021277
+"408","Janesville","CITGO","91","Jackson St Citgo","","1002 S Jackson St","3/23/2019","WI",42.6669566938776,-89.0179311632653
+"409","Janesville","BP","91","Janesville Food Shop","608-756-9002","1840 Beloit Ave.","9/14/2015","WI",42.668434,-89.012005
+"410","Janesville","KWIK TRIP","91","Kwik Trip #326","608-752-3354","3123 Us Hwy 51 S","7/5/2014","WI",42.7179952423228,-89.0312029027001
+"411","Janesville","KWIK TRIP","91","Kwik Trip #617","608-754-4088","254 E Memorial Dr","3/11/2015","WI",42.69354485,-89.0263391081507
+"412","Janesville","KWIK TRIP","91","Kwik Trip #647","608-756-2880","2518 W Court St","11/29/2014","WI",42.6792950067114,-89.0506804563758
+"413","Janesville","LEIN OIL","87","Lein Oil Co","608-758-3915","3500 N Newville Rd","8/17/2019","WI",42.724973,-89.012959
+"414","Janesville","CITGO","91","Maan Enterprises","","404 N Parker Dr","5/23/2015","WI",42.6865391428571,-89.0247874489796
+"415","Janesville","UNBRANDED","91","The Station","608-756-4436","2601 W Court St","12/11/2014","WI",42.679115,-89.051823
+"416","Janesville","CITGO","91","Virk's Liquor","608-754-0031","2807 W Court St","1/13/2020","WI",42.6792306748415,-89.0566189725127
+"417","Janesville","UNBRANDED","91","Woodman's Food Mkt Gas","608-754-3373","2819 N Lexington Dr","7/20/2018","WI",42.7188349583171,-88.9939358101864
+"418","Jefferson","BP","91","Bp","920-674-4773","206 S Main St","5/16/2014","WI",43.078616,-88.91298775
+"419","Jefferson","FRONTIER","87","Fs Frontier Co-Op","","222 E Puerner St","8/12/2014","WI",43.0133543541827,-88.8039827940076
+"420","Jefferson","SHELL","91","Shell","920-674-6767","1411 S. Main St","4/4/2019","WI",42.9914617837838,-88.807156
+"421","Johnson Creek","KWIK TRIP","91","Kwik Trip #487","920-699-2840","465 Village Walk Ln","3/4/2014","WI",43.0818614071144,-88.7651272501854
+"422","Johnson Creek","SHELL","91","Pine Cone Travel Plaza","","685 Linmar Ln","10/7/2018","WI",43.0883991,-88.7621292915395
+"423","Kaukauna","SHELL","91","Kaukauna Express","920-759-2392","1350 Delanglade St","2/25/2016","WI",44.2994264,-88.2723243
+"424","Kaukauna","SHELL","91","Shell","","1005 Crooks Ave.","3/3/2014","WI",44.271756877551,-88.2737874081633
+"425","Kewaunee","MOBIL","91","Parkos Mobil","920-388-2656","302 Ellis St","6/3/2016","WI",44.458203205584,-87.5032232853109
+"426","Kiel","CENEX","87 91","Country Visions Co-Op","920-894-3436","721 Fremont St","10/11/2014","WI",43.9126573636364,-88.0400146818182
+"427","Kimberly","KWIK TRIP","91","Kimberly","","701 Schelfhout Ln","12/8/2012","WI",44.260825,-88.3254
+"428","Kimberly","BP","91","Kimberly B P","920-738-0201","730 W Kimberly Ave","3/30/2013","WI",44.271022,-88.3441268235294
+"429","Knapp","BP","91","Bob & Steve's Bp #15","715-665-2070","506 Hwy 12 W","4/20/2016","WI",44.9535805,-92.093263
+"430","La Crosse","CLARK","87","Ed's Service Center","608-788-1803","3607 Mormon Coulee Rd","1/11/2018","WI",43.7788706688757,-91.2239937445441
+"431","La Crosse","FREEDOM","91","Freedom","608-782-1070","823 4th St S","1/3/2015","WI",43.8053567107023,-91.2517039137554
+"432","La Crosse","KWIK TRIP","91","Kwik Trip #391","608-785-1600","1333 Rose St.","3/29/2013","WI",43.8423935829134,-91.248001946287
+"433","La Crosse","KWIK TRIP","91","Kwik Trip #624","608-782-1115","530 West Ave N","3/29/2013","WI",43.8170993,-91.2386798
+"434","La Crosse","KWIK TRIP","91","Kwik Trip #727","608-784-2422","105 Clinton","3/29/2013","WI",43.8415213428522,-91.2613268758785
+"435","La Crosse","KWIK TRIP","91","Kwik Trip #750","608-787-8803","4828 Us Hwy 61","3/29/2013","WI",43.7641381,-91.2105560377005
+"436","La Crosse","KWIK TRIP","91","Kwik Trip #761","608-782-6474","506 Cass St","3/29/2013","WI",43.8086365756052,-91.2499126541864
+"437","La Crosse","KWIK TRIP","91","Kwik Trip #762","608-781-2044","1133 W George St","3/30/2013","WI",43.8584943367777,-91.2402894410723
+"438","La Crosse","KWIK TRIP","91","Kwik Trip #773","608-788-5534","2506 South Ave","3/29/2013","WI",43.7889074,-91.2380422634435
+"439","La Crosse","KWIK TRIP","91","Kwik Trip #816","608-788-9230","3130 State Rd","3/29/2013","WI",NA,NA
+"440","La Crosse","KWIK TRIP","91","Kwik Trip #819","608-788-5604","921 Losey Blvd S","5/4/2020","WI",43.8012079980718,-91.2195888102486
+"441","La Crosse","KWIK TRIP","91","Kwik Trip #826","608-788-8644","4605 Us Hwy 61","3/29/2013","WI",43.8180179,-91.2692266
+"442","La Crosse","KWIK TRIP","91","Kwik Trip #829","608-785-2344","507 Lang Dr","3/29/2013","WI",43.8330310200218,-91.2393250556827
+"443","La Crosse","KWIK TRIP","91","Tobacco Outlet Plus","","3525 Hwy 157","3/18/2017","WI",43.8665442,-91.204616
+"444","Ladysmith","UNBRANDED","91","East Mart","715-532-6006","W8122 Edgewood Ave","3/31/2013","WI",NA,NA
+"445","Ladysmith","HOLIDAY","91","Holiday Stationstore","715-532-7678","605 Lake Ave W","3/18/2017","WI",45.465182,-91.108112755102
+"446","Ladysmith","BP","92","Jerry's Bp Amoco","715-532-7291","112 Lake Ave W","2/3/2020","WI",45.4648445,-91.101750875
+"447","Ladysmith","KWIK TRIP","91","Kwik Trip #455","","100 W 9th St N","12/19/2012","WI",45.464006,-91.090561
+"448","Lake Delton","EXXON","91","Meadowview C Store","608-253-0215","31 Meadowview Dr","6/26/2013","WI",NA,NA
+"449","Lake Delton","MOBIL","91","Travel Mart","","1171 Wisconsin Dells","9/20/2012","WI",43.602383455424,-89.7929158100161
+"450","Lake Geneva","MARATHON","90","Auto Clinic","262-248-9946","500 Broad St","7/20/2016","WI",42.5944993,-88.4352963
+"451","Lake Geneva","UNBRANDED","87 91","Dels Service Inc","262-248-9973","905 Williams St","7/13/2016","WI",42.600083755102,-88.4357116530612
+"452","Lake Geneva","KWIK TRIP","91","Kwik Trip #219","262-249-0523","710 Williams St","4/7/2017","WI",42.5986217649397,-88.4359348129869
+"453","Lake Geneva","MOBIL","91","Mobile","262-248-2910","501 Interchange N","11/23/2019","WI",NA,NA
+"454","Lake Geneva","BP","91","U S Oil Inc","","1231 Grant St","6/20/2017","WI",42.603276460968,-88.4412284615743
+"455","Lake Mills","BP","91","Bp Gas","","819 N Main St","9/7/2016","WI",43.08941285,-88.9099370510376
+"456","Lake Mills","KWIK TRIP","91","Kwik Trip","920-648-3033","105 E Tyranena Park","5/28/2019","WI",43.08945,-88.902179
+"457","Lakewood","SHELL","91","Lakewood Shell & Deli","","15236 Hwy 32","9/15/2012","WI",45.2996280306565,-88.5202633997562
+"458","Lancaster","KWIK TRIP","91","Kwik Trip","608-723-6494","141 N Madison St","7/18/2016","WI",42.8484012852617,-90.7095234607345
+"459","Lancaster","UNBRANDED","87 100","Lancaster Muni A/P","608-723-4246","U S Hwy 61 N","11/19/2014","WI",42.8497887,-90.7096466
+"460","Land O' Lakes","CITGO","91","Land O' Lakes Citgo","","4207 Cnty Hwy B","7/3/2013","WI",NA,NA
+"461","La Pointe","UNBRANDED","87 91","Madeline Island Yacht Club","715-747-2655","633 Fort Rd","5/22/2018","WI",46.7674895,-90.7804636
+"462","Larsen","KWIK TRIP","91","Kwik Trip","","5600 Cnty Rd M","7/3/2013","WI",NA,NA
+"463","La Valle","BP","91","Hartje Farm Home & Sports","608-985-8124","S1428a Hwy 33","7/13/2013","WI",NA,NA
+"464","Lena","SHELL","91","Stiles Junction Food & Fuel","","5908 Duame Rd","5/9/2017","WI",NA,NA
+"465","Little Chute","MOBIL","91","Fox Convenience - Moasis Truck Stop","920-788-7989","300 E. Moasis Drive","1/25/2019","WI",44.295913,-88.312778
+"466","Little Chute","CITGO","91","Fox Convenience - Oo Station Citgo","920-788-7993","309 E. North Ave.","1/25/2019","WI",44.286509856455,-88.3129669735182
+"467","Little Chute","MOBIL","91","Moasis Truck Stop","920-788-7989","300 Moasis Dr","5/28/2016","WI",44.295913,-88.312778
+"468","Little Chute","SHELL","91","Shell","920-687-8616","2221 Freedom Rd","7/23/2016","WI",44.2958424,-88.3131103
+"469","Lk Tomahawk","BP","91","Bp Gas Up","","7250 Bradley St","1/4/2013","WI",NA,NA
+"470","Lodi","MOBIL","91","All Stop Plaza","","N 1551 Sunset Dr","1/21/2013","WI",NA,NA
+"471","Lodi","BP","91","Harmony Grove Bp","","N2695 Park St","8/22/2018","WI",43.370664,-89.541632
+"472","Lodi","KWIK TRIP","91","Kwik Trip","","215 N Main St","5/5/2013","WI",43.3148485619832,-89.5275310844154
+"473","Lomira","BP","91","Cole's B P","920-269-4407","801 Milwaukee St","4/2/2013","WI",43.591818,-88.450287
+"474","Lomira","BP","91","Hi Way Hop","","663 East Ave","7/29/2016","WI",43.5887330333784,-88.4334348336244
+"475","Lone Rock","SHELL","91","Lone Stop Shell","608-583-3835","33659 Us Hwy 14","9/8/2013","WI",43.189633,-90.133301
+"476","Loyal","BP","91","Loyal Bp","715-503-1050","521 N Main St","1/31/2015","WI",44.7407428979592,-90.4960527346939
+"477","Luck","CENEX","91","Countryside Co-Op","","2527 Hwy 35","4/26/2013","WI",45.5818195763971,-92.4886202755703
+"478","Luck","HOLIDAY","91","Holiday #3540","715-472-8653","106 Hwy 35","10/29/2015","WI",45.5772014489796,-92.4886235510204
+"479","Lyndon Station","BP","91","Scully Oil Co.","","470 County Rd Hh","12/19/2012","WI",43.7159612,-89.8958015
+"480","Lyons","MOBIL","91","Lyons Plaza Inc","","1415 Mill St","7/18/2013","WI",42.6536665,-88.3567863
+"481","Madison","BP","91","American Center Bp","608-240-0865","5551 Eastpark Blvd","7/22/2016","WI",43.1443478744367,-89.2952809954937
+"482","Madison","SHELL","91","Avenue Shell","608-244-1275","4821 E Washington Ave","11/23/2013","WI",43.1373685,-89.2956774
+"483","Madison","MOBIL","93","Bucky’S Convenienence Store","608-244-3236","3859 E Washington Ave","6/6/2021","WI",43.1373685,-89.2956774
+"484","Madison","CITGO","91","Citgo","","453 S Gammon Rd","2/5/2020","WI",43.058512,-89.50273
+"485","Madison","CITGO","91","Citgo Mini Mart","","4810 E Washington Ave","6/1/2017","WI",43.1373685,-89.2956774
+"486","Madison","CITGO","91","Citgo Quick Mart","608-249-3009","4905 Commercial Ave","8/18/2018","WI",43.1064028979592,-89.2988952653061
+"487","Madison","UNBRANDED","91","C P Mart West","608-833-9614","6702 Mineral Point Rd","3/16/2015","WI",43.0608365136008,-89.4972977866562
+"488","Madison","PHILLIPS 66","91","Db's Service Center","608-222-9422","902 Atlas Ave","5/27/2019","WI",43.0848220708927,-89.3071118369431
+"489","Madison","SHELL","91","Hilldale Food Mart","","3401 University Ave","11/9/2015","WI",43.0751590814264,-89.4456713026236
+"490","Madison","KWIK TRIP","91","Kwik Trip","608-222-7890","105 E Broadway","11/4/2020","WI",43.0478947,-89.3076877
+"491","Madison","KWIK TRIP","91","Kwik Trip","608-268-1276","4741 Lien Rd","5/27/2019","WI",43.121044,-89.310098
+"492","Madison","KWIK TRIP","91","Kwik Trip","608-222-9400","2402 W Broadway","7/13/2018","WI",43.0471184606116,-89.3516658617035
+"493","Madison","KWIK TRIP","91","Kwik Trip #187","608-249-2578","4825 American Pkwy","12/24/2015","WI",43.1497317100731,-89.2898611401554
+"494","Madison","CITGO","91","Northport Citgo","","1423 Northport Dr","7/28/2014","WI",43.134315757801,-89.372357999251
+"495","Madison","CITGO","91","No Sherman Food Mart","608-268-0065","1010 N Sherman Ave","4/1/2016","WI",43.1111484099786,-89.3639186175967
+"496","Madison","SHELL","91","Park St Mini Mart","","950 S Park St","12/23/2016","WI",43.0576139380981,-89.3995363918284
+"497","Madison","UNBRANDED","87 91","Schwenn's Service","608-222-4254","5601 Monona Dr","5/11/2018","WI",43.0587659130435,-89.325735
+"498","Madison","SPIRIT","87","Spirit","","2801 University Ave","12/20/2014","WI",43.0763269,-89.4675114
+"499","Madison","BP","91","Verona Road Bp","608-274-3439","4501 Verona Rd","5/6/2018","WI",43.0365759480408,-89.4533499963688
+"500","Madison","U.S. GAS","87 89 91","Wayne's Automotive","608-221-1438","220 Cottage Grove Rd","3/14/2020","WI",43.0837944519411,-89.3224502538442
+"501","Malone","CITGO","91","Pipe Express","","N10234 Us Hwy 151","6/7/2013","WI",NA,NA
+"502","Manitowish Waters","PHILLIPS 66","91","Dietz's Service","","160 Cnty Hwy W","2/1/2015","WI",NA,NA
+"503","Manitowoc","BP","93","Bp","920-682-6242","2914 Calumet Ave","1/16/2021","WI",44.0865834285714,-87.6838534285714
+"504","Manitowoc","CENEX","91","Cenex Conv","920-683-3894","311 N Rapids Rd","5/13/2019","WI",44.0976003469388,-87.7006687959184
+"505","Manitowoc","CITGO","91","Citgo","920-682-4047","4611 Dewey St","7/9/2015","WI",44.0775991020408,-87.7078477959184
+"506","Manitowoc","MOBIL","91","Cr Stop","920-726-4123","7416 Cnty Rd C R","8/8/2016","WI",NA,NA
+"507","Manitowoc","UNBRANDED","89 91","Fleet Farm","","1235 S Rapids Rd","8/22/2012","WI",44.0862197821512,-87.7079851926171
+"508","Manitowoc","KWIK TRIP","91","Kwik Trip","","2103 Dewey St","10/13/2012","WI",44.07342965,-87.6998787579755
+"509","Manitowoc","UNBRANDED","89","Lakeshore Aviation","","1815 Freedom Way","6/13/2012","WI",44.321236,-87.644292
+"510","Manitowoc","SHELL","91","Manitowoc Shell","","1701 S 41st St","10/13/2012","WI",44.0785086,-87.6987282819055
+"511","Manitowoc","SHELL","91","Shell","920-684-1419","5050 Hecker Rd","7/25/2016","WI",44.06697,-87.711126
+"512","Maple","SPUR","87 90","Ico Spur","","11450 Us Hwy 2","10/14/2019","WI",NA,NA
+"513","Marathon City","UNBRANDED","87 91","R-Store","715-443-2477","401 Main St","5/22/2018","WI",44.930581,-89.840335
+"514","Marinette","BP","91","Blazing 7 Inc","715-735-0720","N 3900 Hwy 180","6/5/2014","WI",NA,NA
+"515","Marinette","BP","91","Condon Oil?","715-735-6325","1240 Marinette Ave","3/4/2014","WI",45.0938409393939,-87.6458225858586
+"516","Marinette","SHELL","91","Shell","","W1390 Old Peshtigo Rd","8/22/2012","WI",NA,NA
+"517","Marshall","KWIK TRIP","91","Kwik Trip","","504 Plaza Dr","4/20/2016","WI",43.1690440762805,-89.0687916069849
+"518","Marshall","CENEX","91","Landmark Services Coop","","510 W Main St","9/29/2013","WI",43.1696488810336,-89.0685261651459
+"519","Marshfield","UNBRANDED","91","Baltus Bread & Butter Shop","","1727 N Central Ave","3/29/2013","WI",44.684137,-90.1606921125551
+"520","Marshfield","UNBRANDED","87 91","Baltus Express Fuels","","1000 N Central Ave","5/24/2015","WI",44.67631465,-90.1676530002245
+"521","Marshfield","FLEET FARM","89 91","Fleet Farm Gas Mart","715-387-3768","1101 W Upham St","4/9/2018","WI",44.680753,-90.191208
+"522","Marshfield","HOLIDAY","91","Holiday #3448","715-387-6252","10492 S Central Ave","10/23/2015","WI",44.6677076,-90.1729534
+"523","Marshfield","KWIK TRIP","91","Kwik Trip","","101 N Central Ave","8/22/2012","WI",44.6679575359483,-90.173084835504
+"524","Marshfield","WEILER","87 91","Weiler C Store","","600 N Central Ave","2/21/2013","WI",44.672413,-90.169937
+"525","Marshfield","UNBRANDED","91","Weiler's Oils","","2211 E 5th St","7/16/2012","WI",44.6543006648322,-90.1465916674201
+"526","Mauston","BP","91","Bp","608-847-6239","304 E State St","11/22/2018","WI",43.7959013393102,-90.0732870827581
+"527","Mauston","KWIK TRIP","91","Kwik Trip #775","608-847-2333","611 Hwy 82","3/31/2013","WI",43.785479,-90.188381
+"528","Mauston","MOBIL","91","Northside Service","","705 N. Union St.","11/2/2015","WI",43.8050704,-90.0708396
+"529","Mayville","BP","91","Bp","","1400 Horicon St","12/19/2012","WI",43.4946038113503,-88.5622953821797
+"530","Mayville","SHELL","91","Shell Gas","920-387-2716","783 N Main St","5/7/2018","WI",43.502108,-88.543751
+"531","Mazomanie","MOBIL","91","Mobil","608-795-2803","10 W Commercial St","8/17/2014","WI",43.1719129166667,-89.7944083333333
+"532","Mcfarland","KWIK TRIP","91","Kwik Trip","","4701 Farwell","3/20/2013","WI",43.012506,-89.3025733998038
+"533","Mcfarland","BP","91","Larson Beach Bp","608-657-6185","4800 Larson Beach Rd","4/26/2013","WI",43.01751029622,-89.2991229473959
+"534","Mcfarland","CITGO","91","Mangat Enterprise","","4004 Terminal Dr","7/26/2015","WI",43.0398487025179,-89.3026270728392
+"535","Medford","KWIK TRIP","91","Kwik Trip","","177 S 8th St","9/7/2010","WI",45.1404660127309,-90.3331998303802
+"536","Menasha","CITGO","91","Av Food Mart","920-725-2206","975 Racine Rd.","2/4/2014","WI",44.2249392,-88.4442042
+"537","Menasha","MOBIL","91","Fox Convenience - Midway Mart","920-727-0111","1492 Appleton Rd.","1/25/2019","WI",44.2291609045467,-88.424102
+"538","Menasha","KWIK TRIP","91","Kwik Trip","","1870 Us Hwy 10","4/26/2013","WI",NA,NA
+"539","Menasha","MARATHON","87 91","Pride Of Menasha","920-725-7068","209 Racine St.","5/29/2017","WI",44.2040102244898,-88.4460311020408
+"540","Menomonie","BP","91","Bob & Steve's Bp","715-235-2222","1501 9th St","4/20/2016","WI",44.8748316979866,-91.9132368120805
+"541","Menomonie","PHILLIPS 66","91","Circle C","715-235-4856","2302 Broadway St. S","9/30/2017","WI",44.861285,-91.929665
+"542","Menomonie","CENEX","91","Farm Union","715-235-1166","2100 Hwy B","4/20/2016","WI",NA,NA
+"543","Menomonie","KWIK TRIP","91","Kwik Trip","","1213 S Broadway","4/7/2014","WI",44.8964885833333,-91.9322114791667
+"544","Menomonie","KWIK TRIP","91","Kwik Trip Store #674","","6107 3m Dr","10/13/2012","WI",44.90159265,-91.85622938
+"545","Menomonie","FLEET FARM","89 91","Mills Fleet Farm","","2003 Us Hwy 12","7/30/2015","WI",NA,NA
+"546","Mercer","BP","91","Bp Station","715-476-3437","5247 N Us Hwy 51","7/26/2015","WI",46.16637545,-90.065879906511
+"547","Mercer","MARATHON","91","Inter City Oil","715-476-3639","5256 Us Hwy 51","7/20/2013","WI",46.16742065,-90.06662545
+"548","Mercer","UNBRANDED","91","Krist Oil #70","715-476-2900","3171 Lakeview Ave","5/22/2018","WI",46.1665597,-90.0630361
+"549","Merrill","HOLIDAY","91","Holiday Station #3449","","1312 W Main St","10/3/2012","WI",45.1792784,-89.7182135
+"550","Merrill","BP","91","Hwy 51 Truck Stop","715-536-1912","N357 Brandenburg Ave","6/26/2013","WI",NA,NA
+"551","Merrill","KWIK TRIP","91","Kwik Trip","715-536-1819","2311 Main St","9/12/2014","WI",45.1807869,-89.6798546
+"552","Merrill","KWIK TRIP","91","Kwik Trip #241","715-536-0054","300 S Pine Ridge Ave","8/25/2018","WI",45.1814146164479,-89.6518702220775
+"553","Merrill","CENEX","91","Pier 2 Cenex","","504 E 2nd St","9/8/2019","WI",45.180922,-89.6924540408163
+"554","Merrill","MOBIL","91","Pine Ridge Mobil Mart","715-536-3455","3350 E Main St","9/12/2014","WI",45.1785864,-89.6527478
+"555","Merrillan","CENEX","87","Cenex","","302 N Washington","5/5/2013","WI",44.4529046532542,-90.843447
+"556","Merrimac","MOBIL","91","Lake Side General Store","608-493-2019","E12965 Hwy 78","7/5/2015","WI",NA,NA
+"557","Middleton","CENEX","87","Cenex","608-836-8306","7515 University Ave","11/9/2015","WI",43.0967732857143,-89.5118297142857
+"558","Middleton","BP","91","Jim's Amoco","608-836-1090","6504 University Ave","11/9/2015","WI",43.0883958,-89.484058
+"559","Middleton","KWIK TRIP","91","Kwik Trip","608-824-0711","7508 Century Ave","9/4/2018","WI",43.1120673,-89.5106775906843
+"560","Middleton","KWIK TRIP","91","Kwik Trip #550","608-831-6200","5301 S Ridge Way","5/15/2018","WI",43.112929,-89.471777
+"561","Middleton","CENEX","87 89 91","Middleton Farms Coop","608-831-5921","1755 Pleasant View Rd","5/25/2013","WI",43.096107,-89.534945
+"562","Middleton","UNBRANDED","91","Pit Stop Express","608-203-6606","3303 Parmenter St","1/5/2018","WI",43.1086261,-89.5101941
+"563","Milltown","HOLIDAY","91","Holiday Stationstore","715-825-3535","101 Hwy 35","1/14/2020","WI",45.5270514325031,-92.5080182280507
+"564","Milton","UNBRANDED","87","Arndt's Mini Mkt","","423 Parkview Dr","12/19/2012","WI",42.7735897320116,-88.9390586164621
+"565","Milton","KWIK TRIP","91","Kwik Trip","","603 W Madison Ave","10/13/2012","WI",42.78276585,-88.9627942035009
+"566","Milton","KWIK TRIP","91","Kwik Trip #295","608-868-2279","1157 Gateway Dr","12/24/2015","WI",42.770658,-88.9294662
+"567","Mindoro","CENEX","87","Mindoro Country Store","608-857-3414","N8319 Hwy 108","6/23/2015","WI",NA,NA
+"568","Mineral Point","BP","91","Bp","","331 High St","10/15/2014","WI",42.8614238,-90.1835241
+"569","Mineral Point","KWIK TRIP","91","Kwik Trip","","537 Ridge St","10/16/2014","WI",42.8592608399963,-90.1884553634959
+"570","Mineral Point","BP","91","Pit Stop","","609 Dodge St","5/5/2013","WI",42.86879435,-90.1765167745877
+"571","Minocqua","UNBRANDED","","County Line Station","715-356-9920","11800 Hwy 70 W","11/7/2017","WI",45.881585,-89.719
+"572","Minocqua","KWIK TRIP","91","Kwik Trip","715-356-6061","1490 Us Hwy 51 N","2/8/2017","WI",45.8678652,-89.7094508
+"573","Minocqua","MARATHON","91","Marathon Ico","","8654 Us Hwy 51","5/4/2013","WI",45.8839132969486,-89.7040330847262
+"574","Minocqua","UNBRANDED","91","Motomart","715-356-6743","7510 Us Hwy 51 S","12/2/2014","WI",45.8282873125,-89.718748390625
+"575","Minocqua","BP","87 91","R-Store","715-328-0283","7488 Us Hwy 51","8/6/2014","WI",45.8274774375,-89.719529046875
+"576","Minocqua","SHELL","91","Trig's 70 West Shell","","9764 Hwy 70","1/21/2013","WI",45.8820657263128,-89.7189438460589
+"577","Minong","HOLIDAY","91","Holiday #3591","715-466-5899","1030 W Hokah St","10/28/2015","WI",46.10060905,-91.8394669687204
+"578","Mischicot","CENEX","89","Country Visions Coop","920-755-4800","114 E Main St","7/19/2014","WI",NA,NA
+"579","Mondovi","CENEX","91","Countryside Co-Op","","801 E Main St","11/26/2012","WI",NA,NA
+"580","Mondovi","UNBRANDED","91","Shop Kwik","","113 N Franklin St","12/8/2012","WI",44.5680523488437,-91.672114
+"581","Monico","MARATHON","91","Monico Short Stop","","1692 Us Hwy 45","3/20/2013","WI",45.5758689361351,-89.1610097804016
+"582","Monona","SHELL","91","Monona Mart","608-221-8109","1220 E Broadway Ave","6/17/2016","WI",43.046975082252,-89.338230584466
+"583","Monona","UNBRANDED","87 91","Schwenn's Service","608-222-4254","5601 Monona Dr","12/4/2016","WI",43.059055,-89.325992
+"584","Monroe","CENEX","89","Cenex","","2914 13th St","5/14/2013","WI",42.598807,-89.6230945
+"585","Monroe","KWIK TRIP","91","Kwik Trip","608-328-3330","1019 9th St","5/7/2013","WI",42.60321125,-89.6465341498284
+"586","Monroe","PHILLIPS 66","91","Lucky 7 Gas","608-328-8308","710 21st St","5/12/2013","WI",42.5917657,-89.6504912
+"587","Monroe","PHILLIPS 66","91","Phillips 66","608-325-3578","317 8th St","5/14/2013","WI",42.6035591818182,-89.6561715
+"588","Montello","BP","91","Holliday Shopping","","326 Main St.","4/20/2016","WI",43.7838928,-89.3253505524641
+"589","Montello","KWIK TRIP","91","Kwik Trip","608-297-7697","99 E Montello St","6/17/2017","WI",43.792094,-89.328171
+"590","Monticello","CITGO","91","Monticello Citgo","","101 Hwy 69","6/7/2013","WI",42.7497431,-89.602043822997
+"591","Mosinee","SHELL","91","Easttown Shell","","555 Hwy 153 E","12/7/2012","WI",44.7860405,-89.6863856
+"592","Mosinee","UNBRANDED","87","R-Store","","124 Main St","6/26/2013","WI",44.7913346,-89.7011048
+"593","Mount Calvary","CITGO","91","B&B Express","","N6714 County Rd W","6/7/2013","WI",NA,NA
+"594","Mt Horeb","CENEX","91","Cenex","608-437-5536","501 W Main St","5/13/2013","WI",43.0072717648498,-89.7461635681572
+"595","Mt Horeb","KWIK TRIP","91","Kwik Trip","","525 Springdale St","8/18/2015","WI",43.0092286632561,-89.7324326209805
+"596","Mt Horeb","CENEX","91","Premier Coop","608-437-7777","1225 County Hwy Id","7/5/2014","WI",NA,NA
+"597","Muscoda","SHELL","91","Jodens Shell","608-739-3616","802 N Wisconsin Ave","10/3/2013","WI",43.1932803357267,-90.4432531267145
+"598","Muscoda","CITGO","91","Muscoda Mini Mart","608-739-3733","102 S Wisconsin Ave","5/7/2021","WI",43.1854873872668,-90.4429678328684
+"599","Nashville","CENEX","91","Cenex","808-338-8489","608 E Division St","6/27/2017","WI",NA,NA
+"600","Necedah","UNBRANDED","91","Buckhorn Store Auto","608-565-2425","N8414 Co Rd G","3/14/2014","WI",NA,NA
+"601","Necedah","KWIK TRIP","91","Kwik Trip #399","608-565-7744","100 W 3rd At Main","3/29/2013","WI",NA,NA
+"602","Neenah","EXPRESS","91","Express Conv. Center","920-722-0432","904 S Green Bay Rd","4/20/2016","WI",44.1757826053661,-88.4848654379249
+"603","Neenah","MOBIL","91","Fox Convenience - West Mobil","920-720-0274","1350 Gillingham Rd.","1/25/2019","WI",44.1582363408424,-88.4868801061022
+"604","Neenah","KWIK TRIP","91","Kwik Trip #434","","903 S Green Bay Rd","10/13/2012","WI",44.1751411626863,-88.4850912529924
+"605","Neenah","CITGO","91","Main St Citgo","","1013 Main St","12/7/2012","WI",44.1895991836735,-88.484138
+"606","Neenah","MOBIL","91","Main St Mobil","","700 Main St","4/13/2013","WI",44.18884,-88.475247
+"607","Neenah","PHILLIPS 66","91","Mccarthy's Mart","","8510 Hwy 76","12/19/2012","WI",NA,NA
+"608","Neenah","BP","91","Neenah Standard","920-729-4390","1126 Main St","4/20/2016","WI",44.1896934204553,-88.4856773466129
+"609","Neillsville","BP","91","Drescher Oil/Bp","","210 W Division St","10/8/2012","WI",44.5526354081633,-90.5935668571429
+"610","Neillsville","HOLIDAY","91","Holiday #3436","715-743-4648","1 Hewett St","10/22/2015","WI",44.552847,-90.596209
+"611","Neillsville","UNBRANDED","100","Neillsville Muni A/P","715-387-2211","N3770 Miller Ave","11/19/2014","WI",NA,NA
+"612","Nelson","MOBIL","91","Nelson Mobil Mart","715-673-4344","110 Hwy 25","1/7/2014","WI",NA,NA
+"613","Neosho","BP","91","Rapid Mart","920-625-2038","446 S Schuyler St","3/29/2013","WI",43.30749799589,-88.5185141407532
+"614","Neshkoro","UNBRANDED","91","Neshkoro Store","","510 S Main St","9/19/2011","WI",43.9636477570129,-89.2185588108145
+"615","New Franken","MOBIL","91","New Franken Mobil","","5112 Algoma Rd","7/1/2014","WI",NA,NA
+"616","New Glarus","CASEY'S","91","Casey's General Store","608-527-3111","1019 Hwy 69","6/11/2018","WI",42.8103023,-89.6324076154505
+"617","New Glarus","CENEX","91","Cenex","608-527-2112","1401 Hwy 69","5/5/2013","WI",42.80652085,-89.63238045
+"618","New Glarus","BP","91","New Glarus Bp Mart","608-527-2266","619 Hwy 69","5/5/2013","WI",42.81379695,-89.6320343211898
+"619","New Lisbon","BP","93","Cedar's Springs Gas","608-847-7676","N7001 Hwy 58","5/25/2015","WI",NA,NA
+"620","New Lisbon","KWIK TRIP","91","Kwik Trip #836","608-562-3541","108 W Bridge St","3/29/2013","WI",43.88022,-90.175249
+"621","New Lisbon","CITGO","91","Triangle","","903 S Adams St","1/1/2013","WI",43.870778,-90.164197
+"622","New London","AMOCO","91","Travel Plaza","920-982-7232","1280 N Shawano St","3/25/2021","WI",44.4136353,-88.7416402
+"623","New Richmond","BP","91","Bob & Steves","715-246-3707","227 N Knowles Ave","4/20/2016","WI",45.1265465,-92.5376173
+"624","New Richmond","BP","91","Bob & Steve's Bp #14","715-246-9299","1492 131st St","4/20/2016","WI",45.05225,-92.50917049013
+"625","New Richmond","BP","91","Bob & Steve's Bp #18","715-246-0821","1893 Us Hwy 63","4/19/2016","WI",NA,NA
+"626","New Richmond","BP","91","Bob & Steve's Bp #3","715-246-4625","736 W 4th St","4/20/2016","WI",45.1187827919799,-92.54862261269
+"627","New Richmond","KWIK TRIP","91","Kwik Trip","715-246-9533","124 Paperjack Dr","7/5/2014","WI",45.1043484594636,-92.5365916741818
+"628","New Richmond","UNBRANDED","91","Super America","715-246-7932","753 N Knowles Ave","5/15/2018","WI",45.1295876852522,-92.5376796443879
+"629","Niagara","MOBIL","91","Mobil","715-251-4855","1240 River St","12/27/2020","WI",45.7707350952381,-87.9950754285714
+"630","Oconomowoc","MOBIL","91","Concord General Store","262-593-5400","N6485 Cty Rd F","9/11/2020","WI",NA,NA
+"631","Oconto","KWIK TRIP","91","Kwik Trip","920-834-2184","102 Main St","7/11/2015","WI",44.8925309,-87.8849472071856
+"632","Oconto","BP","91","Thompsons","","211 Main St","3/9/2013","WI",44.8934484,-87.8839962634579
+"633","Oconto","SHELL","91","Wagner Shell Food Mart","","517 Smith Ave","5/27/2016","WI",44.877951,-87.888921
+"634","Oconto Falls","SHELL","91","Merciers","920-846-2999","221 N. Chestnut","10/13/2015","WI",44.8783563846154,-88.1360399358974
+"635","Oconto Falls","PIGGLY WIGGLY","91","Piggly Wiggly Grocery","","409 E Highland D","8/6/2014","WI",44.8827885102041,-88.1378151632653
+"636","Omro","KWIK TRIP","91","Kwik Trip #784","920-685-6833","244 E Main St","2/21/2021","WI",44.039331244898,-88.7416351428571
+"637","Omro","MOBIL","91","Omro Store","","163 E Main St","12/8/2012","WI",44.039504,-88.7436767142857
+"638","Onalaska","KWIK TRIP","91","Kwik Trip #350","608-779-9364","9421 Hwy 16","3/29/2013","WI",NA,NA
+"639","Onalaska","KWIK TRIP","91","Kwik Trip #377","608-783-2433","1802 E Main St","6/28/2013","WI",43.8840359268293,-91.2102655365854
+"640","Onalaska","KWIK TRIP","91","Kwik Trip #383","608-799-9200","408 Sand Lake Rd.","6/15/2017","WI",43.8875649,-91.2195920298454
+"641","Onalaska","KWIK TRIP","91","Kwik Trip #494","608-783-4422","W6782 Abbey Rd.","3/29/2013","WI",NA,NA
+"642","Onalaska","KWIK TRIP","91","Kwik Trip #643","608-781-3350","1276 Crossing Meadows","3/29/2013","WI",43.8694837707152,-91.2168704968211
+"643","Onalaska","KWIK TRIP","91","Kwik Trip #767","608-783-6061","229 Oak Forest Dr","3/29/2013","WI",43.8821687209331,-91.2112755036033
+"644","Onalaska","KWIK TRIP","91","Kwik Trip #822","608-783-5440","950 N. 2nd Ave","3/29/2013","WI",43.8743021846978,-91.2304676602422
+"645","Oregon","KWIK TRIP","91","Kwik Trip","","856 N. Main St","6/23/2010","WI",42.941226,-89.38323
+"646","Oregon","KWIK TRIP","91","Kwik Trip","","916 Janesville St","6/23/2010","WI",42.9177501469203,-89.3715520164392
+"647","Oregon","KWIK TRIP","91","Kwik Trip","","135 N Main St","6/23/2010","WI",42.926369,-89.384409
+"648","Oregon","CENEX","91","Town & Country Mart","608-835-1696","2050 C.R. Mm","4/22/2015","WI",42.944649,-89.382318
+"649","Orfordville","UNBRANDED","91","Sather's Service","608-879-2960","203 W. Brodhead St.","10/15/2020","WI",42.6288685714286,-89.2573709183673
+"650","Orfordville","CITGO","91","The Station Citgo","","616 W Beloit St","7/10/2018","WI",42.6325361,-89.2625136
+"651","Osceola","BP","91","Petro Plus","","253 Hwy 35","3/20/2013","WI",45.247275,-92.69753
+"652","Oshkosh","BP","91","Blue Moose","","1623 Bowen St","10/13/2012","WI",44.0375170409504,-88.5277443192879
+"653","Oshkosh","BOB'S","87 89 91","Bob's","","506 Ohio St","7/27/2015","WI",44.0130764693878,-88.5523574489796
+"654","Oshkosh","BP","91","Condon Party Mart","920-426-3646","1424 S Main St","5/3/2015","WI",44.0052740481928,-88.5380120963855
+"655","Oshkosh","DEL'S","87 89 91","Del's Quick Pantry","","403 N Sawyer St","4/20/2016","WI",44.0232769473684,-88.5674111578947
+"656","Oshkosh","BP","91","East Side Superette","","811 Merritt Ave.","5/28/2010","WI",44.01957725,-88.52703025
+"657","Oshkosh","FLEET FARM","89 91","Fleet Farm","","177 N Washburn","12/28/2015","WI",44.0232791084526,-88.5825070212533
+"658","Oshkosh","MOBIL","91","Fox Convenience - Jackson Mobil","920-966-3052","5171 Jackson St.","1/25/2019","WI",44.095414,-88.5435128571429
+"659","Oshkosh","KWIK TRIP","91","Kwik Trip","920-236-4080","2115 Jackson St","8/6/2015","WI",44.0432428571429,-88.5427725714286
+"660","Oshkosh","KWIK TRIP","91","Kwik Trip","","2400 S Washburn St","7/19/2012","WI",43.98945715,-88.5856606309207
+"661","Oshkosh","MOBIL","91","Northside Modil","","415 W Murdock","9/11/2012","WI",44.0394061428571,-88.5323028571429
+"662","Oshkosh","UNBRANDED","91","Ole + Lenas Fuel","920-765-0276","5724 Green Valley Ct","6/11/2017","WI",NA,NA
+"663","Oshkosh","SHELL","91 110","Quents Service","920-233-3350","2167 Hwy 44","6/11/2017","WI",43.9875833581449,-88.5872922151548
+"664","Oshkosh","SHELL","91","Shell","","2250 Westowne Ave.","9/11/2012","WI",44.030874,-88.588781
+"665","Oshkosh","SHELL","91","Titan Shell","","305 N. Sawyer St.","9/11/2012","WI",44.0217291836735,-88.5674371020408
+"666","Oshkosk","BP","91","R Store","920-232-7607","708 West Murdock Street","9/13/2020","WI",NA,NA
+"667","Osseo","BP","91","Golden Oil Company","715-597-2353","12613 Gunderson Rd","8/7/2019","WI",44.5782865069663,-91.197560798269
+"668","Osseo","UNBRANDED","87 91","Higley Oil","","13906 5th St.","3/30/2011","WI",44.5757331006711,-91.2260787718121
+"669","Osseo","MOBIL","91","Mobil","715-597-2327","50712 Oak Grove Rd","12/12/2019","WI",44.5790327,-91.2013738
+"670","Oxford","CITGO","91","Oxford Fuel & Food","","110 E Ormsby St","6/7/2013","WI",43.7818387,-89.5721971190714
+"671","Oxford","CITGO","91","Oxford Travel Plaza","608-589-5200","N4190 Crossroads Clinic Rd","3/30/2013","WI",43.79071055,-89.4875768056777
+"672","Palmyra","BP","","Maney's Lakeside Bp","262-951-5716","162 E Main St","5/14/2013","WI",42.8791418632431,-88.5840254731855
+"673","Palmyra","CITGO","91","Palmyra Citgo","","102 E Main St","10/8/2012","WI",42.8799787644358,-88.58319049473
+"674","Palmyra","UNBRANDED","87 100","Palmyra Muni Airport","262-495-4342","1125 Hwy 26","11/19/2014","WI",NA,NA
+"675","Park Falls","KWIK TRIP","91","Kwik Trip #138","715-762-1798","1083 4th Ave. S.","5/22/2018","WI",45.9231291201807,-90.451145884701
+"676","Pearson","MARATHON","91","Schaefers Country Store","715-484-5804","N10304 Hwy 55","11/16/2013","WI",NA,NA
+"677","Pelican Lake","BP","91","Musky Mart","","723 Hwy 45","10/3/2011","WI",45.4979757096499,-89.1678941451751
+"678","Pell Lake","MOBIL","91","Pell Lake Mobil","262-279-6330","1203 N Park Rd","8/21/2016","WI",NA,NA
+"679","Pepin","BP","91","River Road Bp","","300 3rd St","10/11/2010","WI",44.627267,-91.967086
+"680","Peshtigo","SHELL","91","Shell","715-582-3681","815 French St","8/31/2019","WI",45.0542361250862,-87.7631645620833
+"681","Phelps","MOBIL","91","Phelps Conv Center","","2518 Hwy 17 S","3/23/2013","WI",NA,NA
+"682","Phillips","BP","91","Ball Petroleum","715-339-2525","165 S Lake Ave","9/12/2013","WI",45.6888106,-90.3951437
+"683","Phillips","CITGO","91","Citgo Quick Foodmart","","125 S. Lake Ave","6/29/2012","WI",45.68931635,-90.3958649985961
+"684","Phillips","UNBRANDED","91","Price Cnty Airport","","N1205 Airport Rd","1/21/2013","WI",NA,NA
+"685","Phillips","UNBRANDED","91","R-Store","","396 N. Lake Ave","3/26/2012","WI",45.691729442694,-90.3993512872297
+"686","Phlox","UNBRANDED","91","Kuhr's Kountry Store","","W7308 Hwy 47","10/3/2011","WI",NA,NA
+"687","Pickett","CENEX","","Pickett Co-Op","920-589-2311","6664 Hwy 44","7/29/2017","WI",43.909943817951,-88.7328611285931
+"688","Pittsville","CENEX","87","Cenex Public","715-884-2501","8315 Hwy 13","5/7/2013","WI",NA,NA
+"689","Plain","SHELL","91","Plain Shell","","Wi 23 & Cty Rd B","8/6/2012","WI",43.28142,-90.044063
+"690","Plainfield","BP","91","Plainfield B P","715-335-6568","N6481 5th Ave","3/14/2014","WI",44.1935108,-89.522528
+"691","Plainfield","CITGO","91","Plainfield Travel Plaza","715-335-7339","N6466 4th Court","8/23/2013","WI",44.1489191,-89.5425754
+"692","Platteville","MOBIL","91","Ashley's Market","608-642-0839","1840 Ubersox Dr","5/5/2013","WI",42.73231145,-90.4383362
+"693","Platteville","UNBRANDED","87","B&B","","340 S Chestnut St","10/4/2020","WI",42.7374141446758,-90.4792422638012
+"694","Platteville","KWIK TRIP","91","Kwik Trip","","460 S Water St","10/13/2012","WI",42.7278089708529,-90.4763191201005
+"695","Plover","KWIK TRIP","91","Kwik Trip","","5339 Harding Ave","2/17/2015","WI",44.4264290273898,-89.5159197908136
+"696","Plover","SHELL","91","Plover Express Mart","","2621 Plover Rd","12/26/2016","WI",44.45306085,-89.5436211329551
+"697","Plover","BP","91","R-Store","715-342-4795","2900 Village Park Dr","3/9/2021","WI",44.4539696,-89.5236502
+"698","Plover","KWIK TRIP","91","Whiting Kwik Trip","","1900 Post Rd","1/2/2013","WI",44.46743,-89.545707
+"699","Plymouth","FLEET FARM","89 91","Gas Mart","920-893-5115","3110 Eastern Ave","6/8/2016","WI",43.7472638888889,-87.9458864444444
+"700","Plymouth","KWIK TRIP","91","Kwik Trip","","2480 Eastern Ave","10/13/2012","WI",43.7470386122449,-87.9517138367347
+"701","Plymouth","SUNOCO","98 110","Road America Race Track","920-892-4576","N7390 State Highway 67","7/29/2019","WI",43.7367897,-87.9811071
+"702","Plymouth","CITGO","91","West Side Pantry","920-893-5560","103 N Milwaukee","6/13/2014","WI",43.7490133728814,-87.9810535084746
+"703","Poland","BP","91","Little Generals Bp","","3074 County Rd T","5/7/2013","WI",NA,NA
+"704","Portage","BP","91","Cascade Quick Mart","608-742-0905","W10620 Wi-33","3/21/2021","WI",NA,NA
+"705","Portage","KWIK TRIP","91","Kwik Trip #653","","1223 E Wisconsin St","7/19/2012","WI",43.5336693265306,-89.4437463877551
+"706","Portage","KWIK TRIP","91","Kwik Trip #683","","2970 New Pinery Rd.","4/3/2012","WI",43.5719293,-89.4707954
+"707","Portage","UNBRANDED","98 100","Portage Muni Airport","608-742-3300","1011 Silver Lake Dr","11/3/2016","WI",43.555371,-89.481819
+"708","Portage","BP","91","Unknown","","2211 W Wisconsin St","7/2/2014","WI",43.5580104801864,-89.4899690868403
+"709","Port Wing","SPUR","91","Johnson's Store","715-774-3658","8875 Hwy 13","9/8/2013","WI",NA,NA
+"710","Potosi","UNBRANDED","87","Potosi Pine Point","608-763-2236","100 S Main St","10/13/2013","WI",42.680176,-90.722029
+"711","Pound","FS","87","Meatski's","920-897-3392","W11124 Hwy 64","7/20/2013","WI",NA,NA
+"712","Pound","UNBRANDED","87 91","R-Store #18","920-897-3232","4057 Us Hwy 141","8/6/2014","WI",45.102381617648,-88.0323251653327
+"713","Poynette","BP","91","Northpoint Plaza","608-635-7139","9290 C.R. Cs","1/23/2017","WI",43.3846968,-89.4349482
+"714","Poynette","BP","91","Poynette Bp Food Shop","608-635-2164","306 N Us Hwy 51","1/23/2017","WI",43.3927906412615,-89.3950380491392
+"715","Poy Sippi","BP","91","Poy Sippi B P","920-987-5155","239 Main St","8/1/2016","WI",44.1347905,-88.9967028
+"716","Prairie Du Chien","BP","91","Dh Bp","608-326-5555","500 N Marquette Rd","5/31/2018","WI",43.0565362,-91.1412404
+"717","Prairie Du Chien","PHILLIPS 66","91","Go America","","34487 Hwy 35","12/24/2012","WI",43.0519678,-91.1410021643467
+"718","Prairie Du Chien","BP","91","Krachey's Truck Stop","","1910 S Marquette Rd","9/15/2012","WI",43.0288547974075,-91.1282389195317
+"719","Prairie Du Chien","KWIK TRIP","91","Kwik Trip","","201 S Marquette Rd","7/19/2012","WI",43.04923,-91.141035
+"720","Prairie Du Chien","CITGO","91","The Port Citgo","608-326-0555","38773 Us Hwy 18","9/19/2015","WI",NA,NA
+"721","Prairie Du Sac","SINCLAIR","87 93","Midway Oil Co","608-643-3927","105 Water St","10/25/2015","WI",43.295923,-89.726884
+"722","Prentice","CENEX","91","Prentice Truck & Travel","715-428-2360","5375 Granberg Rd","7/26/2015","WI",45.5480772,-90.31305155
+"723","Prescott","BP","91","Bob & Steve's Bp #10","715-262-3000","302 N Lake St","4/20/2016","WI",NA,NA
+"724","Prescott","HOLIDAY","91","Holiday","715-262-5599","236 Broad St","11/22/2019","WI",44.749509,-92.8023972
+"725","Prescott","UNBRANDED","89","Point St Croix Marina","715-262-3161","101 N Front St","10/10/2017","WI",44.7473527,-92.8011467
+"726","Prescott","UNBRANDED","91","Ptacek's Iga","715-262-5636","1449 Orrin Rd Dr","5/27/2015","WI",44.7607929437751,-92.7856388554217
+"727","Princeton","BP","91","Fox River Travel Plaza","","811 Old Green Lk Rd","11/26/2012","WI",NA,NA
+"728","Pulaski","UNBRANDED","100","Carter Airport","922-822-3644","3736 Hwy 32","11/19/2014","WI",44.6405036479701,-88.2200058133985
+"729","Pulaski","SHELL","91","Pulaski Shell","920-822-8303","113 S Wisconsin St","4/27/2017","WI",44.6714588734673,-88.2334009212653
+"730","Racine","UNBRANDED","91 100","Batten Int Airport","262-631-5620","3239 N Green Bay Rd","5/14/2021","WI",42.7575352040816,-87.8215992244898
+"731","Randolph","SHELL","91","Randolph Shell","","154 Kienow Dr","4/11/2016","WI",43.5313453877551,-89.0052092244898
+"732","Random Lake","CITGO","91","Random Lake Citgo","","N511 Hwy 57","9/21/2017","WI",43.555924,-87.941334
+"733","Random Lake","TRI PAR","91 107 112","Tri Par Oil Co","920-994-9276","580 Orth Dr","8/8/2020","WI",43.546658,-87.945868
+"734","Redgranite","SHELL","91","Redgranite Ultimart","","900 E Bannerman Ave","9/15/2012","WI",44.039601,-89.094203
+"735","Reedsburg","KWIK TRIP","91","839","608-524-4440","101 S Albert Ave","10/12/2014","WI",43.5322876,-90.0163210220736
+"736","Reedsburg","KWIK TRIP","91","Reedsburg Kwik Trip","","1825 E Main St","9/15/2012","WI",43.5329764,-89.9813261497759
+"737","Reedsburg","BP","91","Viking Express","","10 Viking Dr","12/8/2012","WI",43.5360659090909,-89.9847079545455
+"738","Reedsville","CENEX","87 91","Reedsville Townmart","","525 Hwy 10","6/12/2012","WI",NA,NA
+"739","Rhinelander","BP","91","Hodag Bp","","2141 Lincoln St","8/22/2012","WI",45.6332407504907,-89.3806647282459
+"740","Rhinelander","MARATHON","87 91","Kemp St Marathon","","608 W Kemp St","5/7/2018","WI",45.6323936401624,-89.4309096394932
+"741","Rhinelander","KWIK TRIP","91","Kwik Trip #860","715-362-9103","235 Eisenhower Pkwy","8/26/2018","WI",45.63609515,-89.3788667242344
+"742","Rib Lake","BP","91","R Corner Store","","1302 Hwy 102","12/7/2012","WI",45.3092465,-90.2211314
+"743","Rice Lake","BP","91","Bob & Steve's Bp #9","715-236-7040","404 N Main St","4/20/2016","WI",45.5054389449608,-91.7336424645683
+"744","Rice Lake","CENEX","87","Cenex Lakeland Co-Op","","1910 Macauley","9/15/2012","WI",45.4826043765867,-91.7354099502459
+"745","Rice Lake","KWIK TRIP","91","Kwik Trip","","S Main","7/22/2012","WI",NA,NA
+"746","Rice Lake","KWIK TRIP","91","Kwik Trip #426","715-736-0797","220 W Knapp St","5/10/2017","WI",45.508758,-91.739002
+"747","Rice Lake","CENEX","87","Rice Lake Cenex","534-234-7136","924 Hammond Ave","11/20/2014","WI",45.5116931798315,-91.7394323093871
+"748","Richland Center","CENEX","91","Boaz Country Store","","17190 Hwy 14","10/3/2012","WI",NA,NA
+"749","Richland Center","MOBIL","91","Richland Mobil Mart","608-647-5580","1001 Hwy 14 W","7/27/2015","WI",NA,NA
+"750","Ridgeland","CENEX","87","Lakeland Co Op","715-949-1145","318 Railroad St","7/20/2015","WI",NA,NA
+"751","Rio","MOBIL","91","Strauss Mobil","920-992-3394","105 E Hwy 16","3/14/2014","WI",46.6605966,-92.1640193
+"752","Ripon","MOBIL","91","Holliday Food & Sport?","920-748-6262","101 Eureka St","6/25/2017","WI",43.84714345,-88.8362085989956
+"753","River Falls","BP","91","Bob & Steve's Bp #4","715-426-4880","1553 Paulson Rd","4/20/2016","WI",44.8877133692619,-92.6302291164889
+"754","River Falls","BP","91","Bob & Steve's Bp #6","715-425-8299","700 N Main St","4/20/2016","WI",44.8668844128639,-92.6217677350243
+"755","River Falls","SHELL","91","Dick's Liquor","715-425-0199","1141 S Main St.","5/17/2013","WI",44.8457570188679,-92.6294491698113
+"756","River Falls","UNBRANDED","91","Kwik Trip","715-425-1386","1238 N Main","6/28/2014","WI",NA,NA
+"757","Roberts","BP","91","Bob & Steve's Bp #11","715-749-3253","541 Cherry Ln","4/20/2016","WI",44.9772769090909,-92.5557794545455
+"758","Roberts","HOLIDAY","91","Holiday Stationstores","715-749-3388","900 N Division St","9/16/2015","WI",44.99217395,-92.5524476
+"759","Rock Springs","CENEX","87","Rock N Stop","","103 W Broadway","1/11/2015","WI",43.4774607,-89.9167475755462
+"760","Rome","BP","91","Pritzl's Trading Post","715-325-2281","251 Hwy 13","6/12/2017","WI",NA,NA
+"761","Rosholt","MOBIL","91","Stop & Go Food Mart","715-677-4616","281 E Grand Ave","11/5/2015","WI",NA,NA
+"762","Rothschild","BP","91","R-Store","715-359-2999","1137 E Grand Ave","2/5/2020","WI",44.90000365,-89.6091189
+"763","Rothschild","BP","91","R-Store #32","715-359-5080","10201 Park Plaza","8/6/2014","WI",44.865237,-89.6382011049051
+"764","Rudolph","SHELL","91","The Food Tree","","1759 Greenfield Ave","7/16/2014","WI",44.4352768402136,-89.8088294884809
+"765","Sauk City","CENEX","91","Consumers Co-Op","","740 Phillips Blvd","9/14/2015","WI",43.2710192093201,-89.7354298455092
+"766","Sauk City","KWIK TRIP","91","Kwik Trip","","110 Phillips Blvd","4/10/2012","WI",43.2709125,-89.7226159
+"767","Sayner","MOBIL","91","Sayner Mobile","715-542-2024","277 Main St","6/20/2014","WI",NA,NA
+"768","Schofield","KWIK TRIP","91","Kwik Trip","715-355-1188","3207 Schofield Ave","11/20/2013","WI",44.9141108,-89.609963
+"769","Schofield","SHELL","91","Shell","715-355-1990","3001 Schofield Ave","11/20/2013","WI",44.9141108,-89.609963
+"770","Schofield","UNBRANDED","91","The Store","715-345-5050","6606 C.R. J","3/15/2015","WI",NA,NA
+"771","Shawano","BP","91","John's One Stop","","Hwy 47 & 55","6/20/2017","WI",44.7299904,-88.4542535
+"772","Shawano","KWIK TRIP","91","Kwik Trip #620","715-526-2939","1241 E Green Bay St","4/26/2013","WI",44.7822373203883,-88.5891422621359
+"773","Shawano","UNBRANDED","91","Peoex - People's Express","715-526-6618","1381 E Green Bay St","4/24/2019","WI",44.7821789932899,-88.5868571398432
+"774","Shawano","UNBRANDED","91","People's Express","715-526-6775","716 S Main St","4/24/2019","WI",44.7733080747814,-88.6089523537391
+"775","Sheboygan","KWIK TRIP","91","Kwik Trip","920-803-2078","4220 County Rd J","6/1/2015","WI",43.7904738,-87.7620716
+"776","Sheboygan","KWIK TRIP","91","Kwik Trip","920-458-6468","2033 North Ave","11/19/2014","WI",43.7738626938794,-87.7330856433488
+"777","Sheboygan","KWIK TRIP","91","Kwik Trip","920-452-0808","1618 Calumet Dr","12/29/2013","WI",43.763077582137,-87.7233027185945
+"778","Sheboygan","KWIK TRIP","91","Kwik Trip #139","920-457-1028","7002 Sauk Trail Rd","11/16/2016","WI",43.6740041663434,-87.7577980878554
+"779","Sheboygan","CITGO","91","Q-Mart","920-459-6061","3715 Washington Ave","1/22/2015","WI",43.7175211543624,-87.7563847583893
+"780","Sheboygan","UNBRANDED","91","Tidy Store","920-452-9362","810 N 14th St","2/3/2021","WI",43.7533175918367,-87.7230646122449
+"781","Sheboygan Falls","BP","91","Q-Mart","920-467-8030","1050 Hwy 32","10/5/2016","WI",43.7171302,-87.8160831
+"782","Shell Lake","BP","87 91","B P Express Mart","715-468-2200","433 Us Hwy 63","7/20/2013","WI",45.74247855,-91.9244119197358
+"783","Shell Lake","CENEX","91","Cenex Station","715-486-2302","331 Us Hwy 63","7/20/2013","WI",45.7330452231526,-91.9298470299088
+"784","Silvercliff","BP","91","Red Pine","715-757-2180","W13315 County Rd C","11/20/2014","WI",NA,NA
+"785","Siren","UNBRANDED","87 100","Burnett County Airfield","715-349-7076","1234 Hwy 35 N","11/19/2014","WI",45.7991791,-92.381756
+"786","Siren","HOLIDAY","91","Holiday #3444","715-349-2941","24184 Hwy 35","10/24/2015","WI",45.7905480532931,-92.3862273931118
+"787","Siren","HOLIDAY","91","Holiday Stationstore","715-349-2410","24096 Hwy 35","10/12/2015","WI",45.7871992353384,-92.3862483385492
+"788","Sister Bay","SHELL","91","Bhirdos Shell","","10748 N Bay Shore Dr","8/22/2012","WI",NA,NA
+"789","Sister Bay","BP","91","Country Walk Bp","920-854-5641","2439 S Bay Shore Dr","6/10/2018","WI",NA,NA
+"790","Sister Bay","UNBRANDED","87 91","Sister Bay Automotive","920-854-2374","10901 N Bay Shore Dr","11/19/2014","WI",NA,NA
+"791","Sister Bay","CITGO","91","Sister Bay Gen Store","920-854-2125","10282 Hwy 57","3/14/2014","WI",45.168435,-87.13242
+"792","Sister Bay","UNBRANDED","89","Yacht Works","","10967 N Bay Shore Dr","10/8/2012","WI",NA,NA
+"793","Solon Springs","UNBRANDED","91","Jt's One Stop","715-378-4445","8888 County Rd A","6/18/2020","WI",46.3525433451284,-91.8390077564678
+"794","Somerset","BP","91","Bob & Steve's Bp #16","715-247-2200","101 Aspen Dr","4/20/2016","WI",45.1235784,-92.6541131
+"795","South Wayne","CENEX","87","South Wayne Mart","608-439-5900","210 W. St. Hwy 11","12/23/2018","WI",NA,NA
+"796","So Wayne","UNBRANDED","91","Pecatonica Coop Oil","608-439-5301","201 Galena","5/15/2018","WI",NA,NA
+"797","Sparta","KWIK TRIP","91","Kwik Trip Store #317","","10219 Hwy 16","8/22/2012","WI",NA,NA
+"798","Sparta","CENEX","87 91","Sparta Co-Op Services","608-269-1930","918 S Black River St","6/13/2015","WI",43.9365007726067,-90.8207040850909
+"799","Spooner","UNBRANDED","87","A & H Country Market","715-635-8429","2398 Co Rd A","4/22/2019","WI",NA,NA
+"800","Spooner","HOLIDAY","91","Holiday #3472","715-635-9112","730 S River St","10/23/2015","WI",45.81525065,-91.896125041623
+"801","Spooner","KWIK TRIP","91","Kwik Trip #329","","201 W Maple St","6/17/2013","WI",45.8224995,-91.89170495
+"802","Spring Green","SHELL","91","Rite Way Plaza","608-588-2465","E4905 Us Hwy 14","7/20/2013","WI",NA,NA
+"803","Spring Prairie","UNBRANDED","91","Shavers Country Deli","262-723-6333","N5495 Hwy 120","4/25/2021","WI",42.7068052,-88.4051253
+"804","Spring Valley","CENEX","87","Spring Valley Cenex","715-778-4281","105 Akers St.","4/20/2015","WI",44.843418,-92.238653
+"805","Stanley","SHELL","91","Shell","715-644-3511","600 S Broadway St","5/30/2018","WI",44.964312,-90.937615
+"806","Star Prairie","MARATHON","92","Horse Creek Store","715-294-3410","2069 County Rd X","4/2/2013","WI",NA,NA
+"807","Star Prairie","BP","91","Star Prairie Bp","715-248-7701","100 Jewel St","4/20/2016","WI",45.204609,-92.5294536
+"808","St Croix Falls","HOLIDAY","91","Holiday #419","715-483-5950","2091 Glacier Dr","10/22/2015","WI",45.396727244898,-92.6059241020408
+"809","St Croix Falls","MARATHON","87 91","Jor-Gas","","510 S Washington St","6/28/2013","WI",45.4028316928566,-92.6447393071254
+"810","St Croix Falls","UNBRANDED","89","Speedway","715-483-9080","1960 Us Hwy 8","5/22/2019","WI",45.4030193,-92.640168
+"811","St Croix Falls","BP","91 110","Wayne's Cafe / Bp","715-483-1816","1961 Us Hwy 8","9/20/2020","WI",45.4030193,-92.640168
+"812","Stetsonville","CLARK","93","Stetsonville Oil","","115 S Hwy 13","8/8/2018","WI",NA,NA
+"813","Stevens Point","BP","91","Bp","715-342-2933","4928 Main St","7/26/2015","WI",44.52399275,-89.5323233
+"814","Stevens Point","UNBRANDED","87 89 91","Coopers Fuel Depot","715-344-9132","2172 Prairie St","6/4/2014","WI",44.5144127777778,-89.5794700909091
+"815","Stevens Point","KWIK TRIP","91","Kwik Trip","","3533 Stanley St","7/22/2014","WI",44.5368380869565,-89.5497028478261
+"816","Stevens Point","FLEET FARM","89 91","Mill's Fleet Farm","","5590 Us Hwy 10 E","11/16/2018","WI",NA,NA
+"817","Stevens Point","MOBIL","91","R-Store #25","715-345-9839","5485 Us Hwy 10 E","8/30/2014","WI",NA,NA
+"818","St Germain","CITGO","91","Krist Food Mart","715-479-1144","310 Hwy 70","8/28/2016","WI",45.906736,-89.4873841666667
+"819","St. Germain","UNBRANDED","91","Little Saint Fuel Express","","102 Hwy 70e","8/22/2012","WI",NA,NA
+"820","St. Germain","BP","91","Sport Marine","","438 Hwy 70","10/8/2012","WI",45.91094725,-89.48763685
+"821","Stone Lake","BP","91","Stone Lake Bp","715-865-5110","6317 Hwy 27","6/4/2014","WI",NA,NA
+"822","Stoughton","KWIK TRIP","91","Kwik Trip","608-873-3383","517 W Main St","9/13/2014","WI",42.9167436373937,-89.2268988696687
+"823","Stoughton","KWIK TRIP","91","Kwik Trip","608-873-4599","1231 E Main St","9/13/2014","WI",42.9184607396092,-89.2065055730779
+"824","Stoughton","UNBRANDED","89","Quam's Marina","608-873-3366","1896 Barber Dr","11/19/2014","WI",NA,NA
+"825","Stoughton","BP","91","Stop N Shop","608-873-9982","1009 W Main St","5/17/2018","WI",42.9168355462504,-89.2328853963566
+"826","Stratford","BP","91","Telschow Quik Mart","","327 N Weber Ave","1/21/2013","WI",44.8032478367347,-90.0792485306122
+"827","Strum","CENEX","91","Countryside Co-Op","","107 W Balsam St","10/13/2012","WI",NA,NA
+"828","Sturgeon Bay","CITGO","91","American Petroleum","","211 Michigan St","6/7/2013","WI",44.8337357755102,-87.3772179183674
+"829","Sturgeon Bay","SHELL","91","Cherryland Shell","","1331 Green Bay Rd","10/15/2014","WI",44.8208762305347,-87.4084469314526
+"830","Sturgeon Bay","BP","91","Door Stop","","5581 Gordon Rd","10/10/2019","WI",44.8601516,-87.3445605
+"831","Sturgeon Bay","BP","91","L&P Convenient","","1130 Green Bay Rd","8/22/2012","WI",44.821025905946,-87.4038606772826
+"832","Sturgeon Bay","BP","91","L&P Convenient","","253 Michigan St","8/22/2012","WI",44.834449,-87.3761026346154
+"833","Sturgeon Bay","BP","91","Pj's Of Door County","","7513 Hwy 42","8/10/2012","WI",44.8308913,-87.3834987
+"834","Sugar Camp","MARATHON","91","Sugar Camp Midway","715-272-1101","6345 Hwy 17","3/6/2014","WI",NA,NA
+"835","Sullivan","AMOCO","91","Gaugert's Buss Stop","","141 Main St.","6/17/2020","WI",43.016816,-88.583895
+"836","Summit Lake","BP","91","B P","715-275-3388","N9521 Us Hwy 45","7/20/2013","WI",NA,NA
+"837","Sun Prairie","KWIK TRIP","91","Kwik Trip","","1252 W Main St","10/3/2012","WI",43.18026775,-89.2336357516361
+"838","Sun Prairie","KWIK TRIP","91","Kwik Trip","","2599 Ironwood Dr","12/7/2012","WI",43.184778,-89.264398
+"839","Sun Prairie","BP","91","Liberty Station","608-837-3311","1354 N Bird St","6/11/2016","WI",43.2004789,-89.2266136250355
+"840","Superior","MURPHY","91","Calumet","715-392-7702","502 Hammond Ave","4/27/2018","WI",46.7323985510204,-92.0977400408163
+"841","Superior","UNBRANDED","89 91","Kimmes Oil","715-394-4233","6327 Tower Ave","2/18/2018","WI",46.6630535714286,-92.1044604693878
+"842","Superior","CENEX","93","Korner Store","715-398-6044","3802 E 2nd St","10/10/2019","WI",46.6899497959184,-92.0261931428571
+"843","Superior","KWIK TRIP","91","Kwik Trip #189","715-392-3865","623 Hammond Ave","5/20/2016","WI",46.7310579183673,-92.097967244898
+"844","Superior","KWIK TRIP","91","Kwik Trip #203","715-392-3947","1419 Banks Ave","5/20/2016","WI",46.7216568571429,-92.1055829183673
+"845","Superior","KWIK TRIP","91","Kwik Trip #222","715-392-2954","3027 E 2nd St","6/12/2017","WI",46.6980516061309,-92.0362784901743
+"846","Superior","KWIK TRIP","91","Kwik Trip #267","715-399-0121","2128 E 2nd St","5/20/2016","WI",46.7072402857143,-92.0483071428571
+"847","Superior","KWIK TRIP","91","Kwik Trip #864","715-392-1885","2807 Tower Ave","5/20/2016","WI",46.7059958571429,-92.1041412857143
+"848","Suring","UNBRANDED","91","Kelly Lake Kwik Stop","920-842-2652","9407 St Bernadette Rd","10/10/2016","WI",NA,NA
+"849","Suring","SHELL","93","Piso Airport","920-842-2955","10779 Hwy 32","5/21/2014","WI",44.9990307,-88.3802649
+"850","Suring","SHELL","93","Rhode's Junction","","12470 Hwy 64","3/23/2013","WI",NA,NA
+"851","Theresa","SHELL","91","Theresa Ultimart","920-488-5005","213 N Milwaukee St","7/21/2016","WI",43.5196972,-88.4508054450311
+"852","Thorp","CENEX","91","Cenex","","602 S Washington St","1/21/2013","WI",44.9538765302471,-90.8004503228475
+"853","Three Lakes","ICO","87","Molly Ville","","7630 Us Hwy 45 N","7/20/2013","WI",45.8314000139102,-89.1881828061755
+"854","Three Lakes","SHELL","91","Three Lakes Shell","","1742 Superior St","11/24/2017","WI",45.797895,-89.169566
+"855","Tigerton","BP","87","Tigerton R-Store","715-535-3010","112 Us Hwy 45","6/26/2013","WI",44.7383624293612,-89.0534842210423
+"856","Tomah","BP","91","Bp","608-374-2800","311 Wittig Rd.","1/1/2015","WI",44.0175283853746,-90.5030342672109
+"857","Tomah","KWIK TRIP","91","Kwik Trip","","124 W Mccoy Blvd","7/9/2015","WI",44.0200661,-90.4935412
+"858","Tomah","KWIK TRIP","91","Kwik Trip","","1504 Superior Ave.","10/28/2010","WI",43.9724293333333,-90.5049691666667
+"859","Tomah","KWIK TRIP","91","Kwik Trip","","310 E Mccoy Blvd","6/15/2017","WI",44.0179674693878,-90.5045538367347
+"860","Tomah","SHELL","91","Shell","608-372-5796","907 E Mccoy Blvd","3/9/2018","WI",44.0193556,-90.4937355
+"861","Tomah","BP","91","Tomah Mini Mart","608-372-2685","215 W Clifton St","1/3/2015","WI",43.9719467553838,-90.507437429871
+"862","Tomahawk","SHELL","91","Charlies Self Service","","434 S Tomahawk Ave","6/23/2012","WI",45.464405,-89.733748
+"863","Tomahawk","BP","91","Cracker Barrel","715-453-5888","N11790 County Rd L","3/30/2013","WI",NA,NA
+"864","Tomahawk","MOBIL","91","Crossroads Mobil","715-453-3398","1727 E Somo Ave","6/28/2013","WI",45.4714365,-89.697604167778
+"865","Tomahawk","HOLIDAY","91","Holiday #3441","715-453-5434","706 N 4th St","10/23/2015","WI",45.4819624681743,-89.7289102027635
+"866","Tomahawk","UNBRANDED","91","Tilted Loon Saloon","715-453-2768","1969 County Hwy L","5/24/2020","WI",NA,NA
+"867","Tomahawk","MOBIL","91","Viegut's","715-453-8417","981 N 4th St","8/23/2013","WI",45.4847180490026,-89.7291806168563
+"868","Townsend","SHELL","91","Townsend Shell","","17757 Hwy 32","12/8/2012","WI",45.3076388883562,-88.5618273857497
+"869","Trego","MOBIL","91","Trego Travel Center?","715-635-4933","W5741 Cnty Hwy E","4/20/2016","WI",NA,NA
+"870","Trempealeau","UNBRANDED","91","Riverstop","608-534-7400","24013 3rd St","9/16/2015","WI",44.0061802,-91.4434667
+"871","Tripoli","BP","91","Tri-Mart","715-564-2440","W11069 Us Hwy 8","7/5/2014","WI",NA,NA
+"872","Turtle Lake","CENEX","91","Cenex","715-986-4750","630 Prosser Blvd","1/15/2017","WI",45.3951392823334,-92.1529838145922
+"873","Turtle Lake","HOLIDAY","91","Holiday","715-986-4401","638 Us Hwy 8","1/15/2017","WI",NA,NA
+"874","Two Rivers","KWIK TRIP","91","Kwik Trip 638","","2107 Washington","8/27/2011","WI",44.1528499387755,-87.5682325714286
+"875","Two Rivers","MOBIL","91","Patsy's Mobil","","816 22nd Ave","12/7/2012","WI",44.153763,-87.559415
+"876","Two Rivers","CITGO","91","Sauve's Citgo","","1421 Washington St.","12/18/2013","WI",44.146038244898,-87.5681246734694
+"877","Union Grove","CITGO","","Kansasville Citgo","262-878-3293","23010 Durand Ave","6/21/2021","WI",42.6816499,-88.0196847
+"878","Valders","CENEX","87 91","Country Visions Cooperative","920-775-9280","511 Calumet Dr","12/3/2020","WI",44.0629818201904,-87.8869958304785
+"879","Valmy","BP","91","Welsings Foodland","","4436 Whitefish Bay Rd","8/3/2011","WI",44.908125,-87.243908
+"880","Verona","KWIK TRIP","91","Kwik Trip","608-848-9040","2145 County Rd Pb","11/9/2015","WI",42.9712439,-89.5128911456581
+"881","Verona","KWIK TRIP","91","Kwik Trip","800-627-3999","7583 Mineral Point Rd","1/16/2015","WI",NA,NA
+"882","Verona","KWIK TRIP","91","Kwik Trip","","400 E Verona Ave","11/9/2015","WI",42.992194,-89.528661
+"883","Verona","CITGO","91","Prairie Oaks Citgo","","103 Prairie Oaks Dr","5/6/2013","WI",43.0040619200715,-89.5321483484515
+"884","Verona","BP","91","Verona Depot","","991 Kimball Ln","5/5/2013","WI",42.9790554,-89.5158868
+"885","Verona","UNBRANDED","87","Zurbuchen Oil","","309 Bruce St","12/7/2012","WI",42.9781660395647,-89.5402917527906
+"886","Viola","CITGO","91","Viola Quick Stop","608-627-1418","102 E Commercial St","8/3/2014","WI",43.5059060637126,-90.6747567608606
+"887","Viroqua","MOBIL","93","Viroqua Mobil Mart","","625 N Main","3/12/2013","WI",NA,NA
+"888","Wabeno","CITGO","91","Citgo Quick Foodmart","","4428 N Branch St","7/19/2012","WI",45.4390585624141,-88.6582652852596
+"889","Waldo","BP","91","Kvindlog Services","","104 S Mill St","4/30/2017","WI",43.6744012343152,-87.9404876428365
+"890","Walworth","UNBRANDED","91","Sentry Express","","681 Kenosha St.","8/15/2016","WI",42.749556,-88.5631
+"891","Walworth","MOBIL","91","Walworth Landing Mobil","262-275-9100","680 Kenosha St","7/20/2016","WI",42.749556,-88.5631
+"892","Washburn","HOLIDAY","91","Holiday Stationstore #227","715-373-2305","606 Bayfield St","10/13/2015","WI",46.6706227961332,-90.9026174287856
+"893","Washburn","BP","91","Leino's Gas & Goods","715-373-5722","137 W Bayfield St","12/27/2013","WI",46.6717520537979,-90.8936008245599
+"894","Washburn","MOBIL","91","Washburn Iga Mobile","","226 W Bayfield St","6/3/2015","WI",46.6705474811063,-90.8962861721868
+"895","Washington Is","CITGO","91","Mann's Mercantile","","1176 Main Rd","6/7/2013","WI",45.372889486462,-86.9304380489938
+"896","Washington Island","UNBRANDED","87 89 91","Death's Door Fuel Llc","920-847-3092","2006 Lobdell Pt Rd","8/17/2018","WI",NA,NA
+"897","Waterloo","BP","87 89 91","Bp Gas","","300 W Madison St","1/9/2019","WI",43.18364,-88.994045
+"898","Waterloo","KWIK TRIP","91","Kwik Trip","","115 Portland Rd","3/28/2011","WI",43.184187578321,-88.9822153282981
+"899","Watertown","BP","91","Borderline","920-262-7310","N549 Boulder Rd","11/30/2013","WI",NA,NA
+"900","Watertown","SHELL","91","Church St Shell","920-206-7311","423 S Church St","5/17/2018","WI",43.190184,-88.7292375
+"901","Watertown","KWIK TRIP","91","Kwik Trip","920-206-0084","1184 N 4th St","2/8/2017","WI",43.2065015,-88.7077441666667
+"902","Watertown","KWIK TRIP","91","Kwik Trip","","1731 S Church St","4/19/2016","WI",43.1701778,-88.7315469935845
+"903","Watertown","KWIK TRIP","91","Kwik Trip #658","","900 W Main","3/19/2011","WI",NA,NA
+"904","Watertown","MOBIL","91","Mobil","","330 Summit Ave","4/27/2014","WI",43.1874212442549,-88.7004980898779
+"905","Watertown","CITGO","87 91","Steve's Southside Citgo","","1021 S. Third","6/7/2013","WI",NA,NA
+"906","Waumandee","UNBRANDED","87","Countryside Co Op","608-626-2111","S1853 County Rd U","5/10/2016","WI",NA,NA
+"907","Waunakee","KWIK TRIP","87 91","Kwik Trip","","208 E Main St","6/27/2020","WI",43.1918401750608,-89.4538710547928
+"908","Waunakee","KWIK TRIP","91","Kwik Trip","608-249-9637","5420 Willow Rd","5/17/2018","WI",NA,NA
+"909","Waunakee","MOBIL","91 110","Meffert Oil","608-850-3835","300 S Division St","6/7/2018","WI",43.1897429456195,-89.4468481947611
+"910","Waupaca","KWIK TRIP","91","625","715-258-5227","226 W Fulton St","10/12/2014","WI",44.3580215310858,-89.0865695701526
+"911","Waupaca","CENEX","87 91","Chain Cenex","715-258-5153","N2479 Cnty Rd Q Q","9/17/2018","WI",NA,NA
+"912","Waupaca","CITGO","91","Citgo","","1045 W Fulton St","6/7/2013","WI",44.3562173,-89.1097649
+"913","Waupaca","FLEET FARM","89 91","Fleet Farm Gas Mart","","N2541 Farm Dr","9/21/2018","WI",NA,NA
+"914","Waupaca","HOLIDAY","91","Holiday #3470","715-258-3345","314 E Badger St","10/23/2015","WI",44.3559092857143,-89.0814381428571
+"915","Waupaca","KWIK TRIP","91","Kwik Trip #888","715-258-7245","106 Cnty Rd Q Q","10/15/2014","WI",NA,NA
+"916","Waupaca","MOBIL","91","Waupaca Travel Center","","1222 W Fulton St","10/12/2013","WI",44.3541421408321,-89.1234355183597
+"917","Waupun","BP","91","Holliday Food & Sport","","715 W Main St","10/3/2012","WI",43.6330206363636,-88.7472381818182
+"918","Waupun","KWIK TRIP","91","Kwik Trip","","800 W Main St","9/7/2019","WI",43.63318,-88.74889
+"919","Wausau","UNBRANDED","91","Fast Fuel Gas","715-298-5094","407 N 3rd Ave","2/5/2020","WI",44.967437187624,-89.6391305185353
+"920","Wausau","UNBRANDED","91","Kolbe","","1323 S 11th Ave","8/16/2012","WI",44.9440161837333,-89.6488899742729
+"921","Wausau","UNBRANDED","91","Krist Food Mart","715-675-9905","1122 Merrill Ave","5/27/2015","WI",44.9771135,-89.6419264
+"922","Wausau","UNBRANDED","91","Kwik Trip","715-843-5622","1415 West St","2/5/2020","WI",44.9536626668846,-89.6525560479916
+"923","Wausau","UNBRANDED","91","Kwik Trip #188","715-849-1007","310 Grand Ave","2/5/2020","WI",44.9546977794702,-89.6239978724062
+"924","Wausau","KWIK TRIP","91","Kwik Trip #204","715-843-5090","4701 Rib Mountain Dr","2/5/2020","WI",44.9643060725891,-89.6947600444183
+"925","Wausau","UNBRANDED","91","Kwik Trip #728","715-842-3316","200 E Kent St","2/5/2020","WI",44.9347061,-89.6149627
+"926","Wausau","KWIK TRIP","91","Kwik Trip Store #322","","1440 W Campus Dr","10/3/2012","WI",44.9880501,-89.6522672
+"927","Wausau","FLEET FARM","89 91","Mill's Fleet Farm","715-675-2312","1811 Badger Ave","6/10/2015","WI",44.9888462,-89.6535896
+"928","Wausau","UNBRANDED","87","R-Store","715-848-5267","2300 Grand Ave","2/5/2020","WI",44.9331101,-89.6163106
+"929","Wausau","BP","91","R-Store","715-842-9946","2007 Stewart Ave","2/5/2020","WI",44.958432,-89.6617328004129
+"930","Wausau","BP","91","R-Store","715-845-1140","2100 N Mountain Rd","2/5/2020","WI",NA,NA
+"931","Wausau","BP","91","R-Store","715-842-3071","103 N 6th Street","2/5/2020","WI",44.9573007,-89.6233453916545
+"932","Wausau","UNBRANDED","87 91","R-Store","715-843-0720","1511 N 3rd St","5/23/2020","WI",44.9689976,-89.6268502
+"933","Wausau","BP","91","R-Store #34","715-675-3215","2601 N 20th Ave","8/6/2014","WI",44.9951699,-89.6611634
+"934","Wausau","SHELL","91","Shell","715-842-0136","110 S 17th Ave","2/5/2020","WI",44.96365735,-89.6573924220588
+"935","Wausau","UNBRANDED","92","Sunset Store","","10405 Cr Z At Cr J","6/23/2012","WI",NA,NA
+"936","Wausau","UNBRANDED","91","The Store","715-842-4261","308 Stewart Ave","2/5/2020","WI",44.9594594,-89.6397671
+"937","Wausau","UNBRANDED","91","The Store #61","715-842-9778","2409 N Mountain Rd","5/22/2018","WI",NA,NA
+"938","Wausau","SHELL","91","Wagner Shell","715-848-6059","4611 Stewart Ave","5/31/2015","WI",44.9551009,-89.6944275
+"939","Wausau","UNBRANDED","91","Wausau Dwntwn A/P","","725 Woods Plc","12/18/2012","WI",NA,NA
+"940","Wausaukee","BP","91","Lafaive Oil Co","","828 Main St","3/21/2013","WI",45.3774975,-87.9534049
+"941","Wautoma","SHELL","91","Shell Quick Serve","920-787-5888","W7684 Hwy 21","11/20/2014","WI",NA,NA
+"942","Wauzeka","BP","91","Krachey's","608-875-6202","210 E Main St","6/19/2013","WI",43.0845279387755,-90.8842842040816
+"943","Webb Lake","UNBRANDED","87 91","The Main Store","715-259-3311","30328 County Rd H","3/14/2014","WI",46.009187,-92.131538
+"944","Webster","MARATHON","93","Connor's Service","","26548 Lakeland Ave N","5/7/2018","WI",45.879316,-92.364642
+"945","Webster","HOLIDAY","91","Holiday #3543","715-866-7046","26354 S Lakeland Ave","10/28/2015","WI",45.8723125357183,-92.364610040571
+"946","Westby","CO-OP","91","Heartland Country Co-Op","608-634-3184","405 S Main St","3/14/2014","WI",43.6498189,-90.8592266983374
+"947","Westfield","MOBIL","91","Pioneer Travel Mart","","232 N Pioneer Park Rd","8/17/2019","WI",43.8878222,-89.483898470247
+"948","Westfield","CENEX","91","Westfield Mart","608-296-3822","327 E 2nd St","8/17/2020","WI",43.885641467265,-89.4857663389067
+"949","Weston","KWIK TRIP","91","Kwik-Trip","","5603 Us Hwy 51","7/20/2013","WI",44.9056162,-89.6058158
+"950","Weston","SHELL","91","Village Station","","10002 Adventure Way","9/6/2011","WI",44.8875965747268,-89.4955653242931
+"951","West Salem","BP","91","Bp","608-786-2888","83 Buol Rd","1/3/2015","WI",43.8901707,-91.075106
+"952","West Salem","KWIK TRIP","91 110","Kwik Trip #684","608-786-2412","985 Hwy 16 W","5/7/2018","WI",NA,NA
+"953","West Salem","UNBRANDED","87 91","Neshonoc Sports","608-786-2266","201 Hwy 16","5/7/2018","WI",NA,NA
+"954","Weyauwega","CENEX","87 89 91","Cenex","920-867-5017","706 N Mill St","3/2/2019","WI",44.3288457,-88.9335718
+"955","Whitehall","KWIK TRIP","87 91","Kwik Trip","715-538-2477","36281 Main St","5/11/2016","WI",44.367507,-91.316787
+"956","Whitehall","CENEX","87 91","Whitehall Conv Store","715-538-2203","36537 Main St","10/10/2016","WI",44.3725926,-91.3160217
+"957","Whitewater","CITGO","91","Eastsider","","650 E. Milwaukee","11/29/2012","WI",42.8327656969697,-88.7219967575758
+"958","Whitewater","CITGO","91","Westsider 1","262-473-4474","1353 W Main St","7/25/2014","WI",42.8346367025864,-88.7590023939977
+"959","Williams Bay","PHILLIPS 66","91","Lakeside 66","","156 Elkhorn Rd","8/30/2014","WI",NA,NA
+"960","Wilson","KWIK TRIP","91","Kwik Trip #603","","531 Hwy 128","11/10/2012","WI",NA,NA
+"961","Winchester","UNBRANDED","87 91","30 Point Trading Post","715-543-8550","6683 Cnty Rd W","7/16/2016","WI",NA,NA
+"962","Windsor","KWIK TRIP","91","Kwik Trip","608-846-9888","6325 Pepsi Way","5/5/2013","WI",NA,NA
+"963","Winneconne","UNBRANDED","91","Leo's Service","920-582-7717","302 W Main St","5/7/2018","WI",44.1112371,-88.7154
+"964","Winneconne","KWIK TRIP","91","Winneconne Kwik Trip","","915 E Main St","10/3/2012","WI",44.1119964,-88.6948544
+"965","Wisconsin Dells","BP","91","Bp","608-253-3700","2040 Us Hwy 12","9/21/2015","WI",NA,NA
+"966","Wisconsin Dells","CITGO","91","Corner Pump","","3303 Hwy 13","5/7/2013","WI",NA,NA
+"967","Wisconsin Dells","KWIK TRIP","91","Kwik Trip","608-254-7995","532 W Munroe Ave","6/5/2017","WI",NA,NA
+"968","Wisconsin Dells","SHELL","91","Uncle Dan's Shell","","911 Us Hwy 12","3/26/2012","WI",NA,NA
+"969","Wisconsin Rapids","BP","91","Bp","715-423-6710","1151 W Grand Ave","5/7/2018","WI",44.39540765,-89.8381438247898
+"970","Wisconsin Rapids","AMCON","91","Bread & Butter East","715-423-3660","2130 8th Street S.","5/23/2021","WI",44.3759993030303,-89.8172902222222
+"971","Wisconsin Rapids","BP","91","Bud's Corner Mart","715-421-1575","2421 48th St S","8/17/2015","WI",44.371275294482,-89.7653758656384
+"972","Wisconsin Rapids","UNBRANDED","87","Fast Stop","920-674-7000","511 25th Ave N","1/17/2019","WI",44.4000453242896,-89.8548539440472
+"973","Wisconsin Rapids","KWIK TRIP","91","Kwik Trip","","4611 8th St S","6/11/2017","WI",44.35270905,-89.8160198673015
+"974","Wisconsin Rapids","KWIK TRIP","91","Kwik Trip","715-424-1555","2520 W Grand Ave","1/5/2018","WI",44.3974584309772,-89.8595093171445
+"975","Wisconsin Rapids","KWIK TRIP","91","Kwik Trip #128","715-421-0165","1111 Lincoln","1/5/2018","WI",44.3812706787717,-89.8221112574257
+"976","Wisconsin Rapids","MOBIL","91","Mobil","715-424-1767","1040 W. Grand Ave","1/5/2018","WI",44.39595265,-89.8366741431167
+"977","Wisconsin Rapids","SHELL","91 110","Rapids Shell","715-421-1564","240 8th St S","1/5/2018","WI",44.38770345,-89.8176144224669
+"978","Withee","UNION 76","91","Withee Oil Company","715-229-2661","611 E Mill St","8/7/2019","WI",44.9513546122449,-90.5966515102041
+"979","Wittenberg","SHELL","91","Shell Food Mart","715-253-2888","413 Genesee St","10/10/2017","WI",44.8288171,-89.1687436
+"980","Wittenberg","SHELL","91","Wagner Food Mart","","504 E Grand Ave","10/10/2017","WI",44.8267735383107,-89.1649563359736
+"981","Wittenberg","PHILLIPS 66","91","Whitetail Crossing","715-253-2272","N7217 Us Hwy 45","4/20/2016","WI",NA,NA
+"982","Wittenberg","BP","91","Wilderness Crossing Bp","715-253-2333","17256 Red Oak Ln","10/10/2017","WI",NA,NA
+"983","Woodruff","BP","91","Brandy Lake Bp","715-356-9011","211 Us Hwy 51 N","7/30/2016","WI",45.8903538,-89.701308
+"984","Woodville","BP","91","Baker's Woodville B P","715-698-3600","539 Cnty Rd B","7/13/2018","WI",NA,NA

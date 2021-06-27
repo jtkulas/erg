@@ -14,9 +14,9 @@ tags: [MSRA]
 `r emo::ji("warning")` `r emo::ji("warning")` `r emo::ji("skull_and_crossbones")` **NEVER** use this map *while driving* `r emo::ji("face_with_symbols_on_mouth")` `r emo::ji("warning")` `r emo::ji("warning")` 
 </p>
 
-# Non-oxigenated petrol map 
+# Ethanol-free petrol map 
 
-Data taken from [pure-gas.org](https://www.pure-gas.org/) last updated `r date()`:
+Data taken from [pure-gas.org](https://www.pure-gas.org/) last updated `r date()`. Latitude and longitude estimated from `tidygeocoder`:
 
 ```{r, echo=FALSE, warning=FALSE, include=FALSE}
 library(leaflet)
@@ -67,15 +67,32 @@ widgetframe::frameWidget(octmap2) ## trying for online
 
 
 ```{r echo=FALSE, warning=FALSE}
+knitr::write_bib(c(.packages(), "bookdown"), "packages.bib")
 
 minny <- read.csv("minny.csv")
+iowa <- read.csv("iowa.csv")
+sd <- read.csv("sd.csv")
+wisc <- read.csv("wisc.csv")
+
+states <- rbind(minny, iowa, sd, wisc)
+
+
+library(stringr)
+states$max <- as.numeric(str_sub(states$Octane, start= -3))
+
+pal <- colorNumeric(
+  palette = "Spectral",
+  reverse = TRUE,
+  domain = states$max
+)
 
 puregas <- leaflet() %>% 
   addProviderTiles("CartoDB.Positron") %>% 
   setView(-93.11389168, 45.08506268	,
           zoom = 8) %>%
   addTiles() %>%
-  addCircles(data=minny, lng = ~long, lat = ~lat, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone), weight = 10)
+  addCircles(data=states, lng = ~long, lat = ~lat, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone, "<br>", "Max Octane:", max), color=~pal(max), weight = 10) %>%
+  addLegend("bottomright", data=states, pal = pal, values = ~max)
 
 widgetframe::frameWidget(puregas) ## trying for online
 
