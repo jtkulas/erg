@@ -5,6 +5,7 @@ date: '2021-06-11'
 slug: Testing
 categories: []
 tags: [MSRA]
+bibliography: packages.bib
 ---
 
 <p align="center">
@@ -65,7 +66,7 @@ widgetframe::frameWidget(octmap2) ## trying for online
 
 
 ```{r echo=FALSE, warning=FALSE}
-knitr::write_bib(c(.packages(), "bookdown"), "packages.bib")
+knitr::write_bib(c(.packages(), "bookdown", "tidygeocoder"), "packages.bib")
 
 minny <- read.csv("minny.csv")
 iowa <- read.csv("iowa.csv")
@@ -84,7 +85,7 @@ missing <- missing[,2:9]
 
 ```
 
-The map below contains information from `r nrow(states)` stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from [pure-gas.org](https://www.pure-gas.org/), but also relies on latitude and longitude *estimates* generated from physical addresses via the `R` package `tidygeocoder`. The "visual dots" should therefore only be used as general vicinity indicators. The physical addresses, however, should be considered to be accurate as per [pure-gas.org](https://www.pure-gas.org/):
+The map below contains information from `r nrow(states)` stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from [pure-gas.org](https://www.pure-gas.org/), but also relies on latitude and longitude *estimates* generated from physical addresses via the `r icons::fontawesome("r-project")` [@R-base] package `tidygeocoder` [@R-tidygeocoder] version `r packageVersion("tidygeocoder")`. The "visual dots" should therefore only be used as general vicinity indicators. The physical addresses, however, should be considered to be accurate as per [pure-gas.org](https://www.pure-gas.org/):
 
 ```{r map, echo=FALSE, warning=FALSE, include=FALSE}
 
@@ -137,7 +138,7 @@ widgetframe::frameWidget(altmap)
 
 ```
 
-`tidygeocoder` was unable to generate longitude and latitude estimates from an additional `r nrow(missing)` stations within the [pure-gas.org](https://www.pure-gas.org/) databases. These `r nrow(missing)` "missing" stations are presented in the following searchable table:
+You may know of a station that is not represented on the visual map. That may be because `tidygeocoder` was unable to generate latitude and longitude estimates from an additional `r nrow(missing)` stations within the [pure-gas.org](https://www.pure-gas.org/) databases. These `r nrow(missing)` "missing" stations are presented in the following searchable table and should be considered additional possibilities in your pursuit of go-go juice:
 
 ```{r missingstations, warning=FALSE, echo=FALSE}
 
@@ -146,5 +147,3 @@ widgetframe::frameWidget(datatable(missing[c(4,6,1,8,3,5)], rownames=FALSE, opti
 
 ```
 
-
-[icon rendering issue here](https://github.com/rstudio/leaflet/issues/691)
