@@ -86,7 +86,7 @@ missing <- missing[,2:9]
 
 The map below contains information from `r nrow(states)` stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from [pure-gas.org](https://www.pure-gas.org/), but also relies on latitude and longitude *estimates* generated from physical addresses via the `R` package `tidygeocoder`. The "visual dots" should therefore only be used as general vicinity indicators. The physical addresses, however, should be considered to be accurate as per [pure-gas.org](https://www.pure-gas.org/):
 
-```{r map, echo=FALSE, warning=FALSE}
+```{r map, echo=FALSE, warning=FALSE, include=FALSE}
 
 pal <- colorNumeric(
   palette = "Spectral",
@@ -106,7 +106,6 @@ widgetframe::frameWidget(puregas) ## trying for online
 
 ```
 
-## Alt format:
 
 ```{r map2, echo=FALSE, warning=FALSE}
 
