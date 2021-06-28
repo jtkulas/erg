@@ -79,12 +79,6 @@ states <- rbind(minny, iowa, sd, wisc, nd)
 library(stringr)
 states$max <- as.numeric(str_sub(states$Octane, start= -3))
 
-pal <- colorNumeric(
-  palette = "Spectral",
-  reverse = TRUE,
-  domain = states$max
-)
-
 missing <- states[ which(is.na(states$lat) & is.na(states$long)), ]
 missing <- missing[,2:9]
 
@@ -93,6 +87,12 @@ missing <- missing[,2:9]
 The map below contains information from `r nrow(states)` stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from [pure-gas.org](https://www.pure-gas.org/), but also relies on latitude and longitude *estimates* generated from physical addresses via the `R` package `tidygeocoder`. The "visual dots" should therefore only be used as general vicinity indicators. The physical addresses, however, should be considered to be accurate as per [pure-gas.org](https://www.pure-gas.org/):
 
 ```{r map, echo=FALSE, warning=FALSE}
+
+pal <- colorNumeric(
+  palette = "Spectral",
+  reverse = TRUE,
+  domain = states$max
+)
 
 puregas <- leaflet() %>% 
   addProviderTiles("CartoDB.Positron") %>% 
@@ -110,17 +110,17 @@ widgetframe::frameWidget(puregas) ## trying for online
 
 ```{r map2, echo=FALSE, warning=FALSE}
 
-states$octane[states$max < 91] <- "Less than 91"
+states$octane[states$max < 91] <- "less than 91"
 states$octane[states$max == 91] <- "91"
-states$octane[states$max > 91 & states$max < 100] <- "91 - 99"
-states$octane[states$max > 100] <- "Greater than 100"
+states$octane[states$max > 91 & states$max < 100] <- "92 - 99"
+states$octane[states$max > 99] <- "100 or more"
 
-states$octane <- factor(states$octane, levels = c("less than 91", "91", "91 - 99", "Greater than 100"))
+states$octane <- factor(states$octane, levels = c("less than 91", "91", "92 - 99", "100 or more"))
 
-states$mapping <- as.numeric(as.character(str_sub(states$Octane, start= -1)))
+states$mapping <- as.numeric(as.character(str_sub(states$Octane, start= -1)))  ## for circle radius
 
 pal2 <- colorFactor(
-  palette = c("#FF0000", "#FFFF00", "#FF9933", "#FF00CC"),
+  palette = c("#0000FF", "#FFFF00", "#FF0000", "#FF00CC"),
   domain = states$octane
 )
 
@@ -131,7 +131,7 @@ altmap <- leaflet() %>%
           zoom = 6) %>%
   addTiles() %>%
   addCircles(data=states, lng = ~long, lat = ~lat, weight = 1,
-             radius = ~max*10, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone, "<br>", "Max Octane:", max), fillColor=~pal2(octane)) %>%
+             radius = ~max*10, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone, "<br>", "Max Octane:", max), fillColor=~pal2(octane), fillOpacity = .5 ) %>%
   addLegend("bottomright", data=states, pal = pal2, values = ~octane, opacity = 1)
 
 widgetframe::frameWidget(altmap)
