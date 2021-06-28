@@ -127,7 +127,7 @@ pal2 <- colorFactor(
 altmap <- leaflet() %>% 
   addProviderTiles("CartoDB.Positron") %>% 
   setView(-93.11389168, 45.08506268	,
-          zoom = 6) %>%
+          zoom = 9) %>%
   addTiles() %>%
   addCircles(data=states, lng = ~long, lat = ~lat, weight = 1,
              radius = ~max*10, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone, "<br>", "Max Octane:", max), fillColor=~pal2(octane), fillOpacity = .5 ) %>%
