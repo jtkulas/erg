@@ -1,0 +1,139 @@
+"","City","Brand","Octane","Name","Phone","Street.Address","Last.Updated","State","lat","long"
+"1","Belfield","CONOCO","91","Dan's Interstate","701-575-4019","901 Us Hwy 85 N","7/4/2019","ND",46.8933012991202,-103.189787452805
+"2","Beulah","CENEX","87 91","Farmers Union Oil Co Of Beulah","701-873-4363","1600 Hwy 49 N","5/9/2021","ND",47.283762,-101.785118
+"3","Bismarck","SHELL","91","Country West Mvp","701-255-1216","2205 Tyler Pkwy","4/18/2017","ND",46.8309011622537,-100.81775561191
+"4","Bismarck","HOLIDAY","","Holiday #420","701-255-3622","3600 State St","7/24/2019","ND",46.8430810455574,-100.773012874553
+"5","Bismarck","CLARK","87","I-94 Clark","701-530-9300","3921 Trenton Dr.","9/11/2020","ND",46.8338169591395,-100.728803101146
+"6","Bismarck","SHELL","91","Lander's Shell","701-255-2744","2210 N. 12th St","8/29/2013","ND",46.8288890571628,-100.773517240055
+"7","Bismarck","EXXON","87 91","Red Carpet North","701-223-0609","2921 N 11th St","6/28/2017","ND",46.8383769508437,-100.775365291468
+"8","Bismarck","UNBRANDED","87","Red Carpet South","701-224-8483","919 S Washington St","5/13/2014","ND",46.7960538265306,-100.794717877551
+"9","Bismarck","UNBRANDED","91","Simonson #3","701-222-1831","1309 E Interstate Ave","4/25/2015","ND",46.834421,-100.77255225
+"10","Bismarck","SIMONSON","91","Simonson Station Store","701-223-7890","1011 E Main Ave","4/25/2015","ND",46.8052472222222,-100.776909888889
+"11","Bismarck","CENEX","87","Tri-Energy Cooperative","701-255-3810","2520 Centennial Rd","6/24/2018","ND",46.8339686555383,-100.730348024818
+"12","Bismarck","CENEX","87","Tri-Energy Cooperative","701-258-0266","1160 W Divide Ave","6/24/2018","ND",46.8245041329391,-100.810434776391
+"13","Bismarck","CENEX","87","Tri-Energy Cooperative","701-223-8707","2006 E Broadway","6/24/2018","ND",46.8062811428571,-100.761559816327
+"14","Bismarck","UNBRANDED","91","Unistop","701-250-9289","2901 N 19th St","10/3/2013","ND",46.839104,-100.762337
+"15","Bismarck","UNBRANDED","91","Unistop","701-255-2251","1120 Tacoma Ave","8/9/2018","ND",46.7833589,-100.7746944
+"16","Bottineau","CENEX","91","Cenex Bottineau","701-228-2900","207 W 11th St","7/26/2016","ND",48.8206211836735,-100.447783959184
+"17","Bottineau","TESORO","91","Muom Tesoro","701-228-3077","222 11th St W","12/21/2016","ND",48.8207866734694,-100.447972183673
+"18","Bowman","CENEX","91","Propoint Cooperative","701-523-3268","13 1st Ave Nw","3/12/2020","ND",46.183091,-103.39637
+"19","Cando","UNBRANDED","87","Vining Oil & Gas","701-968-4300","937 1st Ave","12/25/2013","ND",48.490382,-99.209657
+"20","Carrington","CENEX","91","Arrowwood Prairie C Store","701-652-3949","77 4th Ave S","4/25/2015","ND",47.4428261,-99.1173679
+"21","Cavalier","UNBRANDED","87","Bjornsons","701-265-8814","201 Division St N","1/26/2017","ND",48.795056,-97.62243
+"22","Coleharbor","UNBRANDED","89 91","Totten Trail","701-337-2070","1412a Us Hwy 83","6/8/2016","ND",47.538151,-101.216864
+"23","Devils Lake","SHELL","87 91","Bjornsons Travel","701-662-6600","602 Us Hwy 2 E","11/12/2016","ND",NA,NA
+"24","Devils Lake","CENEX","91","Farmers Union Oil","701-662-4014","1803 Us-2","1/16/2020","ND",48.0991306010141,-98.8382255507062
+"25","Devils Lake","CENEX","91","Farmers Union Oil","701-662-3555","600 Us-2","1/16/2020","ND",48.14192,-98.924141
+"26","Devils Lake","SINCLAIR","87 89 91","Gas Depot","701-662-2700","130 Us Hwy 2 W","3/27/2021","ND",NA,NA
+"27","Devils Lake","HOLIDAY","91","Holiday Stationstore #189","701-662-5512","137 Us Hwy 2","9/28/2016","ND",NA,NA
+"28","Devils Lake","SINCLAIR","87 89 91","Schwan Oil Co","701-662-4219","803 College Dr N","12/25/2013","ND",48.10807,-98.86519
+"29","Dickinson","HOLIDAY","91","Holiday Stationstore #225","701-225-6617","231 Museum Dr","10/13/2015","ND",46.8943033543489,-102.782490630762
+"30","Dickinson","MOBIL","87 91","Hub C Store","701-483-3835","191 40th St W","4/5/2015","ND",NA,NA
+"31","Dickinson","MOBIL","91","Mobil","701-225-4700","450 E Villard St","12/1/2015","ND",46.8781416326531,-102.778806836735
+"32","Dickinson","SIMONSON","91","Simonson's","701-227-4471","317 E Villard St","4/5/2015","ND",46.8784513333333,-102.780915666667
+"33","Dickinson","SIMONSON","91","Simonson's North","701-225-8137","285 14th St W","4/5/2015","ND",46.8982883736737,-102.801501481549
+"34","Dickinson","CONOCO","91","T-Rex Conoco","701-483-9999","1107 3rd Ave W","7/30/2017","ND",46.8801218,-102.7898749
+"35","Dickinson","CENEX","91","Tri-Energy Cooperative","701-483-7017","252 W Museum Dr","6/5/2021","ND",46.8944654352707,-102.783712781716
+"36","Dickinson","CENEX","87","Tri-Energy Cooperative","701-483-0330","635 W Villard St","6/24/2018","ND",46.878979,-102.795196
+"37","Edgeley","UNBRANDED","91","Allied Energy","701-493-2266","109 Industrial Park","6/16/2020","ND",NA,NA
+"38","Edinburg","UNBRANDED","91","Farmers Union Oil","701-993-8512","350 Nd Highway 32","6/20/2020","ND",48.500062,-97.862108
+"39","Enderlin","UNBRANDED","91","City View Fuel","701-437-3835","13635 54th St. Se","6/16/2020","ND",NA,NA
+"40","Fargo","EXXON","91","All Stop West Acres","701-232-4493","3441 13th Ave S","8/31/2019","ND",46.8617638282828,-96.836678949495
+"41","Fargo","SHELL","87 91","Bjornson","701-232-5422","734 University Dr N","11/11/2019","ND",46.8837024761905,-96.798317
+"42","Fargo","UNBRANDED","91","Casey's","","2501 23rd Ave S","4/18/2021","ND",46.844317,-96.821451
+"43","Fargo","CASEY'S","91","Casey's General Store","701-235-0550","1901 University Dr N","3/10/2018","ND",46.8509832888889,-96.7987798666667
+"44","Fargo","CASEY'S","91","Casey's General Store","701-232-0963","3545 25th St S","7/8/2016","ND",46.8561724,-96.8195634
+"45","Fargo","UNBRANDED","87","Don's Carwash","701-478-3667","2500 52nd Ave S","1/9/2016","ND",46.8041258,-96.8442291
+"46","Fargo","CENEX","91","Gateway Service","701-293-6460","330 Main Ave","10/22/2014","ND",46.8739734927536,-96.7833614057971
+"47","Fargo","HOLIDAY","91","Holiday Stationstore #399","701-492-0240","1902 45th St S","9/28/2016","ND",46.9068031666667,-96.8615113846154
+"48","Fargo","HOLIDAY","91","Holiday Stationstores #454","701-239-9200","1020 19th Ave N","9/28/2016","ND",46.9047101836735,-96.793769244898
+"49","Fargo","HOLIDAY","91","Holiday Stationstores #96","701-235-7676","3040 25th St S","9/5/2016","ND",46.8428022575357,-96.8276458427439
+"50","Fargo","FLEET FARM","91","Mills Fleet Farm","701-298-7700","3730 36th St S","9/11/2020","ND",46.864263,-96.840656
+"51","Fargo","TESORO","87 91","Nichelson Oil","701-232-9215","1902 7th Ave N","3/10/2016","ND",46.8832088,-96.8160012
+"52","Fargo","TESORO","91","Petro Serve #84","701-293-2090","2110 University Dr S","1/14/2020","ND",46.8462680306122,-96.7989353673469
+"53","Fargo","SIMONSON","91","Simonson","701-280-3116","3810 W Main Ave","10/24/2015","ND",NA,NA
+"54","Fargo","PETRO SERVE","87","Stamart","701-237-0743","1340 34th St S","11/20/2018","ND",46.856949,-96.836128
+"55","Fargo","TESORO","89","Stamart Truck Stop","701-298-3500","3500 12th Ave N","3/2/2015","ND",46.88941275,-96.8359395432427
+"56","Grand Forks","CENEX","91","Demers Interstate Cenex","701-772-6702","4315 Demers Ave","12/20/2015","ND",47.917855,-97.0906471741884
+"57","Grand Forks","CENEX","87 91","Dusterhoft Family Store","701-746-0608","1970 32nd Ave S","6/25/2020","ND",47.889524,-97.0861693
+"58","Grand Forks","CENEX","87 91","Gateway Cenex","701-203-5139","3635 Gateway Dr","12/11/2013","ND",47.932372,-97.0829961501234
+"59","Grand Forks","UNBRANDED","100","Grand Forks Airport","701-772-5504","2583 Airport Dr","9/9/2018","ND",47.946122,-97.174764
+"60","Grand Forks","HOLIDAY","91","Holiday Stationstore","","3450 32nd Ave S","1/16/2020","ND",47.889524,-97.0861693
+"61","Grand Forks","HOLIDAY","91","Holiday Stationstore #448","701-772-1334","4005 S Washington St","9/28/2016","ND",47.9160701,-97.044989
+"62","Grand Forks","SIMONSON","91","Simonson Station Store","701-795-2512","1402 S Washington St","12/26/2013","ND",47.9160701,-97.044989
+"63","Grand Forks","SIMONSON","91","Simonson Station Store","701-746-5801","310 Gateway Dr","12/25/2013","ND",47.9331972857143,-97.0453243469388
+"64","Grand Forks","SIMONSON","91","Simonson Station Store","701-772-3971","4720 Gateway Dr","12/25/2013","ND",47.9330662,-97.0437987
+"65","Grand Forks","CASEY'S","87 91 110","University Station","701-738-8380","1300 R Engelstad Arena Dr","3/3/2021","ND",47.932838,-97.070556
+"66","Grand Forks","VALLEY DAIRY","87","Valley Dairy","701-757-4080","2452 S Columbia Rd","12/25/2013","ND",47.8960738888889,-97.0667369393939
+"67","Grand Forks","VALLEY DAIRY","87","Valley Dairy","701-746-8371","1149 36th Ave S # C","12/11/2013","ND",47.885771,-97.0432991355932
+"68","Grand Forks","VALLEY DAIRY","91","Valley Dairy","701-746-8859","1220 University Ave","3/3/2021","ND",47.922254,-97.053777
+"69","Halliday","UNBRANDED","91","Farmers Union Oil Company","701-938-4716","211 Main St E","5/9/2021","ND",NA,NA
+"70","Harvey","CENEX","91","One Stop","701-324-2788","120 10th St E","5/7/2017","ND",47.768178,-99.93499
+"71","Hazelton","UNBRANDED","91","Dakota Frontier Cooperative","701-782-6224","602 Nd-34","6/16/2020","ND",46.487653,-100.287729918367
+"72","Hazelton","AMOCO","91","Stramer's Automotive Services","701-782-4215","240 Main St.","6/16/2020","ND",NA,NA
+"73","Hazen","CENEX","91","Farmers Union Oil","701-748-2511","700 4th Ave Ne","5/1/2015","ND",47.300075,-101.617458
+"74","Hazen","TESORO","87 91","Hiway Express","701-748-2950","709 3rd Ave Nw","5/3/2015","ND",47.3003997,-101.6282078
+"75","Hebron","UNBRANDED","87","Zuraff Repair","701-878-4175","501 Main St","6/24/2018","ND",46.900561,-102.048041
+"76","Hettinger","KUM & GO","91","Kum & Go #2811","701-567-2711","306 Adams Ave","9/14/2016","ND",46.001094647651,-102.638056325503
+"77","Hillsboro","TESORO","92","Stop-N-Go","701-636-5283","520 W Caledonia Ave","12/25/2013","ND",47.402745,-97.069825
+"78","Jamestown","TESORO","91","Eckman's Service","701-252-6341","420 10th St Se","10/13/2013","ND",46.898955,-98.702281
+"79","Jamestown","EXXON","87 91","Exxon","701-252-3363","808 20th St Sw","5/12/2020","ND",46.888332,-98.72031
+"80","Jamestown","M&H","91","M&H","701-252-7884","325 1st Ave S","9/6/2018","ND",46.9055253061224,-98.7082523061224
+"81","Jamestown","SHELL","87","Shell","701-252-4732","2315 Highway 281 S","12/27/2018","ND",46.88378275,-98.7169624423077
+"82","Kenmare","CENEX","91","Farmers Union Oil","701-385-4277","43800 Us Hwy 52","9/24/2015","ND",48.6932623487135,-102.08238550569
+"83","Kulm","UNBRANDED","91","Farmers Union Oil Co - Napa Auto Parts","701-647-2306","7 Main Ave","6/16/2020","ND",46.3017105714286,-98.9491143061224
+"84","Lamoure","UNBRANDED","91","Good Oil Company","701-883-5232","10217 Highway 13","6/16/2020","ND",NA,NA
+"85","Lawton","UNBRANDED","87","Lawton Farmers Union Oil","701-655-3514","6139 Hwy 1","8/18/2018","ND",NA,NA
+"86","Lincoln","CENEX","87 91","Tri-Energy Cooperative","701-258-1212","5200 Lincoln Rd","6/24/2018","ND",46.765711,-100.70827
+"87","Mandan","UNBRANDED","91","M&H Gas Station","701-663-1114","322 E Main St","10/18/2018","ND",46.8269847959184,-100.886257510204
+"88","Mandan","PETRO SERVE","91","Petro Serve Usa","701-663-6985","1300 E Main St","12/26/2017","ND",46.8270527,-100.8852057
+"89","Mandan","CENEX","91","Tri-Energy Cooperative","701-223-8707","4426 Memorial Hwy","6/24/2018","ND",46.8100698849408,-100.833989028176
+"90","Mandan","CENEX","87","Tri-Energy Cooperative","701-663-6401","810 E Main St","6/24/2018","ND",46.8278246092543,-100.878971517388
+"91","Max","CENEX","91","Max Farm Services","701-679-2487","101 3rd Ave","5/3/2015","ND",47.820843,-101.294823
+"92","Maxbass","CENEX","91","Enerbase Coop Resources","701-852-2501","1998 Cnty Rd 20 Nw","1/11/2018","ND",NA,NA
+"93","Mayville","TESORO","87 91","Mayville Tesoro","701-786-4078","217 Se 3rd St","11/6/2014","ND",47.503625877551,-97.3246231836735
+"94","Milnor","TESORO","91","Arco","701-427-5276","14104 Nd-13","6/16/2020","ND",46.253019,-97.446119
+"95","Minot","FLYING J","91","Behm's Truck Stop","701-839-5061","3800 Us Hwy 2","5/8/2016","ND",NA,NA
+"96","Minot","CENEX","91","Cenex C-Store","701-852-6193","1000 N Broadway","6/21/2015","ND",48.242193,-101.295919
+"97","Minot","UNBRANDED","87","Dakota Square Tesoro","701-852-5781","1520 24th Ave Sw","6/24/2018","ND",48.2082402,-101.317117596324
+"98","Minot","CENEX","91","Enerbase","701-852-2501","215 E Central Ave","6/2/2015","ND",NA,NA
+"99","Minot","M&H","91","M & H","701-852-2924","25 Burdick Expy","3/23/2015","ND",48.2325520377474,-101.293305420797
+"100","Minot","CENEX","91","Minot Travel Plaza","701-839-7520","4750 N Broadway","6/24/2015","ND",48.265642,-101.295969
+"101","Minot","UNBRANDED","91","Racers","701-852-8400","1500 37th Ave Sw","5/1/2015","ND",48.1966685074047,-101.316335150538
+"102","Minot","SIMONSON","91","Simonson Station Stores","701-852-9506","1310 S Broadway","5/5/2014","ND",48.2464273333333,-101.295920666667
+"103","Minot","SINCLAIR","91","Sinclair","701-852-5717","3010 S. Broadway","3/7/2015","ND",48.2691479161984,-101.296094223264
+"104","Minto","UNBRANDED","91","Northdale Oil","701-248-3321","422 Second St","8/7/2019","ND",NA,NA
+"105","Mohall","TESORO","91","Tesoro Mohall","701-756-7294","603 E Main St","11/11/2016","ND",NA,NA
+"106","Napoleon","UNBRANDED","87","Dakota Frontier Cooperative","701-754-2252","94 Broadway","6/16/2020","ND",46.506667,-99.769025
+"107","New Salem","MOBIL","87 91","Rud's I-94 Mobile","701-843-7508","1310 N 8th St","9/7/2020","ND",46.8598723877551,-101.417816510204
+"108","Northwood","CENEX","87","Northwood Oil Coop","701-587-5410","401 Hwy 15 W","6/23/2016","ND",NA,NA
+"109","Oakes","CENEX","91","Cenex","701-742-2419","617 Main Ave","6/16/2020","ND",46.1388653,-98.089019
+"110","Pembina","UNBRANDED","91","Gastrak","701-825-6275","700 W Stutsman St","2/20/2014","ND",48.970282,-97.254375
+"111","Pettibone","FARM STORE","91","Farmers Union","701-273-6615","105 1 Ave Easr","11/18/2018","ND",NA,NA
+"112","Pick City","SPIRIT","87 91","Scott's Bait & Tackle","701-487-3343","71 E Main St","11/27/2015","ND",NA,NA
+"113","Rugby","CENEX","","Cenex Main Station","701-776-5221","105 4th Ave Sw","2/21/2017","ND",48.3713619591837,-100.000826714286
+"114","Rugby","TESORO","","Hi-Way Mvp Store","701-776-5346","209 Us Hwy 2","2/23/2017","ND",NA,NA
+"115","Stanley","SINCLAIR","87 91","Meier's Corner Stop","701-421-1373","6165 Hwy 8","6/5/2017","ND",NA,NA
+"116","Stanley","CENEX","91","Pinnacle Travel Plaza","701-628-2921","8149 Highway 2","5/8/2019","ND",NA,NA
+"117","Sterling","CENEX","87 91","Tri-Energy Cooperative","701-387-4651","31346 27th Ave Ne","6/16/2020","ND",NA,NA
+"118","Thompson","UNBRANDED","87","Northdale Oil","701-554-2469","1247 Seventh Ave Ne","8/7/2019","ND",NA,NA
+"119","Tioga","CENEX","91","Pinnacle Travel Plaza","701-664-4020","6714 Highway 40 South","5/8/2019","ND",NA,NA
+"120","Verona","UNBRANDED","91","Good Oil Company","701-432-5541","204 1st Street","6/16/2020","ND",46.362818,-98.072651
+"121","Wahpeton","UNBRANDED","91","Econo Express","701-642-4421","387 11th St S.","10/8/2014","ND",46.2662830408163,-96.6157750408163
+"122","Wahpeton","SIMONSON","91","Simonson Station Store","701-642-1556","124 Dakota Ave","4/16/2014","ND",46.2639767142857,-96.601343244898
+"123","Watford City","CENEX","91","Farmers Union Oil Co","701-444-3639","501 6th Ave Ne","9/13/2017","ND",47.80667,-103.261679
+"124","Watford City","KUM & GO","91","Kum & Go 0804","701-842-4119","124 Main St S","9/13/2017","ND",47.797759,-103.283132
+"125","West Fargo","EXXON","87 91","All-Stop","701-277-0403","950 13th Ave E","6/6/2015","ND",46.8619299015039,-96.8811071513052
+"126","West Fargo","PETRO SERVE","91","Dan's Service Center","701-282-7800","413 Main Ave W","12/26/2013","ND",46.8766743,-96.8841349
+"127","West Fargo","HOLIDAY","91","Holiday Stationstore #414","701-492-6268","1210 13th Ave E","9/28/2016","ND",46.8618926308725,-96.8787862080537
+"128","West Fargo","ARCO","89 91","Rj's","701-282-0696","2125 Sheyenne St","5/30/2019","ND",46.849015,-96.907978
+"129","West Fargo","CENEX","87 91","West Fargo Truck Stop","701-371-1937","1021 W Main Ave","8/5/2016","ND",NA,NA
+"130","Westhope","CENEX","91","Farmers Union Oil","701-245-6433","25 E Railway Ave","6/29/2015","ND",48.9084683713249,-101.020666488127
+"131","Williston","SINCLAIR","","2nd Ave Sinclair","701-572-5572","1720 2nd Ave W","8/16/2015","ND",48.1608027755102,-103.625627
+"132","Williston","HOLIDAY","91","Holiday Stationstore #446","701-774-2682","113 58th St W","9/28/2016","ND",48.1976075454545,-103.623848090909
+"133","Williston","TESORO","91","Scenic Sports & Liquor","701-852-1194","1201 E Broadway","6/29/2015","ND",48.147118,-103.603175
+"134","Williston","SIMONSON","91","Simonson","701-572-1880","1409 2nd Ave W","6/20/2014","ND",48.1582901428571,-103.625879918367
+"135","Wishek","SINCLAIR","87","Curt's Service","701-452-2361","619 Beaver Ave","9/23/2020","ND",46.25914672,-99.55729008
+"136","Wishek","UNBRANDED","87","Dakota Frontier Cooperative","701-452-2378","117 Beaver Ave","6/16/2020","ND",46.2591570659985,-99.5648341690914
+"137","Wyndmere","TESORO","87 91","Anderson Service","701-439-2261","704 7th St","6/16/2020","ND",46.261737,-97.135067
+"138","Wyndmere","CENEX","87","Dakota Plains Co Op","701-439-2263","99 Gilead Ave","9/3/2016","ND",46.260523,-97.130709

@@ -16,8 +16,6 @@ tags: [MSRA]
 
 # Ethanol-free petrol map 
 
-Data taken from [pure-gas.org](https://www.pure-gas.org/) last updated `r date()`. Latitude and longitude estimated from `tidygeocoder`:
-
 ```{r, echo=FALSE, warning=FALSE, include=FALSE}
 library(leaflet)
 oct <- read.csv("octane.csv")
@@ -73,8 +71,9 @@ minny <- read.csv("minny.csv")
 iowa <- read.csv("iowa.csv")
 sd <- read.csv("sd.csv")
 wisc <- read.csv("wisc.csv")
+nd <- read.csv("nd.csv")
 
-states <- rbind(minny, iowa, sd, wisc)
+states <- rbind(minny, iowa, sd, wisc, nd)
 
 
 library(stringr)
@@ -86,6 +85,15 @@ pal <- colorNumeric(
   domain = states$max
 )
 
+missing <- states[ which(is.na(states$lat) & is.na(states$long)), ]
+missing <- missing[,2:9]
+
+```
+
+The map below contains information from `r nrow(states)` stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from [pure-gas.org](https://www.pure-gas.org/), but also relies on latitude and longitude *estimates* generated from physical addresses via the `R` package `tidygeocoder`. The "visual dots" should therefore only be used as general vicinity indicators. The physical addresses, however, should be considered to be accurate as per [pure-gas.org](https://www.pure-gas.org/):
+
+```{r map, echo=FALSE, warning=FALSE}
+
 puregas <- leaflet() %>% 
   addProviderTiles("CartoDB.Positron") %>% 
   setView(-93.11389168, 45.08506268	,
@@ -96,12 +104,10 @@ puregas <- leaflet() %>%
 
 widgetframe::frameWidget(puregas) ## trying for online
 
-missing <- states[ which(is.na(states$lat) & is.na(states$long)), ]
-missing <- missing[,2:9]
-
 ```
 
-The above map contains information from `r nrow(states)` stations in MN, WI, SD, and IA. `tidygeocoder` was unable to generation longitude and latitude estimates from an additional `r nrow(missing)` stations within the [pure-gas.org](https://www.pure-gas.org/) databases. These `r nrow(missing)` "missing" stations are located in the following table:
+
+`tidygeocoder` was unable to generation longitude and latitude estimates from an additional `r nrow(missing)` stations within the [pure-gas.org](https://www.pure-gas.org/) databases. These `r nrow(missing)` "missing" stations are presented in the following searchable table:
 
 ```{r missingstations, warning=FALSE, echo=FALSE}
 
