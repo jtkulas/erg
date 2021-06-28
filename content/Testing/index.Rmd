@@ -106,8 +106,39 @@ widgetframe::frameWidget(puregas) ## trying for online
 
 ```
 
+## Alt format:
 
-`tidygeocoder` was unable to generation longitude and latitude estimates from an additional `r nrow(missing)` stations within the [pure-gas.org](https://www.pure-gas.org/) databases. These `r nrow(missing)` "missing" stations are presented in the following searchable table:
+```{r map2, echo=FALSE, warning=FALSE}
+
+states$octane[states$max < 91] <- "Less than 91"
+states$octane[states$max == 91] <- "91"
+states$octane[states$max > 91 & states$max < 100] <- "91 - 99"
+states$octane[states$max > 100] <- "Greater than 100"
+
+states$octane <- factor(states$octane, levels = c("less than 91", "91", "91 - 99", "Greater than 100"))
+
+states$mapping <- as.numeric(as.character(str_sub(states$Octane, start= -1)))
+
+pal2 <- colorFactor(
+  palette = c("#FF0000", "#FFFF00", "#FF9933", "#FF00CC"),
+  domain = states$octane
+)
+
+## create leaflet map
+altmap <- leaflet() %>% 
+  addProviderTiles("CartoDB.Positron") %>% 
+  setView(-93.11389168, 45.08506268	,
+          zoom = 6) %>%
+  addTiles() %>%
+  addCircles(data=states, lng = ~long, lat = ~lat, weight = 1,
+             radius = ~max*10, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone, "<br>", "Max Octane:", max), fillColor=~pal2(octane)) %>%
+  addLegend("bottomright", data=states, pal = pal2, values = ~octane, opacity = 1)
+
+widgetframe::frameWidget(altmap)
+
+```
+
+`tidygeocoder` was unable to generate longitude and latitude estimates from an additional `r nrow(missing)` stations within the [pure-gas.org](https://www.pure-gas.org/) databases. These `r nrow(missing)` "missing" stations are presented in the following searchable table:
 
 ```{r missingstations, warning=FALSE, echo=FALSE}
 
