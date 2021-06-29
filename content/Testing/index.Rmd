@@ -74,7 +74,15 @@ sd <- read.csv("sd.csv")
 wisc <- read.csv("wisc.csv")
 nd <- read.csv("nd.csv")
 
-states <- rbind(minny, iowa, sd, wisc, nd)
+miss <- read.csv("missing_geocodio.csv")  ## taken from geocodio
+use <- miss[,c(1:11)]
+colnames(use)[10] <- "lat"
+colnames(use)[11] <- "long"
+
+use$lat[use$lat == 0] <- NA
+use$long[use$long == 0] <- NA
+
+states <- rbind(minny, iowa, sd, wisc, nd, use)
 
 
 library(stringr)
@@ -83,9 +91,11 @@ states$max <- as.numeric(str_sub(states$Octane, start= -3))
 missing <- states[ which(is.na(states$lat) & is.na(states$long)), ]
 missing <- missing[,2:9]
 
+# write.csv(missing, "missing.csv")  ## for 3rd party lat and long estimates
+
 ```
 
-The map below contains information from `r nrow(states)` stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from [pure-gas.org](https://www.pure-gas.org/), but also relies on latitude and longitude *estimates* generated from physical addresses via the `r icons::fontawesome("r-project")` [@R-base] package `tidygeocoder` [@R-tidygeocoder] version `r packageVersion("tidygeocoder")`. The "visual dots" should therefore only be used as general vicinity indicators. The physical addresses, however, should be considered to be accurate as per [pure-gas.org](https://www.pure-gas.org/):
+The map below contains information from `r nrow(states)` stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from [pure-gas.org](https://www.pure-gas.org/), but also relies on latitude and longitude *estimates* generated from physical addresses via the `r icons::fontawesome("r-project")` [@R-base] package `tidygeocoder` [@R-tidygeocoder] version `r packageVersion("tidygeocoder")` as well as [geocodio](https://www.geocod.io/). The "visual dots" are only to be referenced as general vicinity indicators. The physical addresses, however, should be considered to be accurate as per [pure-gas.org](https://www.pure-gas.org/):
 
 ```{r map, echo=FALSE, warning=FALSE, include=FALSE}
 
@@ -138,12 +148,12 @@ widgetframe::frameWidget(altmap)
 
 ```
 
-You may know of a station that is not represented on the visual map. That may be because `tidygeocoder` was unable to generate latitude and longitude estimates from an additional `r nrow(missing)` stations within the [pure-gas.org](https://www.pure-gas.org/) databases. These `r nrow(missing)` "missing" stations are presented in the following searchable table and should be considered additional possibilities in your pursuit of go-go juice:
+The entire database of non-ethanol offering stations is also searchable via the following table:
 
 ```{r missingstations, warning=FALSE, echo=FALSE}
 
 library(DT)
-widgetframe::frameWidget(datatable(missing[c(4,6,1,8,3,5)], rownames=FALSE, options = list(pageLength = 5)))  
+widgetframe::frameWidget(datatable(states[c(5,7,2,9,4,6)], rownames=FALSE, options = list(pageLength = 5)))  
 
 ```
 

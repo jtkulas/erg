@@ -1,0 +1,400 @@
+,City,Brand,Octane,Name,Phone,Street.Address,Last.Updated,State,Latitude,Longitude,Accuracy Score,Accuracy Type,Number,Street,Unit Type,Unit Number,City,State,County,Zip,Country,Source
+13,Albert Lea,UNBRANDED,91,Trail's Travel Center,507-373-4200,820 Happy Trails Ln,6/21/2021,MN,43.656467,-93.317158,1,rooftop,820,Happy Trails Ln,,,Albert Lea,MN,Freeborn County,56007,US,Freeborn
+24,Altura,UNBRANDED,91,Neumann Oil,507-796-6700,25 S Main,9/3/2014,MN,44.072245,-91.94,0.8,rooftop,25,Main St N,,,Altura,MN,Winona County,55910,US,Winona County G
+32,Anoka,SUPER AMERICA,91,Superamerica #4801,763-421-6590,750 W Main,6/4/2021,MN,45.207908,-93.407516,1,rooftop,750,W Main St,,,Anoka,MN,Anoka County,55303,US,Anoka
+48,Bagley,UNBRANDED,91,Harwood Oil,218-694-6250,121 Central St E,2/2/2014,MN,47.522075,-95.39585,1,rooftop,121,Central St E,,,Bagley,MN,Clearwater County,56621,US,Clearwater
+51,Barnum,LITTLE STORE,91,The Little Store,218-389-6574,3694 County Rd 6,2/3/2014,MN,46.503704,-92.681208,1,range_interpolation,3694,County Rd 6,,,Barnum,MN,Carlton County,55707,US,TIGER/Line® dataset from the US Census Bureau
+55,Baudette,CO-OP,91,Log Cabin Bait & Tackle,218-634-1339,3263 Fishery Rd Nw,7/16/2015,MN,48.832906,-94.709545,1,rooftop,3263,Fishery Rd NW,,,Baudette,MN,Lake of The Woods County,56623,US,Lake of The Woods
+61,Beaver Bay,MOBIL,91,Beaver Bay Mobil Mart,218-226-3550,1022 Main St,2/3/2014,MN,47.257637,-91.3022,1,rooftop,1022,Main St,,,Beaver Bay,MN,Lake County,55601,US,Lake
+67,Bemidji,SHELL,91,Pete's Place West,218-751-1218,7189 Pete Lane N W,11/17/2013,MN,47.513678,-94.981344,0.9,rooftop,7189,Pete Ln NW,,,Bemidji,MN,Beltrami County,56601,US,Beltrami
+78,Blaine,KWIK TRIP,91,Kwik Trip,763-717-2807,8502 Hw 65 (Central Ave Ne),12/8/2018,MN,0,0,0,,,,,,,,,,,
+79,Blaine,KWIK TRIP,91,Kwik Trip,763-780-1983,3405 Lake Dr N E,9/25/2014,MN,0,0,0,,,,,,,,,,,
+87,Bock,UNBRANDED,91,Newgard's Bock Garage,320-556-3315,6717 Hwy 23,2/3/2014,MN,45.786675,-93.552759,1,rooftop,6717,Hwy 23,,,Bock,MN,Mille Lacs County,56313,US,Mille Lacs
+88,Bovey,UNBRANDED,91,Balsam Store,218-245-2285,41050 Scenic Hwy,12/15/2017,MN,47.472788,-93.36449,1,rooftop,41050,Scenic Hwy,,,Bovey,MN,Itasca County,55709,US,Itasca
+89,Brainerd,HOLIDAY,91,Holiday Stationstore,218-828-0076,1500 Mill Ave,7/15/2016,MN,46.374592,-94.1783,1,rooftop,1500,Mill Ave,,,Brainerd,MN,Crow Wing County,56401,US,Crow Wing
+91,Brainerd,UNBRANDED,91,Petro Plus,218-454-0223,850 Lumpark Dr,11/18/2015,MN,46.367562,-94.169235,0.9,rooftop,850,Lum Park Rd,,,Brainerd,MN,Crow Wing County,56401,US,Crow Wing
+94,Brainerd,UNBRANDED,91,Wild Rice Depot,218-829-5847,9360 Wild Rice Rd,11/18/2015,MN,46.294006,-94.264974,1,rooftop,9360,Wild Rice Rd,,,Brainerd,MN,Crow Wing County,56401,US,Crow Wing
+95,Brandon,UNBRANDED,91,Berinie's Gas & Oil,320-876-2153,16751 C. R. 7,4/11/2021,MN,46.06618,-95.562137,0.78,range_interpolation,16751,County Rd 7 NW,,,Brandon,MN,Douglas County,56315,US,TIGER/Line® dataset from the US Census Bureau
+99,Brimson,UNBRANDED,91,Hugo's Bar,218-848-2220,1898 Hwy 44,7/16/2015,MN,47.256246,-91.844513,1,rooftop,1898,Hwy 44,,,Brimson,MN,St. Louis County,55602,US,St Louis
+108,Bruno,UNBRANDED,91,Bruno Deep Rock,320-838-3434,75711 Hwy 23,2/3/2014,MN,46.023444,-92.925988,0.6,street_center,,I-35,,,Hinckley,MN,Pine County,55037,US,TIGER/Line® dataset from the US Census Bureau
+112,Burnsville,BP,91,Burnsville Auto Repair,952-890-7406,12001 Cnty Rd 11,8/17/2019,MN,44.786394,-93.247526,1,rooftop,12001,County Rd 11,,,Burnsville,MN,Dakota County,55337,US,Dakota
+117,Cambridge,CONOCO,91,Ec's Corner Express,763-689-4762,34160 Hwy 47,9/17/2017,MN,45.587722,-93.390118,1,rooftop,34160,Highway 47 NW,,,Cambridge,MN,Isanti County,55008,US,Isanti County G
+123,Cannon Falls,SPEEDWAY,91,Super America,612-567-1696,14610 240th St E,12/28/2015,MN,44.600303,-92.81071,0.9,rooftop,14610,240th St E,,,Hastings,MN,Dakota County,55033,US,Dakota
+125,Carver,UNBRANDED,91,Mills Fleet Farm,952-361-0986,1935 Levi Griffin Rd,5/11/2014,MN,44.779594,-93.651462,1,rooftop,1935,Levi Griffin,,,Carver,MN,Carver County,55315,US,Carver
+141,Circle Pines,UNBRANDED,91,Olson's Market,763-784-2242,10102 Sunset Ave,5/19/2020,MN,45.153428,-93.143307,1,rooftop,10102,Sunset Ave,,,Circle Pines,MN,Anoka County,55014,US,Anoka
+142,Clara City,CENEX,91,Cenex,320-847-2318,200 Hwy 7,11/15/2014,MN,44.949594,-95.365322,1,rooftop,200,Hwy 7,,,Clara City,MN,Chippewa County,56222,US,Chippewa
+143,Clara City,BP,91,Donners Crossroads Truckstop,320-847-3200,450 Hwy 7 Se,7/5/2013,MN,44.948033,-95.37275,1,rooftop,450,Hwy 7,,,Clara City,MN,Chippewa County,56222,US,Chippewa
+146,Clear Lake,BP,91,Clear Lake Bp,320-743-4638,7988 Front St,2/3/2014,MN,45.447622,-93.995715,1,rooftop,7988,Front St,,,Clear Lake,MN,Sherburne County,55319,US,Sherburne
+147,Clearwater,HOLIDAY,91,Holiday #3510,320-558-2261,950 Hwy 24,10/29/2015,MN,45.412087,-94.053361,1,rooftop,950,State Hwy 24,,,Clearwater,MN,Wright County,55320,US,Wright County G
+154,Cohasset,SUPER AMERICA,91,Super America,218-328-5189,15 W Us Hwy 2,10/2/2017,MN,47.263057,-93.618744,0.88,nearest_rooftop_match,5,E US Hwy 2,,,Cohasset,MN,Itasca County,55721,US,Itasca
+158,Cold Spring,SHELL,91,Kiess Bros Shell,320-685-4300,204 Sauk River Rd,1/1/2018,MN,45.457059,-94.418775,0.62,nearest_rooftop_match,113,Sauk River Rd,,,Cold Spring,MN,Stearns County,56320,US,Stearns
+159,Cologne,UNBRANDED,91 110,Mid-County Auto & Truck Repair,952-466-3710,710 West Lake Street,12/5/2019,MN,44.768262,-93.787041,0.33,place,,,,,Cologne,MN,Carver County,55322,US,TIGER/Line® dataset from the US Census Bureau
+160,Columbia Hgts,MOBIL,91,B & S Auto World,763-788-1113,3701 Central Ave,4/26/2015,MN,0,0,0,,,,,,,,,,,
+164,Corcoran,UNBRANDED,91,Storman's Food,763-498-8331,9350 Cnty Rd 19,10/2/2014,MN,0,0,0,,,,,,,,,,,
+167,Cotton,SUPER AMERICA,91,Super America,218-482-5599,7561 Comstock Lk Rd,6/30/2016,MN,47.1696,-92.475048,0.82,nearest_rooftop_match,7521,Comstock Lake Rd,,,Cotton,MN,St. Louis County,55724,US,St Louis
+173,Darwin,SHELL,91,Schmidty's,320-693-0019,801 Hwy 12,6/12/2016,MN,45.093874,-94.397386,0.63,nearest_rooftop_match,718,US Hwy 12 E,,,Darwin,MN,Meeker County,55324,US,Meeker County G
+174,Dassell,BP,91,Ron's B P,320-275-3149,150 Parker Ave W,2/3/2014,MN,45.081065,-94.307807,1,rooftop,150,Parker Ave W,,,Dassel,MN,Meeker County,55325,US,Meeker County G
+181,Detroit Lakes,UNBRANDED,91,Petro Plus #105,218-847-6633,1306 Us Hwy 10 E,7/18/2013,MN,46.799796,-95.808638,1,rooftop,1306,US Hwy 10 E,,,Detroit Lakes,MN,Becker County,56501,US,Becker
+182,Detroit Lakes,TESORO,91,Tesoro,218-846-2390,24997 County Hwy 6,12/1/2015,MN,46.796589,-95.87924,1,rooftop,24997,County Rd 6,,,Detroit Lakes,MN,Becker County,56501,US,Becker
+183,Dilworth,TESORO,91,Petro Serve Usa,218-287-2208,1707 Us Hwy 10 W,5/3/2016,MN,46.876606,-96.724464,0.9,range_interpolation,1707,US Hwy 10,,,Dilworth,MN,Clay County,56529,US,TIGER/Line® dataset from the US Census Bureau
+185,Duluth,UNBRANDED,91,Fredenberg Minno-Ette,218-721-4800,5109 Fish Lake Rd,2/3/2014,MN,46.974526,-92.217998,1,rooftop,5109,Fish Lake Rd,,,Duluth,MN,St. Louis County,55803,US,St Louis
+199,Duquette,UNBRANDED,91,Duquette General Store,218-496-5855,88235 Hwy 23,10/6/2015,MN,46.023444,-92.925988,0.6,street_center,,I-35,,,Hinckley,MN,Pine County,55037,US,TIGER/Line® dataset from the US Census Bureau
+200,Eagan,CASEY'S,,Casey's General Store,,So.Robert Trail And Diffley,9/10/2019,MN,44.802791,-93.167768,0.33,place,,,,,Eagan,MN,Dakota County,55122,US,TIGER/Line® dataset from the US Census Bureau
+216,Elk River,HOLIDAY,91,Holiday #90,763-241-8848,13445 Business Center Dr,10/27/2015,MN,45.30591,-93.609648,0.76,nearest_rooftop_match,13467,Business Center Dr NW,,,Elk River,MN,Sherburne County,55330,US,Sherburne
+222,Erskine,CENEX,91,Fuel & Things,218-687-5137,203 Hwy 2,12/10/2020,MN,47.66998,-96.010477,0.89,nearest_rooftop_match,207,US Hwy 2 W,,,Erskine,MN,Polk County,56535,US,Polk
+225,Eveleth,UNBRANDED,91,Ely Lake Short Stop,218-744-3588,7782 Ely Lake Dr,2/3/2014,MN,47.43453,-92.503373,1,rooftop,7782,Ely Lake Dr,,,Eveleth,MN,St. Louis County,55734,US,St Louis
+242,Finland,MOBIL,91,Finland Mobil,218-353-7791,6636 Hwy 1,6/20/2014,MN,47.410323,-91.245787,1,rooftop,6636,Hwy 1,,,Finland,MN,Lake County,55603,US,Lake
+243,Finlayson,UNBRANDED,91,Finlayson Deep Rock,320-233-6233,2217 Hwy 18,6/20/2014,MN,46.326697,-93.783177,0.6,street_center,,MN 18,,,Aitkin,MN,Aitkin County,56431,US,TIGER/Line® dataset from the US Census Bureau
+244,Finlayson,CLARK,91,Petry's,320-233-7466,2220 Hwy 18,7/18/2017,MN,46.326697,-93.783177,0.6,street_center,,MN 18,,,Aitkin,MN,Aitkin County,56431,US,TIGER/Line® dataset from the US Census Bureau
+248,Floodwood,CENEX,91,Larrys Service & Bait,218-476-2225,314 Hwy 2 W,9/3/2015,MN,46.927242,-92.91967,1,rooftop,314,Hwy 2 W,,,Floodwood,MN,St. Louis County,55736,US,St Louis
+249,Forest Lake,HOLIDAY,91,Holiday #294,651-464-6573,6571 N Lake Blvd,4/30/2018,MN,45.298092,-92.972493,1,rooftop,6571,Lake Blvd,,,Forest Lake,MN,Chisago County,55025,US,Chisago
+254,Garfield,CENEX,91,Cenex,320-834-2224,4451 Cnty Hwy 82,4/25/2016,MN,45.984672,-95.506622,0.33,place,,,,,Garfield,MN,Douglas County,56332,US,TIGER/Line® dataset from the US Census Bureau
+255,Garrison,HOLIDAY,91,Holiday Stationstore,320-692-4124,27390 Hwy 18,7/24/2017,MN,46.296873,-93.825327,1,rooftop,27390,State Hwy 18,,,Garrison,MN,Crow Wing County,56450,US,Crow Wing
+257,Gibbon,MOBIL,91,Jerry's Mobil,507-834-9720,621 Hwy 19,10/12/2015,MN,44.535934,-94.518051,1,range_interpolation,621,State Hwy 19,,,Gibbon,MN,Sibley County,55335,US,TIGER/Line® dataset from the US Census Bureau
+261,Goodland,UNBRANDED,91,Fred's Store,218-492-4477,19517 Cnty Rd 560,4/25/2016,MN,47.160899,-93.136024,1,range_interpolation,19517,County Rd 560,,,Goodland,MN,Itasca County,55742,US,TIGER/Line® dataset from the US Census Bureau
+265,Grand Portage,UNBRANDED,91,Ryden's Border Store,218-475-2330,9301 Ryden Rd,7/2/2013,MN,47.999338,-89.6032,1,range_interpolation,9301,Ryden Rd,,,Grand Portage,MN,Cook County,55605,US,TIGER/Line® dataset from the US Census Bureau
+273,Greenwood,ARCO,91,Greenwood Market,952-401-3431,21380 Hwy 7,1/1/2021,MN,44.902586,-93.550558,1,rooftop,21380,Highway 7,,,Excelsior,MN,Hennepin County,55331,US,Hennepin
+277,Hackensack,BP,,Swanson's Bait & Gas,218-675-6176,333 First St N,1/6/2015,MN,46.935499,-94.52064,1,rooftop,333,1st St N,,,Hackensack,MN,Cass County,56452,US,Cass
+299,Hillman,CENEX,91,Huschle's Service,320-277-3953,36897 Hwy 27,9/6/2015,MN,46.076639,-93.894641,1,rooftop,36897,Highway 27,,,Hillman,MN,Morrison County,56338,US,Morrison County G
+306,Hutchinson,CO-OP,91,Cenex,320-234-0407,1110 Hwy 7 W,3/22/2016,MN,44.893951,-94.344688,0.71,nearest_rooftop_match,1154,State Hwy 7 Hwy,,,Hutchinson,MN,McLeod County,55350,US,Mcleod
+311,International Falls,ORTON,91,Loon's Nest,218-216-5850,3552 Hwy 11,10/12/2015,MN,48.606265,-93.356375,1,rooftop,3552,Highway 11,,,International Falls,MN,Koochiching County,56649,US,Koochiching
+312,International Falls,CENEX,91,Rainy Lake 1 Stop,218-286-5700,3202 Hwy 11 E,10/13/2015,MN,48.609419,-93.317444,1,rooftop,3202,Highway 11 E,,,International Falls,MN,Koochiching County,56649,US,Koochiching
+319,Isanti,MOBIL,91,Isanti Mobil,763-444-9192,722 Co Rd 5 West,8/14/2015,MN,45.49305,-93.283842,1,range_interpolation,722,County Rd 5,,,Isanti,MN,Isanti County,55040,US,TIGER/Line® dataset from the US Census Bureau
+322,Ivanhoe,BP,91,Veire's Station & Mini Mart,507-694-1333,103 W Division St,8/20/2017,MN,44.460202,-96.248875,1,range_interpolation,103,W Division St,,,Ivanhoe,MN,Lincoln County,56142,US,TIGER/Line® dataset from the US Census Bureau
+340,Laporte,SINCLAIR,91,Howg's Gas & Service,218-224-2774,10 Central Ave S,5/9/2021,MN,47.214105,-94.752447,1,rooftop,10,Central Ave S,,,Laporte,MN,Hubbard County,56461,US,Hubbard
+349,Litchfield,HOLIDAY,91,Holiday #3534,320-693-7498,639 E Hwy 12,10/28/2015,MN,45.132988,-94.528311,1,range_interpolation,639,Us Hwy 12,,,Litchfield,MN,Meeker County,55355,US,TIGER/Line® dataset from the US Census Bureau
+355,Long Prairie,HOLIDAY,91,Holiday Stationstore,320-732-6721,14 S Lake St,2/5/2014,MN,45.904136,-94.815114,0.33,place,,,,,Long Prairie,MN,Todd County,56347,US,TIGER/Line® dataset from the US Census Bureau
+369,Maple Grove,UNBRANDED,102 110,Kisch Oil Co,763-428-2887,17470 113th Ave N,9/18/2019,MN,45.162293,-93.501651,1,rooftop,17470,113th Ave N,,,Maple Grove,MN,Hennepin County,55369,US,Hennepin
+376,Marcell,UNBRANDED,91,Frontier Sports,218-832-3901,48919 Hwy 38,12/15/2015,MN,47.586525,-93.683823,1,rooftop,48919,State Hwy 38,,,Marcell,MN,Itasca County,56657,US,Itasca
+377,Marine On St Croix,UNBRANDED,91,Big Marine Lake Store,651-433-5043,19261 Manning Trl N,7/17/2020,MN,45.228093,-92.885397,1,rooftop,19261,Manning Trl N,,,Marine On Saint Croix,MN,Washington County,55047,US,Washington
+379,Mayer,CASEY'S,92,Casey's General Store,952-657-2253,313 Shimmcor St,5/21/2019,MN,44.882206,-93.887512,0.87,rooftop,313,Shimmcor,,,Mayer,MN,Carver County,55360,US,Carver
+409,Montevideo,CENEX,91,Cenex Conv Store,320-269-5570,2402 E Hwy 7,12/8/2015,MN,44.948343,-95.695508,1,rooftop,2402,E Hwy 7,,,Montevideo,MN,Chippewa County,56265,US,Chippewa
+415,Monticello,UNBRANDED,91,Kwik-Trip,763-295-8857,9440 Hwy 25,6/1/2017,MN,45.287392,-93.803811,1,rooftop,9440,State Hwy 25,,,Monticello,MN,Wright County,55362,US,City of Buffalo G
+429,Motley,SHELL,91,Bricks Travel Center,218-352-6677,265 Us Hwy 10 W,6/26/2018,MN,46.334982,-94.646592,1,range_interpolation,265,Hwy 10 S,,,Motley,MN,Morrison County,56466,US,TIGER/Line® dataset from the US Census Bureau
+431,Mounds View,BP,91,Bp,763-786-3433,2155 Co Rd 10,12/8/2015,MN,45.093109,-93.191063,1,range_interpolation,2155,County Rd 10,,,Saint Paul,MN,Ramsey County,55112,US,TIGER/Line® dataset from the US Census Bureau
+432,Mounds View,SPEEDWAY,87 88 91,Speedway,651-633-3848,2380 County Rd D West,9/2/2020,MN,45.035325,-93.200881,1,rooftop,2380,County Rd D W,,,Saint Paul,MN,Ramsey County,55112,US,Ramsey County G
+436,Navarre,HOLIDAY,91,Holiday #3547,952-471-8378,3340 Shoreline Dr,6/16/2017,MN,44.935159,-93.607432,0.78,rooftop,3340,Shoreline Dr,,,Wayzata,MN,Hennepin County,55391,US,Hennepin
+437,Navarre,MINNOCO,91,Minnoco,952-471-9082,3360 Shoreline Rd,6/16/2017,MN,44.934956,-93.608741,0.78,rooftop,3360,Shoreline Dr,,,Wayzata,MN,Hennepin County,55391,US,Hennepin
+440,New Brighton,UNBRANDED,91,Winner Auto Service/Winner Gas/ Pump 'n Munch,651-633-9950,500 Old Hwy 8 Nw,5/17/2021,MN,45.057689,-93.198555,1,rooftop,500,Old Highway 8 NW,,,Saint Paul,MN,Ramsey County,55112,US,Ramsey County G
+444,New Prague,HOLIDAY,91,Holiday Stationstore,952-758-5252,102 Cnty Rd 37,12/23/2018,MN,44.531986,-93.524473,1,range_interpolation,102,County Rd 37,,,New Prague,MN,Le Sueur County,56071,US,TIGER/Line® dataset from the US Census Bureau
+465,Ogilvie,BP,91,Schmidttys,320-272-4469,400 W Hwy 23,5/16/2013,MN,45.82863,-93.430522,1,rooftop,400,Hwy 23 W,,,Ogilvie,MN,Kanabec County,56358,US,Kanabec County G
+469,Orr,UNBRANDED,91,Jim's Ash Trail Store,218-374-3071,12193 Ash River Trail,8/13/2019,MN,48.387084,-92.995575,1,rooftop,12193,Ash River Trl,,,Orr,MN,St. Louis County,55771,US,St Louis
+473,Osakis,UNBRANDED,91,Head Of Lakes Resort,320-859-4252,15080 Gardenia Dr,1/11/2016,MN,45.94899,-95.050295,1,rooftop,15080,Gardenia Dr,,,Osakis,MN,Todd County,56360,US,Todd
+477,Outing,UNBRANDED,91,Outing Station,218-792-5332,410 Hwy 6 N E,6/28/2014,MN,46.818409,-93.942461,0.9,rooftop,410,State 6 NE,,,Outing,MN,Cass County,56662,US,Cass
+484,Park Rapids,UNBRANDED,91,Emmaville Store,218-732-8544,28021 C. R. 4,6/3/2015,MN,46.984699,-95.09935,0.33,place,,,,,Park Rapids,MN,Hubbard County,56470,US,TIGER/Line® dataset from the US Census Bureau
+491,Paynesville,KWIK TRIP,91,Kwik Trip,320-243-2118,645 Opportunity Park Dr,8/15/2019,MN,45.374715,-94.731453,0.82,nearest_rooftop_match,685,Opportunity Park Dr,,,Paynesville,MN,Stearns County,56362,US,Stearns
+496,Pennock,BP,91,Pit Stop,320-599-5117,102 Us Hwy 12 W,1/11/2016,MN,45.147274,-95.176983,1,rooftop,102,Hwy 12 E,,,Pennock,MN,Kandiyohi County,56279,US,Kandiyohi
+497,Perham,CENEX,91,Lakes Area Coop,218-346-7810,43937 Ft Thunder Rd,9/11/2015,MN,46.578859,-95.57563,1,rooftop,43937,Ft Thunder Rd,,,Perham,MN,Otter Tail County,56573,US,Otter Tail
+498,Perham,TESORO,91,Tesoro,218-346-7878,940 Palbubicki Ave,8/27/2014,MN,46.59667,-95.575,0.33,place,,,,,Perham,MN,Otter Tail County,56573,US,TIGER/Line® dataset from the US Census Bureau
+499,Pierz,SUPER AMERICA,91,Super America,320-468-0158,14298 Hwy 25,7/9/2018,MN,45.960719,-94.114291,1,range_interpolation,14298,Hwy 25,,,Pierz,MN,Morrison County,56364,US,TIGER/Line® dataset from the US Census Bureau
+507,Plymouth,UNBRANDED,91,Vip Auto Service,763-553-9113,9950 County Rd 9,6/2/2016,MN,45.03345,-93.404734,0.9,range_interpolation,9950,County Rd 9,,,Minneapolis,MN,Hennepin County,55442,US,TIGER/Line® dataset from the US Census Bureau
+529,Remer,CO-OP,91,Remer Junction Oil,218-566-2390,6790 Hwy 6,6/20/2014,MN,47.048512,-93.923931,0.67,nearest_rooftop_match,6803,State 6 NE,,,Remer,MN,Cass County,56672,US,Cass
+546,Rogers,HOLIDAY,91,Holiday #307,763-428-5024,21451 S Diamond Lk Rd,6/20/2019,MN,45.19885,-93.55147,1,rooftop,21451,Diamond Lake Rd S,,,Rogers,MN,Hennepin County,55374,US,Hennepin
+550,Rosemount,SHELL,91,Shell,952-432-4944,7468 167th St W,10/23/2013,MN,44.7079,-93.21695,1,rooftop,7468,167th St W,,,Rosemount,MN,Dakota County,55068,US,Dakota
+553,Rothsay,TESORO,91,Rothsay Truck Stop & Cafe,218-867-2197,544 Center St.,4/14/2017,MN,46.480306,-96.279773,0.9,rooftop,544,N Center St,,,Rothsay,MN,Otter Tail County,56579,US,Otter Tail
+555,Royalton,UNBRANDED,91,E-Z Stop Store,320-584-5944,208 Us Hwy 10 N,3/2/2016,MN,45.83234,-94.295559,1,rooftop,208,Highway 10 N,,,Royalton,MN,Morrison County,56373,US,Morrison County G
+556,Royalton,TESORO,91,Royal Tesoro,320-584-8245,5 Hwy 10 S,7/20/2017,MN,45.829572,-94.294251,1,rooftop,5,S Highway 10,,,Royalton,MN,Morrison County,56373,US,Morrison County G
+558,Rushford,KWIK TRIP,91,Kwik Trip,507-864-4800,110 Hwy 16,1/5/2015,MN,43.675307,-92.083421,1,range_interpolation,110,State Hwy 16,,,Preston,MN,Fillmore County,55965,US,TIGER/Line® dataset from the US Census Bureau
+560,Sanborn,BP,91,Expressway,507-648-3300,33000 Us Hwy 14,7/22/2013,MN,44.238346,-95.147849,0.6,street_center,,US Hwy 14,,,Sanborn,MN,Redwood County,56083,US,TIGER/Line® dataset from the US Census Bureau
+561,Sandstone,UNBRANDED,91,Chris's Conv Center,320-245-5309,813 Hwy 23,6/20/2014,MN,46.023444,-92.925988,0.6,street_center,,I-35,,,Hinckley,MN,Pine County,55037,US,TIGER/Line® dataset from the US Census Bureau
+568,Sauk Rapids,SUPER AMERICA,91,Short Stop Quick Mart,320-251-4144,4725 Quail Rd Ne,1/12/2016,MN,45.582546,-94.064212,1,rooftop,4725,Quail Rd NE,,,Sauk Rapids,MN,Benton County,56379,US,Benton
+571,Shakopee,HOLIDAY,91,Holiday #246,952-445-2926,12681 Chestnut Blvd,9/6/2013,MN,44.766968,-93.578487,1,rooftop,12681,Chestnut Blvd,,,Shakopee,MN,Scott County,55379,US,Scott
+575,Shorewood,HOLIDAY,91,Holiday,952-470-8655,19955 Hwy 7,11/16/2015,MN,44.90756,-93.53182,1,rooftop,19955,Highway 7,,,Excelsior,MN,Hennepin County,55331,US,Hennepin
+579,Silver Lake,CENEX,91,Corner Market,320-327-2500,916 Highway 7,2/18/2021,MN,47.514841,-92.542815,0.8,rooftop,916,S 7th Ave,,,Virginia,MN,St. Louis County,55792,US,St Louis
+581,Sleepy Eye,UNBRANDED,91,Braun Oil,507-794-7550,27777 C.R. 27,11/15/2014,MN,44.297023,-94.737935,1,rooftop,27777,County Rd 27,,,Sleepy Eye,MN,Brown County,56085,US,Brown County G
+582,Sleepy Eye,UNBRANDED,91,Braun Oil Co,507-794-7550,23791 285th Ave,10/7/2014,MN,44.308531,-94.757992,1,rooftop,23791,285th Ave,,,Sleepy Eye,MN,Brown County,56085,US,Brown County G
+587,Spicer,SHELL,,Mel's Sport Shop,320-796-2000,102 Hwy-23 S,3/14/2021,MN,45.231772,-94.9394,0.76,nearest_rooftop_match,121,Hwy 23 S,,,Spicer,MN,Kandiyohi County,56288,US,Kandiyohi
+591,Stacy,TESORO,91,Tesoro,651-462-2766,5563 Athens Trail,6/21/2014,MN,45.450911,-92.993443,1,range_interpolation,5563,Athens Trl,,,Stacy,MN,Chisago County,55079,US,TIGER/Line® dataset from the US Census Bureau
+592,Stanton,UNBRANDED,100,Stanton Airfield,507-645-4030,1235 Hwy 19,10/7/2014,MN,44.471764,-93.015111,1,rooftop,1235,Highway 19,,,Dennison,MN,Goodhue County,55018,US,Goodhue
+593,Staples,UNBRANDED,91,Ernie's Food Market,218-894-1072,1230 Hwy 10 E,10/26/2015,MN,46.353865,-94.782385,1,rooftop,1230,US 10 E,,,Staples,MN,Todd County,56479,US,Todd
+596,St Bonifacius,HOLIDAY,91,Holiday #260,952-446-9125,8720 Hwy 7,7/15/2016,MN,44.90247,-93.746509,1,rooftop,8720,Highway 7,,,Saint Bonifacius,MN,Hennepin County,55375,US,Hennepin
+611,St Joseph,HOLIDAY,91,Holiday #3774,320-363-4270,304 College Ave,6/8/2017,MN,45.568088,-94.318778,0.9,rooftop,304,College Ave N,,,Saint Joseph,MN,Stearns County,56374,US,Stearns
+629,Sturgeon Lake,UNBRANDED,91,Sturgeon Lk Minute Mart,218-372-3432,88834 Warbler Ln,6/30/2016,MN,46.37217,-92.78774,1,range_interpolation,88834,Warbler Ln,,,Sturgeon Lake,MN,Pine County,55783,US,TIGER/Line® dataset from the US Census Bureau
+640,Twin Valley,CENEX,91,Community Co-Op,218-584-5171,200 First St Sw,11/3/2015,MN,47.259122,-96.259513,1,rooftop,200,1st St SW,,,Twin Valley,MN,Norman County,56584,US,Norman
+645,Tyler,BP,91,Knudsen's,507-247-3406,108 Us Hwy 14,6/29/2016,MN,44.269761,-96.134528,1,range_interpolation,108,US Hwy 14,,,Tyler,MN,Lincoln County,56178,US,TIGER/Line® dataset from the US Census Bureau
+647,Underwood,SHELL,91,Underwood Quik-Stop,218-826-6311,29346 Hwy 210,6/30/2016,MN,46.280543,-95.8751,1,rooftop,29346,State Hwy 210,,,Underwood,MN,Otter Tail County,56586,US,Otter Tail
+656,Waconia,CENEX,91,Colony Plaza,952-442-2817,140 Hwy 5,2/11/2019,MN,44.843139,-93.789292,0.9,rooftop,140,5 W,,,Waconia,MN,Carver County,55387,US,Carver
+667,Waseca,UNBRANDED,91,Sportsman Stop,507-835-4647,1818 State St N,2/6/2014,MN,44.095532,-93.506448,1,rooftop,1818,State St N,,,Waseca,MN,Waseca County,56093,US,Waseca
+671,Waubun,UNBRANDED,91,Elbow Lake Store & Bar,218-734-2504,40419 Elbow Lk Store Rd,12/4/2015,MN,47.146026,-95.540157,1,rooftop,40419,Elbow Lake Store Rd,,,Waubun,MN,Becker County,56589,US,Becker
+675,White Bear Lake,AMSTAR,91,Classic Collision Center,651-426-8082,4061 Us Hwy 61,9/3/2018,MN,45.064381,-93.026101,1,rooftop,4061,Highway 61,,,Saint Paul,MN,Ramsey County,55110,US,Ramsey
+677,White Bear Lake,HOLIDAY,91,Holiday,651-426-3733,1150 Country Road J,7/22/2019,MN,45.084689,-93.00994,0.3,place,,,,,White Bear Lake,MN,Ramsey County,55110,US,TIGER/Line® dataset from the US Census Bureau
+678,White Bear Lake,HOLIDAY,91,Holiday Stationstore,651-426-1825,5970 Us Hwy 61,9/3/2018,MN,45.123334,-93.00209,1,rooftop,5970,Highway 61,,,Saint Paul,MN,Ramsey County,55110,US,Ramsey
+679,White Bear Lake,HOLIDAY,91,Holiday Stationstore,651-429-1875,1060 Cnty Rd 96,6/3/2018,MN,45.07992,-93.145583,0.9,rooftop,1060,Highway 96 W,,,Saint Paul,MN,Ramsey County,55126,US,Ramsey
+680,White Bear Lake,CLARK,91,White Bear Bait,651-340-4588,4648 Us Hwy 61,9/3/2018,MN,45.081649,-93.0128,1,rooftop,4648,Highway 61,,,Saint Paul,MN,Ramsey County,55110,US,Ramsey
+684,Willmar,SHELL,,She'Ll Super Stop,320-235-8613,1405 Us Hwy 12 E,2/8/2018,MN,45.12413,-95.024935,1,rooftop,1405,Hwy 12 E,,,Willmar,MN,Kandiyohi County,56201,US,Kandiyohi
+712,Amana,CASEY'S,87,Caseys General Store,319-622-3028,617 42nd Ave,8/9/2015,IA,41.801282,-91.874838,1,rooftop,617,42nd Ave,,,Amana,IA,Iowa County,52203,US,Statewide
+743,Birmingham,BP,91,Jet Stop,319-498-4663,121 Hwy 1,7/21/2018,IA,40.878596,-91.949082,1,rooftop,121,S Highway 1,,,Birmingham,IA,Van Buren County,52535,US,Statewide
+758,Carroll,CASEY'S,87,Casey's General Store,712-792-8783,613 Us Hwy 30,1/2/2015,IA,42.068452,-94.87453,1,rooftop,613,W US Highway 30,,,Carroll,IA,Carroll County,51401,US,Carroll
+760,Carroll,HY-VEE,91,Hy-Vee,712-790-0287,905 Us Hwy 30 W,12/25/2020,IA,42.064243,-94.853596,1,rooftop,905,E US Highway 30,,,Carroll,IA,Carroll County,51401,US,Carroll
+764,Casey,KUM & GO,87,Kum & Go,641-746-2259,501 Mcpherson St,7/17/2014,IA,41.505239,-94.518799,1,rooftop,501,Mc Pherson St,,,Casey,IA,Guthrie County,50048,US,Statewide
+786,Cedar Rapids,KWIK TRIP,91,Kwik Shop,319-395-0495,4201 Hwy 27,5/25/2014,IA,41.96286,-91.670571,0.6,street_center,,I-380,,,Cedar Rapids,IA,Linn County,52401,US,TIGER/Line® dataset from the US Census Bureau
+793,Centerville,UNBRANDED,87 100,Centerville Muni Airport,641-437-4580,20320 545th St,2/21/2014,IA,40.688598,-92.899934,1,rooftop,20320,545th St,,,Centerville,IA,Appanoose County,52544,US,Statewide
+804,Clarinda,CENEX,91,Clarinda Coop,712-542-2146,520 S Schenk St,9/17/2015,IA,40.734976,-95.021557,1,range_interpolation,520,S Schenck Rd,,,Clarinda,IA,Page County,51632,US,TIGER/Line® dataset from the US Census Bureau
+827,Council Bluffs,CENEX,87,Lakeside Ampride,712-366-1132,4040 S Expressway St,5/25/2014,IA,41.220346,-95.851753,1,rooftop,4040,S Expy,,,Council Bluffs,IA,Pottawattamie County,51501,US,Pottawattamie
+869,De Soto,CASEY'S,,Casey's General Store,515-834-2423,1100 Greene St,10/17/2014,IA,41.536845,-94.013417,1,rooftop,1100,Greene St,,,De Soto,IA,Dallas County,50069,US,Statewide
+871,Dike,KWIK STAR,87,Kwik Star,319-989-2007,109 E Dike Rd,1/13/2016,IA,42.469364,-92.627854,1,rooftop,109,E Dike Rd,,,Dike,IA,Grundy County,50624,US,Grundy County G
+888,Epworth,UNBRANDED,87,Maahs' Service,563-876-3757,119 W Main St,10/20/2017,IA,42.445332,-90.933646,1,rooftop,119,W Main St,,,Epworth,IA,Dubuque County,52045,US,Dubuque
+925,Hiawatha,CASEY'S,87 91,Casey's General Store,319-378-1304,780 Hwy 27,2/26/2016,IA,42.065799,-91.70022,0.6,street_center,,I-380,,,Hiawatha,IA,Linn County,52233,US,TIGER/Line® dataset from the US Census Bureau
+926,Holland,BP,91,The Mill,319-824-2728,16250 N Ave,1/8/2014,IA,42.465789,-92.767203,1,rooftop,16250,N Ave,,,Holland,IA,Grundy County,50642,US,Grundy County G
+932,Inwood,SHELL,87,Lil' Chubs Corner Stop,712-753-2525,712 S Oak St,1/8/2014,IA,43.302045,-96.430459,1,rooftop,712,S Oak St,,,Inwood,IA,Lyon County,51240,US,Lyon
+937,Iowa City,HY-VEE,87 91,Hy-Vee,319-337-8231,1103 St Clement St,10/30/2018,IA,41.677052,-91.520052,0.89,nearest_rooftop_match,1109,St Clement St,,,Iowa City,IA,Johnson County,52245,US,Johnson
+958,Laporte City,CASEY'S,87,Casey's General Store,319-342-2244,402 La Porte Rd,1/15/2020,IA,42.369559,-92.206097,0.33,place,,,,,La Porte City,IA,Black Hawk County,50651,US,TIGER/Line® dataset from the US Census Bureau
+971,Manson,CENEX,87 91,Cubby's,712-469-3434,1302 1st Ave,4/16/2013,IA,42.51695,-94.533114,1,rooftop,1302,1st Ave,,,Manson,IA,Calhoun County,50563,US,Calhoun
+992,Melrose,UNBRANDED,87,Bridgeview Bait & Tackle,641-724-9820,11367 Hwy S-70,7/4/2020,IA,40.879214,-93.027032,1,rooftop,11367,Highway S70,,,Melrose,IA,Appanoose County,52569,US,Statewide
+1024,Pacific Junction,BP,91,Lincoln Farm & Home,712-622-8178,57902 190th St,8/24/2017,IA,41.046603,-95.823031,1,rooftop,57902,190th St,,,Pacific Junction,IA,Mills County,51561,US,Mills
+1026,Paullina,CASEY'S,87,Casey's General Store,712-448-3990,315 E Grand Ave,11/11/2015,IA,42.983179,-95.684075,1,rooftop,315,E Grand Ave,,,Paullina,IA,O'brien County,51046,US,Statewide
+1029,Percival,UNBRANDED,87,Sapp Brothers,712-382-2323,2496 210th Ave,9/21/2015,IA,40.689947,-95.791406,1,rooftop,2496,210th Ave,,,Percival,IA,Fremont County,51648,US,Fremont
+1062,Stanwood,SHAMROCK,91,Petromart,563-942-3332,1118 Hwy 30,5/11/2017,IA,41.888379,-91.148503,1,rooftop,1118,Hwy 30,,,Stanwood,IA,Cedar County,52337,US,Statewide
+1065,Storm Lake,HY-VEE,91,Hy-Vee,712-732-1800,1260 Lake Ave N,1/31/2021,IA,42.653304,-95.20096,1,range_interpolation,1260,Lake Ave N,,,Storm Lake,IA,Buena Vista County,50588,US,TIGER/Line® dataset from the US Census Bureau
+1070,Urbana,CASEY'S,87,Casey's General Store,319-443-2525,201 Sunset St,4/23/2016,IA,42.228107,-91.869348,0.9,range_interpolation,201,Sunset St,,,Urbana,IA,Benton County,52345,US,TIGER/Line® dataset from the US Census Bureau
+1077,Victor,KWIK STAR,87,Kwik Star #303,319-685-4411,4183 Hwy 21,6/11/2017,IA,41.690577,-92.357846,1,rooftop,4183,Highway 21,,,Victor,IA,Poweshiek County,52347,US,Statewide
+1080,Walcott,BP,91,Iowa 80,563-284-6961,755 W. Iowa 80 Rd.,3/20/2021,IA,41.617972,-90.7811,0.8,rooftop,755,W Iowa 80th Rd,,,Walcott,IA,Scott County,52773,US,Statewide
+1082,Washburn,BP,87 91,Washburn Pronto B P,319-296-3688,7305 Laporte Rd,1/8/2014,IA,0,0,0,,,,,,,,,,,
+1124,Bath,CENEX,89,Cenex Bath,605-225-4484,39494 133rd St,12/24/2014,SD,45.45971,-98.330507,1,rooftop,39494,133rd St,,,Bath,SD,Brown County,57427,US,Brown County G
+1128,Belvidere,SHELL,91,1880 Shell,605-344-2259,I-90 Exit 170,5/21/2013,SD,43.842832,-101.243656,0.6,street_center,,I-90,,,Belvidere,SD,Jackson County,57521,US,TIGER/Line® dataset from the US Census Bureau
+1131,Bonesteel,CLARK,89 93,Cuzn's Corner,605-654-2612,404 Us Hwy 18,4/12/2016,SD,43.072976,-98.947598,0.9,range_interpolation,404,Us Hwy 18,,,Bonesteel,SD,Gregory County,57317,US,TIGER/Line® dataset from the US Census Bureau
+1138,Burbank,BP,91,The Coffee Cup,605-624-2062,47051 Hwy 50,10/2/2013,SD,42.78545,-96.796808,0.9,rooftop,47051,Sd Highway 50,,,Burbank,SD,Union County,57010,US,Statewide
+1140,Colman,SHELL,87 91,Crossroads Truck Stop,605-534-3600,47228 Hwy 34,11/27/2016,SD,43.979351,-96.76328,0.9,rooftop,47228,Sd Highway 34,,,Colman,SD,Moody County,57017,US,Statewide
+1146,Dakota Dunes,CENEX,87 91,Cubby's,605-232-9263,200 Tower Rd,6/14/2014,SD,0,0,0,,,,,,,,,,,
+1149,Dell Rapids,CENEX,87 91,Cubby's,605-428-3388,220 N Hwy 7,4/16/2013,SD,43.803585,-96.699766,0.33,place,,,,,Dell Rapids,SD,Minnehaha County,57022,US,TIGER/Line® dataset from the US Census Bureau
+1155,Gregory,SINCLAIR,87,Gregory Sinclair,605-835-9449,408 W Hwy 18,6/18/2015,SD,43.225464,-99.426648,1,rooftop,408,W Hwy 18,,,Gregory,SD,Gregory County,57533,US,Statewide
+1159,Hermosa,FLYING J,91,Flying J Travel Plaza,605-255-4555,25 Heartland Express Sd-79,5/11/2021,SD,43.840287,-103.20052,0.9,rooftop,25,N Heartland Expy,,,Hermosa,SD,Custer County,57744,US,Statewide
+1171,Lake Norden,SINCLAIR,87 91,Halsville Crossing,605-785-7770,45401 192nd St,9/10/2018,SD,44.601599,-97.067974,0.6,street_center,,State Hwy 28,,,Lake Norden,SD,Hamlin County,57248,US,TIGER/Line® dataset from the US Census Bureau
+1172,Lake Preston,CENEX,91,Cenex,605-847-5000,101 N Main,7/27/2014,SD,44.361446,-97.377666,1,rooftop,101,Main Ave N,,,Lake Preston,SD,Kingsbury County,57249,US,Statewide
+1174,Lemmon,UNBRANDED,91,Lemmon Iga,605-374-3802,19190 Us Highway 12,9/26/2020,SD,45.935393,-102.192026,0.7,nearest_rooftop_match,19141,US Hwy 12,,,Lemmon,SD,Perkins County,57638,US,Statewide
+1176,Milbank,CASEY'S,87,Casey's General Store,605-432-2354,302 Us Hwy 12,5/3/2016,SD,45.218781,-96.633961,1,range_interpolation,302,US Hwy 12,,,Milbank,SD,Grant County,57252,US,TIGER/Line® dataset from the US Census Bureau
+1178,Mina,CENEX,91,The M Station,605-725-6462,800 Nesbitt Dr.,5/6/2017,SD,45.404015,-98.806895,0.33,place,,,,,Mina,SD,Edmunds County,57462,US,TIGER/Line® dataset from the US Census Bureau
+1187,Mobridge,HOLIDAY,91,Holiday Stationstore,605-845-2907,505 E Grand Crossing,9/2/2020,SD,45.537334,-100.427858,1,rooftop,505,E Grand Xing,,,Mobridge,SD,Walworth County,57601,US,Statewide
+1197,Pierre,CENEX,91,Young's Cenex,605-224-1122,103 E Pleasent,4/22/2014,SD,44.367644,-100.35214,1,rooftop,103,E Pleasant Dr,,,Pierre,SD,Hughes County,57501,US,Statewide
+1200,Platte,SINCLAIR,87,Seversons,605-337-2307,601 Main Ave,5/2/2013,SD,43.385167,-98.844827,0.78,rooftop,601,S Main St,,,Plankinton,SD,Charles Mix County,57368,US,Statewide
+1205,Rapid City,CONOCO,85 91,Bj's Country Store,605-341-0726,13620 Us Hwy 16,3/30/2017,SD,43.970358,-103.334388,1,rooftop,13620,S Hwy 16,,,Rapid City,SD,Pennington County,57702,US,Statewide
+1233,Sioux Falls,CASEY'S,87,Casey's General Store,605-339-1097,500 N Kiwanas Ave,1/20/2015,SD,43.552739,-96.760405,1,rooftop,500,N Kiwanis Ave,,,Sioux Falls,SD,Minnehaha County,57104,US,City of Sioux Falls
+1279,Summit,CENEX,91,Coffee Cup Fuel,605-398-6493,45789 Us Hwy 12,6/5/2017,SD,45.311234,-97.04626,1,rooftop,45789,US Highway 12,,,Summit,SD,Roberts County,57266,US,Statewide
+1290,Waubay,UNBRANDED,92,Sandy Beach Resort,605-947-4492,3472 Dakota Beach Cir,7/5/2013,SD,45.432465,-97.282327,1,rooftop,3472,Dakota Beach Cir,,,Waubay,SD,Day County,57273,US,Statewide
+1299,Abells Corners,BP,91,Lockhart's Service,262-742-2451,N6424 Us Hwy 12,11/19/2016,WI,0,0,0,,,,,,,,,,,
+1309,Almena,HOLIDAY,91,Holiday #3558,715-357-3957,241 Us Hwy 8 S,12/4/2015,WI,45.409695,-92.034352,1,range_interpolation,241,Us Hwy 8 E,,,Almena,WI,Barron County,54805,US,TIGER/Line® dataset from the US Census Bureau
+1317,Amherst,UNBRANDED,91,Falcon One Stop,715-824-5546,168 N Main,3/3/2014,WI,44.451658,-89.284235,1,rooftop,168,Main St N,,,Amherst,WI,Portage County,54406,US,Portage
+1334,Appleton,BP,91,Darboy Corner Store,,N9690 Cnty Rd N,3/6/2014,WI,44.275702,-88.370856,0.33,place,,,,,Appleton,WI,Outagamie County,54911,US,TIGER/Line® dataset from the US Census Bureau
+1345,Appleton,KWIK TRIP,91,Kwik Trip,,4735 W Converters Dr,2/18/2013,WI,44.28915,-88.477597,1,rooftop,4735,W Converters Dr,,,Appleton,WI,Outagamie County,54913,US,Outagamie
+1352,Appleton,FLEET FARM,89 91,Mills Gas Mart,920-734-8231,1350 N Bluemound Dr,7/5/2014,WI,44.274081,-88.455566,1,rooftop,1350,N Bluemound Dr,,,Appleton,WI,Outagamie County,54914,US,Outagamie
+1355,Appleton,MOBIL,91,North Mall Mart,920-735-6550,1575 N Casaloma Dr,1/27/2016,WI,44.275798,-88.477137,1,rooftop,1575,N Casaloma Dr,,,Appleton,WI,Outagamie County,54913,US,Outagamie
+1360,Arkdale,UNBRANDED,87 91,Petenwell Sport Shop,,1903 Big Horn Dr,5/31/2016,WI,43.983402,-89.955821,0.67,nearest_rooftop_match,1891,20th Ave,,,Arkdale,WI,Adams County,54613,US,Adams
+1371,Augusta,PHILLIPS 66,91,Woodland Country Store,,S5340 Hwy 27,4/22/2014,WI,44.755749,-91.145244,0.6,rooftop,S5340,State Road 27,,,Augusta,WI,Eau Claire County,54722,US,Eau Claire
+1378,Balsam Lake,HOLIDAY,91,Holiday #3541,715-485-3558,101 Main St,10/28/2015,WI,45.45285,-92.453299,1,rooftop,101,Main St,,,Balsam Lake,WI,Polk County,54810,US,Polk
+1380,Baraboo,KWIK TRIP,91,Kwik Trip,,602 W. Pine,9/14/2015,WI,43.47109,-89.74429,0.33,place,,,,,Baraboo,WI,Sauk County,53913,US,TIGER/Line® dataset from the US Census Bureau
+1387,Bear Creek,CITGO,91,Bear Creek Travel Plaza,,N8086 Us Hwy 45,8/20/2013,WI,44.530603,-88.746335,1,rooftop,N8086,Hwy 45,,,Bear Creek,WI,Waupaca County,54922,US,Waupaca
+1392,Beaver Dam,KWIK TRIP,91,Kwik Trip,920-887-3250,W9153 Cnty Rd G,9/7/2013,WI,43.466482,-88.862852,0.33,place,,,,,Beaver Dam,WI,Dodge County,53916,US,TIGER/Line® dataset from the US Census Bureau
+1402,Berlin,UNBRANDED,87,Midway Gas & Oil,920-361-3644,W2025 Hwy 21,5/14/2013,WI,44.048334,-88.86468,0.6,street_center,,State Hwy 21,,,Berlin,WI,Winnebago County,54923,US,TIGER/Line® dataset from the US Census Bureau
+1403,Birchwood,UNBRANDED,87 91,Bairs Edgewater Store,715-354-7311,3040 N Cnty Rd F,7/13/2013,WI,45.732675,-91.615044,0.33,place,,,,,Birchwood,WI,Washburn County,54817,US,TIGER/Line® dataset from the US Census Bureau
+1406,Black Earth,BP,91,Bp,608-767-2390,1525 State St,5/29/2013,WI,43.143311,-89.752021,1,rooftop,1525,State St,,,Black Earth,WI,Dane County,53515,US,Dane
+1407,Black Earth,CENEX,91,Premier Townmart,608-767-2581,917 Mill St,5/22/2013,WI,43.140279,-89.747582,1,rooftop,917,Mills St,,,Black Earth,WI,Dane County,53515,US,Dane
+1408,Black River Falls,CENEX,91,Black River Oasis,715-284-4344,400 Oasis Rd,10/10/2017,WI,44.296055,-90.819757,1,rooftop,400,Oasis Rd,,,Black River Falls,WI,Jackson County,54615,US,Statewide
+1416,Blue River,BP,91,The Port,,14750 Hwy 60,12/8/2012,WI,43.20663,-90.571091,1,rooftop,14750,State Hwy 60,,,Blue River,WI,Richland County,53518,US,Richland
+1418,Boscobel,KWIK TRIP,91,Kwik Trip,608-375-0119,305 W. Prairie St.,6/20/2015,WI,43.140485,-90.701769,0.8,rooftop,305,E Prairie St,,,Boscobel,WI,Grant County,53805,US,Statewide
+1421,Branch,CENEX,87 92,Branch Townmart,,8133 Us Hwy 10,8/20/2013,WI,44.109853,-87.483874,0.33,place,,,,,Branch,WI,Manitowoc County,54203,US,TIGER/Line® dataset from the US Census Bureau
+1422,Briggsville,BP,91,Joyces Mason Station,608-981-2119,N405 Hwy A,5/14/2013,WI,43.65498,-89.5854,0.33,place,,,,,Briggsville,WI,Marquette County,53920,US,TIGER/Line® dataset from the US Census Bureau
+1427,Brownsville,BP,91,Coles Gas,920-583-3700,868 W Main St,1/14/2020,WI,43.616089,-88.498944,1,range_interpolation,868,W Main St,,,Brownsville,WI,Dodge County,53006,US,TIGER/Line® dataset from the US Census Bureau
+1431,Cadott,BP,91,Bp Station,,106 S Hwy 27,7/30/2011,WI,44.944276,-91.146407,0.89,nearest_rooftop_match,110,Hwy 27,,,Cadott,WI,Chippewa County,54727,US,Statewide
+1435,Campbellsport,BP,91,Din's Mini Mart,,N3006 Hwy 67,8/26/2010,WI,43.648648,-88.181187,1,rooftop,N3006,Hwy 67,,,Campbellsport,WI,Fond Du Lac County,53010,US,Fond Du Lac
+1436,Camp Douglas,BP,91,Bp,608-427-3365,215 Us 12,1/1/2015,WI,43.918804,-90.260344,1,rooftop,215,Hwy 12 / 16,,,Camp Douglas,WI,Juneau County,54618,US,Statewide
+1438,Cedar Grove,CITGO,91,Hy Way Transit,,N905 Sauk Trail Rd,6/1/2015,WI,43.572297,-87.800437,1,rooftop,N905,Sauk Trail Rd,,,Cedar Grove,WI,Sheboygan County,53013,US,Sheboygan
+1440,Chetek,BP,91,Chetek Bp,715-925-1049,612 Dallas St,4/20/2016,WI,45.322071,-91.656774,1,rooftop,612,Dallas St,,,Chetek,WI,Barron County,54728,US,Statewide
+1443,Chippewa Falls,CITGO,87 91,Express Mart,715-723-7879,19756 Cnty Hwy X,5/17/2021,WI,44.958689,-91.319492,0.33,place,,,,,Chippewa Falls,WI,Chippewa County,54729,US,TIGER/Line® dataset from the US Census Bureau
+1446,Chippewa Falls,HOLIDAY,91,Holiday #3721,715-720-0538,2750 120th St,10/28/2015,WI,44.882916,-91.427346,1,rooftop,2750,120th St,,,Chippewa Falls,WI,Chippewa County,54729,US,Statewide
+1448,Chippewa Falls,KWIK TRIP,91,Kwik Trip #352,,2997 Commercial Blvd,7/19/2012,WI,44.885883,-91.418504,1,rooftop,2997,Commercial Blvd,,,Chippewa Falls,WI,Chippewa County,54729,US,Statewide
+1449,Chippewa Falls,UNBRANDED,91,Quality Fuel,,14983 Cnty Hwy S,4/20/2016,WI,44.871725,-91.367688,0.83,nearest_rooftop_match,15019,County Rd,,,Chippewa Falls,WI,Chippewa County,54729,US,Statewide
+1470,Cornell,BP,91,Cornell Bp,715-239-1087,425 S Third St,4/19/2016,WI,45.163287,-91.148878,1,rooftop,425,S 3rd St,,,Cornell,WI,Chippewa County,54732,US,Statewide
+1472,Cottage Grove,SHELL,91,Gateway Shell,,420 W Main St,4/4/2019,WI,43.047121,-89.076227,0.8,rooftop,420,S Main St,,,Deerfield,WI,Dane County,53531,US,Dane
+1479,Crivitz,UNBRANDED,87,Tall Oaks,715-757-3238,N10008 Parkway Rd.,6/23/2016,WI,45.326564,-88.197319,1,rooftop,N10008,Parkway Rd,,,Crivitz,WI,Marinette County,54114,US,Statewide
+1492,Darien,BP,91,Country Station,262-882-5119,W9003 Us Hwy 14,8/27/2015,WI,42.651897,-88.743095,0.9,rooftop,W9003,Hwy 14,,,Delavan,WI,Walworth County,53115,US,Statewide
+1495,Deforest,KWIK TRIP,91,Kwik Trip #557,608-842-3446,4848 C. R. V,5/22/2018,WI,43.251088,-89.369593,1,rooftop,4848,County Rd V,,,De Forest,WI,Dane County,53532,US,Dane
+1496,Deforest,PHILLIPS 66,91,Phillips 66,608-846-0280,4884 C.R. V,9/6/2015,WI,43.251027,-89.372857,1,rooftop,4884,County Rd V,,,De Forest,WI,Dane County,53532,US,Dane
+1500,Delavan,CITGO,91,Delavan Food Mart,,505 Sugar Creek Rd,9/26/2012,WI,42.638352,-88.627808,1,range_interpolation,505,Sugar Creek Rd,,,Delavan,WI,Walworth County,53115,US,TIGER/Line® dataset from the US Census Bureau
+1502,Delavan,MOBIL,91,Lakefront Mobil,262-728-3400,3508 Hwy 50,3/8/2018,WI,42.619302,-88.580664,1,rooftop,3508,Hwy 50,,,Delavan,WI,Walworth County,53115,US,Statewide
+1503,Delavan,SHELL,91,Maxi-One Mini-Mart,,514 Hwy 50,5/28/2018,WI,42.626784,-88.58836,1,rooftop,514,Hwy 50,,,Delavan,WI,Walworth County,53115,US,Statewide
+1506,De Pere,CITGO,91,Country Express,920-336-6402,2601 Monroe Rd,7/13/2015,WI,44.454082,-87.992823,1,rooftop,2601,Monroe Rd,,,De Pere,WI,Brown County,54115,US,Statewide
+1508,De Pere,KWIK TRIP,91,Kwik Trip,920-339-4652,2618 Monroe Rd,7/13/2015,WI,44.453741,-87.995417,1,rooftop,2618,Monroe Rd,,,De Pere,WI,Brown County,54115,US,Statewide
+1509,De Pere,KWIK TRIP,91,Kwik Trip #105,920-983-0324,2746 Freedom Rd,12/5/2018,WI,44.386652,-88.166892,1,rooftop,2746,Freedom Rd,,,De Pere,WI,Brown County,54115,US,Statewide
+1513,Desoto,MOBIL,91,Pronto,608-648-3711,10110 Great River Rd,5/22/2014,WI,43.421739,-91.199254,0.8,rooftop,10110,State Hwy 35,,,De Soto,WI,Crawford County,54624,US,Crawford
+1518,Downsville,MOBIL,87,Wik's Repair,715-664-8349,E4486 County Rd C,3/29/2013,WI,44.774434,-91.93369,1,rooftop,E4486,County Rd C,,,Menomonie,WI,Dunn County,54751,US,Statewide
+1520,Dundee,EXXON,91,Dundee Exxon,,N3006 Hwy 67,7/23/2019,WI,43.648648,-88.181187,1,rooftop,N3006,Hwy 67,,,Campbellsport,WI,Fond Du Lac County,53010,US,Fond Du Lac
+1523,Durand,SHELL,91,Shell,715-672-5125,610 Us Hwy 10 E,8/24/2016,WI,44.633065,-91.951518,1,rooftop,610,Hwy 10,,,Durand,WI,Pepin County,54736,US,Statewide
+1529,East Troy,SHELL,91,East Troy Shell,262-642-4624,2526 E Main St,6/21/2021,WI,42.791559,-88.391084,1,rooftop,2526,Main St,,,East Troy,WI,Walworth County,53120,US,Walworth
+1530,East Troy,KWIK TRIP,91,Kwik Trip,262-642-1409,1880 County Rd E S,8/31/2019,WI,42.792925,-88.387889,1,rooftop,1880,County Rd Es,,,East Troy,WI,Walworth County,53120,US,Statewide
+1551,Edgar,CENEX,91,Cenex Mart,,Hwy 29 & C.Rd. H,3/6/2014,WI,44.945477,-90.140137,0.6,street_center,,State Highway 29,,,Edgar,WI,Marathon County,54426,US,TIGER/Line® dataset from the US Census Bureau
+1554,Edgerton,SHELL,91,Carl's Shell,608-884-4988,11180 Goede Rd.,6/21/2017,WI,42.835649,-89.024326,0.9,rooftop,11180,N Goede Rd,,,Edgerton,WI,Rock County,53534,US,Rock
+1556,Edgerton,MOBIL,91,Mobil,608-884-9310,581 E Richardson Spgs,4/20/2016,WI,42.833111,-89.02469,1,rooftop,581,E Richardson Springs Rd,,,Edgerton,WI,Rock County,53534,US,Rock
+1562,Elkhorn,BP,91,Lafayette Fuel Plaza,,W4052 Wi Hwy 11,3/2/2019,WI,42.692418,-88.498833,0.9,nearest_rooftop_match,W4050,Hwy 11,,,Elkhorn,WI,Walworth County,53121,US,Statewide
+1563,Elkhorn,BP,91,Lockhart's,262-742-2451,N6424 Us Hwy 12,6/24/2015,WI,42.725307,-88.542131,1,rooftop,N6424,Hwy 12,,,Elkhorn,WI,Walworth County,53121,US,Statewide
+1565,Elkhorn,UNBRANDED,91,Shaver's General Store,262-723-6333,N5495 Hwy 120,10/26/2019,WI,42.69106,-88.404859,1,rooftop,N5495,Hwy 120,,,Elkhorn,WI,Walworth County,53121,US,Statewide
+1570,Endeavor,BP,,Gohl Post,608-587-2351,N1777 County Rd Cx,8/14/2020,WI,43.702851,-89.465905,1,rooftop,N1777,County Rd Cx,,,Endeavor,WI,Marquette County,53930,US,Statewide
+1576,Fairchild,CENEX,87,Fairchild Cenex,715-334-5901,W13007 Us Hwy 10,7/20/2013,WI,44.594396,-90.964283,0.9,range_interpolation,13007,US Hwy 10,,,Fairchild,WI,Jackson County,54741,US,TIGER/Line® dataset from the US Census Bureau
+1587,Florence,MARATHON,93,Spread Eagle Liquors,715-696-6300,549 Us Hwy 2,7/13/2018,WI,45.922207,-88.247465,1,range_interpolation,549,Us Hwy 2,,,Florence,WI,Florence County,54121,US,TIGER/Line® dataset from the US Census Bureau
+1590,Fond Du Lac,MOBIL,91,Four Brothers Service,920-273-0491,N5789 Co Rd D,9/9/2015,WI,43.751336,-88.484729,1,rooftop,N5789,County Rd D,,,Fond Du Lac,WI,Fond Du Lac County,54937,US,Fond Du Lac
+1599,Fontana,SHELL,91,Fontana Mart,262-492-8888,286 Valley View Dr,7/14/2017,WI,42.549367,-88.580253,1,rooftop,286,Valley View Dr,,,Fontana,WI,Walworth County,53125,US,Walworth
+1611,Freedom,SHELL,91,Freedom Mini Mart,,N4012 Cnty Rd E,4/28/2013,WI,44.416326,-88.464873,0.33,place,,,,,Freedom,WI,Outagamie County,54131,US,TIGER/Line® dataset from the US Census Bureau
+1612,Fremont,CITGO,90,Fremont Travel Plaza,920-446-3344,E7487 Hwy 110,11/15/2013,WI,44.2597,-88.850915,1,rooftop,E7487,Hwy 110,,,Fremont,WI,Waupaca County,54940,US,Waupaca
+1613,Friendship,BP,91,Bp,608-339-2218,1610 Hwy 13,7/26/2015,WI,44.011326,-89.821687,1,range_interpolation,1610,13th Ct,,,Friendship,WI,Adams County,53934,US,TIGER/Line® dataset from the US Census Bureau
+1623,Gratiot,FS,93,Fs Fast Stop,608-922-3381,10360 State Hwy. 11,3/14/2020,WI,42.580134,-90.02305,0.9,range_interpolation,10360,State Hwy 11,,,Gratiot,WI,Lafayette County,53541,US,TIGER/Line® dataset from the US Census Bureau
+1650,Greenville,CENEX,91,Greenville Ace Hardware,920-659-4950,N1878 Municipal Dr,5/21/2020,WI,44.30826,-88.53657,1,rooftop,N1878,Municipal Dr,,,Greenville,WI,Outagamie County,54942,US,Outagamie
+1652,Greenville,CENEX,87,Greenville Cenex,920-757-5792,W1675 Greenville Dr,8/21/2016,WI,44.301697,-88.539358,0.9,range_interpolation,1675,Greenville Dr,,,Greenville,WI,Outagamie County,54942,US,TIGER/Line® dataset from the US Census Bureau
+1653,Greenville,SHELL,91,Shell,920-757-7790,W6318 Wisconsin Ave,9/3/2016,WI,44.273363,-88.507957,1,rooftop,W6318,Wisconsin Ave,,,Greenville,WI,Outagamie County,54942,US,Outagamie
+1654,Greenwood,UNBRANDED,93,Cenex,,414 Main St,3/21/2013,WI,44.76244,-90.597813,0.9,rooftop,414,S Main St,,,Greenwood,WI,Clark County,54437,US,Statewide
+1659,Hartford,CITGO,91,K-Stop,262-629-1990,W346 Luedtke Ln,7/23/2018,WI,43.422255,-88.413388,1,rooftop,W346,Luedtke Ln,,,Hartford,WI,Dodge County,53027,US,Dodge
+1663,Hayward,UNBRANDED,87 91,D&D Log Cabin,715-634-4213,14293 W Co Rd K,12/4/2015,WI,45.913908,-91.407837,0.86,nearest_rooftop_match,14311,W County Rd K,,,Hayward,WI,Sawyer County,54843,US,Statewide
+1664,Hayward,UNBRANDED,89 91,Happy Hooker Bait & Tackle,715-462-3984,12272 N Upper A Rd,7/26/2015,WI,46.076063,-91.195946,1,rooftop,12272,N Upper A Rd,,,Hayward,WI,Sawyer County,54843,US,Statewide
+1667,Hayward,HOLIDAY,91,Holiday #36,715-634-4388,10478 Hwy 27,5/11/2016,WI,46.012369,-91.483719,1,range_interpolation,10478,State Rd 27,,,Hayward,WI,Sawyer County,54843,US,TIGER/Line® dataset from the US Census Bureau
+1675,Hixton,CENEX,87 91,Cheesehut - Cenex,,141 Interstate Rd N,11/8/2017,WI,44.383594,-91.010669,1,range_interpolation,141,Interstate Rd N,,,Hixton,WI,Jackson County,54635,US,TIGER/Line® dataset from the US Census Bureau
+1676,Hixton,CENEX,87,Federation Coop,715-984-2419,N15681 Hwy 121,3/18/2017,WI,44.40376,-91.044171,0.33,place,,,,,Hixton,WI,Jackson County,54635,US,TIGER/Line® dataset from the US Census Bureau
+1677,Hixton,CLARK,91,Hixton Travel Plaza,715-386-3281,150 Interstate Rd,3/4/2014,WI,44.384505,-91.008028,0.87,rooftop,150,Interstate Rd,,,Hixton,WI,Jackson County,54635,US,Statewide
+1678,Holcombe,UNBRANDED,87,Lk Holcombe Cnv Store,,26473 Hwy 27,1/10/2013,WI,45.226856,-91.109999,1,rooftop,26473,Hwy 27,,,Holcombe,WI,Chippewa County,54745,US,Statewide
+1684,Hudson,BP,91,Bob & Steve's Bp #17,715-381-0426,1103 Cnty Rd A,4/20/2016,WI,44.97469,-92.75687,0.33,place,,,,,Hudson,WI,St. Croix County,54016,US,TIGER/Line® dataset from the US Census Bureau
+1685,Hudson,CENEX,87 91,Burkhart Conv Store,715-386-8815,1088 Cnty Rd A,1/23/2015,WI,44.97469,-92.75687,0.33,place,,,,,Hudson,WI,St. Croix County,54016,US,TIGER/Line® dataset from the US Census Bureau
+1688,Hudson,KWIK TRIP,91,Kwik Trip,715-386-8650,2401 Crestview Dr,7/1/2014,WI,45.021451,-92.651559,0.6,street_center,,Crestview Trl,,,Hudson,WI,St. Croix County,54016,US,TIGER/Line® dataset from the US Census Bureau
+1691,Hurley,UNBRANDED,87 91,Cork Screw,715-561-5645,5619 Us Hwy 2 W,12/2/2014,WI,46.474251,-90.210951,0.99,rooftop,5619W,US 2,,,Hurley,WI,Iron County,54534,US,Iron
+1736,La Crosse,KWIK TRIP,91,Kwik Trip #816,608-788-9230,3130 State Rd,3/29/2013,WI,43.79118,-91.209812,1,rooftop,3130,State Rd,,,La Crosse,WI,La Crosse County,54601,US,La Crosse
+1741,Ladysmith,UNBRANDED,91,East Mart,715-532-6006,W8122 Edgewood Ave,3/31/2013,WI,45.473824,-91.091222,0.9,rooftop,W8122,Edgewood Ave E,,,Ladysmith,WI,Rusk County,54848,US,Statewide
+1745,Lake Delton,EXXON,91,Meadowview C Store,608-253-0215,31 Meadowview Dr,6/26/2013,WI,43.576117,-89.777137,1,rooftop,31,Meadowview Dr,,,Baraboo,WI,Sauk County,53913,US,Sauk
+1750,Lake Geneva,MOBIL,91,Mobile,262-248-2910,501 Interchange N,11/23/2019,WI,42.60511,-88.430704,1,rooftop,501,Interchange N,,,Lake Geneva,WI,Walworth County,53147,US,Walworth
+1757,Land O' Lakes,CITGO,91,Land O' Lakes Citgo,,4207 Cnty Hwy B,7/3/2013,WI,46.16134,-89.21875,0.22,place,,,,,Land O Lakes,WI,Vilas County,54540,US,TIGER/Line® dataset from the US Census Bureau
+1759,Larsen,KWIK TRIP,91,Kwik Trip,,5600 Cnty Rd M,7/3/2013,WI,44.194993,-88.688629,0.33,place,,,,,Larsen,WI,Winnebago County,54947,US,TIGER/Line® dataset from the US Census Bureau
+1760,La Valle,BP,91,Hartje Farm Home & Sports,608-985-8124,S1428a Hwy 33,7/13/2013,WI,43.5822,-90.12818,0.33,place,,,,,La Valle,WI,Sauk County,53941,US,TIGER/Line® dataset from the US Census Bureau
+1761,Lena,SHELL,91,Stiles Junction Food & Fuel,,5908 Duame Rd,5/9/2017,WI,44.887575,-88.046409,1,rooftop,5908,Duame Rd,,,Lena,WI,Oconto County,54139,US,Oconto
+1766,Lk Tomahawk,BP,91,Bp Gas Up,,7250 Bradley St,1/4/2013,WI,45.337814,-89.765239,0.33,place,,,,,Tomahawk,WI,Lincoln County,54487,US,TIGER/Line® dataset from the US Census Bureau
+1767,Lodi,MOBIL,91,All Stop Plaza,,N 1551 Sunset Dr,1/21/2013,WI,43.332098,-89.460717,1,rooftop,N1551,Sunset Dr,,,Lodi,WI,Columbia County,53555,US,Columbia
+1798,Malone,CITGO,91,Pipe Express,,N10234 Us Hwy 151,6/7/2013,WI,43.911883,-88.315318,1,rooftop,N10234,Hwy 151,,,Malone,WI,Fond Du Lac County,53049,US,Fond Du Lac
+1799,Manitowish Waters,PHILLIPS 66,91,Dietz's Service,,160 Cnty Hwy W,2/1/2015,WI,46.155097,-89.845465,0.33,place,,,,,Manitowish Waters,WI,Vilas County,54545,US,TIGER/Line® dataset from the US Census Bureau
+1803,Manitowoc,MOBIL,91,Cr Stop,920-726-4123,7416 Cnty Rd C R,8/8/2016,WI,44.009739,-87.718472,0.9,rooftop,7416,County Rd Cir,,,Manitowoc,WI,Manitowoc County,54220,US,Manitowoc
+1809,Maple,SPUR,87 90,Ico Spur,,11450 Us Hwy 2,10/14/2019,WI,46.589422,-91.710905,1,range_interpolation,11450,US Hwy 2,,,Maple,WI,Douglas County,54854,US,TIGER/Line® dataset from the US Census Bureau
+1811,Marinette,BP,91,Blazing 7 Inc,715-735-0720,N 3900 Hwy 180,6/5/2014,WI,45.086805,-87.716311,0.33,place,,,,,Marinette,WI,Marinette County,54143,US,TIGER/Line® dataset from the US Census Bureau
+1813,Marinette,SHELL,91,Shell,,W1390 Old Peshtigo Rd,8/22/2012,WI,45.079557,-87.664613,1,rooftop,W1390,Old Peshtigo Rd,,,Marinette,WI,Marinette County,54143,US,Statewide
+1835,Menasha,KWIK TRIP,91,Kwik Trip,,1870 Us Hwy 10,4/26/2013,WI,44.207306,-88.347997,0.6,street_center,,State Hwy 114,,,Menasha,WI,Calumet County,54952,US,TIGER/Line® dataset from the US Census Bureau
+1839,Menomonie,CENEX,91,Farm Union,715-235-1166,2100 Hwy B,4/20/2016,WI,44.867809,-91.943198,0.33,place,,,,,Menomonie,WI,Dunn County,54751,US,TIGER/Line® dataset from the US Census Bureau
+1842,Menomonie,FLEET FARM,89 91,Mills Fleet Farm,,2003 Us Hwy 12,7/30/2015,WI,44.905488,-91.938113,1,rooftop,2003,Hwy 12 W,,,Menomonie,WI,Dunn County,54751,US,Statewide
+1847,Merrill,BP,91,Hwy 51 Truck Stop,715-536-1912,N357 Brandenburg Ave,6/26/2013,WI,45.129085,-89.638269,1,rooftop,N357,Brandenburg Ave,,,Merrill,WI,Lincoln County,54452,US,Lincoln
+1853,Merrimac,MOBIL,91,Lake Side General Store,608-493-2019,E12965 Hwy 78,7/5/2015,WI,43.372786,-89.677301,0.78,rooftop,E12965,Sth 78,,,Merrimac,WI,Sauk County,53561,US,Statewide
+1864,Mindoro,CENEX,87,Mindoro Country Store,608-857-3414,N8319 Hwy 108,6/23/2015,WI,44.023402,-91.102015,0.9,range_interpolation,8319,State Rd 108,,,Mindoro,WI,La Crosse County,54644,US,TIGER/Line® dataset from the US Census Bureau
+1875,Mischicot,CENEX,89,Country Visions Coop,920-755-4800,114 E Main St,7/19/2014,WI,42.513649,-88.484322,0.22,place,,,,,Zenda,WI,Walworth County,53195,US,TIGER/Line® dataset from the US Census Bureau
+1876,Mondovi,CENEX,91,Countryside Co-Op,,801 E Main St,11/26/2012,WI,44.568536,-91.658125,1,rooftop,801,E Main St,,,Mondovi,WI,Buffalo County,54755,US,Statewide
+1890,Mount Calvary,CITGO,91,B&B Express,,N6714 County Rd W,6/7/2013,WI,43.783913,-88.251666,1,rooftop,N6714,County Rd W,,,Mount Calvary,WI,Fond Du Lac County,53057,US,Fond Du Lac
+1893,Mt Horeb,CENEX,91,Premier Coop,608-437-7777,1225 County Hwy Id,7/5/2014,WI,43.00861,-89.73846,0.33,place,,,,,Mount Horeb,WI,Dane County,53572,US,TIGER/Line® dataset from the US Census Bureau
+1896,Nashville,CENEX,91,Cenex,808-338-8489,608 E Division St,6/27/2017,WI,43.197674,-88.717689,1,rooftop,608,E Division St,,,Watertown,WI,Dodge County,53098,US,Dodge
+1897,Necedah,UNBRANDED,91,Buckhorn Store Auto,608-565-2425,N8414 Co Rd G,3/14/2014,WI,43.94786,-90.012395,1,rooftop,N8414,County Rd G,,,Necedah,WI,Juneau County,54646,US,Juneau
+1898,Necedah,KWIK TRIP,91,Kwik Trip #399,608-565-7744,100 W 3rd At Main,3/29/2013,WI,44.026187,-90.073696,0.7,intersection,,N Main St,,,Necedah,WI,Juneau County,54646,US,TIGER/Line® dataset from the US Census Bureau
+1904,Neenah,PHILLIPS 66,91,Mccarthy's Mart,,8510 Hwy 76,12/19/2012,WI,44.200218,-88.543969,1,rooftop,8510,State Rd 76,,,Neenah,WI,Winnebago County,54956,US,Winnebago
+1908,Neillsville,UNBRANDED,100,Neillsville Muni A/P,715-387-2211,N3770 Miller Ave,11/19/2014,WI,44.555332,-90.517176,1,rooftop,N3770,Miller Ave,,,Neillsville,WI,Clark County,54456,US,Statewide
+1909,Nelson,MOBIL,91,Nelson Mobil Mart,715-673-4344,110 Hwy 25,1/7/2014,WI,44.473584,-91.910518,0.33,place,,,,,Nelson,WI,Buffalo County,54756,US,TIGER/Line® dataset from the US Census Bureau
+1912,New Franken,MOBIL,91,New Franken Mobil,,5112 Algoma Rd,7/1/2014,WI,44.538074,-87.825459,1,rooftop,5112,Algoma Rd,,,New Franken,WI,Brown County,54229,US,Statewide
+1916,New Lisbon,BP,93,Cedar's Springs Gas,608-847-7676,N7001 Hwy 58,5/25/2015,WI,43.911145,-90.165918,0.33,place,,,,,New Lisbon,WI,Juneau County,53950,US,TIGER/Line® dataset from the US Census Bureau
+1922,New Richmond,BP,91,Bob & Steve's Bp #18,715-246-0821,1893 Us Hwy 63,4/19/2016,WI,45.135802,-92.382819,1,rooftop,1893,Hwy 63,,,New Richmond,WI,St. Croix County,54017,US,St Croix
+1927,Oconomowoc,MOBIL,91,Concord General Store,262-593-5400,N6485 Cty Rd F,9/11/2020,WI,43.076583,-88.590212,1,rooftop,N6485,County Rd F,,,Oconomowoc,WI,Jefferson County,53066,US,Jefferson
+1935,Onalaska,KWIK TRIP,91,Kwik Trip #350,608-779-9364,9421 Hwy 16,3/29/2013,WI,43.872925,-91.189818,0.8,rooftop,9421,State Road 16,,,Onalaska,WI,La Crosse County,54650,US,La Crosse
+1938,Onalaska,KWIK TRIP,91,Kwik Trip #494,608-783-4422,W6782 Abbey Rd.,3/29/2013,WI,43.922953,-91.24476,1,rooftop,W6782,Abbey Rd,,,Onalaska,WI,La Crosse County,54650,US,Statewide
+1959,Oshkosh,UNBRANDED,91,Ole + Lenas Fuel,920-765-0276,5724 Green Valley Ct,6/11/2017,WI,44.099949,-88.543936,1,rooftop,5724,Green Valley Ct,,,Oshkosh,WI,Winnebago County,54904,US,Statewide
+1963,Oshkosk,BP,91,R Store,920-232-7607,708 West Murdock Street,9/13/2020,WI,44.039483,-88.546391,1,rooftop,708,W Murdock Ave,,,Oshkosh,WI,Winnebago County,54901,US,Winnebago
+1971,Palmyra,UNBRANDED,87 100,Palmyra Muni Airport,262-495-4342,1125 Hwy 26,11/19/2014,WI,43.183358,-88.729839,0.68,nearest_rooftop_match,1115,S Church St,,,Watertown,WI,Jefferson County,53094,US,Jefferson
+1973,Pearson,MARATHON,91,Schaefers Country Store,715-484-5804,N10304 Hwy 55,11/16/2013,WI,45.36413,-89.0165,0.33,place,,,,,Pearson,WI,Langlade County,54462,US,TIGER/Line® dataset from the US Census Bureau
+1975,Pell Lake,MOBIL,91,Pell Lake Mobil,262-279-6330,1203 N Park Rd,8/21/2016,WI,42.534592,-88.364296,0.8,rooftop,N1203,Park Rd,,,Genoa City,WI,Walworth County,53128,US,Walworth
+1978,Phelps,MOBIL,91,Phelps Conv Center,,2518 Hwy 17 S,3/23/2013,WI,46.062795,-89.0894,0.6,street_center,,Hwy 17,,,Phelps,WI,Vilas County,54554,US,TIGER/Line® dataset from the US Census Bureau
+1981,Phillips,UNBRANDED,91,Price Cnty Airport,,N1205 Airport Rd,1/21/2013,WI,45.724607,-90.370984,0.33,place,,,,,Phillips,WI,Price County,54555,US,TIGER/Line® dataset from the US Census Bureau
+1983,Phlox,UNBRANDED,91,Kuhr's Kountry Store,,W7308 Hwy 47,10/3/2011,WI,45.051572,-89.018185,0.9,range_interpolation,7308,State Hwy 47,,,Phlox,WI,Langlade County,54464,US,TIGER/Line® dataset from the US Census Bureau
+1985,Pittsville,CENEX,87,Cenex Public,715-884-2501,8315 Hwy 13,5/7/2013,WI,44.626171,-90.059017,0.52,street_center,,US 10,,,Milladore,WI,Wood County,54454,US,TIGER/Line® dataset from the US Census Bureau
+2000,Poland,BP,91,Little Generals Bp,,3074 County Rd T,5/7/2013,WI,44.444361,-87.826549,0.8,rooftop,3074,S County Rd T,,,Green Bay,WI,Brown County,54311,US,Brown
+2001,Portage,BP,91,Cascade Quick Mart,608-742-0905,W10620 Wi-33,3/21/2021,WI,43.510474,-89.528766,1,rooftop,W10620,33,,,Portage,WI,Columbia County,53901,US,Statewide
+2006,Port Wing,SPUR,91,Johnson's Store,715-774-3658,8875 Hwy 13,9/8/2013,WI,46.77466,-91.38657,0.33,place,,,,,Port Wing,WI,Bayfield County,54865,US,TIGER/Line® dataset from the US Census Bureau
+2008,Pound,FS,87,Meatski's,920-897-3392,W11124 Hwy 64,7/20/2013,WI,45.117544,-87.977136,0.33,place,,,,,Pound,WI,Marinette County,54161,US,TIGER/Line® dataset from the US Census Bureau
+2017,Prairie Du Chien,CITGO,91,The Port Citgo,608-326-0555,38773 Us Hwy 18,9/19/2015,WI,43.006167,-91.055646,1,rooftop,38773,US Hwy 18,,,Prairie Du Chien,WI,Crawford County,53821,US,Crawford
+2020,Prescott,BP,91,Bob & Steve's Bp #10,715-262-3000,302 N Lake St,4/20/2016,WI,44.750013,-92.802759,0.8,rooftop,302,Lake St,,,Prescott,WI,Pierce County,54021,US,Pierce
+2024,Princeton,BP,91,Fox River Travel Plaza,,811 Old Green Lk Rd,11/26/2012,WI,42.6896,-89.323929,0.59,nearest_rooftop_match,751,N Old Hwy,,,Brodhead,WI,Rock County,53520,US,Rock
+2035,Reedsville,CENEX,87 91,Reedsville Townmart,,525 Hwy 10,6/12/2012,WI,44.156555,-87.959669,1,range_interpolation,525,US Hwy 10,,,Reedsville,WI,Manitowoc County,54230,US,TIGER/Line® dataset from the US Census Bureau
+2042,Rice Lake,KWIK TRIP,91,Kwik Trip,,S Main,7/22/2012,WI,45.495968,-91.733187,0.87,street_center,,S Main St,,,Rice Lake,WI,Barron County,54868,US,TIGER/Line® dataset from the US Census Bureau
+2045,Richland Center,CENEX,91,Boaz Country Store,,17190 Hwy 14,10/3/2012,WI,43.3406,-90.525104,1,rooftop,17190,US Hwy 14,,,Richland Center,WI,Richland County,53581,US,Richland
+2046,Richland Center,MOBIL,91,Richland Mobil Mart,608-647-5580,1001 Hwy 14 W,7/27/2015,WI,43.320115,-90.372171,1,rooftop,1001,US Hwy 14 E,,,Richland Center,WI,Richland County,53581,US,Richland
+2047,Ridgeland,CENEX,87,Lakeland Co Op,715-949-1145,318 Railroad St,7/20/2015,WI,45.206776,-91.893117,1,rooftop,318,Railroad St,,,Ridgeland,WI,Dunn County,54763,US,Dunn
+2053,River Falls,UNBRANDED,91,Kwik Trip,715-425-1386,1238 N Main,6/28/2014,WI,44.872624,-92.621014,1,rooftop,1238,N Main St,,,River Falls,WI,St. Croix County,54022,US,St Croix
+2057,Rome,BP,91,Pritzl's Trading Post,715-325-2281,251 Hwy 13,6/12/2017,WI,0,0,0,,,,,,,,,,,
+2058,Rosholt,MOBIL,91,Stop & Go Food Mart,715-677-4616,281 E Grand Ave,11/5/2015,WI,44.627297,-89.302945,1,rooftop,281,Grand Ave E,,,Rosholt,WI,Portage County,54473,US,Portage
+2064,Sayner,MOBIL,91,Sayner Mobile,715-542-2024,277 Main St,6/20/2014,WI,45.988686,-89.531956,0.9,range_interpolation,277,Main St,,,Mellen,WI,Vilas County,54546,US,TIGER/Line® dataset from the US Census Bureau
+2067,Schofield,UNBRANDED,91,The Store,715-345-5050,6606 C.R. J,3/15/2015,WI,44.896331,-89.504509,1,rooftop,6606,County Rd J,,,Schofield,WI,Marathon County,54476,US,Marathon
+2081,Silvercliff,BP,91,Red Pine,715-757-2180,W13315 County Rd C,11/20/2014,WI,43.556942,-88.025093,0.18,place,,,,,Silver Creek,WI,Sheboygan County,53075,US,TIGER/Line® dataset from the US Census Bureau
+2085,Sister Bay,SHELL,91,Bhirdos Shell,,10748 N Bay Shore Dr,8/22/2012,WI,45.192712,-87.118523,1,rooftop,10748,N Bay Shore Dr,,,Sister Bay,WI,Door County,54234,US,Door
+2086,Sister Bay,BP,91,Country Walk Bp,920-854-5641,2439 S Bay Shore Dr,6/10/2018,WI,45.185241,-87.128425,1,rooftop,2439,S Bay Shore Dr,,,Sister Bay,WI,Door County,54234,US,Door
+2087,Sister Bay,UNBRANDED,87 91,Sister Bay Automotive,920-854-2374,10901 N Bay Shore Dr,11/19/2014,WI,45.200239,-87.118885,1,range_interpolation,10901,N Bay Shore Dr,,,Sister Bay,WI,Door County,54234,US,TIGER/Line® dataset from the US Census Bureau
+2089,Sister Bay,UNBRANDED,89,Yacht Works,,10967 N Bay Shore Dr,10/8/2012,WI,45.197803,-87.119042,1,range_interpolation,10967,N Bay Shore Dr,,,Sister Bay,WI,Door County,54234,US,TIGER/Line® dataset from the US Census Bureau
+2092,South Wayne,CENEX,87,South Wayne Mart,608-439-5900,210 W. St. Hwy 11,12/23/2018,WI,42.579926,-89.931751,0.33,place,,,,,South Wayne,WI,Lafayette County,53587,US,TIGER/Line® dataset from the US Census Bureau
+2093,So Wayne,UNBRANDED,91,Pecatonica Coop Oil,608-439-5301,201 Galena,5/15/2018,WI,43.612528,-88.272017,0.27,place,,,,,Wayne,WI,Washington County,53010,US,TIGER/Line® dataset from the US Census Bureau
+2094,Sparta,KWIK TRIP,91,Kwik Trip Store #317,,10219 Hwy 16,8/22/2012,WI,43.926605,-90.913336,0.6,street_center,,State Hwy 16,,,Sparta,WI,La Crosse County,54656,US,TIGER/Line® dataset from the US Census Bureau
+2096,Spooner,UNBRANDED,87,A & H Country Market,715-635-8429,2398 Co Rd A,4/22/2019,WI,45.943809,-92.104177,1,rooftop,2398,County Rd A,,,Spooner,WI,Burnett County,54801,US,Burnett
+2099,Spring Green,SHELL,91,Rite Way Plaza,608-588-2465,E4905 Us Hwy 14,7/20/2013,WI,43.189102,-90.073344,1,rooftop,E4905,US Highway 14,,,Spring Green,WI,Sauk County,53588,US,Sauk
+2103,Star Prairie,MARATHON,92,Horse Creek Store,715-294-3410,2069 County Rd X,4/2/2013,WI,45.196909,-92.530754,0.3,place,,,,,Star Prairie,WI,St. Croix County,54026,US,TIGER/Line® dataset from the US Census Bureau
+2109,Stetsonville,CLARK,93,Stetsonville Oil,,115 S Hwy 13,8/8/2018,WI,45.076878,-90.314999,0.87,range_interpolation,115,State Hwy 13,,,Stetsonville,WI,Taylor County,54480,US,TIGER/Line® dataset from the US Census Bureau
+2113,Stevens Point,FLEET FARM,89 91,Mill's Fleet Farm,,5590 Us Hwy 10 E,11/16/2018,WI,44.525237,-89.511022,1,rooftop,5590,US Highway 10 E,,,Stevens Point,WI,Portage County,54482,US,Portage
+2114,Stevens Point,MOBIL,91,R-Store #25,715-345-9839,5485 Us Hwy 10 E,8/30/2014,WI,44.522763,-89.515032,1,rooftop,5485,US Highway 10 E,,,Stevens Point,WI,Portage County,54482,US,Portage
+2116,St. Germain,UNBRANDED,91,Little Saint Fuel Express,,102 Hwy 70e,8/22/2012,WI,45.90162,-89.48736,0.33,place,,,,,Saint Germain,WI,Vilas County,54558,US,TIGER/Line® dataset from the US Census Bureau
+2118,Stone Lake,BP,91,Stone Lake Bp,715-865-5110,6317 Hwy 27,6/4/2014,WI,45.863776,-91.502565,0.87,range_interpolation,6317,State Hwy 27,,,Stone Lake,WI,Sawyer County,54876,US,TIGER/Line® dataset from the US Census Bureau
+2121,Stoughton,UNBRANDED,89,Quam's Marina,608-873-3366,1896 Barber Dr,11/19/2014,WI,42.950493,-89.271012,1,rooftop,1896,Barber Dr,,,Stoughton,WI,Dane County,53589,US,Dane
+2124,Strum,CENEX,91,Countryside Co-Op,,107 W Balsam St,10/13/2012,WI,44.556946,-91.393039,1,rooftop,107,W Balsam St,,,Strum,WI,Trempealeau County,54770,US,Trempealeau
+2131,Sugar Camp,MARATHON,91,Sugar Camp Midway,715-272-1101,6345 Hwy 17,3/6/2014,WI,45.77244,-89.328478,1,rooftop,6345,Highway 17,,,Rhinelander,WI,Oneida County,54501,US,Oneida
+2133,Summit Lake,BP,91,B P,715-275-3388,N9521 Us Hwy 45,7/20/2013,WI,45.373439,-89.193652,0.9,range_interpolation,9521,US Hwy 45,,,Summit Lake,WI,Langlade County,54485,US,TIGER/Line® dataset from the US Census Bureau
+2145,Suring,UNBRANDED,91,Kelly Lake Kwik Stop,920-842-2652,9407 St Bernadette Rd,10/10/2016,WI,45.014718,-88.234091,1,rooftop,9407,St Bernadette Rd,,,Suring,WI,Oconto County,54174,US,Oconto
+2147,Suring,SHELL,93,Rhode's Junction,,12470 Hwy 64,3/23/2013,WI,45.111843,-88.418694,0.33,place,,,,,Suring,WI,Oconto County,54174,US,TIGER/Line® dataset from the US Census Bureau
+2160,Tomahawk,BP,91,Cracker Barrel,715-453-5888,N11790 County Rd L,3/30/2013,WI,45.542977,-89.718321,1,rooftop,N11790,County Rd L,,,Tomahawk,WI,Lincoln County,54487,US,Lincoln
+2163,Tomahawk,UNBRANDED,91,Tilted Loon Saloon,715-453-2768,1969 County Hwy L,5/24/2020,WI,45.559316,-89.714217,1,rooftop,1969,County Rd L,,,Tomahawk,WI,Oneida County,54487,US,Statewide
+2166,Trego,MOBIL,91,Trego Travel Center?,715-635-4933,W5741 Cnty Hwy E,4/20/2016,WI,45.966368,-91.886372,0.33,place,,,,,Trego,WI,Washburn County,54888,US,TIGER/Line® dataset from the US Census Bureau
+2168,Tripoli,BP,91,Tri-Mart,715-564-2440,W11069 Us Hwy 8,7/5/2014,WI,45.554699,-89.990899,1,rooftop,W11069,US Hwy 8,,,Tripoli,WI,Lincoln County,54564,US,Lincoln
+2170,Turtle Lake,HOLIDAY,91,Holiday,715-986-4401,638 Us Hwy 8,1/15/2017,WI,45.395021,-92.157256,1,rooftop,638,US Hwy 8,,,Turtle Lake,WI,Polk County,54889,US,Polk
+2178,Verona,KWIK TRIP,91,Kwik Trip,800-627-3999,7583 Mineral Point Rd,1/16/2015,WI,43.059945,-89.576022,0.79,nearest_rooftop_match,7587,W Mineral Point Rd,,,Verona,WI,Dane County,53593,US,Statewide
+2184,Viroqua,MOBIL,93,Viroqua Mobil Mart,,625 N Main,3/12/2013,WI,43.561299,-90.888966,1,range_interpolation,625,N Main St,,,Viroqua,WI,Vernon County,54665,US,TIGER/Line® dataset from the US Census Bureau
+2193,Washington Island,UNBRANDED,87 89 91,Death's Door Fuel Llc,920-847-3092,2006 Lobdell Pt Rd,8/17/2018,WI,45.356431,-86.935962,1,rooftop,2006,Lobdell Point Rd,,,Washington Island,WI,Door County,54246,US,Door
+2196,Watertown,BP,91,Borderline,920-262-7310,N549 Boulder Rd,11/30/2013,WI,43.213883,-88.714139,1,rooftop,N549,Boulder Rd,,,Watertown,WI,Dodge County,53098,US,Dodge
+2200,Watertown,KWIK TRIP,91,Kwik Trip #658,,900 W Main,3/19/2011,WI,43.19814,-88.74267,1,rooftop,900,W Main St,,,Watertown,WI,Dodge County,53098,US,Dodge
+2202,Watertown,CITGO,87 91,Steve's Southside Citgo,,1021 S. Third,6/7/2013,WI,43.185654,-88.723779,0.9,rooftop,1021,S 3rd St,,,Watertown,WI,Jefferson County,53094,US,Jefferson
+2203,Waumandee,UNBRANDED,87,Countryside Co Op,608-626-2111,S1853 County Rd U,5/10/2016,WI,44.325897,-91.688377,1,rooftop,S1853,County Rd U,,,Cochrane,WI,Buffalo County,54622,US,Statewide
+2205,Waunakee,KWIK TRIP,91,Kwik Trip,608-249-9637,5420 Willow Rd,5/17/2018,WI,43.150927,-89.414278,1,rooftop,5420,Willow Rd,,,Waunakee,WI,Dane County,53597,US,Dane
+2208,Waupaca,CENEX,87 91,Chain Cenex,715-258-5153,N2479 Cnty Rd Q Q,9/17/2018,WI,44.35803,-89.08595,0.33,place,,,,,Waupaca,WI,Waupaca County,54981,US,TIGER/Line® dataset from the US Census Bureau
+2210,Waupaca,FLEET FARM,89 91,Fleet Farm Gas Mart,,N2541 Farm Dr,9/21/2018,WI,44.333367,-89.047094,0.9,range_interpolation,2541,Farm Dr,,,Waupaca,WI,Waupaca County,54981,US,TIGER/Line® dataset from the US Census Bureau
+2212,Waupaca,KWIK TRIP,91,Kwik Trip #888,715-258-7245,106 Cnty Rd Q Q,10/15/2014,WI,44.35803,-89.08595,0.33,place,,,,,Waupaca,WI,Waupaca County,54981,US,TIGER/Line® dataset from the US Census Bureau
+2227,Wausau,BP,91,R-Store,715-845-1140,2100 N Mountain Rd,2/5/2020,WI,44.933381,-89.662082,1,rooftop,2100,N Mountain Rd,,,Wausau,WI,Marathon County,54401,US,Statewide
+2232,Wausau,UNBRANDED,92,Sunset Store,,10405 Cr Z At Cr J,6/23/2012,WI,44.988492,-89.492701,1,rooftop,10405,County Rd Z,,,Wausau,WI,Marathon County,54403,US,Statewide
+2234,Wausau,UNBRANDED,91,The Store #61,715-842-9778,2409 N Mountain Rd,5/22/2018,WI,44.932529,-89.666373,1,rooftop,2409,N Mountain Rd,,,Wausau,WI,Marathon County,54401,US,Statewide
+2236,Wausau,UNBRANDED,91,Wausau Dwntwn A/P,,725 Woods Plc,12/18/2012,WI,44.929397,-89.627674,1,rooftop,725,Woods Pl,,,Wausau,WI,Marathon County,54403,US,Marathon
+2238,Wautoma,SHELL,91,Shell Quick Serve,920-787-5888,W7684 Hwy 21,11/20/2014,WI,44.075321,-89.271177,0.33,place,,,,,Wautoma,WI,Waushara County,54982,US,TIGER/Line® dataset from the US Census Bureau
+2249,West Salem,KWIK TRIP,91 110,Kwik Trip #684,608-786-2412,985 Hwy 16 W,5/7/2018,WI,43.898402,-91.099952,1,rooftop,985,Hwy 16 W,,,West Salem,WI,La Crosse County,54669,US,Statewide
+2250,West Salem,UNBRANDED,87 91,Neshonoc Sports,608-786-2266,201 Hwy 16,5/7/2018,WI,43.909787,-91.079419,1,rooftop,201,Hwy 16 E,,,West Salem,WI,La Crosse County,54669,US,Statewide
+2256,Williams Bay,PHILLIPS 66,91,Lakeside 66,,156 Elkhorn Rd,8/30/2014,WI,42.580413,-88.541126,1,rooftop,156,Elkhorn Rd,,,Williams Bay,WI,Walworth County,53191,US,Walworth
+2257,Wilson,KWIK TRIP,91,Kwik Trip #603,,531 Hwy 128,11/10/2012,WI,44.935006,-92.195532,1,rooftop,531,Hwy 128,,,Wilson,WI,St. Croix County,54027,US,St Croix
+2258,Winchester,UNBRANDED,87 91,30 Point Trading Post,715-543-8550,6683 Cnty Rd W,7/16/2016,WI,46.221893,-89.897939,0.3,place,,,,,Winchester,WI,Vilas County,54557,US,TIGER/Line® dataset from the US Census Bureau
+2259,Windsor,KWIK TRIP,91,Kwik Trip,608-846-9888,6325 Pepsi Way,5/5/2013,WI,43.194095,-89.337125,1,rooftop,6325,Pepsi Way,,,Windsor,WI,Dane County,53598,US,Dane
+2262,Wisconsin Dells,BP,91,Bp,608-253-3700,2040 Us Hwy 12,9/21/2015,WI,43.618128,-89.78392,1,rooftop,2040,Wisconsin Dells Pkwy,,,Wisconsin Dells,WI,Sauk County,53965,US,Sauk
+2263,Wisconsin Dells,CITGO,91,Corner Pump,,3303 Hwy 13,5/7/2013,WI,43.774369,-89.822361,1,range_interpolation,3303,13th Ct,,,Wisconsin Dells,WI,Adams County,53965,US,TIGER/Line® dataset from the US Census Bureau
+2264,Wisconsin Dells,KWIK TRIP,91,Kwik Trip,608-254-7995,532 W Munroe Ave,6/5/2017,WI,43.588563,-89.806315,1,rooftop,532,W Munroe Ave,,,Wisconsin Dells,WI,Sauk County,53965,US,Sauk
+2265,Wisconsin Dells,SHELL,91,Uncle Dan's Shell,,911 Us Hwy 12,3/26/2012,WI,43.600214,-89.793815,1,rooftop,911,Wisconsin Dells Pkwy,,,Wisconsin Dells,WI,Sauk County,53965,US,Sauk
+2278,Wittenberg,PHILLIPS 66,91,Whitetail Crossing,715-253-2272,N7217 Us Hwy 45,4/20/2016,WI,44.853591,-89.168854,0.9,range_interpolation,7217,US Hwy 45,,,Wittenberg,WI,Shawano County,54499,US,TIGER/Line® dataset from the US Census Bureau
+2279,Wittenberg,BP,91,Wilderness Crossing Bp,715-253-2333,17256 Red Oak Ln,10/10/2017,WI,44.819923,-89.122589,0.9,rooftop,W17256,Red Oak Ln,,,Wittenberg,WI,Shawano County,54499,US,Statewide
+2281,Woodville,BP,91,Baker's Woodville B P,715-698-3600,539 Cnty Rd B,7/13/2018,WI,44.95302,-92.2913,0.33,place,,,,,Woodville,WI,St. Croix County,54028,US,TIGER/Line® dataset from the US Census Bureau
+2304,Devils Lake,SHELL,87 91,Bjornsons Travel,701-662-6600,602 Us Hwy 2 E,11/12/2016,ND,48.111247,-98.873256,0.9,nearest_rooftop_match,600,Hwy 2 W,,,Devils Lake,ND,Ramsey County,58301,US,Ramsey
+2307,Devils Lake,SINCLAIR,87 89 91,Gas Depot,701-662-2700,130 Us Hwy 2 W,3/27/2021,ND,48.101875,-98.867236,1,rooftop,130,Hwy 2 W,,,Devils Lake,ND,Ramsey County,58301,US,Ramsey
+2308,Devils Lake,HOLIDAY,91,Holiday Stationstore #189,701-662-5512,137 Us Hwy 2,9/28/2016,ND,48.102878,-98.8655,1,rooftop,137,Hwy 2 W,,,Devils Lake,ND,Ramsey County,58301,US,Ramsey
+2311,Dickinson,MOBIL,87 91,Hub C Store,701-483-3835,191 40th St W,4/5/2015,ND,46.918611,-102.787973,1,rooftop,191,40th St W,,,Dickinson,ND,Stark County,58601,US,Dickinson
+2318,Edgeley,UNBRANDED,91,Allied Energy,701-493-2266,109 Industrial Park,6/16/2020,ND,46.41198,-98.713086,0.33,place,,,,,Edgeley,ND,Lamoure County,58433,US,TIGER/Line® dataset from the US Census Bureau
+2320,Enderlin,UNBRANDED,91,City View Fuel,701-437-3835,13635 54th St. Se,6/16/2020,ND,46.63023,-97.605037,0.88,nearest_rooftop_match,13645,54th St SE,,,Enderlin,ND,Cass County,58027,US,Cass
+2334,Fargo,SIMONSON,91,Simonson,701-280-3116,3810 W Main Ave,10/24/2015,ND,46.875415,-96.843843,1,rooftop,3810,Main Ave,,,Fargo,ND,Cass County,58103,US,City of Fargo
+2350,Halliday,UNBRANDED,91,Farmers Union Oil Company,701-938-4716,211 Main St E,5/9/2021,ND,47.354306,-102.333963,0.9,range_interpolation,211,Main St,,,Glen Ullin,ND,Dunn County,58631,US,TIGER/Line® dataset from the US Census Bureau
+2353,Hazelton,AMOCO,91,Stramer's Automotive Services,701-782-4215,240 Main St.,6/16/2020,ND,46.484632,-100.278649,1,range_interpolation,240,Main St,,,Hazelton,ND,Emmons County,58544,US,TIGER/Line® dataset from the US Census Bureau
+2365,Lamoure,UNBRANDED,91,Good Oil Company,701-883-5232,10217 Highway 13,6/16/2020,ND,46.355485,-98.302493,0.6,street_center,,Hwy 13,,,Lamoure,ND,Lamoure County,58458,US,TIGER/Line® dataset from the US Census Bureau
+2366,Lawton,UNBRANDED,87,Lawton Farmers Union Oil,701-655-3514,6139 Hwy 1,8/18/2018,ND,48.302031,-98.357811,1,rooftop,6139,Hwy 1,,,Lawton,ND,Ramsey County,58345,US,Ramsey
+2373,Maxbass,CENEX,91,Enerbase Coop Resources,701-852-2501,1998 Cnty Rd 20 Nw,1/11/2018,ND,48.719452,-101.146745,0.78,range_interpolation,1998,County Rd 20,,,Lansford,ND,Bottineau County,58750,US,TIGER/Line® dataset from the US Census Bureau
+2376,Minot,FLYING J,91,Behm's Truck Stop,701-839-5061,3800 Us Hwy 2,5/8/2016,ND,48.193749,-101.224154,1,rooftop,3800,Hwy 52 S,,,Minot,ND,Ward County,58701,US,Ward
+2379,Minot,CENEX,91,Enerbase,701-852-2501,215 E Central Ave,6/2/2015,ND,48.236588,-101.289486,1,rooftop,215,Central Ave E,,,Minot,ND,Ward County,58701,US,Ward
+2385,Minto,UNBRANDED,91,Northdale Oil,701-248-3321,422 Second St,8/7/2019,ND,48.292389,-97.371637,0.9,range_interpolation,422,2nd St,,,Minto,ND,Walsh County,58261,US,TIGER/Line® dataset from the US Census Bureau
+2386,Mohall,TESORO,91,Tesoro Mohall,701-756-7294,603 E Main St,11/11/2016,ND,48.867813,-101.568149,1,range_interpolation,603,Main St,,,Mohall,ND,Renville County,58761,US,TIGER/Line® dataset from the US Census Bureau
+2389,Northwood,CENEX,87,Northwood Oil Coop,701-587-5410,401 Hwy 15 W,6/23/2016,ND,47.730274,-97.56912,0.9,nearest_rooftop_match,403,Highway 15,,,Northwood,ND,Grand Forks County,58267,US,Grand Forks
+2392,Pettibone,FARM STORE,91,Farmers Union,701-273-6615,105 1 Ave Easr,11/18/2018,ND,47.118511,-99.520667,1,range_interpolation,105,1st Ave,,,Pettibone,ND,Kidder County,58475,US,TIGER/Line® dataset from the US Census Bureau
+2393,Pick City,SPIRIT,87 91,Scott's Bait & Tackle,701-487-3343,71 E Main St,11/27/2015,ND,47.511184,-101.453866,0.6,street_center,,State Hwy 200,,,Hazen,ND,Mercer County,58545,US,TIGER/Line® dataset from the US Census Bureau
+2395,Rugby,TESORO,,Hi-Way Mvp Store,701-776-5346,209 Us Hwy 2,2/23/2017,ND,48.354847,-99.996967,1,range_interpolation,209,US Hwy 2,,,Rugby,ND,Pierce County,58368,US,TIGER/Line® dataset from the US Census Bureau
+2396,Stanley,SINCLAIR,87 91,Meier's Corner Stop,701-421-1373,6165 Hwy 8,6/5/2017,ND,48.356502,-102.396978,0.6,street_center,,State Hwy 8,,,Stanley,ND,Mountrail County,58784,US,TIGER/Line® dataset from the US Census Bureau
+2397,Stanley,CENEX,91,Pinnacle Travel Plaza,701-628-2921,8149 Highway 2,5/8/2019,ND,48.307689,-102.372912,0.6,street_center,,US Hwy 2,,,Stanley,ND,Mountrail County,58784,US,TIGER/Line® dataset from the US Census Bureau
+2398,Sterling,CENEX,87 91,Tri-Energy Cooperative,701-387-4651,31346 27th Ave Ne,6/16/2020,ND,46.830924,-100.28984,1,rooftop,31346,NE 27th Ave,,,Sterling,ND,Burleigh County,58572,US,City of Bismarck
+2399,Thompson,UNBRANDED,87,Northdale Oil,701-554-2469,1247 Seventh Ave Ne,8/7/2019,ND,47.773259,-97.098102,1,rooftop,1247,7th Ave NE,,,Thompson,ND,Grand Forks County,58278,US,Grand Forks
+2400,Tioga,CENEX,91,Pinnacle Travel Plaza,701-664-4020,6714 Highway 40 South,5/8/2019,ND,48.389247,-102.927613,1,rooftop,6714,Hwy 40,,,Tioga,ND,Williams County,58852,US,Williams
+2410,West Fargo,CENEX,87 91,West Fargo Truck Stop,701-371-1937,1021 W Main Ave,8/5/2016,ND,46.876533,-96.917228,0.9,rooftop,1021,Main Ave W,,,West Fargo,ND,Cass County,58078,US,Cass
