@@ -148,7 +148,7 @@ widgetframe::frameWidget(altmap)
 
 ```
 
-The entire database of non-ethanol offering stations is also searchable via the following table:
+The 5-state [pure-gas.org](https://www.pure-gas.org/) database of stations is also searchable via the following table:
 
 ```{r missingstations, warning=FALSE, echo=FALSE}
 
