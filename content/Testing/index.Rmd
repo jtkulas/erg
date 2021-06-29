@@ -11,9 +11,6 @@ bibliography: packages.bib
 <p align="center">
 [![](scvc.PNG)](http://www.stcroixvalleycorvettes.com/)
 </p>
-<p align="center">
-`r emo::ji("warning")` `r emo::ji("warning")` `r emo::ji("skull_and_crossbones")` **NEVER** use this map *while driving* `r emo::ji("face_with_symbols_on_mouth")` `r emo::ji("warning")` `r emo::ji("warning")` 
-</p>
 
 # Ethanol-free petrol map 
 
@@ -95,7 +92,11 @@ missing <- missing[,2:9]
 
 ```
 
-The map below contains information from `r nrow(states)` stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from [pure-gas.org](https://www.pure-gas.org/), but also relies on latitude and longitude *estimates* generated from physical addresses via the `r icons::fontawesome("r-project")` [@R-base] package `tidygeocoder` [@R-tidygeocoder] version `r packageVersion("tidygeocoder")` as well as [geocodio](https://www.geocod.io/). The "visual dots" are only to be referenced as general vicinity indicators. The physical addresses, however, should be considered to be accurate as per [pure-gas.org](https://www.pure-gas.org/):
+The map below contains information from `r (nrow(states) - nrow(missing))` stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from [pure-gas.org](https://www.pure-gas.org/), but also relies on latitude and longitude *estimates* generated from physical addresses via the `r icons::fontawesome("r-project")` [@R-base] package `tidygeocoder` [@R-tidygeocoder] version `r packageVersion("tidygeocoder")` as well as [geocodio](https://www.geocod.io/). The "visual dots" are only to be referenced as general vicinity indicators. The physical addresses, however, should be considered to be accurate as per [pure-gas.org](https://www.pure-gas.org/):
+
+<p align="center">
+`r emo::ji("warning")` `r emo::ji("warning")` `r emo::ji("skull_and_crossbones")` **NEVER** use this map *while driving* `r emo::ji("face_with_symbols_on_mouth")` `r emo::ji("warning")` `r emo::ji("warning")` 
+</p>
 
 ```{r map, echo=FALSE, warning=FALSE, include=FALSE}
 
@@ -152,8 +153,10 @@ The 5-state [pure-gas.org](https://www.pure-gas.org/) database of stations is al
 
 ```{r missingstations, warning=FALSE, echo=FALSE}
 
+table <- states[ which(!is.na(states$lat) & !is.na(states$long)), ]
+
 library(DT)
-widgetframe::frameWidget(datatable(states[c(5,7,2,9,4,6)], rownames=FALSE, options = list(pageLength = 5)))  
+widgetframe::frameWidget(datatable(table[c(5,7,2,9,4,6)], rownames=FALSE, options = list(pageLength = 5)))  
 
 ```
 
