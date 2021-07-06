@@ -7,8 +7,9 @@ categories: []
 tags: [R]
 ---
 
-The primary erg product is an [engagement survey](https://bookdown.org/kulasj/engagetech/). We are also working on an `r icons::fontawesome("r-project")` package to capture online survey responses. 
-## Engagement survey
+The primary erg product is an [engagement survey](https://bookdown.org/kulasj/engagetech/). We are also working on an `r icons::fontawesome("r-project")` package to capture online survey responses.  
+
+## Engagement survey `r emo::ji("woman_dancing")`
 
 ![](engage.PNG)
 
@@ -44,7 +45,7 @@ widgetframe::frameWidget(norms)
 
 ```
 
-## `r icons::fontawesome("r-project")`-driven processes
+## `r icons::fontawesome("r-project")`-driven processes `r emo::ji("rocket")`
 
 ...long term we will help organizations transition to full `r icons::fontawesome("r-project")`-enabled workflows 
 
