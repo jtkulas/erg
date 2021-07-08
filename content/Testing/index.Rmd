@@ -149,14 +149,16 @@ widgetframe::frameWidget(altmap)
 
 ```
 
-The 5-state [pure-gas.org](https://www.pure-gas.org/) database of stations is also searchable via the following table:
+The 5-state [pure-gas.org](https://www.pure-gas.org/) database of stations is also searchable via the following table[^oops]:
+
+[^oops]: Depreciated phone functionality 7/8/21 due to conflict with computer browser functionality (table was prettier but not expandable).
 
 ```{r missingstations, warning=FALSE, echo=FALSE}
 
 table <- states[ which(!is.na(states$lat) & !is.na(states$long)), ]
 
 library(DT)
-widgetframe::frameWidget(datatable(table[c(5,7,2,9,4,6)], rownames=FALSE, options = list(pageLength = 5)))  
+datatable(table[c(5,7,2,9,4,6)], rownames=FALSE, options = list(pageLength = 5))  
 
 ```
 
