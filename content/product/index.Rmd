@@ -1,5 +1,5 @@
 ---
-title: Product
+title: Products
 author: ''
 date: '2021-06-13'
 slug: product
@@ -7,7 +7,7 @@ categories: []
 tags: [R]
 ---
 
-The primary erg product is an [engagement survey](https://bookdown.org/kulasj/engagetech/). We are also working on an `r icons::fontawesome("r-project")` package to capture online survey responses.  
+The primary erg product is an [engagement survey](https://bookdown.org/kulasj/engagetech/) developed in partnership with [Eagle I.O](https://eagle-io.weebly.com/). The erg team is also working on an `r icons::fontawesome("r-project")` package to capture online survey responses.  
 
 ## Engagement survey `r emo::ji("woman_dancing")`
 

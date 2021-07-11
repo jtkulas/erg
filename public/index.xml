@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergweb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Product</title>
+      <title>Products</title>
       <link>https://ergweb.netlify.app/product/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ergweb.netlify.app/product/</guid>
-      <description>The primary erg product is an engagement survey. We are also working on an  package to capture online survey responses.
+      <description>The primary erg product is an engagement survey developed in partnership with Eagle I.O. The erg team is also working on an  package to capture online survey responses.
 Engagement survey 💃The engagement survey has norms representing most major U.S. metropolitan areas as well as four industrial groups
 {&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_Norms.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}Figure 1: Engagement survey normative information-driven processes 🚀…long term we will help organizations transition to full -enabled workflows</description>
     </item>
@@ -34,7 +34,7 @@ Engagement survey 💃The engagement survey has norms representing most major U
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ergweb.netlify.app/testing/</guid>
-      <description>Ethanol-free petrol mapThe map below contains information from 2411 stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from pure-gas.org, but also relies on latitude and longitude estimates generated from physical addresses via the  (R Core Team 2021) package tidygeocoder (Cambon et al. 2021) version 1.0.3 as well as geocodio. The “visual dots” are only to be referenced as general vicinity indicators.</description>
+      <description>Ethanol-free petrol mapThe map below contains information from 2411 stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from pure-gas.org, but also relies on latitude and longitude estimates generated from physical addresses via the  (R Core Team 2021) package tidygeocoder (Cambon et al. 2021) version 1.0.3 as well as geocodio.</description>
     </item>
     
     <item>
