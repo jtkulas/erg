@@ -151,7 +151,7 @@ widgetframe::frameWidget(altmap)
 
 The 5-state [pure-gas.org](https://www.pure-gas.org/) database of stations is also searchable via the following table[^oops]:
 
-[^oops]: Depreciated phone functionality 7/8/21 due to conflict with computer browser functionality (table was prettier but not expandable).
+[^oops]: Depreciated phone functionality 7/8/21 due to conflict with computer browser functionality (table was prettier but not expandable; e.g., the table will be useful on a computer but **not** on a  phone from this point forward).
 
 ```{r missingstations, warning=FALSE, echo=FALSE}
 
