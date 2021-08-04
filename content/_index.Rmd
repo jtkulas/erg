@@ -6,6 +6,8 @@ slug: home
 ---
 
 ```{r logo1, echo=FALSE, out.width= "45%", out.extra='style="float:right; padding:10px"'}
+
+library(fontawesome)
 knitr::include_graphics("erg5.png")
 ```
 

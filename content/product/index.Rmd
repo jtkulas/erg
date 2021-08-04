@@ -7,11 +7,11 @@ categories: []
 tags: [R]
 ---
 
-The primary erg product is an [engagement survey](https://bookdown.org/kulasj/engagetech/) developed in partnership with [Eagle I.O](https://eagle-io.weebly.com/). The erg team is also working on an `r icons::fontawesome("r-project")` package to capture online survey responses.  
+The primary e`r fontawesome::fa("r-project")`g product is an [engagement survey](https://bookdown.org/kulasj/engagetech/) developed in partnership with [Eagle I.O](https://eagle-io.weebly.com/). The e`r fontawesome::fa("r-project")`g team is also working on an `r icons::fontawesome("r-project")` package to capture online survey responses.  
 
 ## Engagement survey `r emo::ji("woman_dancing")`
 
-![](engage.PNG)
+![](engage.PNG) 
 
 The engagement survey has norms representing most major U.S. metropolitan areas as well as four industrial groups. The feedback report includes automatically generated presentation slides. A tutorial on the use of these slides is [available here](https://jtkulas.github.io/slides/). 
 

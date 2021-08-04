@@ -46,7 +46,7 @@ widgetframe::frameWidget(hc_gdpr) ## trying for online
 
 ```
 
-## erg:
+## e`r fontawesome::fa("r-project")`g:
 
 945 Broadway St NE  
 Minneapolis, MN 55413  
