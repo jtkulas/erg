@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phantazee on erg home</title>
+    <link>https://ergweb.netlify.app/tags/phantazee/</link>
+    <description>Recent content in phantazee on erg home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergweb.netlify.app/tags/phantazee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://ergweb.netlify.app/phantazee/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ergweb.netlify.app/phantazee/</guid>
+      <description>Phantazee pointsTop 20 scorers within position (QB, RB, WR only) were taken from 2020 weekly points scored. Phantazee scoring rulez were then applied 1.
+Smoothed averages by position (top 20 per week):
+Figure 1: Smoothed loess estimates.Figure 2: Boxplot estimates show variability within groups of top 20s.Individual performances (top 20 per position):
+{&#34;x&#34;:{&#34;visdat&#34;:{&#34;3e1c34b0483f&#34;:[&#34;function () &#34;</description>
+    </item>
+    
+  </channel>
+</rss>

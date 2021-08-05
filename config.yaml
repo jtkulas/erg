@@ -32,6 +32,9 @@ menu:
     - name: products
       url: /product/
       weight: 2
+    - name: phantazee
+      url: /phantazee/
+      weight: 7
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5

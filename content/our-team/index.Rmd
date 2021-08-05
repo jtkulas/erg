@@ -7,7 +7,7 @@ categories: []
 tags: [who, people]
 ---
 
-Deese peoples:
+Deese people:
 
 ```{r twitter, echo=FALSE}
 blogdown::shortcode('tweet', '1401123989339181057')
