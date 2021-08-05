@@ -160,13 +160,15 @@ ggplot(all) + geom_smooth(aes(x=week, y=pts, color=position), se=FALSE) +
 
 ```{r box, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Boxplot estimates show variability within groups of top 20s."}
 
-ggplot(all, aes(x=position, y=pts)) +
+p <- ggplot(all, aes(x=position, y=pts)) +
   geom_boxplot(aes(fill=position), position=position_dodge(.9)) +
   facet_grid(~week) +
-  stat_summary(fun=mean, geom="point", aes(group=position), position=position_dodge(.9), 
-               color="black", size=4) + theme(axis.text.x = element_blank()) +
-  coord_cartesian(ylim = c(0, 25))
+#  stat_summary(fun=mean, geom="point", aes(group=position), position=position_dodge(.9), 
+#               color="black", size=4) + 
+  theme(axis.text.x = element_blank()) +
+  coord_cartesian(ylim = c(3, 25))
 
+p
 ```
 
 Individual performances (top 20 per position):
