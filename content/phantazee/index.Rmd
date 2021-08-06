@@ -9,6 +9,8 @@ tags: [phantazee]
 
 # Phantazee points
 
+## Top 20 per position (QB, WR, RB)
+
 Top 20 scorers within position (QB, RB, WR only) were taken from [2020 weekly points scored](https://fftoday.com/stats/playerstats.php?Season=2020&GameWeek=1&PosID=20&LeagueID=). Phantazee scoring rulez were then applied [^footie].
 
 [^footie]: 2-point conversion information wasn't in the FF Today database so those points are not included in any graph.
@@ -183,3 +185,48 @@ pal <- c("red", "springgreen3", "blue")
 plotly::plot_ly(data = all, x = ~week.j, y = ~pts, color = ~position, colors = pal, size = ~pts, text = ~name, alpha=.5)
 
 ```
+
+## Top 3 per position (QB, RB, WR)
+
+```{r subset, echo=FALSE, warning=FALSE, message=FALSE}
+
+newdata <- all[ which(all$leader < 4), ]
+
+```
+
+Smoothed averages by position (top 3 per week):
+
+```{r graph2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Smoothed loess estimates."}
+
+ggplot(newdata) + geom_smooth(aes(x=week, y=pts, color=position), se=FALSE) +
+  scale_x_continuous(breaks=seq(1:16))
+
+```
+
+
+```{r box2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Boxplot estimates show variability within groups of top 3s."}
+
+p <- ggplot(newdata, aes(x=position, y=pts)) +
+  geom_boxplot(aes(fill=position), position=position_dodge(.9)) +
+  facet_grid(~week) +
+#  stat_summary(fun=mean, geom="point", aes(group=position), position=position_dodge(.9), 
+#               color="black", size=4) + 
+  theme(axis.text.x = element_blank()) +
+  coord_cartesian(ylim = c(10, 25))
+
+p
+```
+
+Individual performances (top 3 per position):
+
+```{r jitter2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Jittered points top 3 performers (qb, wr, rb)."}
+
+## getting jitter
+newdata$jitter <- runif(144, min = -.5, max = .5) 
+newdata$week.j <- newdata$jitter + newdata$week
+
+pal <- c("red", "springgreen3", "blue")
+plotly::plot_ly(data = newdata, x = ~week.j, y = ~pts, color = ~position, colors = pal, size = ~pts, text = ~name, alpha=.5)
+
+```
+
