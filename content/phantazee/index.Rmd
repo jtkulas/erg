@@ -186,15 +186,16 @@ plotly::plot_ly(data = all, x = ~week.j, y = ~pts, color = ~position, colors = p
 
 ```
 
-## Top 3 per position (QB, RB, WR)
+
+## Top 5 per position (QB, RB, WR)
 
 ```{r subset, echo=FALSE, warning=FALSE, message=FALSE}
 
-newdata <- all[ which(all$leader < 4), ]
+newdata <- all[ which(all$leader < 6), ]
 
 ```
 
-Smoothed averages by position (top 3 per week):
+Smoothed averages by position (top 5 per week):
 
 ```{r graph2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Smoothed loess estimates."}
 
@@ -204,7 +205,7 @@ ggplot(newdata) + geom_smooth(aes(x=week, y=pts, color=position), se=FALSE) +
 ```
 
 
-```{r box2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Boxplot estimates show variability within groups of top 3s."}
+```{r box2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Boxplot estimates show variability within groups of top 5s."}
 
 p <- ggplot(newdata, aes(x=position, y=pts)) +
   geom_boxplot(aes(fill=position), position=position_dodge(.9)) +
@@ -217,16 +218,61 @@ p <- ggplot(newdata, aes(x=position, y=pts)) +
 p
 ```
 
-Individual performances (top 3 per position):
+Individual performances (top 5 per position):
 
-```{r jitter2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Jittered points top 3 performers (qb, wr, rb)."}
+```{r jitter2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Jittered points top 5 performers (qb, wr, rb)."}
 
 ## getting jitter
-newdata$jitter <- runif(144, min = -.5, max = .5) 
+newdata$jitter <- runif(240, min = -.5, max = .5) 
 newdata$week.j <- newdata$jitter + newdata$week
 
 pal <- c("red", "springgreen3", "blue")
 plotly::plot_ly(data = newdata, x = ~week.j, y = ~pts, color = ~position, colors = pal, size = ~pts, text = ~name, alpha=.5)
+
+```
+
+
+## "Bottom" 5 per position (ranked 15-20; QB, RB, WR)
+
+```{r subset2, echo=FALSE, warning=FALSE, message=FALSE}
+
+newdata2 <- all[ which(all$leader > 15), ]
+
+```
+
+Smoothed averages by position ("Bottom" #'s15-20 per week):
+
+```{r graph3, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Smoothed loess estimates."}
+
+ggplot(newdata2) + geom_smooth(aes(x=week, y=pts, color=position), se=FALSE) +
+  scale_x_continuous(breaks=seq(1:16))
+
+```
+
+
+```{r box3, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Boxplot estimates show variability within groups of Bottom #'s15-20."}
+
+g <- ggplot(newdata2, aes(x=position, y=pts)) +
+  geom_boxplot(aes(fill=position), position=position_dodge(.9)) +
+  facet_grid(~week) +
+#  stat_summary(fun=mean, geom="point", aes(group=position), position=position_dodge(.9), 
+#               color="black", size=4) + 
+  theme(axis.text.x = element_blank()) +
+  coord_cartesian(ylim = c(3, 13))
+
+g
+```
+
+Individual performances (top 5 per position):
+
+```{r jitter3, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Jittered points Bottom #'s15-20 (qb, wr, rb)."}
+
+## getting jitter
+newdata2$jitter <- runif(240, min = -.5, max = .5) 
+newdata2$week.j <- newdata2$jitter + newdata2$week
+
+pal <- c("red", "springgreen3", "blue")
+plotly::plot_ly(data = newdata2, x = ~week.j, y = ~pts, color = ~position, colors = pal, size = ~pts, text = ~name, alpha=.5)
 
 ```
 
