@@ -10,7 +10,7 @@ tags: [who, people]
 Deese people:
 
 ```{r twitter, echo=FALSE}
-blogdown::shortcode('tweet', '1401123989339181057')
+#blogdown::shortcode('tweet', '1401123989339181057')
 ```
 
 ```{r authors, echo=FALSE}
