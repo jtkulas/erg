@@ -14,9 +14,6 @@ permalinks:
   content: /:slug/
 menu:
   main:
-    - name: about
-      url: /about/
-      weight: 1
     - name: testing
       url: /testing/
       weight: 3
