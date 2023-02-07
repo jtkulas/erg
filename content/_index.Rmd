@@ -3,12 +3,16 @@ title:
 author: ''
 date: '2021-06-13'
 slug: home
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: yes
 ---
 
-```{r logo1, echo=FALSE, out.width= "45%", out.extra='style="float:right; padding:10px"'}
+```{r logo1, echo=FALSE, out.width= "35%", out.extra='style="float:right; padding:5px"'}
 
 library(fontawesome)
-knitr::include_graphics("drawing2.png")
+knitr::include_graphics("erg2.png")
 ```
 
 ## e`r icons::fontawesome("r-project")`g  
@@ -17,8 +21,8 @@ We are a `r icons::fontawesome("r-project")`-powered organizational consulting g
 
 ## What We Do  
 
-```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:left; padding:10px"'}
-knitr::include_graphics("drawing2.png")
+```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:left; padding:2px"'}
+knitr::include_graphics("erg2.png")
 ```
 
 Our main current project is an Engagement survey, which we will be deploying in April of 2023. 
