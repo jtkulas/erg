@@ -13,7 +13,7 @@ knitr::include_graphics("drawing2.png")
 
 ## e`r icons::fontawesome("r-project")`g  
 
-We are a `r icons::fontawesome("r-project")`-powered organizational consulting group staffed by Industrial and Organizational Psychologists specializing in survey administration and report generation.  
+We are a `r icons::fontawesome("r-project")`-powered organizational consulting group staffed by Industrial and Organizational Psychologists specializing in psychometric and statistical consultation, survey administration, and report generation.  
 
 ## What We Do  
 
