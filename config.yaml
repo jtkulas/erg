@@ -36,7 +36,7 @@ params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
   description: Webpage for erg consultancy focusing on employee engagement.
-  favicon: erg5.ico
+  favicon: erg2.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
     - r
@@ -44,9 +44,9 @@ params:
   highlightjsTheme: github
   highlightjsVersion: 9.12.0
   logo:
-    alt: erg5
+    alt: erghome
     height: 50
-    url: erg5.png
+    url: erg2.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
