@@ -9,7 +9,7 @@ tags: [phantazee]
 
 # Project codename: `r emo::ji("football")`
 
-This project was a simple comparison of points scored by different skilled football positions for the purposes of scoring system alteration. The visuals are repetitive (in groups of three), with the primary capability take-away from these example visuals being the "filterable" Figures @\ref(fig:jitter1), @\ref(fig:jitter2), and @\ref(fig:jitter3)...
+This project was a simple comparison of points scored by different skilled football positions for the purposes of scoring system alteration. The visuals are repetitive (in groups of three), with the primary capability take-away from these example visuals being the "filterable" Figures \@ref(fig:jitter), \@ref(fig:jitter2), and \@ref(fig:jitter3)...
 
 # Phantazee points
 
@@ -21,9 +21,9 @@ Top 20 scorers within position (QB, RB, WR only) were taken from [2020 weekly po
 
 ```{r, echo=FALSE, warning=FALSE, include=FALSE}
 
-qb <- read.csv("qb.csv", header=FALSE)
-wr <- read.csv("wr.csv", header=FALSE)
-rb <- read.csv("rb.csv", header=FALSE)
+qb <- read.csv("qb.csv", header=FALSE, fileEncoding = "latin1")
+wr <- read.csv("wr.csv", header=FALSE, fileEncoding = "latin1")
+rb <- read.csv("rb.csv", header=FALSE, fileEncoding = "latin1")
 
 ## apply Phantazee scoring here
 
