@@ -1,19 +1,32 @@
 ---
-title: our team
+title: 
 author: ''
 date: '2021-06-12'
 slug: our-team
 categories: []
-tags: [who, people]
+tags: [who, people, about]
 ---
 
-Deese people:
+```{r logo1, echo=FALSE, out.width= "25%", out.extra='style="float:right; padding:5px"'}
 
-```{r twitter, echo=FALSE}
-#blogdown::shortcode('tweet', '1401123989339181057')
+library(fontawesome)
+knitr::include_graphics("erg2.png")
 ```
 
-```{r authors, echo=FALSE}
+e`r fontawesome::fa("r-project")`g was founded in 2022 by John Kulas (aka "John-o"), an Industrial and Organizational Psychologist.  Dr. Kulas' [resume can be accessed here](Kulas vita.pdf). 
+
+## Contact e`r fontawesome::fa("r-project")`g:
+
+John-o Kulas  
+651-216-3353  
+[jtkulas@ergreports.com](mailto: jtkulas@ergreports.com)  
+Minneapolis, MN 55421 
+
+```{r twitter, echo=FALSE, eval=FALSE}
+blogdown::shortcode('tweet', '1401123989339181057')
+```
+
+```{r authors, echo=FALSE, eval=FALSE}
 
 authors <- read.csv("authors2.csv")
 kableExtra::kable(authors, col.names=c("",""))

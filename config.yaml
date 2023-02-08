@@ -17,10 +17,7 @@ menu:
     - name: project example 1
       url: /testing/
       weight: 5
-    - name: location
-      url: /location/
-      weight: 4
-    - name: our team
+    - name: about us
       url: /our-team/
       weight: 3
     - name: GitHub
@@ -32,6 +29,9 @@ menu:
     - name: project example 2
       url: /phantazee/
       weight: 6
+    - name: references
+      url: /references/
+      weight: 4
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
