@@ -14,28 +14,28 @@ permalinks:
   content: /:slug/
 menu:
   main:
-    - name: testing
+    - name: project example 1
       url: /testing/
-      weight: 3
+      weight: 5
     - name: location
       url: /location/
       weight: 4
     - name: our team
       url: /our-team/
-      weight: 5
+      weight: 3
     - name: GitHub
       url: https://github.com/jtkulas/erg
-      weight: 6
+      weight: 7
     - name: products
       url: /product/
       weight: 2
-    - name: phantazee
+    - name: project example 2
       url: /phantazee/
-      weight: 7
+      weight: 6
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: Webpage for erg consultancy focusing on employee engagement.
+  description: Webpage for eRg consultancy.
   favicon: erg2.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:

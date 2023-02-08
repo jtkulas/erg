@@ -7,7 +7,31 @@ categories: []
 tags: [R]
 ---
 
-The primary e`r fontawesome::fa("r-project")`g product is an [engagement survey](https://bookdown.org/kulasj/engagetech/) developed in partnership with [Eagle I.O](https://eagle-io.weebly.com/). The e`r fontawesome::fa("r-project")`g team is also working on an `r icons::fontawesome("r-project")` package to capture online survey responses.  
+
+```{r Date, warning=FALSE, echo=FALSE, message=FALSE}
+
+## created below code so we don't have to manually update year and date
+
+date <- as.character(Sys.Date())
+year <- as.numeric(substring(date,1,4))
+month <- substring(date,6,7)
+
+month[month == "01"] <- "Winter"
+month[month == "02"] <- "Winter"
+month[month == "03"] <- "Spring"
+month[month == "04"] <- "Spring"
+month[month == "05"] <- "Spring"
+month[month == "06"] <- "Summer"
+month[month == "07"] <- "Summer"
+month[month == "08"] <- "Summer"
+month[month == "09"] <- "Fall"
+month[month == "10"] <- "Fall"
+month[month == "11"] <- "Fall"
+month[month == "12"] <- "Winter"
+
+```
+
+As of `r month` `r year`, the primary e`r fontawesome::fa("r-project")`g "off-the-shelf" product is an [engagement survey](https://bookdown.org/kulasj/engagetech/) developed in partnership with [Eagle I.O](https://eagle-io.weebly.com/). The e`r fontawesome::fa("r-project")`g team is also working on an `r icons::fontawesome("r-project")` package to capture online survey responses.  
 
 ## Engagement survey `r emo::ji("woman_dancing")`
 
@@ -47,8 +71,5 @@ widgetframe::frameWidget(norms)
 
 ## `r icons::fontawesome("r-project")`-driven processes `r emo::ji("rocket")`
 
-...long term we will help organizations transition to full `r icons::fontawesome("r-project")`-enabled workflows 
+We also consult on statistical and psychometric projects as well as helping organizations transition to `r icons::fontawesome("r-project")`-enabled workflows 
 
-# {-}
-
-Testing cross-referencing here (see Figure \@ref(fig:Norms))

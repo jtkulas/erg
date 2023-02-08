@@ -7,6 +7,10 @@ categories: []
 tags: [phantazee]
 ---
 
+# Project codename: `r emo::ji("football")`
+
+This project was a simple comparison of points scored by different skilled football positions for the purposes of scoring system alteration. The visuals are repetitive (in groups of three), with the primary capability take-away from these example visuals being the "filterable" Figures @\ref(fig:jitter1), @\ref(fig:jitter2), and @\ref(fig:jitter3)...
+
 # Phantazee points
 
 ## Top 20 per position (QB, WR, RB)

@@ -13,7 +13,8 @@
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ergweb.netlify.app/testing/</guid>
-      <description>Ethanol-free petrol mapThe map below contains information from 2411 stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from pure-gas.org, but also relies on latitude and longitude estimates generated from physical addresses via the  (R Core Team 2021) package tidygeocoder (Cambon et al. 2021) version 1.0.3 as well as geocodio.</description>
+      <description>Project codename: ⛽This project included the creation of an interactive map to locate petrol stations that carry ethanol-free gasoline within the 5-state region surrounding the St Croix Valley Corvette club. This association does social “runs” periodically throughout the summer months and did not have a map-based resource to help them locate these specialized gas stations while on their far-from-home “runs”…
+Ethanol-free petrol mapThe map below contains information from 2411 stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas.</description>
     </item>
     
   </channel>

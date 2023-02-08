@@ -21,7 +21,7 @@ We are a `r icons::fontawesome("r-project")`-powered organizational consulting g
 
 ## What We Do  
 
-```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:left; padding:2px"'}
+```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:left; padding:5px"'}
 knitr::include_graphics("erg2.png")
 ```
 
