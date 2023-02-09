@@ -1,5 +1,7 @@
 # erg
 
-blogdown::serve_site()
-blogdown::build_site()
-commit/push
+Repository for main website
+
+1. blogdown::serve_site()  
+2. blogdown::build_site()  
+3. commit/push
