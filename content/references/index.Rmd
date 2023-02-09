@@ -17,7 +17,14 @@ There are several resources that have been published either by e`r icons::fontaw
 ![](https://media.giphy.com/media/atcqQ5PuX41J6/giphy.gif)
 </p>
 
-# Relevant resources `r emo::ji("books")`{-}
+# Industry resources `r emo::ji("books")`:{-}
+
+```{r refs, echo=FALSE}
+
+refs <- read.csv("resources.csv")
+kableExtra::kable(refs, col.names=c("",""))
+
+```
 
 <div id="refs"></div>
 
