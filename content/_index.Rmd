@@ -25,5 +25,5 @@ We are a `r icons::fontawesome("r-project")`-powered organizational consulting g
 knitr::include_graphics("erg2.png")
 ```
 
-Our main current project is an Engagement survey, which we will be deploying in April of 2023. 
+Our main current project is an engagement survey, which we will be deploying in April of 2023. 
 

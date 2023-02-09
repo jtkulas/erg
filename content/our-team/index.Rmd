@@ -13,7 +13,7 @@ library(fontawesome)
 knitr::include_graphics("erg2.png")
 ```
 
-e`r fontawesome::fa("r-project")`g was founded in 2022 by John Kulas (aka "John-o"), an Industrial and Organizational Psychologist.  Dr. Kulas' [resume can be accessed here](Kulas vita.pdf). 
+e`r fontawesome::fa("r-project")`g was founded in 2022 by John Kulas (aka "John-o"), an Industrial and Organizational Psychologist. The focus of the consultancy is on Statistical and Psychometric applications. The mission of e`r fontawesome::fa("r-project")`g includes a continuation of collaboration and mentorship for graduate students in Industrial and Organizational Psychology, and these students contribute to e`r fontawesome::fa("r-project")`g via contract assignments. Dr. Kulas' [resume can be accessed here](Kulas vita.pdf). 
 
 ## Contact e`r fontawesome::fa("r-project")`g:
 

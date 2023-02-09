@@ -33,7 +33,7 @@ month[month == "12"] <- "Winter"
 
 As of `r month` `r year`, the primary e`r fontawesome::fa("r-project")`g "off-the-shelf" product is an [engagement survey](https://bookdown.org/kulasj/engagetech/) developed in partnership with [Eagle I.O](https://eagle-io.weebly.com/). The e`r fontawesome::fa("r-project")`g team is also working on an `r icons::fontawesome("r-project")` package to capture online survey responses.  
 
-## Engagement survey `r emo::ji("woman_dancing")`
+## Engagement survey `r emo::ji("woman_dancing")` {#engage}
 
 ![](engage.PNG) 
 

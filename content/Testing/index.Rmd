@@ -13,7 +13,7 @@ bibliography: packages.bib
 This project included the creation of an interactive map to locate petrol stations that carry ethanol-free gasoline within the 5-state region surrounding the St Croix Valley Corvette club. This association does social "runs" periodically throughout the summer months and did not have a map-based resource to help them locate these specialized gas stations while on their far-from-home "runs"...  
 
 <p align="center">
-[![](scvc.PNG)](http://www.stcroixvalleycorvettes.com/)
+[![](scvc.PNG)](http://www.stcroixvalleycorvettes.com/){width=25px}
 </p>
 
 # Ethanol-free petrol map 

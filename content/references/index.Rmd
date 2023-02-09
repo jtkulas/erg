@@ -7,14 +7,20 @@ categories: []
 bibliography: [book.bib]
 csl: apa7.csl
 nocite: |
-  @mentor, @github, @naissance, @consultant, @markdown, @engage, @onepage
+  @github, @markdown, @engage, @onepage
 tags: [references]
 ---
 
-There are several resources that have been published by e`r icons::fontawesome("r-project")`g - many in collaboration with graduate students in Industrial and Organizational Psychology. A partial listing of these resources (as well as hyperlinks to the resources themselves) is presented below:
+There are several resources that have been published either by e`r icons::fontawesome("r-project")`g or in close collaboration with graduate students in Industrial and Organizational Psychology. A partial listing of these resources (as well as hyperlinks to the resources themselves) is presented below:
 
 <p align="center">
 ![](https://media.giphy.com/media/atcqQ5PuX41J6/giphy.gif)
 </p>
 
 # Relevant resources `r emo::ji("books")`{-}
+
+<div id="refs"></div>
+
+# {-} 
+
+In addition to the above listed resources, we also maintain a (very nascent) YouTube channel that is focused on forensic Psychometric analyses: [`r fontawesome::fa("youtube", fill="red")`](https://www.youtube.com/@forensicpsychometrics8300)
