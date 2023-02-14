@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>phantazee on erg home</title>
-    <link>https://ergweb.netlify.app/tags/phantazee/</link>
+    <link>https://ergreports.com/tags/phantazee/</link>
     <description>Recent content in phantazee on erg home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergweb.netlify.app/tags/phantazee/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergreports.com/tags/phantazee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://ergweb.netlify.app/phantazee/</link>
+      <link>https://ergreports.com/phantazee/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ergweb.netlify.app/phantazee/</guid>
+      <guid>https://ergreports.com/phantazee/</guid>
       <description>Project codename: 🏈This project was a simple comparison of points scored by different skilled football positions for the purposes of scoring system alteration. The visuals are repetitive (in groups of three), with the primary capability take-away from these example visuals being the “filterable” Figures 3, 6, and 9…
 Phantazee pointsTop 20 per position (QB, WR, RB)Top 20 scorers within position (QB, RB, WR only) were taken from 2020 weekly points scored.</description>
     </item>

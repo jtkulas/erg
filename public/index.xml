@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>erg home</title>
-    <link>https://ergweb.netlify.app/</link>
+    <link>https://ergreports.com/</link>
     <description>Recent content on erg home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergweb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergreports.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Products</title>
-      <link>https://ergweb.netlify.app/product/</link>
+      <link>https://ergreports.com/product/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ergweb.netlify.app/product/</guid>
+      <guid>https://ergreports.com/product/</guid>
       <description>As of Winter 2023, the primary eg “off-the-shelf” product is an engagement survey developed in partnership with Eagle I.O. The eg team is also working on an  package to capture online survey responses.
 Engagement survey 💃The engagement survey has norms representing most major U.S. metropolitan areas as well as four industrial groups. The feedback report includes automatically generated presentation slides. A tutorial on the use of these slides is available here.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ergweb.netlify.app/our-team/</link>
+      <link>https://ergreports.com/our-team/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ergweb.netlify.app/our-team/</guid>
+      <guid>https://ergreports.com/our-team/</guid>
       <description>eg was founded in 2022 by John Kulas (aka “John-o”), an Industrial and Organizational Psychologist. The focus of the consultancy is on Statistical and Psychometric applications. The mission of eg includes a continuation of collaboration and mentorship for graduate students in Industrial and Organizational Psychology, and these students contribute to eg via contract assignments. Dr. Kulas’ resume can be accessed here.
 Contact eg:John-o Kulas
 651-216-3353
@@ -32,40 +32,40 @@ Minneapolis, MN 55421</description>
     
     <item>
       <title></title>
-      <link>https://ergweb.netlify.app/phantazee/</link>
+      <link>https://ergreports.com/phantazee/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ergweb.netlify.app/phantazee/</guid>
+      <guid>https://ergreports.com/phantazee/</guid>
       <description>Project codename: 🏈This project was a simple comparison of points scored by different skilled football positions for the purposes of scoring system alteration. The visuals are repetitive (in groups of three), with the primary capability take-away from these example visuals being the “filterable” Figures 3, 6, and 9…
 Phantazee pointsTop 20 per position (QB, WR, RB)Top 20 scorers within position (QB, RB, WR only) were taken from 2020 weekly points scored.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ergweb.netlify.app/references/</link>
+      <link>https://ergreports.com/references/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ergweb.netlify.app/references/</guid>
+      <guid>https://ergreports.com/references/</guid>
       <description>There are several resources that have been published either by eg or in close collaboration with graduate students in Industrial and Organizational Psychology. A partial listing of these resources (as well as hyperlinks to the resources themselves) is presented below:
 Industry resources 📚:Working with RMarkdown (García Prieto Palacios Roji &amp;amp; Kulas, 2020)Working with GitHub (García Prieto Palacios Roji et al.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ergweb.netlify.app/testing/</link>
+      <link>https://ergreports.com/testing/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ergweb.netlify.app/testing/</guid>
+      <guid>https://ergreports.com/testing/</guid>
       <description>Project codename: ⛽This project included the creation of an interactive map to locate petrol stations that carry ethanol-free gasoline within the 5-state region surrounding the St Croix Valley Corvette club. This association does social “runs” periodically throughout the summer months and did not have a map-based resource to help them locate these specialized gas stations while on their far-from-home “runs”…
 Ethanol-free petrol mapThe map below contains information from 2411 stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas.</description>
     </item>
     
     <item>
       <title>location</title>
-      <link>https://ergweb.netlify.app/location/</link>
+      <link>https://ergreports.com/location/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ergweb.netlify.app/location/</guid>
+      <guid>https://ergreports.com/location/</guid>
       <description>We’d ❤️ to hear from you!{&#34;x&#34;:{&#34;url&#34;:&#34;index_files/figure-html//widgets/widget_unnamed-chunk-2.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}eg:945 Broadway St NE
 Minneapolis, MN 55413
 kulasj@montclair.edu
@@ -74,19 +74,19 @@ kulasj@montclair.edu
     
     <item>
       <title>About</title>
-      <link>https://ergweb.netlify.app/about/</link>
+      <link>https://ergreports.com/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>https://ergweb.netlify.app/about/</guid>
+      <guid>https://ergreports.com/about/</guid>
       <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
     <item>
       <title>Engagement Survey Feedback Presentation Slides (Example/Tutorial)</title>
-      <link>https://ergweb.netlify.app/slides/</link>
+      <link>https://ergreports.com/slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ergweb.netlify.app/slides/</guid>
+      <guid>https://ergreports.com/slides/</guid>
       <description>background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
 ???
 Image credit: Wikimedia Commons

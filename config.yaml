@@ -1,8 +1,8 @@
-baseurl: "https://ergweb.netlify.app/"
+baseurl: "https://ergreports.com/"
 languageCode: en-us
 title: erg home
 theme: hugo-lithium
-googleAnalytics: ''
+googleAnalytics: 'G-RK7D4E54FE'
 disqusShortname: ''
 ignoreFiles:
   - \.Rmd$

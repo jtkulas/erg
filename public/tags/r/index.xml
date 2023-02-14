@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on erg home</title>
-    <link>https://ergweb.netlify.app/tags/r/</link>
+    <link>https://ergreports.com/tags/r/</link>
     <description>Recent content in R on erg home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergweb.netlify.app/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergreports.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Products</title>
-      <link>https://ergweb.netlify.app/product/</link>
+      <link>https://ergreports.com/product/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ergweb.netlify.app/product/</guid>
+      <guid>https://ergreports.com/product/</guid>
       <description>As of Winter 2023, the primary eg “off-the-shelf” product is an engagement survey developed in partnership with Eagle I.O. The eg team is also working on an  package to capture online survey responses.
 Engagement survey 💃The engagement survey has norms representing most major U.S. metropolitan areas as well as four industrial groups. The feedback report includes automatically generated presentation slides. A tutorial on the use of these slides is available here.</description>
     </item>

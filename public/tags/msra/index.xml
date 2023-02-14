@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MSRA on erg home</title>
-    <link>https://ergweb.netlify.app/tags/msra/</link>
+    <link>https://ergreports.com/tags/msra/</link>
     <description>Recent content in MSRA on erg home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergweb.netlify.app/tags/msra/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ergreports.com/tags/msra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://ergweb.netlify.app/testing/</link>
+      <link>https://ergreports.com/testing/</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ergweb.netlify.app/testing/</guid>
+      <guid>https://ergreports.com/testing/</guid>
       <description>Project codename: ⛽This project included the creation of an interactive map to locate petrol stations that carry ethanol-free gasoline within the 5-state region surrounding the St Croix Valley Corvette club. This association does social “runs” periodically throughout the summer months and did not have a map-based resource to help them locate these specialized gas stations while on their far-from-home “runs”…
 Ethanol-free petrol mapThe map below contains information from 2411 stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas.</description>
     </item>
