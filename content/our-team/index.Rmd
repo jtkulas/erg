@@ -5,6 +5,11 @@ date: '2021-06-12'
 slug: our-team
 categories: []
 tags: [who, people, about]
+content:
+  form:
+    provider: formspree
+    formspree:
+      id: mrgvpwqd
 ---
 
 ```{r logo1, echo=FALSE, out.width= "25%", out.extra='style="float:right; padding:5px"'}
@@ -17,10 +22,11 @@ e`r fontawesome::fa("r-project")`g was founded in 2022 by John Kulas (aka "John-
 
 ## Contact e`r fontawesome::fa("r-project")`g:
 
-John-o Kulas  
-651-216-3353  
-[jtkulas@ergreports.com](mailto: jtkulas@ergreports.com)  
-Minneapolis, MN 55421 
+John-o Kulas:  
+`r fontawesome::fa("phone-volume")` 651-216-3353  
+`r fontawesome::fa("envelope")` [jtkulas@ergreports.com](mailto: jtkulas@ergreports.com)  
+`r fontawesome::fa("square-twitter")` [@jtkulas](https://twitter.com/jtkulas)  
+`r fontawesome::fa("location-dot")` Minneapolis, MN 55421 
 
 ```{r twitter, echo=FALSE, eval=FALSE}
 blogdown::shortcode('tweet', '1401123989339181057')
