@@ -16,7 +16,7 @@ menu:
   main:
     - name: products
       url: /product/
-      weight: 6
+      weight: 2
     - name: about us
       url: /our-team/
       weight: 3      
@@ -28,7 +28,7 @@ menu:
       weight: 5
     - name: resources
       url: /references/
-      weight: 2
+      weight: 6
 #    - name: GitHub
 #      url: https://github.com/jtkulas/erg
 #      weight: 7
