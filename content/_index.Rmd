@@ -15,7 +15,7 @@ library(fontawesome)
 knitr::include_graphics("erg2.png")
 ```
 
-## e`r icons::fontawesome("r-project")`g  
+## <span style="color:#6165CF"><span style="font-family:'Georgia, serif'">e</span>`r fa("r-project", fill="#292D9E")`<span style="color:#01055E"><span style="font-family:'Georgia, serif'">g</span>:  
 
 We are a `r icons::fontawesome("r-project")`-powered organizational consulting group staffed by Industrial and Organizational Psychologists specializing in psychometric and statistical consultation, survey administration, and report generation.  
 
