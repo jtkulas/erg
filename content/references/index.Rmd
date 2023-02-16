@@ -11,13 +11,13 @@ nocite: |
 tags: [references]
 ---
 
-There are several resources that have been published either by e`r icons::fontawesome("r-project")`g or in close collaboration with graduate students in Industrial and Organizational Psychology. A partial listing of these resources (as well as hyperlinks to the resources themselves) is presented below:
+There are several resources that have been published either by e`r icons::fontawesome("r-project")`g or in close collaboration with graduate students in Industrial and Organizational Psychology that all share a goal of furthering the advancement of organizational surveying. A partial listing of these resources (as well as hyperlinks to the resources themselves) is presented below:
 
 <p align="center">
 ![](https://media.giphy.com/media/atcqQ5PuX41J6/giphy.gif)
 </p>
 
-# Industry resources `r emo::ji("books")`:{-}
+# Organizational surveying resources `r emo::ji("books")`:{-}
 
 ```{r refs, echo=FALSE}
 
