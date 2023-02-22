@@ -1,8 +1,8 @@
 ---
-title: Products
+title: Workforce Engagement
 author: ''
 date: '2021-06-13'
-slug: product
+slug: Workforce Engagement
 categories: []
 tags: [R]
 ---
@@ -30,6 +30,10 @@ month[month == "11"] <- "Fall"
 month[month == "12"] <- "Winter"
 
 ```
+
+## Creating an engaged workforce
+
+We apply behavioral Psychology principles and methods to answer questions of employee sentiment within the broader organizational system. A component of this systemic change process includes our engagement assessment:
 
 As of `r month` `r year`, the primary e`r fontawesome::fa("r-project")`g "off-the-shelf" product is an [engagement survey](https://bookdown.org/kulasj/engagetech/) developed in partnership with [Eagle I.O](https://eagle-io.weebly.com/). The e`r fontawesome::fa("r-project")`g team is also working on an `r icons::fontawesome("r-project")` package to capture online survey responses.  
 

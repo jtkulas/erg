@@ -14,8 +14,8 @@ permalinks:
   content: /:slug/
 menu:
   main:
-    - name: products
-      url: /product/
+    - name: Workforce Engagement
+      url: /Workforce Engagement/
       weight: 2
     - name: about us
       url: /our-team/
