@@ -9,21 +9,25 @@ image:
   preview_only: yes
 ---
 
-```{r logo1, echo=FALSE, out.width= "35%", out.extra='style="float:right; padding:5px"'}
+```{r logo1, echo=FALSE, out.width= "35%", out.extra='style="float:left; padding:5px"'}
 
 library(fontawesome)
 knitr::include_graphics("erg2.png")
 ```
 
-## <span style="color:#6165CF"><span style="font-family:'Georgia, serif'">e</span>`r fa("r-project", fill="#292D9E")`<span style="color:#01055E"><span style="font-family:'Georgia, serif'">g</span>:  
+We are an `r icons::fontawesome("r-project")`-powered organizational consulting group staffed by Industrial and Organizational Psychologists specializing in psychometric and statistical consultation, survey administration, and report generation.  
 
-We are a `r icons::fontawesome("r-project")`-powered organizational consulting group staffed by Industrial and Organizational Psychologists specializing in psychometric and statistical consultation, survey administration, and report generation.  
+## What We Do:  
 
-## What We Do  
-
-```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:left; padding:5px"'}
+```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:right; padding:5px"'}
 knitr::include_graphics("erg2.png")
 ```
 
-Our main current project is an engagement survey, which we will be deploying in April of 2023. 
+We provide three services:
+
++ developing and fostering an engaged workplace  
++ data visualization  
++ helping create `r icons::fontawesome("r-project")`-driven solutions and processes
+
+
 
