@@ -26,6 +26,6 @@ knitr::include_graphics("erg2.png")
 In addition to custom effectiveness-facilitating projects, we provide three primary services:
 
 + developing and fostering an [engaged workplace](https://ergreports.com/workforce-engagement/)  
-+ [data visualization](https://ergreports.com/data-visualization/)
-+ helping create [`r icons::fontawesome("r-project")`-driven solutions and processes](https://ergreports.com/r-driving/)
++ [data visualization](https://ergreports.com/testing/)
++ helping create [`r icons::fontawesome("r-project")`-driven solutions and processes](https://ergreports.com/references/)
 

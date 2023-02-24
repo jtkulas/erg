@@ -8,13 +8,11 @@ tags: [MSRA]
 bibliography: packages.bib
 ---
 
+Here we present two interactive visualizations from 2 different larger projects to highlight some interactive graphic capabilities. 
+
 # Project codename: `r emo::ji("fuel_pump")`
 
-This project included the creation of an interactive map to locate petrol stations that carry ethanol-free gasoline within the 5-state region surrounding the St Croix Valley Corvette club. This association does social "runs" periodically throughout the summer months and did not have a map-based resource to help them locate these specialized gas stations while on their far-from-home "runs"...  
-
-<p align="center">
-[![](scvc.PNG)](http://www.stcroixvalleycorvettes.com/){width=25px}
-</p>
+This project included the creation of an interactive map to locate petrol stations that carry ethanol-free gasoline within the 5-state region surrounding the a local car club. This group does social "runs" periodically throughout the summer months and did not have a map-based resource to help them locate these specialized gas stations while on their far-from-home "runs"...  
 
 # Ethanol-free petrol map 
 
@@ -96,8 +94,6 @@ missing <- missing[,2:9]
 
 ```
 
-The map below contains information from `r (nrow(states) - nrow(missing))` stations in MN, WI, SD, ND, and IA indicating that they offer ethanol-free gas. The map data was taken from [pure-gas.org](https://www.pure-gas.org/), but also relies on latitude and longitude *estimates* generated from physical addresses via the `r icons::fontawesome("r-project")` [@R-base] package `tidygeocoder` [@R-tidygeocoder] version `r packageVersion("tidygeocoder")` as well as [geocodio](https://www.geocod.io/). The "visual dots" are only to be referenced as general vicinity indicators. The physical addresses, however, should be considered to be accurate as per [pure-gas.org](https://www.pure-gas.org/):
-
 <p align="center">
 `r emo::ji("warning")` `r emo::ji("warning")` `r emo::ji("skull_and_crossbones")` **NEVER** use this map *while driving* `r emo::ji("face_with_symbols_on_mouth")` `r emo::ji("warning")` `r emo::ji("warning")` 
 </p>
@@ -153,9 +149,7 @@ widgetframe::frameWidget(altmap)
 
 ```
 
-The 5-state [pure-gas.org](https://www.pure-gas.org/) database of stations is also searchable via the following table[^oops]:
-
-[^oops]: Depreciated phone functionality 7/8/21 due to conflict with computer browser functionality (table was prettier but not expandable; e.g., the table will be useful on a computer but **not** on a  phone from this point forward).
+The 5-state database of stations is also searchable via the following table:
 
 ```{r missingstations, warning=FALSE, echo=FALSE}
 
@@ -166,18 +160,13 @@ datatable(table[c(5,7,2,9,4,6)], rownames=FALSE, options = list(pageLength = 5))
 
 ```
 
-
 # Project codename: `r emo::ji("football")`
 
-This project was a simple comparison of points scored by different skilled football positions for the purposes of scoring system alteration. The visuals are repetitive (in groups of three), with the primary capability take-away from these example visuals being the "filterable" Figures \@ref(fig:jitter), \@ref(fig:jitter2), and \@ref(fig:jitter3)...
+This project was a simple comparison of points scored by different skilled football positions for the purposes of scoring system alteration. The presented visual primarily highlights filtering capability...
 
-# Phantazee points
+
 
 ## Top 20 per position (QB, WR, RB)
-
-Top 20 scorers within position (QB, RB, WR only) were taken from [2020 weekly points scored](https://fftoday.com/stats/playerstats.php?Season=2020&GameWeek=1&PosID=20&LeagueID=). Phantazee scoring rulez were then applied [^footie].
-
-[^footie]: 2-point conversion information wasn't in the FF Today database so those points are not included in any graph.
 
 ```{r, echo=FALSE, warning=FALSE, include=FALSE}
 
@@ -314,29 +303,6 @@ all$leader <- rep(c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20), times=4
 
 ```
 
-Smoothed averages by position (top 20 per week):
-
-```{r graph, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Smoothed loess estimates."}
-library(ggplot2)
-ggplot(all) + geom_smooth(aes(x=week, y=pts, color=position), se=FALSE) +
-  scale_x_continuous(breaks=seq(1:16))
-
-```
-
-
-```{r box, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Boxplot estimates show variability within groups of top 20s."}
-
-p <- ggplot(all, aes(x=position, y=pts)) +
-  geom_boxplot(aes(fill=position), position=position_dodge(.9)) +
-  facet_grid(~week) +
-#  stat_summary(fun=mean, geom="point", aes(group=position), position=position_dodge(.9), 
-#               color="black", size=4) + 
-  theme(axis.text.x = element_blank()) +
-  coord_cartesian(ylim = c(3, 25))
-
-p
-```
-
 Individual performances (top 20 per position):
 
 ```{r jitter, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Jittered points top 20 performers (qb, wr, rb)."}
@@ -349,94 +315,3 @@ pal <- c("red", "springgreen3", "blue")
 plotly::plot_ly(data = all, x = ~week.j, y = ~pts, color = ~position, colors = pal, size = ~pts, text = ~name, alpha=.5)
 
 ```
-
-
-## Top 5 per position (QB, RB, WR)
-
-```{r subset, echo=FALSE, warning=FALSE, message=FALSE}
-
-newdata <- all[ which(all$leader < 6), ]
-
-```
-
-Smoothed averages by position (top 5 per week):
-
-```{r graph2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Smoothed loess estimates."}
-
-ggplot(newdata) + geom_smooth(aes(x=week, y=pts, color=position), se=FALSE) +
-  scale_x_continuous(breaks=seq(1:16))
-
-```
-
-
-```{r box2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Boxplot estimates show variability within groups of top 5s."}
-
-p <- ggplot(newdata, aes(x=position, y=pts)) +
-  geom_boxplot(aes(fill=position), position=position_dodge(.9)) +
-  facet_grid(~week) +
-#  stat_summary(fun=mean, geom="point", aes(group=position), position=position_dodge(.9), 
-#               color="black", size=4) + 
-  theme(axis.text.x = element_blank()) +
-  coord_cartesian(ylim = c(10, 25))
-
-p
-```
-
-Individual performances (top 5 per position):
-
-```{r jitter2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Jittered points top 5 performers (qb, wr, rb)."}
-
-## getting jitter
-newdata$jitter <- runif(240, min = -.5, max = .5) 
-newdata$week.j <- newdata$jitter + newdata$week
-
-pal <- c("red", "springgreen3", "blue")
-plotly::plot_ly(data = newdata, x = ~week.j, y = ~pts, color = ~position, colors = pal, size = ~pts, text = ~name, alpha=.5)
-
-```
-
-
-## "Bottom" 5 per position (ranked 16-20; QB, RB, WR)
-
-```{r subset2, echo=FALSE, warning=FALSE, message=FALSE}
-
-newdata2 <- all[ which(all$leader > 15), ]
-
-```
-
-Smoothed averages by position ("Bottom" #'s16-20 per week):
-
-```{r graph3, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Smoothed loess estimates."}
-
-ggplot(newdata2) + geom_smooth(aes(x=week, y=pts, color=position), se=FALSE) +
-  scale_x_continuous(breaks=seq(1:16))
-
-```
-
-
-```{r box3, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Boxplot estimates show variability within groups of Bottom #'s16-20."}
-
-g <- ggplot(newdata2, aes(x=position, y=pts)) +
-  geom_boxplot(aes(fill=position), position=position_dodge(.9)) +
-  facet_grid(~week) +
-#  stat_summary(fun=mean, geom="point", aes(group=position), position=position_dodge(.9), 
-#               color="black", size=4) + 
-  theme(axis.text.x = element_blank()) +
-  coord_cartesian(ylim = c(3, 13))
-
-g
-```
-
-Individual performances ("bottom" 5 per position):
-
-```{r jitter3, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Jittered points Bottom #'s16-20 (qb, wr, rb)."}
-
-## getting jitter
-newdata2$jitter <- runif(240, min = -.5, max = .5) 
-newdata2$week.j <- newdata2$jitter + newdata2$week
-
-pal <- c("red", "springgreen3", "blue")
-plotly::plot_ly(data = newdata2, x = ~week.j, y = ~pts, color = ~position, colors = pal, size = ~pts, text = ~name, alpha=.5)
-
-```
-
