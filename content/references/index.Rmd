@@ -4,16 +4,28 @@ author: ''
 date: '2021-06-11'
 slug: references
 categories: []
+tags: [references]
 bibliography: [book.bib]
 csl: apa7.csl
 nocite: |
   @github, @markdown, @engage, @onepage
-tags: [references]
 ---
 
 ## `r icons::fontawesome("r-project")`-driven processes `r emo::ji("rocket")`
 
-We also consult on statistical and psychometric projects as well as helping organizations transition to `r icons::fontawesome("r-project")`-enabled workflows 
+We provide consultation on statistical and psychometric projects as well as helping organizations transition to `r icons::fontawesome("r-project")`-enabled workflows. Why `r icons::fontawesome("r-project")`? Because it is:  
+
++ Powerful  
++ Flexible  
++ Free  
+  
+This platform has the capability to power many business functions. This website, for example, was [built with `r icons::fontawesome("r-project")`](https://github.com/jtkulas/erg).[^foot] With e`r icons::fontawesome("r-project")`g's help, your business can transition business processes to this platform that greatly minimizes overhead costs - this is the primary reason our clients find that our prices come in on the "low end" of bids.  
+
+[^foot]:Our interest was functionality and browser compatability, which is why the design is rather utilitarian, but it [does not need to be so](https://themefisher.com/hugo-business-themes).
+
+## Teaching `r icons::fontawesome("r-project")`
+
+If you are interested in training your personnel on `r icons::fontawesome("r-project")` so that you may develop your own `r icons::fontawesome("r-project")`-powered business processes and products, we also provide training on "how to use" `r icons::fontawesome("r-project")` - just [drop us a note](mailto:jtkulas@ergreports.com). 
 
 ## Free industry resources
 
@@ -32,6 +44,8 @@ kableExtra::kable(refs, col.names=c("",""))
 
 ```
 
+In addition to the above listed resources, we also maintain a (very nascent) YouTube channel that is focused on forensic Psychometric analyses here: [`r fontawesome::fa("youtube", fill="red")`](https://www.youtube.com/@forensicpsychometrics8300)
+
 ```{css, echo=FALSE}
 div {
   padding-top: 15px;
@@ -44,5 +58,3 @@ div {
 <div id="refs"></div>
 
 # {-} 
-
-In addition to the above listed resources, we also maintain a (very nascent) YouTube channel that is focused on forensic Psychometric analyses: [`r fontawesome::fa("youtube", fill="red")`](https://www.youtube.com/@forensicpsychometrics8300)
