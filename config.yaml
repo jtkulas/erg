@@ -19,16 +19,13 @@ menu:
       weight: 2
     - name: about us
       url: /our-team/
-      weight: 3      
-    - name: project example 1
+      weight: 5      
+    - name: Data Visualization
       url: /testing/
-      weight: 4
-    - name: project example 2
-      url: /phantazee/
-      weight: 5
-    - name: resources
+      weight: 3
+    - name: R Driving
       url: /references/
-      weight: 6
+      weight: 4
 #    - name: GitHub
 #      url: https://github.com/jtkulas/erg
 #      weight: 7

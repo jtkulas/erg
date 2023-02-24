@@ -23,11 +23,9 @@ We are an `r icons::fontawesome("r-project")`-powered organizational consulting 
 knitr::include_graphics("erg2.png")
 ```
 
-We provide three services:
+In addition to custom effectiveness-facilitating projects, we provide three primary services:
 
-+ developing and fostering an engaged workplace  
-+ data visualization  
-+ helping create `r icons::fontawesome("r-project")`-driven solutions and processes
-
-
++ developing and fostering an [engaged workplace](https://ergreports.com/workforce-engagement/)  
++ [data visualization](https://ergreports.com/data-visualization/)
++ helping create [`r icons::fontawesome("r-project")`-driven solutions and processes](https://ergreports.com/r-driving/)
 

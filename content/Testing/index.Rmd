@@ -166,3 +166,277 @@ datatable(table[c(5,7,2,9,4,6)], rownames=FALSE, options = list(pageLength = 5))
 
 ```
 
+
+# Project codename: `r emo::ji("football")`
+
+This project was a simple comparison of points scored by different skilled football positions for the purposes of scoring system alteration. The visuals are repetitive (in groups of three), with the primary capability take-away from these example visuals being the "filterable" Figures \@ref(fig:jitter), \@ref(fig:jitter2), and \@ref(fig:jitter3)...
+
+# Phantazee points
+
+## Top 20 per position (QB, WR, RB)
+
+Top 20 scorers within position (QB, RB, WR only) were taken from [2020 weekly points scored](https://fftoday.com/stats/playerstats.php?Season=2020&GameWeek=1&PosID=20&LeagueID=). Phantazee scoring rulez were then applied [^footie].
+
+[^footie]: 2-point conversion information wasn't in the FF Today database so those points are not included in any graph.
+
+```{r, echo=FALSE, warning=FALSE, include=FALSE}
+
+qb <- read.csv("qb.csv", header=FALSE, fileEncoding = "latin1")
+wr <- read.csv("wr.csv", header=FALSE, fileEncoding = "latin1")
+rb <- read.csv("rb.csv", header=FALSE, fileEncoding = "latin1")
+
+## apply Phantazee scoring here
+
+qb$yds[qb$V6 < 150] <- 0
+qb$yds[qb$V6 >= 150 & qb$V6 < 200] <- 1
+qb$yds[qb$V6 >= 200 & qb$V6 < 250] <- 2
+qb$yds[qb$V6 >= 250 & qb$V6 < 300] <- 3
+qb$yds[qb$V6 >= 300 & qb$V6 < 350] <- 4
+qb$yds[qb$V6 >= 350 & qb$V6 < 400] <- 5
+qb$yds[qb$V6 >= 400 & qb$V6 < 450] <- 6
+qb$yds[qb$V6 >= 450 & qb$V6 < 500] <- 7
+qb$yds[qb$V6 >= 500 & qb$V6 < 550] <- 8
+qb$yds[qb$V6 >= 550 & qb$V6 < 600] <- 9
+qb$yds[qb$V6 >= 600 & qb$V6 < 650] <- 10
+qb$yds[qb$V6 >= 650 & qb$V6 < 700] <- 11
+
+qb$tds1 <- qb$V7*3
+
+qb$ydsr[qb$V10 < 20] <- 0
+qb$ydsr[qb$V10 >= 20 & qb$V10 < 40] <- 1
+qb$ydsr[qb$V10 >= 40 & qb$V10 < 60] <- 2
+qb$ydsr[qb$V10 >= 60 & qb$V10 < 80] <- 3
+qb$ydsr[qb$V10 >= 80 & qb$V10 < 100] <- 4
+qb$ydsr[qb$V10 >= 100 & qb$V10 < 120] <- 5
+qb$ydsr[qb$V10 >= 120 & qb$V10 < 140] <- 6
+qb$ydsr[qb$V10 >= 140 & qb$V10 < 160] <- 7
+qb$ydsr[qb$V10 >= 160 & qb$V10 < 180] <- 8
+qb$ydsr[qb$V10 >= 180 & qb$V10 < 200] <- 9
+qb$ydsr[qb$V10 >= 200 & qb$V10 < 220] <- 10
+qb$ydsr[qb$V10 >= 220 & qb$V10 < 240] <- 11
+qb$ydsr[qb$V10 >= 240 & qb$V10 < 260] <- 12
+qb$ydsr[qb$V10 >= 260 & qb$V10 < 280] <- 13
+qb$ydsr[qb$V10 >= 280 & qb$V10 < 300] <- 14
+
+qb$tds2 <- qb$V11*5
+
+qb$pts <- qb$yds+qb$tds1+qb$ydsr+qb$tds2
+
+rb$yds[rb$V5 < 20] <- 0
+rb$yds[rb$V5 >= 20 & rb$V5 < 40] <- 1
+rb$yds[rb$V5 >= 40 & rb$V5 < 60] <- 2
+rb$yds[rb$V5 >= 60 & rb$V5 < 80] <- 3
+rb$yds[rb$V5 >= 80 & rb$V5 < 100] <- 4
+rb$yds[rb$V5 >= 100 & rb$V5 < 120] <- 5
+rb$yds[rb$V5 >= 120 & rb$V5 < 140] <- 6
+rb$yds[rb$V5 >= 140 & rb$V5 < 160] <- 7
+rb$yds[rb$V5 >= 160 & rb$V5 < 180] <- 8
+rb$yds[rb$V5 >= 180 & rb$V5 < 200] <- 9
+rb$yds[rb$V5 >= 200 & rb$V5 < 220] <- 10
+rb$yds[rb$V5 >= 220 & rb$V5 < 240] <- 11
+rb$yds[rb$V5 >= 240 & rb$V5 < 260] <- 12
+rb$yds[rb$V5 >= 260 & rb$V5 < 280] <- 13
+rb$yds[rb$V5 >= 280 & rb$V5 < 300] <- 14
+
+rb$td1 <- rb$V6*5
+
+rb$yds2[rb$V9 < 20] <- 0
+rb$yds2[rb$V9 >= 20 & rb$V9 < 40] <- 1
+rb$yds2[rb$V9 >= 40 & rb$V9 < 60] <- 2
+rb$yds2[rb$V9 >= 60 & rb$V9 < 80] <- 3
+rb$yds2[rb$V9 >= 80 & rb$V9 < 100] <- 4
+rb$yds2[rb$V9 >= 100 & rb$V9 < 120] <- 5
+rb$yds2[rb$V9 >= 120 & rb$V9 < 140] <- 6
+rb$yds2[rb$V9 >= 140 & rb$V9 < 160] <- 7
+rb$yds2[rb$V9 >= 160 & rb$V9 < 180] <- 8
+rb$yds2[rb$V9 >= 180 & rb$V9 < 200] <- 9
+rb$yds2[rb$V9 >= 200 & rb$V9 < 220] <- 10
+rb$yds2[rb$V9 >= 220 & rb$V9 < 240] <- 11
+rb$yds2[rb$V9 >= 240 & rb$V9 < 260] <- 12
+rb$yds2[rb$V9 >= 260 & rb$V9 < 280] <- 13
+rb$yds2[rb$V9 >= 280 & rb$V9 < 300] <- 14
+
+rb$td2 <- rb$V10*5
+
+rb$pts <- rb$yds + rb$td1 + rb$yds2 + rb$td2
+
+wr$yds[wr$V6 < 20] <- 0
+wr$yds[wr$V6 >= 20 & wr$V6 < 40] <- 1
+wr$yds[wr$V6 >= 40 & wr$V6 < 60] <- 2
+wr$yds[wr$V6 >= 60 & wr$V6 < 80] <- 3
+wr$yds[wr$V6 >= 80 & wr$V6 < 100] <- 4
+wr$yds[wr$V6 >= 100 & wr$V6 < 120] <- 5
+wr$yds[wr$V6 >= 120 & wr$V6 < 140] <- 6
+wr$yds[wr$V6 >= 140 & wr$V6 < 160] <- 7
+wr$yds[wr$V6 >= 160 & wr$V6 < 180] <- 8
+wr$yds[wr$V6 >= 180 & wr$V6 < 200] <- 9
+wr$yds[wr$V6 >= 200 & wr$V6 < 220] <- 10
+wr$yds[wr$V6 >= 220 & wr$V6 < 240] <- 11
+wr$yds[wr$V6 >= 240 & wr$V6 < 260] <- 12
+wr$yds[wr$V6 >= 260 & wr$V6 < 280] <- 13
+wr$yds[wr$V6 >= 280 & wr$V6 < 300] <- 14
+
+wr$td1 <- wr$V7*5
+
+wr$yds2[wr$V9 < 20] <- 0
+wr$yds2[wr$V9 >= 20 & wr$V9 < 40] <- 1
+wr$yds2[wr$V9 >= 40 & wr$V9 < 60] <- 2
+wr$yds2[wr$V9 >= 60 & wr$V9 < 80] <- 3
+wr$yds2[wr$V9 >= 80 & wr$V9 < 100] <- 4
+wr$yds2[wr$V9 >= 100 & wr$V9 < 120] <- 5
+wr$yds2[wr$V9 >= 120 & wr$V9 < 140] <- 6
+wr$yds2[wr$V9 >= 140 & wr$V9 < 160] <- 7
+wr$yds2[wr$V9 >= 160 & wr$V9 < 180] <- 8
+wr$yds2[wr$V9 >= 180 & wr$V9 < 200] <- 9
+wr$yds2[wr$V9 >= 200 & wr$V9 < 220] <- 10
+wr$yds2[wr$V9 >= 220 & wr$V9 < 240] <- 11
+wr$yds2[wr$V9 >= 240 & wr$V9 < 260] <- 12
+wr$yds2[wr$V9 >= 260 & wr$V9 < 280] <- 13
+wr$yds2[wr$V9 >= 280 & wr$V9 < 300] <- 14
+
+wr$td2 <- wr$V10*5
+
+wr$pts <- wr$yds + wr$td1 + wr$yds2 + wr$td2
+
+useqb <- qb[c(1,2,18)]
+userb <- rb[c(1,2,17)]
+usewr <- wr[c(1,2,17)]
+
+colnames(useqb) <- c("name","team", "pts")
+colnames(userb) <- c("name","team", "pts")
+colnames(usewr) <- c("name","team", "pts")
+
+all <- rbind(useqb,userb,usewr)
+
+all$week <- rep(c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16), each = 20)
+all$position <- rep(c("qb","rb","wr"), each=320)
+all$leader <- rep(c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20), times=48)
+
+```
+
+Smoothed averages by position (top 20 per week):
+
+```{r graph, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Smoothed loess estimates."}
+library(ggplot2)
+ggplot(all) + geom_smooth(aes(x=week, y=pts, color=position), se=FALSE) +
+  scale_x_continuous(breaks=seq(1:16))
+
+```
+
+
+```{r box, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Boxplot estimates show variability within groups of top 20s."}
+
+p <- ggplot(all, aes(x=position, y=pts)) +
+  geom_boxplot(aes(fill=position), position=position_dodge(.9)) +
+  facet_grid(~week) +
+#  stat_summary(fun=mean, geom="point", aes(group=position), position=position_dodge(.9), 
+#               color="black", size=4) + 
+  theme(axis.text.x = element_blank()) +
+  coord_cartesian(ylim = c(3, 25))
+
+p
+```
+
+Individual performances (top 20 per position):
+
+```{r jitter, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Jittered points top 20 performers (qb, wr, rb)."}
+
+## getting jitter
+all$jitter <- runif(320, min = -.5, max = .5) 
+all$week.j <- all$jitter + all$week
+
+pal <- c("red", "springgreen3", "blue")
+plotly::plot_ly(data = all, x = ~week.j, y = ~pts, color = ~position, colors = pal, size = ~pts, text = ~name, alpha=.5)
+
+```
+
+
+## Top 5 per position (QB, RB, WR)
+
+```{r subset, echo=FALSE, warning=FALSE, message=FALSE}
+
+newdata <- all[ which(all$leader < 6), ]
+
+```
+
+Smoothed averages by position (top 5 per week):
+
+```{r graph2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Smoothed loess estimates."}
+
+ggplot(newdata) + geom_smooth(aes(x=week, y=pts, color=position), se=FALSE) +
+  scale_x_continuous(breaks=seq(1:16))
+
+```
+
+
+```{r box2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Boxplot estimates show variability within groups of top 5s."}
+
+p <- ggplot(newdata, aes(x=position, y=pts)) +
+  geom_boxplot(aes(fill=position), position=position_dodge(.9)) +
+  facet_grid(~week) +
+#  stat_summary(fun=mean, geom="point", aes(group=position), position=position_dodge(.9), 
+#               color="black", size=4) + 
+  theme(axis.text.x = element_blank()) +
+  coord_cartesian(ylim = c(10, 25))
+
+p
+```
+
+Individual performances (top 5 per position):
+
+```{r jitter2, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Jittered points top 5 performers (qb, wr, rb)."}
+
+## getting jitter
+newdata$jitter <- runif(240, min = -.5, max = .5) 
+newdata$week.j <- newdata$jitter + newdata$week
+
+pal <- c("red", "springgreen3", "blue")
+plotly::plot_ly(data = newdata, x = ~week.j, y = ~pts, color = ~position, colors = pal, size = ~pts, text = ~name, alpha=.5)
+
+```
+
+
+## "Bottom" 5 per position (ranked 16-20; QB, RB, WR)
+
+```{r subset2, echo=FALSE, warning=FALSE, message=FALSE}
+
+newdata2 <- all[ which(all$leader > 15), ]
+
+```
+
+Smoothed averages by position ("Bottom" #'s16-20 per week):
+
+```{r graph3, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Smoothed loess estimates."}
+
+ggplot(newdata2) + geom_smooth(aes(x=week, y=pts, color=position), se=FALSE) +
+  scale_x_continuous(breaks=seq(1:16))
+
+```
+
+
+```{r box3, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Boxplot estimates show variability within groups of Bottom #'s16-20."}
+
+g <- ggplot(newdata2, aes(x=position, y=pts)) +
+  geom_boxplot(aes(fill=position), position=position_dodge(.9)) +
+  facet_grid(~week) +
+#  stat_summary(fun=mean, geom="point", aes(group=position), position=position_dodge(.9), 
+#               color="black", size=4) + 
+  theme(axis.text.x = element_blank()) +
+  coord_cartesian(ylim = c(3, 13))
+
+g
+```
+
+Individual performances ("bottom" 5 per position):
+
+```{r jitter3, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Jittered points Bottom #'s16-20 (qb, wr, rb)."}
+
+## getting jitter
+newdata2$jitter <- runif(240, min = -.5, max = .5) 
+newdata2$week.j <- newdata2$jitter + newdata2$week
+
+pal <- c("red", "springgreen3", "blue")
+plotly::plot_ly(data = newdata2, x = ~week.j, y = ~pts, color = ~position, colors = pal, size = ~pts, text = ~name, alpha=.5)
+
+```
+

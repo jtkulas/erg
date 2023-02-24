@@ -73,7 +73,5 @@ widgetframe::frameWidget(norms)
 
 ```
 
-## `r icons::fontawesome("r-project")`-driven processes `r emo::ji("rocket")`
 
-We also consult on statistical and psychometric projects as well as helping organizations transition to `r icons::fontawesome("r-project")`-enabled workflows 
 
