@@ -23,9 +23,9 @@ We are an organizational consulting group staffed by Industrial and Organization
 knitr::include_graphics("erg3.svg")
 ```
 
-We assist with customized assessment projects, but additionally provide on three foundational services:
+We assist with customized assessment projects, but additionally provide three foundational services:
 
-+ Developing and maintaining [engaged workforces](https://ergreports.com/workforce-engagement/)  
++ Building and sustaining [engaged workforces](https://ergreports.com/workforce-engagement/)  
 + [Data visualization](https://ergreports.com/testing/)
 + Transitioning existing functions to more cost effective [`r icons::fontawesome("r-project")`-driven  processes](https://ergreports.com/references/)
 
