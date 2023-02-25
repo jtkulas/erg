@@ -8,13 +8,15 @@ tags: [MSRA]
 bibliography: packages.bib
 ---
 
-Here we present two interactive visualizations from 2 different larger projects to highlight some interactive graphic capabilities. 
+One of our provided services entails the wrangling, analysis, and *meaningful visualization* of data. 
 
-# Project codename: `r emo::ji("fuel_pump")`
+Below we present two demonstrative visualizations extracted from larger projects to highlight interactive visualizations (where the user is provided some level of involvement with the graphic). 
 
-This project included the creation of an interactive map to locate petrol stations that carry ethanol-free gasoline within the 5-state region surrounding the a local car club. This group does social "runs" periodically throughout the summer months and did not have a map-based resource to help them locate these specialized gas stations while on their far-from-home "runs"...  
+# Example #1 codename: `r emo::ji("fuel_pump")`
 
-# Ethanol-free petrol map 
+This project included the creation of an interactive map to locate petrol stations that provide ethanol-free gasoline within the 5-state region surrounding a local car club. This group does social "runs" periodically throughout the summer months and did not have a map-based resource to help them locate these specialized gas stations while on their far-from-home "runs".  
+
+## Ethanol-free petrol map 
 
 ```{r, echo=FALSE, warning=FALSE, include=FALSE}
 library(leaflet)
@@ -160,13 +162,11 @@ datatable(table[c(5,7,2,9,4,6)], rownames=FALSE, options = list(pageLength = 5))
 
 ```
 
-# Project codename: `r emo::ji("football")`
+# Example #2 codename: `r emo::ji("football")`
 
-This project was a simple comparison of points scored by different skilled football positions for the purposes of scoring system alteration. The presented visual primarily highlights filtering capability...
+This project was a simple comparison of points scored by different skilled football positions for the purposes of scoring system alteration within a fantasy football leage. The extracted visual primarily highlights **data filtering** capability (note the "qb", "rb", "wr" key in the upper right corner).
 
-
-
-## Top 20 per position (QB, WR, RB)
+## Top 20 point scorers by position (QB, WR, RB)
 
 ```{r, echo=FALSE, warning=FALSE, include=FALSE}
 
@@ -303,7 +303,6 @@ all$leader <- rep(c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20), times=4
 
 ```
 
-Individual performances (top 20 per position):
 
 ```{r jitter, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Jittered points top 20 performers (qb, wr, rb)."}
 

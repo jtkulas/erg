@@ -19,23 +19,23 @@ We provide consultation on statistical and psychometric projects as well as help
 + Flexible  
 + Free  
   
-This platform has the capability to power many business functions. This website, for example, was [built with `r icons::fontawesome("r-project")`](https://github.com/jtkulas/erg).[^foot] With e`r icons::fontawesome("r-project")`g's help, your business can transition business processes to this platform that greatly minimizes overhead costs - this is the primary reason our clients find that our prices come in on the "low end" of bids.  
+Our internal reliance on `r icons::fontawesome("r-project")` to drive all of our business functions is the primary reason our clients tell us that our prices come in on the "low end" of bids (we have very little overhead because of our reliance on `r icons::fontawesome("r-project")`). This platform has the capability to power a very wide swath of every day business functions[^foot].  
 
-[^foot]:Our interest was functionality and browser compatability, which is why the design is rather utilitarian, but it [does not need to be so](https://themefisher.com/hugo-business-themes).
+e`r icons::fontawesome("r-project")`g can also help **YOUR** company transition to processes that will similarly reap benefits regarding your day-to-day overhead costs.   
 
 ## Teaching `r icons::fontawesome("r-project")`
 
 If you are interested in training your personnel on `r icons::fontawesome("r-project")` so that you may develop your own `r icons::fontawesome("r-project")`-powered business processes and products, we also provide training on "how to use" `r icons::fontawesome("r-project")` - just [drop us a note](mailto:jtkulas@ergreports.com). 
 
-## Free industry resources
-
-There are several resources that have been published either by e`r icons::fontawesome("r-project")`g or in close collaboration with graduate students in Industrial and Organizational Psychology that all share a goal of furthering the advancement of organizational surveying. A partial listing of these resources (as well as hyperlinks to the resources themselves) is presented below:
+# Free industry resources
 
 <p align="center">
 ![](https://media.giphy.com/media/atcqQ5PuX41J6/giphy.gif)
 </p>
 
-# Organizational surveying resources `r emo::ji("books")`:{-}
+We maintain libraries of resources that have been created over the years either by e`r icons::fontawesome("r-project")`g personnel or graduate students in Industrial and Organizational Psychology that have had a former association with Dr. Kulas. These resources all share a goal of furthering the advancement of organizational surveying. A partial listing of these resources (as well as hyperlinks to the resources themselves) is presented below:
+
+## Organizational surveying resources `r emo::ji("books")`:{-}
 
 ```{r refs, echo=FALSE}
 
@@ -44,7 +44,7 @@ kableExtra::kable(refs, col.names=c("",""))
 
 ```
 
-In addition to the above listed resources, we also maintain a (very nascent) YouTube channel that is focused on forensic Psychometric analyses here: [`r fontawesome::fa("youtube", fill="red")`](https://www.youtube.com/@forensicpsychometrics8300)
+In addition to the above listed resources, we also maintain a small YouTube channel that is focused on forensic Psychometric analyses here: [`r fontawesome::fa("youtube", fill="red")`](https://www.youtube.com/@forensicpsychometrics8300)
 
 ```{css, echo=FALSE}
 div {
@@ -58,3 +58,5 @@ div {
 <div id="refs"></div>
 
 # {-} 
+
+[^foot]:This website, for example, was [built with `r icons::fontawesome("r-project")`](https://github.com/jtkulas/erg). Our interest was functionality and browser compatability, which is why the design is rather utilitarian, but it [does not need to be so](https://themefisher.com/hugo-business-themes).

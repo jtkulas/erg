@@ -33,15 +33,15 @@ month[month == "12"] <- "Winter"
 
 ## Creating an engaged workforce
 
-We apply behavioral Psychology principles and methods to answer questions of employee sentiment within the broader organizational system. A component of this systemic change process includes our engagement assessment:
+We apply behavioral Psychology principles and methods to answer questions of employee sentiment within the broader organizational system. An important component of this systemic change process includes our [engagement survey](https://bookdown.org/kulasj/engagetech/) developed in partnership with [Eagle I.O](https://eagle-io.weebly.com/). 
 
-As of `r month` `r year`, the primary e`r fontawesome::fa("r-project")`g "off-the-shelf" product is an [engagement survey](https://bookdown.org/kulasj/engagetech/) developed in partnership with [Eagle I.O](https://eagle-io.weebly.com/). The e`r fontawesome::fa("r-project")`g team is also working on an `r icons::fontawesome("r-project")` package to capture online survey responses.  
+The e`r fontawesome::fa("r-project")`g team is also working on an `r icons::fontawesome("r-project")` package to capture online survey responses.  
 
 ## Engagement survey `r emo::ji("woman_dancing")` {#engage}
 
 ![](engage.PNG) 
 
-The engagement survey has norms representing most major U.S. metropolitan areas as well as four industrial groups. The feedback report includes automatically generated presentation slides. A tutorial on the use of these slides is [available here](https://jtkulas.github.io/slides/). 
+The engagement survey has norms representing most major U.S. metropolitan areas as well as four industrial groups. The feedback report includes html presentation slides with interactive graphics capabilities. A tutorial on the use of these slides is [available here](https://jtkulas.github.io/slides/). 
 
 ```{r Norms, echo=FALSE, warning=FALSE, fig.cap="Engagement survey normative information"}
 
