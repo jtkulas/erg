@@ -23,7 +23,7 @@ menu:
     - name: Data Visualization
       url: /testing/
       weight: 3
-    - name: R Driving
+    - name: R Integration
       url: /references/
       weight: 4
 #    - name: GitHub

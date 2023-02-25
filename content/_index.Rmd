@@ -12,18 +12,18 @@ image:
 ```{r logo1, echo=FALSE, out.width= "35%", out.extra='style="float:left; padding:5px"'}
 
 library(fontawesome)
-knitr::include_graphics("erg2.png")
+knitr::include_graphics("erg3.svg")
 ```
 
-We are an `r icons::fontawesome("r-project")`-powered organizational consulting group staffed by Industrial and Organizational Psychologists specializing in psychometric and statistical consultation, survey administration, and report generation.  
+We are an [`r icons::fontawesome("r-project")`-powered](https://cran.r-project.org/) organizational consulting group staffed by Industrial and Organizational Psychologists. We specialize in Psychological assessment and statistical consultation, survey creation and administration, and feedback report generation.  
 
-## What We Do:  
+## Services Provided:  
 
 ```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:right; padding:5px"'}
-knitr::include_graphics("erg2.png")
+knitr::include_graphics("erg3.svg")
 ```
 
-In addition to custom effectiveness-facilitating projects, we provide three primary services:
+In addition to customized assessment projects, we focus on three fundamental services:
 
 + developing and fostering an [engaged workplace](https://ergreports.com/workforce-engagement/)  
 + [data visualization](https://ergreports.com/testing/)
