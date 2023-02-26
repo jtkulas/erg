@@ -8,6 +8,8 @@ tags: [MSRA]
 bibliography: packages.bib
 ---
 
+## Data visualization `r emo::ji("telescope")` 
+
 One of our provided services entails the wrangling, analysis, and *meaningful visualization* of data. 
 
 Below we present two demonstrative visualizations extracted from larger projects to highlight interactive visualizations (where the user is provided some level of involvement with the graphic). 
@@ -121,7 +123,7 @@ widgetframe::frameWidget(puregas) ## trying for online
 ```
 
 
-```{r map2, echo=FALSE, warning=FALSE}
+```{r map2, echo=FALSE, warning=FALSE, fig.cap="Searchable 5-state region ethanol-free petrol map."}
 
 states$octane[states$max < 91] <- "less than 91"
 states$octane[states$max == 91] <- "91"
@@ -151,9 +153,9 @@ widgetframe::frameWidget(altmap)
 
 ```
 
-The 5-state database of stations is also searchable via the following table:
+```{r missingstations, warning=FALSE, echo=FALSE, eval=FALSE}
 
-```{r missingstations, warning=FALSE, echo=FALSE}
+## searchable table - taken off example pate 2/25/23
 
 table <- states[ which(!is.na(states$lat) & !is.na(states$long)), ]
 
