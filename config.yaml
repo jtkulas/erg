@@ -17,7 +17,7 @@ menu:
     - name: Workforce Engagement
       url: /Workforce Engagement/
       weight: 2
-    - name: about us
+    - name: About Us
       url: /our-team/
       weight: 5      
     - name: Data Visualization
