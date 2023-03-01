@@ -14,11 +14,9 @@ One of our provided services entails the wrangling, analysis, and *meaningful vi
 
 Below we present two demonstrative visualizations extracted from larger projects to highlight interactive visualizations (where the user is provided some level of involvement with the graphic). 
 
-# Example #1 codename: `r emo::ji("fuel_pump")`
+# Example #1: `r emo::ji("fuel_pump")`
 
 This project included the creation of an interactive map to locate petrol stations that provide ethanol-free gasoline within the 5-state region surrounding a local car club. This group does social "runs" periodically throughout the summer months and did not have a map-based resource to help them locate these specialized gas stations while on their far-from-home "runs".  
-
-## Ethanol-free petrol map 
 
 ```{r, echo=FALSE, warning=FALSE, include=FALSE}
 library(leaflet)
@@ -123,7 +121,7 @@ widgetframe::frameWidget(puregas) ## trying for online
 ```
 
 
-```{r map2, echo=FALSE, warning=FALSE, fig.cap="Searchable 5-state region ethanol-free petrol map."}
+```{r map2, echo=FALSE, warning=FALSE}
 
 states$octane[states$max < 91] <- "less than 91"
 states$octane[states$max == 91] <- "91"
@@ -164,7 +162,7 @@ datatable(table[c(5,7,2,9,4,6)], rownames=FALSE, options = list(pageLength = 5))
 
 ```
 
-# Example #2 codename: `r emo::ji("football")`
+# Example #2: `r emo::ji("football")`
 
 This project was a simple comparison of points scored by different skilled football positions for the purposes of scoring system alteration within a fantasy football leage. The extracted visual primarily highlights **data filtering** capability (note the "qb", "rb", "wr" key in the upper right corner).
 
@@ -306,7 +304,7 @@ all$leader <- rep(c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20), times=4
 ```
 
 
-```{r jitter, echo=FALSE, warning=FALSE, message=FALSE, fig.cap="Jittered points top 20 performers (qb, wr, rb)."}
+```{r jitter, echo=FALSE, warning=FALSE, message=FALSE}
 
 ## getting jitter
 all$jitter <- runif(320, min = -.5, max = .5) 
