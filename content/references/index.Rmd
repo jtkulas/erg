@@ -8,7 +8,7 @@ tags: [references]
 bibliography: [book.bib]
 csl: apa7.csl
 nocite: |
-  @github, @markdown, @engage, @onepage
+  @github, @markdown, @onepage
 ---
 
 ## `r icons::fontawesome("r-project")`-driven processes `r emo::ji("rocket")`
@@ -40,7 +40,7 @@ We maintain libraries of resources that have been created over the years either 
 ```{r refs, echo=FALSE}
 
 refs <- read.csv("resources.csv")
-kableExtra::kable(refs, col.names=c("",""))
+kableExtra::kable(refs, col.names=c("","",""))
 
 ```
 
