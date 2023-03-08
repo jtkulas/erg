@@ -25,7 +25,7 @@ We rely on `r icons::fontawesome("r-project")` to drive all of our business func
 
 ## Teaching `r icons::fontawesome("r-project")`
 
-If you are interested in training your personnel on `r icons::fontawesome("r-project")` so that you may develop your own `r icons::fontawesome("r-project")`-powered business processes and products, we also provide training on "how to use" `r icons::fontawesome("r-project")` - just [drop us a note](mailto:jtkulas@ergreports.com). 
+If you are interested in training your personnel on `r icons::fontawesome("r-project")` so that you may develop your own `r icons::fontawesome("r-project")`-powered business processes and products, we also provide training on "how to use" `r icons::fontawesome("r-project")` - just [drop us a note](#contact). 
 
 # Professional resources `r emo::ji("books")`:{-}
 
