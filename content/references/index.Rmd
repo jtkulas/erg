@@ -27,16 +27,13 @@ We rely on `r icons::fontawesome("r-project")` to drive all of our business func
 
 If you are interested in training your personnel on `r icons::fontawesome("r-project")` so that you may develop your own `r icons::fontawesome("r-project")`-powered business processes and products, we also provide training on "how to use" `r icons::fontawesome("r-project")` - just [drop us a note](mailto:jtkulas@ergreports.com). 
 
-# Free industry resources
+# Professional resources `r emo::ji("books")`:{-}
+
+We maintain libraries of resources that have been created over the years either by e`r icons::fontawesome("r-project")`g personnel or graduate students in Industrial and Organizational Psychology that have had a former association with Dr. Kulas. These resources all share a goal of furthering the advancement of Psychological assessment. A partial listing of these resources (as well as hyperlinks to the resources themselves) is presented below:
 
 <p align="center">
 ![](https://media.giphy.com/media/atcqQ5PuX41J6/giphy.gif)
 </p>
-
-We maintain libraries of resources that have been created over the years either by e`r icons::fontawesome("r-project")`g personnel or graduate students in Industrial and Organizational Psychology that have had a former association with Dr. Kulas. These resources all share a goal of furthering the advancement of Psychological assessment. A partial listing of these resources (as well as hyperlinks to the resources themselves) is presented below:
-
-## Organizational surveying resources `r emo::ji("books")`:{-}
-
 ```{r refs, echo=FALSE}
 
 refs <- read.csv("resources.csv")
