@@ -17,8 +17,27 @@ e`r fontawesome::fa("r-project")`g was founded in 2022 by John Kulas (aka "John-
 
 ## Contact e`r fontawesome::fa("r-project")`g:
 
+<form
+  action="https://formspree.io/f/mrgvpwqd"
+  method="POST"
+>
+  <label>
+    Your message:
+  <textarea name="message"></textarea>
+  </label>
+<br />
+<br />
+  <label>
+    ...and your email (so we may respond):
+    <input type="email" name="email">
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
 John-o Kulas:  
 `r fontawesome::fa("phone-volume")` 651-216-3353  
 `r fontawesome::fa("envelope")` [jtkulas@ergreports.com](mailto: jtkulas@ergreports.com)  
 `r fontawesome::fa("square-twitter")` [@jtkulas](https://twitter.com/jtkulas)  
 `r fontawesome::fa("location-dot")` Minneapolis, MN 55421 
+
