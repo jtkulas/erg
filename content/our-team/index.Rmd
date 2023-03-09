@@ -41,3 +41,38 @@ John-o Kulas:
 `r fontawesome::fa("square-twitter")` [@jtkulas](https://twitter.com/jtkulas)  
 `r fontawesome::fa("location-dot")` Minneapolis, MN 55421 
 
+```{r include=FALSE}
+library(leaflet)
+library(dplyr)
+library(reticulate)
+```
+
+```{r, echo=FALSE, warning=FALSE}
+
+content <- paste(sep = "<br/>",
+  "<b><a href='https://ergreports.com/'>eRg HQ</a></b>",
+  "Minneapolis, MN",
+  "55421"
+)
+
+hc_gdpr <- leaflet() %>%
+  setView(lng= -93.24649681376336, lat=44.99948959471243, zoom=6) %>%
+   addTiles() %>%
+  addWMSTiles(
+    "http://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0r.cgi",
+    layers = "nexrad-n0r-900913",
+    options = WMSTileOptions(format = "image/png", transparent = TRUE, opacity = 0.35),
+    attribution = "Weather data © IEM Nexrad") %>%
+    addCircleMarkers(-93.23, 45.0, popup=content, radius=20)
+  #  addPopups(-93.23, 45.0, content,
+#    options = popupOptions(closeButton = FALSE)
+#)
+
+
+htmlwidgets::saveWidget(hc_gdpr, "hc_gdpr.html", selfcontained = TRUE, knitrOptions = list())
+hc_gdpr
+## helpful(?) for interactive plots in GitPages sites:
+
+## http://ryankuhn.net/blog/How-To-Use-Plotly-With-Jekyll
+
+```
