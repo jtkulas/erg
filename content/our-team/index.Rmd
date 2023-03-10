@@ -63,8 +63,12 @@ ergIcon <- makeIcon(
 
 hc_gdpr <- leaflet() %>%
   setView(lng= -93.24649681376336, lat=44.99948959471243, zoom=5) %>%
-   addTiles() %>%
-  addWMSTiles(
+#   addTiles() %>%
+ addProviderTiles(
+    "Stamen.Toner",
+    group = "Stamen.Toner"
+  ) %>%
+ addWMSTiles(
     "http://mesonet.agron.iastate.edu/cgi-bin/wms/nexrad/n0r.cgi",
     layers = "nexrad-n0r-900913",
     options = WMSTileOptions(format = "image/png", transparent = TRUE, opacity = 0.35),
@@ -81,5 +85,7 @@ hc_gdpr
 ## helpful(?) for interactive plots in GitPages sites:
 
 ## http://ryankuhn.net/blog/How-To-Use-Plotly-With-Jekyll
+
+## https://bookdown.org/nicohahn/making_maps_with_r5/docs/leaflet.html
 
 ```
