@@ -57,7 +57,7 @@ content <- paste(sep = "<br/>",
 
 ergIcon <- makeIcon(
   iconUrl = "https://ergreports.com/images/erg2.png",
-  iconWidth = 50, iconHeight = 50,
+  iconWidth = 60, iconHeight = 50,
   iconAnchorX = 30, iconAnchorY = 30,
 )
 
