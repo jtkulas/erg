@@ -73,7 +73,7 @@ widgetframe::frameWidget(norms)
 
 ```
 
-```{r norms, warning=FALSE, echo=FALSE, fig.cap="Engagement survey normative information (as of Spring 2023)."}
+```{r norms, warning=FALSE, echo=FALSE, fig.cap="Engagement survey normative information (geographic constituency)."}
 
 ## Trying to recapture data for norms reporting - pilot, qualtrics, prolific, and snowball (Eagle; final data collection at MSU); 4/12/23
 
@@ -101,8 +101,7 @@ ergIcon <- makeIcon(
 ## create leaflet map
 leaflet() %>% 
    addProviderTiles(
-    "Stamen.Toner",
-    group = "Stamen.Toner") %>% 
+    "Stamen.TonerBackground") %>% 
   setView(lng= -93.24649681376336, lat=44.99948959471243, zoom=5) %>%
   addTiles() %>%
   addMarkers(data=together, ~LocationLongitude, ~LocationLatitude, icon = ergIcon,  clusterOptions = markerClusterOptions())
