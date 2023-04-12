@@ -104,7 +104,7 @@ leaflet() %>%
     "Stamen.TonerBackground") %>% 
   setView(lng= -93.24649681376336, lat=44.99948959471243, zoom=5) %>%
   addTiles() %>%
-  addMarkers(data=together, ~LocationLongitude, ~LocationLatitude, icon = ergIcon,  clusterOptions = markerClusterOptions())
+  addMarkers(data=together, ~LocationLongitude, ~LocationLatitude, icon = ergIcon,  clusterOptions = markerClusterOptions(spiderfyDistanceMultiplier=1.5))
 
 ```
 
