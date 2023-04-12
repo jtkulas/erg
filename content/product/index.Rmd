@@ -43,7 +43,7 @@ The e`r fontawesome::fa("r-project")`g team is also working on an `r icons::font
 
 The engagement survey has norms representing most major U.S. metropolitan areas as well as four industrial groups. The feedback report includes html presentation slides with interactive graphics capabilities. A tutorial on the use of these slides is [available here](https://jtkulas.github.io/slides/). 
 
-```{r Norms, echo=FALSE, warning=FALSE, fig.cap="Engagement survey normative information"}
+```{r Norms, echo=FALSE, warning=FALSE, fig.cap="Engagement survey normative information", eval=FALSE}
 
 ## data duplicating norms frequencies (number of people in database)
 
@@ -73,5 +73,40 @@ widgetframe::frameWidget(norms)
 
 ```
 
+```{r norms, warning=FALSE, echo=FALSE, fig.cap="Engagement survey normative information (as of Spring 2023)."}
+
+## Trying to recapture data for norms reporting - pilot, qualtrics, prolific, and snowball (Eagle; final data collection at MSU); 4/12/23
+
+pilot <- read.csv("data\\qualtrics_pilot_data.csv")[-c(1:2),c(14:15)]  ## n = 232 (November 2021)
+qualtrics1 <- read.csv("data\\Engagement+(Attitudinal)_October+12,+2021_08.02.csv")[-c(1:2),c(14:15)]
+qualtrics2 <- read.csv("data\\Engagement+(Substantive)_October+12,+2021_08.01.csv")[-c(1:2),c(14:15)]
+prolific1 <- read.csv("data\\inprogress.csv")[-c(1:2),] ## lat/long missing
+prolific2 <- read.csv("data\\initial_data_screen.csv")[-c(1:2),c(14:15)]
+snowball <- read.csv("data\\lookie.12.2.csv")[-c(1:2),c(14:15)]
+
+together <- rbind(pilot, qualtrics1, qualtrics2, prolific2, snowball)
+
+library(leaflet)
+library(maps)  ## us.cities data
+
+together$`LocationLongitude` <- round(as.numeric(as.character(together$`LocationLongitude`)),1)
+together$`LocationLatitude` <- round(as.numeric(as.character(together$`LocationLatitude`)),1)
+
+ergIcon <- makeIcon(
+  iconUrl = "https://ergreports.com/images/erg2.png",
+  iconWidth = 60, iconHeight = 50,
+  iconAnchorX = 30, iconAnchorY = 30,
+)
+
+## create leaflet map
+leaflet() %>% 
+   addProviderTiles(
+    "Stamen.Toner",
+    group = "Stamen.Toner") %>% 
+  setView(lng= -93.24649681376336, lat=44.99948959471243, zoom=5) %>%
+  addTiles() %>%
+  addMarkers(data=together, ~LocationLongitude, ~LocationLatitude, icon = ergIcon,  clusterOptions = markerClusterOptions())
+
+```
 
 
