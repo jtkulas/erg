@@ -84,12 +84,22 @@ prolific1 <- read.csv("data\\inprogress.csv")[-c(1:2),] ## lat/long missing
 prolific2 <- read.csv("data\\initial_data_screen.csv")[-c(1:2),c(14:15)]
 snowball <- read.csv("data\\lookie.12.2.csv")[-c(1:2),c(14:15)]
 
-together <- rbind(pilot, qualtrics1, qualtrics2, prolific2, snowball)
+library(rgeolocate)     ## installed old version 4/12/23
+
+ip_lst = prolific1$V6
+
+prolific1_est <- maxmind(ip_lst, "Data//GeoLite2-City.mmdb", 
+        fields=c("latitude", "longitude"))
+
+names(prolific1_est)[1] <- "LocationLatitude"
+names(prolific1_est)[2] <- "LocationLongitude"
+
+together <- rbind(pilot, qualtrics1, qualtrics2, prolific2, snowball, prolific1_est)
 
 library(leaflet)
 library(maps)  ## us.cities data
 
-together$`LocationLongitude` <- round(as.numeric(as.character(together$`LocationLongitude`)),1)
+together$`LocationLongitude` <- round(as.numeric(as.character(together$`LocationLongitude`)),1) ## mask actual geographic location
 together$`LocationLatitude` <- round(as.numeric(as.character(together$`LocationLatitude`)),1)
 
 ergIcon <- makeIcon(
