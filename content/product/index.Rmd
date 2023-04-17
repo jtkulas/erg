@@ -33,13 +33,13 @@ month[month == "12"] <- "Winter"
 
 ## Creating an engaged workforce `r emo::ji("sparkling_heart")` 
 
-We apply behavioral Psychology principles and methods to answer questions of employee sentiment within the broader organizational system. An important component of this systemic change process includes our [engagement survey](https://bookdown.org/kulasj/engagetech/) developed in partnership with [Eagle I.O](https://eagle-io.weebly.com/). 
+We apply behavioral Psychology principles and methods to answer questions of employee sentiment within the broader organizational system. An important component of this systemic change process includes our engagement survey developed in partnership with [Eagle I.O](https://eagle-io.weebly.com/). 
 
 ## Engagement survey `r emo::ji("woman_dancing")` {#engage}
 
 ![](engage.PNG) 
 
-The engagement survey has norms representing most major U.S. metropolitan areas as well as four industrial groups. The feedback report includes html presentation slides with interactive graphics capabilities. A tutorial on the use of these slides is [available here](https://jtkulas.github.io/slides/). 
+The engagement survey responses are evaluated against norms representing most major U.S. metropolitan areas, with sparser international representation (see Figure \@ref(fig:norms)). The feedback reports include both static .pdf as well as interactive .html reports and presentation slides. The .pdf and .html feedback reports are still under construction as of `r format(Sys.time(),"%B, %Y")`. A tutorial on the use of the presentation slides is currently [available here](https://jtkulas.github.io/slides/). 
 
 ```{r Norms, echo=FALSE, warning=FALSE, fig.cap="Engagement survey normative information", eval=FALSE}
 
@@ -71,7 +71,7 @@ widgetframe::frameWidget(norms)
 
 ```
 
-```{r norms, warning=FALSE, echo=FALSE, fig.cap="Engagement survey normative information (geographic constituency)."}
+```{r norms, warning=FALSE, echo=FALSE, fig.cap=paste("Engagement survey normative information (geographic constituency - most recently updated", format(Sys.time(),'%A, %B %d, %Y'),").")}
 
 ## Trying to recapture data for norms reporting - pilot, qualtrics, prolific, and snowball (Eagle; final data collection at MSU); 4/12/23
 
@@ -117,10 +117,12 @@ leaflet() %>%
 
 ```
 
-## Example survey template `r emo::ji("memo")` {#survey}
+## Example survey administration template `r emo::ji("memo")` {#survey}
 
 If you have 10 minutes to spare, or would simply like to see an example of our administration process, you can take the survey by clicking the button below:
 
 [![](TakeOurSurveyHere.png)](https://general.formr.org/)
 
-...if you have any feedback please [drop us a note](https://ergreports.com/our-team/#contact) and let us know.
+...if you have any feedback to share regarding the survey process, format, or general experience, please [drop us a note](https://ergreports.com/our-team/#contact) and let us know how we can improve.  
+
+A working draft of the technical report documenting the development of the engagement survey is [located here](https://bookdown.org/kulasj/engagetech/).
