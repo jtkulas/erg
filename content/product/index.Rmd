@@ -35,8 +35,6 @@ month[month == "12"] <- "Winter"
 
 We apply behavioral Psychology principles and methods to answer questions of employee sentiment within the broader organizational system. An important component of this systemic change process includes our [engagement survey](https://bookdown.org/kulasj/engagetech/) developed in partnership with [Eagle I.O](https://eagle-io.weebly.com/). 
 
-The e`r fontawesome::fa("r-project")`g team is also working on an `r icons::fontawesome("r-project")` package to capture online survey responses.  
-
 ## Engagement survey `r emo::ji("woman_dancing")` {#engage}
 
 ![](engage.PNG) 
@@ -119,4 +117,10 @@ leaflet() %>%
 
 ```
 
+## Example survey template `r emo::ji("memo")` {#survey}
 
+If you have 10 minutes to spare, or would simply like to see an example of our administration process, you can take the survey by clicking the button below:
+
+[![](TakeOurSurveyHere.png)](https://general.formr.org/)
+
+...if you have any feedback please [drop us a note](https://ergreports.com/our-team/#contact) and let us know.
