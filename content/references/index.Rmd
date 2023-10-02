@@ -19,9 +19,9 @@ We provide consultation on statistical and psychometric projects as well as help
 + Flexible  
 + Free  
   
-We rely on `r icons::fontawesome("r-project")` to drive all of our business functions, and this is likely the primary reason our clients tell us that our prices come in on the "low end" of bids (we have very little overhead because of our reliance on `r icons::fontawesome("r-project")`). This platform has the capability to power a very wide variety of every day business functions[^foot]. For example, we use the platform to scrape data from websites, automate reports, and consolidate data into centralized repositories. These are processes relevant to **us** - your needs are unique but can also be addressed with our assistance...    
+We rely on `r icons::fontawesome("r-project")` to drive all of our business functions. This platform has the capability to power a very wide variety of every day business functions[^foot]. For example, we use the platform to scrape data from websites, automate reports, and consolidate data into centralized repositories. These are processes relevant to **us** - your needs are unique but can likely also be addressed with our assistance...    
 
-...e`r icons::fontawesome("r-project")`g can  help **YOUR** company transition to processes that will reap similar benefits regarding your day-to-day overhead costs.   
+...e`r icons::fontawesome("r-project")`g can  help **YOUR** company transition to processes that will reap benefits regarding your day-to-day overhead costs.   
 
 ## Teaching `r icons::fontawesome("r-project")`
 
