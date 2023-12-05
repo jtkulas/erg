@@ -11,17 +11,17 @@ nocite: |
   @github, @markdown, @onepage
 ---
 
-## `r icons::fontawesome("r-project")`-driven processes `r emo::ji("rocket")`
+## Process automation `r emo::ji("rocket")`
 
-We provide consultation on statistical and psychometric projects as well as helping organizations transition to `r icons::fontawesome("r-project")`-enabled workflows. Why `r icons::fontawesome("r-project")`? Because it is:  
+We provide consultation on statistical and psychometric projects as well as helping organizations transition to `r icons::fontawesome("r-project")`-enabled work processes. Why `r icons::fontawesome("r-project")`? Because it is:  
 
 + Powerful  
 + Flexible  
 + Free  
   
-We rely on `r icons::fontawesome("r-project")` to drive all of our business functions. This platform has the capability to power a very wide variety of every day business functions[^foot]. For example, we use the platform to scrape data from websites, automate reports, and consolidate data into centralized repositories. These are processes relevant to **us** - your needs are unique but can likely also be addressed with our assistance...    
+We rely on `r icons::fontawesome("r-project")` to drive all of our business functions. This platform has the capability to power a very wide variety of every day business functions[^foot]. For example, we use the platform to scrape data from websites, automate reports, and consolidate data into centralized repositories. These are processes relevant to **us** - your needs are unique but can also be addressed with our assistance. Excel actions, for example, are common applications that can be automated - [check out our marketing flyer](borcelle.png) for more ideas.    
 
-...e`r icons::fontawesome("r-project")`g can  help **YOUR** company transition to processes that will reap benefits regarding your day-to-day overhead costs.   
+e`r icons::fontawesome("r-project")`g can  help **YOUR** company transition to processes that will reap benefits regarding your day-to-day overhead costs.   
 
 ## Teaching `r icons::fontawesome("r-project")`
 
