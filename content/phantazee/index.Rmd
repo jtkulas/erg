@@ -2,12 +2,22 @@
 title: 
 author: ''
 date: '2021-06-11'
-slug: phantazee
+slug: Resources
 categories: []
-tags: [phantazee]
+tags: [R]
 ---
 
-## `r icons::fontawesome("r-project")`-driven processes `r emo::ji("rocket")`
+## Process automation `r emo::ji("rocket")`
 
-We also consult on statistical and psychometric projects as well as helping organizations transition to `r icons::fontawesome("r-project")`-enabled workflows 
+We provide consultation on statistical and psychometric projects as well as helping organizations transition to `r icons::fontawesome("r-project")`-enabled automated work processes. Why `r icons::fontawesome("r-project")`? Because it is:  
+
++ Powerful  
++ Flexible  
++ Free  
+  
+We rely on `r icons::fontawesome("r-project")` to drive all of our business functions[^foot]. For example, we use the platform to scrape data from websites, automate reports, and consolidate data into centralized repositories. The system that we use is generalizable - your needs are of course unique but can also be automated via application of standard principles. [Repetitive Excel actions](borcelle.png), for example, are common every day business applications that can frequently be automated.
+
+## Teaching `r icons::fontawesome("r-project")`
+
+If you are interested in training your personnel on `r icons::fontawesome("r-project")` so that you may develop your own `r icons::fontawesome("r-project")`-powered business processes and products, we also provide training on "how to use" `r icons::fontawesome("r-project")` - just [drop us a note](https://ergreports.com/our-team/#contact).  
 

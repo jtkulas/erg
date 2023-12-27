@@ -8,6 +8,14 @@ tags: [MSRA]
 bibliography: packages.bib
 ---
 
+## Assessments Auditing
+
+The sheer volume of assessments that organizations can accumulate can be overwhelming. Over 30 years of experience in authoring, validating, and implementing assessments gives us a unique perspective regarding assessment utility. 
+
+An assessment audit evaluates the current cost and benefit of assessments used for purposes of selection, training, and employee experience. Returns on investment are calculated and the audited organization receives a comprehensive report regarding the relative cost and benefit of each individual assessment as well as the overall assessment strategy. Redundancies are identified and recommendations for future assessment strategies are offered. 
+
+This service is recommended for organizations with 2,500 or more employees. 
+
 ## Data visualization `r emo::ji("telescope")` 
 
 One of our provided services entails the wrangling, analysis, and *meaningful visualization* of data. 
