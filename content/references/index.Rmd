@@ -25,7 +25,7 @@ kableExtra::kable(refs, col.names=c("","",""))
 
 ```
 
-In addition to the above listed resources, we also maintain a small YouTube channel that is focused on forensic Psychometric analyses here: [`r fontawesome::fa("youtube", fill="red")`](https://www.youtube.com/@forensicpsychometrics8300)
+In addition to the above listed resources, we also maintain a YouTube channel (check us out here: [`r fontawesome::fa("youtube", fill="red")`](https://www.youtube.com/@forensicpsychometrics8300)) that is focused on forensic Psychometric analyses as well as using `r icons::fontawesome("r-project")` to author projects.  
 
 ```{css, echo=FALSE}
 div {
