@@ -25,8 +25,6 @@ kableExtra::kable(refs, col.names=c("","",""))
 
 ```
 
-In addition to the above listed resources, we also maintain a YouTube channel (check us out here: [`r fontawesome::fa("youtube", fill="red")`](https://www.youtube.com/@forensicpsychometrics8300)) that is focused on forensic Psychometric analyses as well as using `r icons::fontawesome("r-project")` to author projects.  
-
 ```{css, echo=FALSE}
 div {
   padding-top: 15px;
@@ -39,5 +37,3 @@ div {
 <div id="refs"></div>
 
 # {-} 
-
-[^foot]:This website, for example, was [built with `r icons::fontawesome("r-project")`](https://github.com/jtkulas/erg). Our interest was functionality and browser compatability, which is why the design is rather utilitarian, but it [does not need to be so](https://themefisher.com/hugo-business-themes).

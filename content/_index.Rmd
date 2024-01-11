@@ -9,7 +9,7 @@ image:
   preview_only: yes
 ---
 
-```{r logo1, echo=FALSE, out.width= "35%", out.extra='style="float:left; padding:5px"'}
+```{r logo1, echo=FALSE, out.width= "35%", out.extra='style="float:left; padding:10px"'}
 
 library(fontawesome)
 knitr::include_graphics("erg3.svg")
@@ -19,7 +19,7 @@ We are an organizational consulting group staffed by Industrial and Organization
 
 ## Services Provided:  
 
-```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:right; padding:5px"'}
+```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:right; padding:10px"'}
 knitr::include_graphics("erg3.svg")
 ```
 

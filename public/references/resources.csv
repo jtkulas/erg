@@ -1,4 +1,7 @@
 one,two,three
+**Authoring Resources**:,,
+,[![](mppaw.JPG)](https://jtkulas.github.io/MPPAW2023), **Quarto tutorial** [@quarto]
+,[![](title1.JPG)](https://www.youtube.com/@forensicpsychometrics8300), **Weekly LiveStreams**
 **R Resources**:,,
 ,[![](rmarkdown.PNG)](https://jtkulas.github.io/temp),Working with **RMarkdown** [@markdown]
 ,[![](github.PNG)](https://jtkulas.github.io/GitHub),Working with **GitHub** [@github]
@@ -8,8 +11,7 @@ one,two,three
 **Testing Resources**:,,
 ,[![](ctticc.PNG)](https://github.com/MontclairML/ctticc), **R package** [@ctticc]
 ,[![](DIF.png)](KCPDIF.xls), **Multigroup DIF** assessment widget [@kulas2011california]
-**Authoring Resources**:,,
-,[![](mppaw.JPG)](https://jtkulas.github.io/MPPAW2023), **Quarto tutorial** [@quarto]
+
 
 
 
