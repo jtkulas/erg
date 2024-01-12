@@ -25,4 +25,4 @@ knitr::include_graphics("erg3.svg")
 
 + Replacing existing functions with more [efficient   processes](https://ergreports.com/automation/)
 + Building and sustaining [engaged workforces](https://ergreports.com/workforce-engagement/)  
-+ Improving data communication via [intuitive visualization](https://ergreports.com/automation/) 
++ Assisting with the building, administration, and interpretation of organizational polling (aka surveys)
