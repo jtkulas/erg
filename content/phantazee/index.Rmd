@@ -19,16 +19,102 @@ We use the platform to scrape data from websites, automate reports, and consolid
 
 ### Process Automation Example #1{#DataViz}
 
+This project included the creation of an interactive map to locate petrol stations that provide ethanol-free gasoline within the 5-state region surrounding a local car club. This group does social "runs" periodically throughout the summer months and was relying on hand-created pamphlets that listed ethanol-free stations in alphabetical order (by city). This club did not have any tech-enabled resource to help them locate these specialized gas stations while on their far-from-home "runs". We web scrape available online databases and then display the information in an interactive map, not only providing a more useful resource, but also minimizing data error attributable to human data entry/management. 
+
+```{r echo=FALSE, warning=FALSE}
+library(leaflet)
+minny <- read.csv("C://Kulas//Git//erg//content//Testing//minny.csv")
+iowa <- read.csv("C://Kulas//Git//erg//content//Testing//iowa.csv")
+sd <- read.csv("C://Kulas//Git//erg//content//Testing//sd.csv")
+wisc <- read.csv("C://Kulas//Git//erg//content//Testing//wisc.csv")
+nd <- read.csv("C://Kulas//Git//erg//content//Testing//nd.csv")
+
+miss <- read.csv("C://Kulas//Git//erg//content//Testing//missing_geocodio.csv")  ## taken from geocodio
+use <- miss[,c(1:11)]
+colnames(use)[10] <- "lat"
+colnames(use)[11] <- "long"
+
+use$lat[use$lat == 0] <- NA
+use$long[use$long == 0] <- NA
+
+states <- rbind(minny, iowa, sd, wisc, nd, use)
+
+
+library(stringr)
+states$max <- as.numeric(str_sub(states$Octane, start= -3))
+
+missing <- states[ which(is.na(states$lat) & is.na(states$long)), ]
+missing <- missing[,2:9]
+
+# write.csv(missing, "missing.csv")  ## for 3rd party lat and long estimates
+
+```
+
+<p align="center">
+`r emo::ji("warning")` `r emo::ji("warning")` `r emo::ji("skull_and_crossbones")` **NEVER** use this map *while driving* `r emo::ji("face_with_symbols_on_mouth")` `r emo::ji("warning")` `r emo::ji("warning")` 
+</p>
+
+```{r map, echo=FALSE, warning=FALSE, include=FALSE}
+
+pal <- colorNumeric(
+  palette = "Spectral",
+  reverse = TRUE,
+  domain = states$max
+)
+
+puregas <- leaflet() %>% 
+  addProviderTiles("CartoDB.Positron") %>% 
+  setView(-93.11389168, 45.08506268	,
+          zoom = 6) %>%
+  addTiles() %>%
+  addCircles(data=states, lng = ~long, lat = ~lat, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone, "<br>", "Max Octane:", max), color=~pal(max), opacity=.8) %>%
+  addLegend("bottomright", data=states, pal = pal, values = ~max)
+
+widgetframe::frameWidget(puregas) ## trying for online
+
+```
+
+
+```{r map2, echo=FALSE, warning=FALSE}
+
+states$octane[states$max < 91] <- "less than 91"
+states$octane[states$max == 91] <- "91"
+states$octane[states$max > 91 & states$max < 100] <- "92 - 99"
+states$octane[states$max > 99] <- "100 or more"
+
+states$octane <- factor(states$octane, levels = c("less than 91", "91", "92 - 99", "100 or more"))
+
+states$mapping <- as.numeric(as.character(str_sub(states$Octane, start= -1)))  ## for circle radius
+
+pal2 <- colorFactor(
+  palette = c("#0000FF", "#FFFF00", "#FF0000", "#FF00CC"),
+  domain = states$octane
+)
+
+## create leaflet map
+altmap <- leaflet() %>% 
+  addProviderTiles("CartoDB.Positron") %>% 
+  setView(-93.11389168, 45.08506268	,
+          zoom = 9) %>%
+  addTiles() %>%
+  addCircles(data=states, lng = ~long, lat = ~lat, weight = 1,
+             radius = ~max*10, popup = ~paste(Name, "<br>",Street.Address, "<br>", City, State, "<br>", Phone, "<br>", "Max Octane:", max), fillColor=~pal2(octane), fillOpacity = .5 ) %>%
+  addLegend("bottomright", data=states, pal = pal2, values = ~octane, opacity = 1)
+
+widgetframe::frameWidget(altmap)
+
+```
+
+### Process Automation Example #2 
+
 A local nonprofit organization had a financial reporting process that required the: 1) accessing of information from multiple accounts, 2) manual transfer of account transactions, and 3) report generation (including qualitative descriptions of finances).  
 
-```{r MPPAW, echo=FALSE, out.width= "35%", out.extra='style="float:right; padding:10px"'}
+```{r MPPAW, echo=FALSE, out.width= "45%", out.extra='style="float:right; padding:10px"'}
 
 knitr::include_graphics("example1.JPG")
 ```
 
-The automation here "cut out" the second and third components of this process. Because this data is financial in nature, the organization still requires an appointed representative to *access* the information, but there is no human involvement beyond accessing the financial files. A partially redacted[^foot] version of the new automated reporting document [can be accessed here](Report.html). 
-
-### Process Automation Example #2 
+The automation here "cut out" the second and third components of this process. Because this data is financial in nature, the organization still requires an appointed representative to *access* the information, but there is no human involvement beyond accessing the financial files. A partially redacted[^foot] version of the new automated reporting document [can be accessed here](Report.html).
 
 ## Teaching `r icons::fontawesome("r-project")`
 
