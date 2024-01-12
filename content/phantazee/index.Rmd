@@ -9,16 +9,19 @@ tags: [Automation]
 
 ## Process automation `r emo::ji("rocket")`
 
-We help organizations transition to `r icons::fontawesome("r-project")`-enabled automated work processes. Why `r icons::fontawesome("r-project")`? Because it is:  
+We help organizations transition from legacy functions to more efficient (often automated) work processes. For processes that involve data management of some type, [we build solutions](borcelle.png) via `r icons::fontawesome("r-project")`, because it is:  
 
 + Powerful  
 + Flexible  
-+ Free  
++ Cost-effective  
   
-We rely on `r icons::fontawesome("r-project")` to drive all of our internal business functions.[^foot] For example, we use the platform to scrape data from websites, automate reports, and consolidate data into centralized repositories. The system that we use is generalizable - your needs are of course unique but can also be automated via application of standard principles. [Repetitive Excel actions](borcelle.png), for example, are common every day business applications that can frequently be automated.
+We use the platform to scrape data from websites, automate reports, and consolidate data into centralized repositories. The transition framework that we apply is broadly applicable - your business processes are of course unique but can also be automated via application of our standard principles of efficiency. Repetitive Excel actions, for example, are common every day business applications that we can help you automate. This frees employees to focus their time on more important and less tedious tasks.
+
+### Process Automation Example #1{#DataViz}
+
+### Process Automation Example #2
 
 ## Teaching `r icons::fontawesome("r-project")`
 
 If you are interested in training your personnel on `r icons::fontawesome("r-project")` so that you may develop your own `r icons::fontawesome("r-project")`-powered business processes and products, we also provide training on "how to use" `r icons::fontawesome("r-project")` - just [drop us a note](https://ergreports.com/our-team/#contact).  
 
-[^foot]:This website, for example, was [built with `r icons::fontawesome("r-project")`](https://github.com/jtkulas/erg). Our interest was functionality and browser compatability, which is why the design is utilitarian, but it [does not need to be so](https://themefisher.com/hugo-business-themes).

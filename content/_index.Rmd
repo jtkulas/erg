@@ -15,7 +15,7 @@ library(fontawesome)
 knitr::include_graphics("erg3.svg")
 ```
 
-We are an organizational consulting group staffed by Industrial and Organizational Psychologists. Our expertise includes business process automation, survey creation and administration, and feedback report generation. One of the features that makes us unique is that all of our solutions are fully powered by [`r icons::fontawesome("r-project")`](https://cran.r-project.org/).
+We are an organizational consulting group staffed by Industrial and Organizational Psychologists. Our expertise includes business process automation and survey creation, administration, and feedback. One of the features that makes us unique is that all of our solutions are fully powered by [`r icons::fontawesome("r-project")`](https://www.r-project.org/about.html).
 
 ## Services Provided:  
 
@@ -23,6 +23,6 @@ We are an organizational consulting group staffed by Industrial and Organization
 knitr::include_graphics("erg3.svg")
 ```
 
-+ Replacing existing functions with more [efficient   processes](https://ergreports.com/references/)
++ Replacing existing functions with more [efficient   processes](https://ergreports.com/automation/)
 + Building and sustaining [engaged workforces](https://ergreports.com/workforce-engagement/)  
-+ Improving data communication via [data visualization](https://ergreports.com/testing/) 
++ Improving data communication via [intuitive visualization](https://ergreports.com/automation/) 

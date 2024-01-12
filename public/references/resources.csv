@@ -1,13 +1,13 @@
 one,two,three
 **Authoring Resources**:,,
-,[![](mppaw.JPG)](https://jtkulas.github.io/MPPAW2023), **Quarto tutorial** [@quarto]
-,[![](title1.JPG)](https://www.youtube.com/@forensicpsychometrics8300), **Weekly LiveStreams**
+,[![](mppaw.JPG)](https://jtkulas.github.io/MPPAW2023), **Quarto** tutorial [@quarto]
+,[![](title1.JPG)](https://www.youtube.com/@forensicpsychometrics8300), Weekly **LiveStreams** ["(Forensic Psychometrics, 2024)"](https://www.youtube.com/@forensicpsychometrics8300)
 **R Resources**:,,
 ,[![](rmarkdown.PNG)](https://jtkulas.github.io/temp),Working with **RMarkdown** [@markdown]
 ,[![](github.PNG)](https://jtkulas.github.io/GitHub),Working with **GitHub** [@github]
 **Surveying Resources**:,,
 ,[![](tips.PNG)](https://eagle-io.weebly.com/survey-tips-one-pager.html),How to **administer surveys** [@onepage]
-,[![](weighting.jpg)](MAPOR_widge.xlsx),**Survey weighting** widget [@kulas2018post]
+,[![](weighting.jpg)](MAPOR_widge.xlsx),Survey **weighting** widget [@kulas2018post]
 **Testing Resources**:,,
 ,[![](ctticc.PNG)](https://github.com/MontclairML/ctticc), **R package** [@ctticc]
 ,[![](DIF.png)](KCPDIF.xls), **Multigroup DIF** assessment widget [@kulas2011california]
