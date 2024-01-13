@@ -13,9 +13,9 @@ nocite: |
 
 # Professional resources `r emo::ji("books")`:{-}
 
-We maintain libraries of resources that have been created over the years either by e`r icons::fontawesome("r-project")`g personnel or graduate students in Industrial and Organizational Psychology that have had an association with Dr. Kulas. These resources all share a goal of furthering the advancement of testing and assessment within the framework of `r icons::fontawesome("r-project")`.  
+We maintain libraries of resources that have been created over the years either by e`r icons::fontawesome("r-project")`g personnel or graduate students in Industrial and Organizational Psychology that have had an association with Dr. Kulas. These resources all share a goal of furthering the advancement of testing and assessment within the framework of `r icons::fontawesome("r-project")`. 
 
-A partial listing of these resources (as well as hyperlinks to the resources themselves) is presented below:
+A partial listing of these resources (as well as hyperlinks to the resources themselves) is presented below: 
 
 <p align="center">
 ![](https://media.giphy.com/media/atcqQ5PuX41J6/giphy.gif)
