@@ -20,7 +20,7 @@ We are an organizational consulting group staffed by Industrial and Organization
 ## Services Provided:  
 
 ```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:right; padding:10px"'}
-knitr::include_graphics("erg3.svg")
+knitr::include_graphics("buzppl.jpg")
 ```
 
 + Replacing existing functions with more [efficient   processes](https://ergreports.com/automation/)
