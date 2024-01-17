@@ -37,7 +37,9 @@ We apply behavioral principles and methods to answer questions of employee senti
 
 ## Engagement survey `r emo::ji("woman_dancing")` {#engage}
 
-![](engage.PNG) 
+```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("helping-each-other-2643652_1280.jpg")
+```
 
 The engagement survey responses are evaluated against norms representing most major U.S. metropolitan areas, with sparser international representation (see Figure \@ref(fig:norms)). The feedback reports include both static .pdf as well as interactive .html reports and presentation slides. The .pdf and .html feedback reports are still under construction as of `r format(Sys.time(),"%B, %Y")`. A tutorial on the use of the presentation slides is currently [available here](https://jtkulas.github.io/slides/). 
 

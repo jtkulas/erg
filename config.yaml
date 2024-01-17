@@ -17,7 +17,7 @@ menu:
     - name: Workforce Engagement
       url: /Workforce Engagement/
       weight: 3
-    - name: About Us
+    - name: Contact Us
       url: /our-team/
       weight: 6      
 #    - name: Assessments Auditing

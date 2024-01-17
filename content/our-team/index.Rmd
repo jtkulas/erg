@@ -13,9 +13,7 @@ library(fontawesome)
 knitr::include_graphics("erg3.svg")
 ```
 
-e`r fontawesome::fa("r-project")`g was founded in 2022 by John Kulas (aka "John-o"), an Industrial and Organizational Psychologist. The philosophy of the consultancy is based on the concept of a local "handyman" - we apply Behavioral Science methods through a lens of experience and common sense to develop creative business solutions. All provided services are delivered within the systems-oriented framework of Organizational Development (e.g., taking careful consideration of unintended consequences).  
-
-The mission of e`r fontawesome::fa("r-project")`g includes a continuation of collaboration and mentorship for graduate students in Industrial and Organizational Psychology, and these students and former students contribute to e`r fontawesome::fa("r-project")`g's services via structured contract assignments. Dr. Kulas' [resume can be accessed here](Kulas vita.pdf). 
+e`r fontawesome::fa("r-project")`g was founded in 2022 by John Kulas (aka "John-o"), an Industrial and Organizational Psychologist. The mission of e`r fontawesome::fa("r-project")`g includes a continuation of collaboration and mentorship for graduate students in Industrial and Organizational Psychology, and these students and former students contribute to e`r fontawesome::fa("r-project")`g's services via structured contract assignments. Dr. Kulas' [resume can be accessed here](Kulas vita.pdf). 
 
 ## Contact e`r fontawesome::fa("r-project")`g:{#contact}
 
@@ -30,7 +28,7 @@ The mission of e`r fontawesome::fa("r-project")`g includes a continuation of col
 <br />
 <br />
   <label>
-    ...and your email (so we may respond):
+    Your contact information (this will never be shared with any 3rd party):
     <input type="email" name="email">
   </label>
   <!-- your other form fields go here -->

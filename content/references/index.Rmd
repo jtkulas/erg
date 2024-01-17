@@ -15,6 +15,10 @@ nocite: |
 
 We maintain libraries of resources that have been created over the years either by e`r icons::fontawesome("r-project")`g personnel or graduate students in Industrial and Organizational Psychology that have had an association with Dr. Kulas. These resources all share a goal of furthering the advancement of testing and assessment within the framework of `r icons::fontawesome("r-project")`. 
 
+## Teaching `r icons::fontawesome("r-project")`
+
+If you are interested in training your personnel on `r icons::fontawesome("r-project")` so that you may develop your own `r icons::fontawesome("r-project")`-powered business processes and products, we also provide training on "how to use" `r icons::fontawesome("r-project")` - just [drop us a note](https://ergreports.com/our-team/#contact).  
+
 A partial listing of these resources (as well as hyperlinks to the resources themselves) is presented below: 
 
 <p align="center">
