@@ -24,7 +24,7 @@ Our expertise includes business process automation and survey creation, administ
 ## Services Provided:  
 
 ```{r logo2, echo=FALSE, out.width= "45%", out.extra='style="float:right; padding:10px"'}
-knitr::include_graphics("mrfixit.jpg")
+knitr::include_graphics("improve.JPG")
 ```
 
 + Replacing existing functions with more [efficient   processes](https://ergreports.com/automation/)
