@@ -1,0 +1,212 @@
+---
+title: "[Employee <br>Engagement]{.shadow}" 
+author: "...hitting the target" 
+title-slide-attributes: 
+  data-background-image: https://digitalasset.intuit.com/content/dam/intuit/sbseg/en_us/Blog/Photography-FotF/lessons-learned-growth-us-en.jpg
+  data-background-opacity: ".9"
+format:
+  revealjs:
+#    multiplex: true
+#    output-location: slide           ## column-fragment; inserts blank 2nd slide
+    code-overflow: wrap              ## instead of horizontal scroll
+    theme: [moon, engage.scss]       ## solarized
+    header-logo: "erg2.png"
+    header-logo-link: "https://ergreports.com/"  ## https://github.com/shafayetShafee/reveal-header#readme
+    hide-from-titleSlide: true
+    transition: slide
+    background-transition: fade
+    mouse-wheel: true                ## yes enables mouse
+    preview-links: false             ## true brings up iframe window instead of "site"
+    code-annotations: hover 
+engine: knitr                        ## not picking up inline codes
+bibliography: engage.bib
+execute:
+    eval: true
+    echo: false
+    warning: false
+    message: false
+filters: 
+  - reveal-header          ## extension to add a hyperlink to slide logo
+---
+
+## Engagement 
+
+What it is
+
+## Importance {auto-animate=true auto-animate-easing="ease-in-out"}
+
+
+::: {.absolute left="0" top="200" data-id="box1" auto-animate-delay="0" style="background: #f01e2c; width: 300px; height: 300px; margin: 10px;"}
+:::
+
+::: {.absolute left="365" top="200" data-id="box2" auto-animate-delay="0.1" style="background: #FAF9F6; width: 300px; height: 300px; margin: 10px;"}
+:::
+
+::: {.absolute right="0" top="200" data-id="box3" auto-animate-delay="0.2" style="background: #f01e2c; width: 300px; height: 300px; margin: 10px;"}
+:::
+
+
+## Importance {auto-animate=true auto-animate-easing="ease-in-out"}
+
+<br>
+
+::: {.r-stack}
+::: {data-id="box1" style="background: #f01e2c; width: 400px; height: 400px; border-radius: 200px;"}
+:::
+
+::: {data-id="box2" style="background: #FAF9F6; width: 300px; height: 300px; border-radius: 200px;"}
+:::
+
+::: {data-id="box3" style="background: #f01e2c; width: 200px; height: 200px; border-radius: 200px;"}
+:::
+:::
+
+## Market
+
+::: {.notes}
+Price ranges & existing measures (as well as clients)
+:::
+
+# eRg Engagement 
+
+## Dimensions
+
+::: {layout="[70,30]"}
+::: first-column
++ Dedication
++ Vigor
++ Absorption
+:::
+
+::: second-column
++ Think
++ Feel
++ Do
+:::
+:::
+
+
+
+```{r norms, eval=FALSE, warning=FALSE, echo=FALSE, fig.cap=paste("Engagement survey normative information (geographic constituency - most recently updated", format(Sys.time(),'%A, %B %d, %Y'),").")}
+
+## Trying to recapture data for norms reporting - pilot, qualtrics, prolific, and snowball (Eagle; final data collection at MSU); 4/12/23
+
+pilot <- read.csv("C:\\Kulas\\Git\\erg\\content\\product\\data\\qualtrics_pilot_data.csv")[-c(1:2),c(14:15)]  ## n = 232 (November 2021)
+qualtrics1 <- read.csv("C:\\Kulas\\Git\\erg\\content\\product\\data\\Engagement+(Attitudinal)_October+12,+2021_08.02.csv")[-c(1:2),c(14:15)]
+qualtrics2 <- read.csv("C:\\Kulas\\Git\\erg\\content\\product\\data\\Engagement+(Substantive)_October+12,+2021_08.01.csv")[-c(1:2),c(14:15)]
+prolific1 <- read.csv("C:\\Kulas\\Git\\erg\\content\\product\\data\\inprogress.csv")[-c(1:2),] ## lat/long missing
+prolific2 <- read.csv("C:\\Kulas\\Git\\erg\\content\\product\\data\\initial_data_screen.csv")[-c(1:2),c(14:15)]
+snowball <- read.csv("C:\\Kulas\\Git\\erg\\content\\product\\data\\lookie.12.2.csv")[-c(1:2),c(14:15)]
+
+library(rgeolocate)     ## installed old version 4/12/23
+
+ip_lst = prolific1$V6
+
+prolific1_est <- maxmind(ip_lst, "Data//GeoLite2-City.mmdb", 
+        fields=c("latitude", "longitude"))
+
+names(prolific1_est)[1] <- "LocationLatitude"
+names(prolific1_est)[2] <- "LocationLongitude"
+
+together <- rbind(pilot, qualtrics1, qualtrics2, prolific2, snowball, prolific1_est)
+
+library(leaflet)
+library(maps)  ## us.cities data
+
+together$`LocationLongitude` <- round(as.numeric(as.character(together$`LocationLongitude`)),1) ## mask actual geographic location
+together$`LocationLatitude` <- round(as.numeric(as.character(together$`LocationLatitude`)),1)
+
+ergIcon <- makeIcon(
+  iconUrl = "https://ergreports.com/images/erg2.png",
+  iconWidth = 60, iconHeight = 50,
+  iconAnchorX = 30, iconAnchorY = 30,
+)
+
+## create leaflet map
+leaflet() %>% 
+#   addProviderTiles(
+#    "Stamen.TonerBackground") %>% 
+  setView(lng= -93.24649681376336, lat=44.99948959471243, zoom=5) %>%
+  addTiles() %>%
+  addMarkers(data=together, ~LocationLongitude, ~LocationLatitude, icon = ergIcon,  clusterOptions = markerClusterOptions(spiderfyDistanceMultiplier=1.5)) %>%
+   addProviderTiles("Stamen.TonerBackground") 
+
+```
+
+## Why eRg...
+
+::: {.bigger}
+[...Evidence-based]{.fragment .fade-in-then-semi-out fragment-index=1} 
+<br>[...Outcome-oriented]{.fragment .fade-in-then-semi-out fragment-index=2}
+<br>[...Cost efficient]{.fragment .fade-in-then-semi-out fragment-index=3}
+<br>[...Audience-tailored]{.fragment .fade-in-then-semi-out fragment-index=4}
+<br>[...Interactive]{.fragment .fade-in-then-semi-out fragment-index=5}
+<br>[...Agile]{.fragment .fade-in fragment-index=6}
+:::
+
+![](https://cdn.ourcrowd.com/wp-content/uploads/2024/04/Life_Sciences_Learn-Article_1-652x369.png){.fragment .fade-in-then-out fragment-index=1 .absolute height="350" right="-140" top="150"}
+
+![](https://cdn.pixabay.com/photo/2018/03/18/10/49/result-3236285_1280.jpg){.fragment .fade-in-then-out fragment-index=2 .absolute height="400" right="-140" top="150"}
+
+![](https://webstockreview.net/images/diversity-clipart-helping-hand-17.png){.fragment .fade-in-then-out fragment-index=2 .absolute height="250" right="-130" bottom="55"}
+
+![](https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2018_12/1956916/170406-spring-savings-mn-1435.jpg){.fragment .fade-in-then-out fragment-index=3 .absolute height="350" right="-180" top="150"}
+
+![](visual.PNG){.fragment .fade-in-then-out fragment-index=4 .absolute height="350" right="-140" top="150"}
+
+::: {.fragment .fade-in-then-out fragment-index=5 .absolute right="-200" top="100" width="700"}
+```{r norms2, warning=FALSE, echo=FALSE}
+
+pilot <- read.csv("content\\product\\data\\qualtrics_pilot_data.csv")[-c(1:2),c(14:15)]  ## n = 232 (November 2021)
+qualtrics1 <- read.csv("content\\product\\data\\Engagement+(Attitudinal)_October+12,+2021_08.02.csv")[-c(1:2),c(14:15)]
+qualtrics2 <- read.csv("content\\product\\data\\Engagement+(Substantive)_October+12,+2021_08.01.csv")[-c(1:2),c(14:15)]
+prolific1 <- read.csv("content\\product\\data\\inprogress.csv")[-c(1:2),] ## lat/long missing
+prolific2 <- read.csv("content\\product\\data\\initial_data_screen.csv")[-c(1:2),c(14:15)]
+snowball <- read.csv("content\\product\\data\\lookie.12.2.csv")[-c(1:2),c(14:15)]
+
+library(rgeolocate)     ## installed old version 4/12/23
+
+ip_lst = prolific1$V6
+
+prolific1_est <- maxmind(ip_lst, "content\\product\\data\\GeoLite2-City.mmdb", 
+        fields=c("latitude", "longitude"))
+
+names(prolific1_est)[1] <- "LocationLatitude"
+names(prolific1_est)[2] <- "LocationLongitude"
+
+together <- rbind(pilot, qualtrics1, qualtrics2, prolific2, snowball, prolific1_est)
+
+library(leaflet)
+library(maps)  ## us.cities data
+
+together$`LocationLongitude` <- round(as.numeric(as.character(together$`LocationLongitude`)),1) ## mask actual geographic location
+together$`LocationLatitude` <- round(as.numeric(as.character(together$`LocationLatitude`)),1)
+
+ergIcon <- makeIcon(
+  iconUrl = "https://ergreports.com/images/erg2.png",
+  iconWidth = 60, iconHeight = 50,
+  iconAnchorX = 30, iconAnchorY = 30,
+)
+
+## create leaflet map
+leaflet(together) %>% 
+  setView(lng= -86, lat=36, zoom=4) %>%
+  addTiles() %>%
+  addMarkers(data=together, ~LocationLongitude, ~LocationLatitude, clusterOptions=markerClusterOptions()) %>%
+  addProviderTiles("Stamen.TonerBackground")
+
+```
+:::
+
+::: {.notes}
++ Look for meta-analytic relationships with productivity, etc
++ Agile -- consider dashboard with responses being presented as a real-time update of "completeness" of survey (can put value-box with response rate keyed to colors (red, yellow, green))
+:::
+
+## `r fontawesome::fa("r-project", fill="#4287f5")` Session Info (`r format(Sys.Date(),"%B %d, %Y")`) Rendering: 
+
+```{r}
+sessionInfo()
+```
+
+
