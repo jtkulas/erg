@@ -27,10 +27,26 @@ $body-bg: #191919;
 $body-color: #fff;
 $link-color: #42affa;
 $code-color: hotpink;
-$presentation-title-slide-text-align: left;
+/* $presentation-title-slide-text-align: left;  */
 $presentation-title-slide-text-color: black;
 
 /*-- scss:rules --*/
+
+#title-slide {
+  width: 1200px;
+  height: 700px;
+  text-align: left;
+  margin: -50px -60px 0px -50px;
+
+  .quarto-title-authors {
+  margin: auto;
+  position: absolute;
+  left: 330px;
+  right: 0;
+  top: 570px;
+  bottom: 0;
+  }
+}
 
 .reveal .slide blockquote {
   border-left: 3px solid $text-muted;
@@ -48,7 +64,7 @@ $presentation-title-slide-text-color: black;
   font-weight: bold;
   font-family: 'Dancing Script';
   text-shadow: 
-    -15px 15px 5px black,
+    15px 15px 5px black,
 /*    7px 9px 5px black    */
 }
 
@@ -62,7 +78,7 @@ $presentation-title-slide-text-color: black;
 }
 
 .shadow {
-  text-shadow: -10px 3px 5px black;
+  text-shadow: -10px -5px 5px black;
 }
 
 .lowercase {

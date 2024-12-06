@@ -2,20 +2,18 @@
 title: "[Employee <br>Engagement]{.shadow}" 
 author: "...hitting the target" 
 title-slide-attributes: 
-  data-background-image: https://digitalasset.intuit.com/content/dam/intuit/sbseg/en_us/Blog/Photography-FotF/lessons-learned-growth-us-en.jpg
-  data-background-opacity: ".9"
+  data-background-image: marketing.PNG
+  data-background-opacity: ".6"
 format:
   revealjs:
 #    multiplex: true
-#    output-location: slide           ## column-fragment; inserts blank 2nd slide
-    code-overflow: wrap              ## instead of horizontal scroll
     theme: [moon, engage.scss]       ## solarized
     header-logo: "erg2.png"
     header-logo-link: "https://ergreports.com/"  ## https://github.com/shafayetShafee/reveal-header#readme
     hide-from-titleSlide: true
     transition: slide
     background-transition: fade
-    mouse-wheel: true                ## yes enables mouse
+    mouse-wheel: false               ## yes enables mouse
     preview-links: false             ## true brings up iframe window instead of "site"
     code-annotations: hover 
 engine: knitr                        ## not picking up inline codes
@@ -33,7 +31,7 @@ filters:
 
 What it is
 
-## Importance {auto-animate=true auto-animate-easing="ease-in-out"}
+## Functional... {auto-animate=true auto-animate-easing="ease-in-out"}
 
 
 ::: {.absolute left="0" top="200" data-id="box1" auto-animate-delay="0" style="background: #f01e2c; width: 300px; height: 300px; margin: 10px;"}
@@ -45,21 +43,50 @@ What it is
 ::: {.absolute right="0" top="200" data-id="box3" auto-animate-delay="0.2" style="background: #f01e2c; width: 300px; height: 300px; margin: 10px;"}
 :::
 
+::: {.fragment}
+![](https://lsaglobal.com/wp-content/uploads/2019/09/Organizational-Health.jpg){.absolute left="60" top="280" width="200"}
+:::
 
-## Importance {auto-animate=true auto-animate-easing="ease-in-out"}
+::: {.fragment}
+![](https://pestleanalysis.com/content/images/2024/05/swot-analysis-threats-definition-examples-strategies.jpg){.absolute right="60" top="280" width="200"}
+:::
+
+::: {.fragment}
+![](https://cdn.tinybuddha.com/wp-content/uploads/2015/08/Helping-Hand.png){.absolute right="420" top="280" width="200"}
+:::
+
+:::{.notes}
+1. Organizational Sustainability (viability)
+2. Threats -- environmental volitility, economic conditions, competitors
+3. Engaged Workforce
+:::
+
+## Functional as resilience buffer {auto-animate=true auto-animate-easing="ease-in-out"}
 
 <br>
 
 ::: {.r-stack}
-::: {data-id="box1" style="background: #f01e2c; width: 400px; height: 400px; border-radius: 200px;"}
+
+::: {data-id="box3" style="background: #f01e2c; width: 400px; height: 400px; border-radius: 200px;"}
 :::
 
 ::: {data-id="box2" style="background: #FAF9F6; width: 300px; height: 300px; border-radius: 200px;"}
 :::
 
-::: {data-id="box3" style="background: #f01e2c; width: 200px; height: 200px; border-radius: 200px;"}
+::: {data-id="box1" style="background: #f01e2c; width: 200px; height: 200px; border-radius: 200px;"}
 :::
+
 :::
+
+![](https://www.pngarts.com/files/11/Heartbeat-PNG-Image-Background.png){.absolute top="340" right="440" width="170"}
+
+![](https://static.vecteezy.com/system/resources/previews/019/787/023/non_2x/skull-and-bones-warning-sign-on-transparent-background-free-png.png){.absolute top="0" right="20" width="350"}
+
+![](https://static.vecteezy.com/system/resources/thumbnails/036/105/045/small_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-png.png){.absolute left="-30" top="40"}
+
+![](https://cdn-icons-png.flaticon.com/512/2076/2076380.png){.absolute right="-80" bottom="0" width="400"}
+
+![](https://cdn-icons-png.flaticon.com/512/10015/10015826.png){.absolute left="30" bottom="0" width="300"}
 
 ## Market
 
