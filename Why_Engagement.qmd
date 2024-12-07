@@ -1,15 +1,15 @@
 ---
 title: "[Employee <br>Engagement]{.shadow}" 
-author: "...shielding the target" 
+author: "...defending the target" 
 title-slide-attributes: 
-  data-background-image: marketing.PNG
+  data-background-image: "marketing.PNG"
   data-background-opacity: ".6"
 format:
   revealjs:
     preload-iframes: true
     preload-images: true
     auto-stretch: false
-#    multiplex: true
+    multiplex: true
     theme: [moon, engage.scss]       ## solarized
     header-logo: "erg2.png"
     header-logo-link: "https://ergreports.com/"  ## https://github.com/shafayetShafee/reveal-header#readme
@@ -30,11 +30,15 @@ filters:
   - reveal-header          ## extension to add a hyperlink to slide logo
 ---
 
-## Engagement... 
+## Employee Engagement... 
 
-["...a positive, fulfilling, work-related state of mind that is characterized by vigor, dedication, and absorption"]{.quarrel} 
+["...a positive, fulfilling, **work-related** state of mind that is characterized by **vigor**, **dedication**, and **absorption**"]{.quarrel} 
 
-## Purpose... {auto-animate=true auto-animate-easing="ease-in-out"}
+:::{.notes}
+a relatively enduring state of mind referring to the simultaneous investment of personal energies in the experience or performance of work [@christian2011work]
+:::
+
+## Role... {auto-animate=true auto-animate-easing="ease-in-out"}
 
 
 ::: {.absolute left="0" top="200" data-id="box1" auto-animate-delay="0" style="background: #f01e2c; width: 300px; height: 300px; margin: 10px;"}
@@ -47,7 +51,7 @@ filters:
 :::
 
 ::: {.fragment}
-![](https://lsaglobal.com/wp-content/uploads/2019/09/Organizational-Health.jpg){.absolute left="60" top="280" width="200"}
+![](https://www.pngarts.com/files/11/Heartbeat-PNG-Image-Background.png){.absolute left="60" top="280" width="200"}
 ![](orghealth.png){.absolute bottom="30" left="5"}
 
 :::
@@ -60,19 +64,19 @@ filters:
 
 ::: {.fragment}
 ![](https://www.shutterstock.com/image-vector/black-white-illustration-medieval-knight-600nw-2465883953.jpg){.absolute right="420" top="250" width="200"}
-![](engaged.png){.absolute right="400" bottom="35"}
+![](engaged.png){.absolute right="415" bottom="35"}
 
 :::
 
 :::{.notes}
 1. Organizational Sustainability (viability)
-2. Threats -- environmental volitility, economic conditions, competitors
+2. Threats -- environmental volatility, economic conditions, competitors
 3. Engaged Workforce
 
-Organizational performance [@harter2002business]
+Organizational performance and engagement relationship [@harter2002business]
 :::
 
-## Purpose as target shield {auto-animate=true auto-animate-easing="ease-in-out" .nostretch}
+## Role as target defender {auto-animate=true auto-animate-easing="ease-in-out" .nostretch}
 
 <br>
 
@@ -89,7 +93,7 @@ Organizational performance [@harter2002business]
 
 :::
 
-## Purpose as target shield {auto-animate=true auto-animate-easing="ease-in-out" .nostretch}
+## Role as target defender {auto-animate=true auto-animate-easing="ease-in-out" .nostretch}
 
 <br>
 
@@ -108,15 +112,18 @@ Organizational performance [@harter2002business]
 
 ![](https://www.pngarts.com/files/11/Heartbeat-PNG-Image-Background.png){.absolute top="340" right="440" width="170"}
 
-![](https://static.vecteezy.com/system/resources/previews/019/787/023/non_2x/skull-and-bones-warning-sign-on-transparent-background-free-png.png){.absolute top="0" right="20" width="350"}
+![](https://images.vexels.com/media/users/3/320573/isolated/preview/6eeb1016b121bd4875176b8e0279620f-knight-brandishing-a-sword.png){.absolute height="100" right="350" top="350"}
+![](https://freepngimg.com/save/161669-knight-medieval-download-hd/2284x1912){.absolute height="100" left="330" bottom="330" .mirror}
 
-![](https://static.vecteezy.com/system/resources/thumbnails/036/105/045/small_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-png.png){.absolute left="-30" top="40"}
+![](https://www.pngmart.com/files/17/Warning-PNG-File.png){.absolute top="0" right="20" width="250"}
+
+![](https://static.vecteezy.com/system/resources/thumbnails/036/105/045/small_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-png.png){.absolute left="-80" top="40"}
 
 ![](https://cdn-icons-png.flaticon.com/512/2076/2076380.png){.absolute right="-80" bottom="0" width="400"}
 
 ![](https://cdn-icons-png.flaticon.com/512/10015/10015826.png){.absolute left="30" bottom="0" width="300"}
 
-## Individual-level Outcomes `r emo::ji("chart_increasing")`
+## Employee-level Outcomes 
 
 :::: {.columns}
 ::: {.column width="33%"}
@@ -161,78 +168,90 @@ Organizational performance [@harter2002business]
 ![](https://media.istockphoto.com/id/1221021570/vector/cartoon-brain-character-meditation-in-lotus-pose.jpg?s=612x612&w=0&k=20&c=sSicWhauzEtPkBsIAJo2ZbhuxQuJcJZ96-Sqw05KNyM=){.absolute right="70" bottom="170" width="260"}
 :::
 
+::: {.notes}
+@bailey2017meaning; @crawford2010linking; @halbesleben2010meta
+:::
 
 ## Market
 
++ Most global employees exhibit disengagement [@albrecht2015employee]
++ Cost in US is billions (lost productivity; @johnson2004otherwise)
++ $\frac{2}{3}$ US companies [measure engagement](https://decision-wise.com/resources/articles/truth-employee-engagement-measurement-practices/#:~:text=Most%20Companies%20Measure%20Employee%20Engagement%20Every%20Year&text=45%20percent%20of%20companies%20reported,and%2014%20percent%20measure%20sporadically.)
+  + $\frac{3}{4}$ utilize third-party administration   
+  + Cost estimates vary widely:
+    + [\$3,000 to \$30,000](https://www.driveresearch.com/market-research-company-blog/the-cost-of-outsourcing-an-employee-survey/#:~:text=by%20Jamie%20Bjarnar,to%20info@driveresearch.com.)
+    + [£10,000 to £100,000](https://www.etsplc.com/blog/how-much-does-an-employee-survey-cost-a-buyer-s-guide-to-pricing#:~:text=The%20longer%20your%20survey%2C%20the,on%20your%20key%20performance%20indicators.&text=The%20higher%20the%20number%20of,and%20more%20data%20to%20analyse.&text=The%20more%20cross%2Dtabulation%20reports,weigh%20up%20against%20different%20groupings.)
+
 ::: {.notes}
-Price ranges & existing measures (as well as clients)
+Anecdotally $7,000 seems to be a low number for smaller (~500 employee) organizations. Market pricing on smaller organizations seems disconnected from fully IS integrated large organization operations.
 :::
 
 # eRg Engagement 
 
-## Dimensions
+## Actionable Components & Motives
 
-::: {layout="[70,30]"}
+::: {layout="[60,40]"}
 ::: first-column
-+ Dedication
-+ Vigor
-+ Absorption
++ [Dedication]{.moonfont2} -- strongly involved in one's work and experiencing a sense of significance, enthusiasm, and challenge
++ [Energy]{.moonfont2} -- high levels of energy and mental resilience while working
++ [Focus]{.moonfont2} -- fully concentrated and engrossed in one's work
 :::
 
 ::: second-column
-+ Think
-+ Feel
-+ Do
++ [Thinking]{.moonfont2} -- thoughts about work
++ [Feeling]{.moonfont2} -- attitude toward work
++ [Doing]{.moonfont2} -- actions at work
 :::
 :::
 
+## Indicators {.scrollable}
 
-
-```{r norms, eval=FALSE, warning=FALSE, echo=FALSE, fig.cap=paste("Engagement survey normative information (geographic constituency - most recently updated", format(Sys.time(),'%A, %B %d, %Y'),").")}
-
-## Trying to recapture data for norms reporting - pilot, qualtrics, prolific, and snowball (Eagle; final data collection at MSU); 4/12/23
-
-pilot <- read.csv("C:\\Kulas\\Git\\erg\\content\\product\\data\\qualtrics_pilot_data.csv")[-c(1:2),c(14:15)]  ## n = 232 (November 2021)
-qualtrics1 <- read.csv("C:\\Kulas\\Git\\erg\\content\\product\\data\\Engagement+(Attitudinal)_October+12,+2021_08.02.csv")[-c(1:2),c(14:15)]
-qualtrics2 <- read.csv("C:\\Kulas\\Git\\erg\\content\\product\\data\\Engagement+(Substantive)_October+12,+2021_08.01.csv")[-c(1:2),c(14:15)]
-prolific1 <- read.csv("C:\\Kulas\\Git\\erg\\content\\product\\data\\inprogress.csv")[-c(1:2),] ## lat/long missing
-prolific2 <- read.csv("C:\\Kulas\\Git\\erg\\content\\product\\data\\initial_data_screen.csv")[-c(1:2),c(14:15)]
-snowball <- read.csv("C:\\Kulas\\Git\\erg\\content\\product\\data\\lookie.12.2.csv")[-c(1:2),c(14:15)]
-
-library(rgeolocate)     ## installed old version 4/12/23
-
-ip_lst = prolific1$V6
-
-prolific1_est <- maxmind(ip_lst, "Data//GeoLite2-City.mmdb", 
-        fields=c("latitude", "longitude"))
-
-names(prolific1_est)[1] <- "LocationLatitude"
-names(prolific1_est)[2] <- "LocationLongitude"
-
-together <- rbind(pilot, qualtrics1, qualtrics2, prolific2, snowball, prolific1_est)
-
-library(leaflet)
-library(maps)  ## us.cities data
-
-together$`LocationLongitude` <- round(as.numeric(as.character(together$`LocationLongitude`)),1) ## mask actual geographic location
-together$`LocationLatitude` <- round(as.numeric(as.character(together$`LocationLatitude`)),1)
-
-ergIcon <- makeIcon(
-  iconUrl = "https://ergreports.com/images/erg2.png",
-  iconWidth = 60, iconHeight = 50,
-  iconAnchorX = 30, iconAnchorY = 30,
-)
-
-## create leaflet map
-leaflet() %>% 
-#   addProviderTiles(
-#    "Stamen.TonerBackground") %>% 
-  setView(lng= -93.24649681376336, lat=44.99948959471243, zoom=5) %>%
-  addTiles() %>%
-  addMarkers(data=together, ~LocationLongitude, ~LocationLatitude, icon = ergIcon,  clusterOptions = markerClusterOptions(spiderfyDistanceMultiplier=1.5)) %>%
-   addProviderTiles("Stamen.TonerBackground") 
-
+```{r}
+items <- read.csv("items.csv.csv")
+#DT::datatable(items, rownames=FALSE, style="bootstrap")
+kableExtra::kbl(items)
 ```
+
+## Employee Experience
+
+:::: {.columns}
+::: {.column width="50%"}
+<br>
+[Hit the "Start" button if you would like a preview of the [EMPLOYEE]{.blue} survey experience...]{.moonfont}
+:::
+
+::: {.column width="50%"}
+<br>
+
+[![](https://www.freeiconspng.com/uploads/start-button-png-12.png)](https://general.formr.org/)
+:::
+::::
+
+## Employer Experience
+
+:::: {.columns}
+::: {.column width="40%"}
+
+:::{.callout-note}
+Command Central dashboard and HTML Report currently unhosted (only available on local computer). Company-wide pdf report template can be [accessed here](staticpdf.pdf).
+:::
+
+:::
+::::
+
+![](https://www.slideteam.net/wp/wp-content/uploads/2023/08/Big-data-dashboard.jpg){.absolute width="500" top="50" right="10"}
+
+![](https://cdn-icons-png.flaticon.com/512/7069/7069770.png){.absolute right="-20" bottom="100" width="200"}
+
+![](https://cdn-icons-png.flaticon.com/512/11180/11180756.png){.absolute right="340" bottom="100" width="200"}
+
+![](downarrow.png){.absolute width="150" right="200" bottom="250"}
+
+:::{.notes}
+Central command dashboard from which 2 reports can be generated: 
++ filtered unit-specific - [example here](https://bookdown.org/jtkulas/bookexample/summary.html)
++ company-wide
+:::
 
 ## Why eRg...
 
@@ -241,8 +260,7 @@ leaflet() %>%
 <br>[...Outcome-oriented]{.fragment .fade-in-then-semi-out fragment-index=2}
 <br>[...Cost efficient]{.fragment .fade-in-then-semi-out fragment-index=3}
 <br>[...Audience-tailored]{.fragment .fade-in-then-semi-out fragment-index=4}
-<br>[...Interactive]{.fragment .fade-in-then-semi-out fragment-index=5}
-<br>[...Agile]{.fragment .fade-in fragment-index=6}
+<br>[...Immersive]{.fragment .fade-in-then-semi-out fragment-index=5}
 :::
 
 ![](https://cdn.ourcrowd.com/wp-content/uploads/2024/04/Life_Sciences_Learn-Article_1-652x369.png){.fragment .fade-in-then-out fragment-index=1 .absolute height="350" right="-140" top="150"}
@@ -300,14 +318,9 @@ leaflet(together) %>%
 :::
 
 ::: {.notes}
-+ Look for meta-analytic relationships with productivity, etc
-+ Agile -- consider dashboard with responses being presented as a real-time update of "completeness" of survey (can put value-box with response rate keyed to colors (red, yellow, green))
++ Agile as 6th feature -- consider dashboard with responses being presented as a real-time update of "completeness" of survey (can put value-box with response rate keyed to colors (red, yellow, green))
 :::
 
-## `r fontawesome::fa("r-project", fill="#4287f5")` Session Info (`r format(Sys.Date(),"%B %d, %Y")`) Rendering: 
-
-```{r}
-sessionInfo()
-```
+## Empirical Support
 
 
