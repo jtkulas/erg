@@ -1,11 +1,14 @@
 ---
 title: "[Employee <br>Engagement]{.shadow}" 
-author: "...hitting the target" 
+author: "...shielding the target" 
 title-slide-attributes: 
   data-background-image: marketing.PNG
   data-background-opacity: ".6"
 format:
   revealjs:
+    preload-iframes: true
+    preload-images: true
+    auto-stretch: false
 #    multiplex: true
     theme: [moon, engage.scss]       ## solarized
     header-logo: "erg2.png"
@@ -27,11 +30,11 @@ filters:
   - reveal-header          ## extension to add a hyperlink to slide logo
 ---
 
-## Engagement 
+## Engagement... 
 
-What it is
+["...a positive, fulfilling, work-related state of mind that is characterized by vigor, dedication, and absorption"]{.quarrel} 
 
-## Functional... {auto-animate=true auto-animate-easing="ease-in-out"}
+## Purpose... {auto-animate=true auto-animate-easing="ease-in-out"}
 
 
 ::: {.absolute left="0" top="200" data-id="box1" auto-animate-delay="0" style="background: #f01e2c; width: 300px; height: 300px; margin: 10px;"}
@@ -45,23 +48,48 @@ What it is
 
 ::: {.fragment}
 ![](https://lsaglobal.com/wp-content/uploads/2019/09/Organizational-Health.jpg){.absolute left="60" top="280" width="200"}
+![](orghealth.png){.absolute bottom="30" left="5"}
+
 :::
 
 ::: {.fragment}
 ![](https://pestleanalysis.com/content/images/2024/05/swot-analysis-threats-definition-examples-strategies.jpg){.absolute right="60" top="280" width="200"}
+![](unstable.png){.absolute right="25" bottom="30"}
+
 :::
 
 ::: {.fragment}
-![](https://cdn.tinybuddha.com/wp-content/uploads/2015/08/Helping-Hand.png){.absolute right="420" top="280" width="200"}
+![](https://www.shutterstock.com/image-vector/black-white-illustration-medieval-knight-600nw-2465883953.jpg){.absolute right="420" top="250" width="200"}
+![](engaged.png){.absolute right="400" bottom="35"}
+
 :::
 
 :::{.notes}
 1. Organizational Sustainability (viability)
 2. Threats -- environmental volitility, economic conditions, competitors
 3. Engaged Workforce
+
+Organizational performance [@harter2002business]
 :::
 
-## Functional as resilience buffer {auto-animate=true auto-animate-easing="ease-in-out"}
+## Purpose as target shield {auto-animate=true auto-animate-easing="ease-in-out" .nostretch}
+
+<br>
+
+::: {.r-stack}
+
+::: {data-id="box3" style="background: #f01e2c; width: 400px; height: 400px; border-radius: 200px;"}
+:::
+
+::: {data-id="box2" style="background: #FAF9F6; width: 300px; height: 300px; border-radius: 200px;"}
+:::
+
+::: {data-id="box1" style="background: #f01e2c; width: 200px; height: 200px; border-radius: 200px;"}
+:::
+
+:::
+
+## Purpose as target shield {auto-animate=true auto-animate-easing="ease-in-out" .nostretch}
 
 <br>
 
@@ -87,6 +115,52 @@ What it is
 ![](https://cdn-icons-png.flaticon.com/512/2076/2076380.png){.absolute right="-80" bottom="0" width="400"}
 
 ![](https://cdn-icons-png.flaticon.com/512/10015/10015826.png){.absolute left="30" bottom="0" width="300"}
+
+## Individual-level Outcomes `r emo::ji("chart_increasing")`
+
+:::: {.columns}
+::: {.column width="33%"}
+
+::: {.fragment .fade-in-then-semi-out fragment-index=1}
++ Job Performance
++ Citizenship Behaviors
+:::
+:::
+
+::: {.column width="33%"}
+<br>
+<br>
+<br>
+<br>
+<br>
+
+::: {.fragment .fade-in-then-semi-out fragment-index=2}
++ Job Satisfaction
++ Organizational Commitment  
+:::
+
+:::
+
+::: {.column width="33%"}
+::: {.fragment .fade-in-then-semi-out fragment-index=3}
++ Stress
++ Burnout
+:::
+:::
+::::
+
+::: {.fragment .fade-in-then-semi-out fragment-index=1}
+![](https://cdn.tinybuddha.com/wp-content/uploads/2015/08/Helping-Hand.png){.absolute left="20" bottom="140" width="280"}
+:::
+
+::: {.fragment .fade-in-then-semi-out fragment-index=2}
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyDeo4gLKbRjO95IKaa4ZyzmdGwqkiEaOKA&s){.absolute left="380" top="140" width="250"}
+:::
+
+::: {.fragment .fade-in-then-semi-out fragment-index=3}
+![](https://media.istockphoto.com/id/1221021570/vector/cartoon-brain-character-meditation-in-lotus-pose.jpg?s=612x612&w=0&k=20&c=sSicWhauzEtPkBsIAJo2ZbhuxQuJcJZ96-Sqw05KNyM=){.absolute right="70" bottom="170" width="260"}
+:::
+
 
 ## Market
 
