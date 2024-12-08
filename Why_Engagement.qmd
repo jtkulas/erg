@@ -9,6 +9,7 @@ format:
     preload-iframes: true
     preload-images: true
     auto-stretch: false
+    preview-links: true              ## iframe for hyperlinks
     multiplex: true
     theme: [moon, engage.scss]       ## solarized
     header-logo: "erg2.png"
@@ -17,7 +18,6 @@ format:
     transition: slide
     background-transition: fade
     mouse-wheel: false               ## yes enables mouse
-    preview-links: false             ## true brings up iframe window instead of "site"
     code-annotations: hover 
 engine: knitr                        ## not picking up inline codes
 bibliography: engage.bib
